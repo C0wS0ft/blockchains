@@ -1,0 +1,12 @@
+{
+ "Name": "JustMoney",
+ "ImageUrl": "/media/40200168/jm.png",
+ "SmartContract": "TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR",
+ "Symbol": "JM",
+ "Explorer": "https://etherscan.io/token/TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR",
+ "Research": "https://cryptocompare.com/coins/jm/overview",
+ "Description": "JustMoney is building an ecosystem for the next generation of decentralized applications to power Web3 (v2).Telegram | MediumWhitepaper",
+ "Type": "TRC20",
+ "Id": "TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR",
+ "Decimals": 8
+}

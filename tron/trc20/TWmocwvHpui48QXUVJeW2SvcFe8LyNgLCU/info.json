@@ -1,0 +1,12 @@
+{
+ "Name": "Netcoincapital",
+ "ImageUrl": "/media/39198279/netcoin.png",
+ "SmartContract": "TWmocwvHpui48QXUVJeW2SvcFe8LyNgLCU",
+ "Symbol": "NETCOIN",
+ "Explorer": "https://etherscan.io/token/TWmocwvHpui48QXUVJeW2SvcFe8LyNgLCU",
+ "Research": "https://cryptocompare.com/coins/netcoin/overview",
+ "Description": "Netcoincapital is a decentralized global operating system, netcoincapital is trying to take a step in designing and building a new generation of processors. The processors that the company is studying, aim to turn each of the home devices into a supercomputer.The official Netcoincapital ticker is “NCC” and trades under that name on all the exchanges where it has been listed. The designation “NETCOIN” is for CryptoCompare.com only.Telegram | Medium",
+ "Type": "TRC20",
+ "Id": "TWmocwvHpui48QXUVJeW2SvcFe8LyNgLCU",
+ "Decimals": 8
+}

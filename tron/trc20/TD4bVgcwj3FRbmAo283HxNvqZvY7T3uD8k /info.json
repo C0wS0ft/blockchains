@@ -1,0 +1,12 @@
+{
+ "Name": "Revain",
+ "ImageUrl": "/media/37621917/rev.png",
+ "SmartContract": "TD4bVgcwj3FRbmAo283HxNvqZvY7T3uD8k ",
+ "Symbol": "REV",
+ "Explorer": "https://etherscan.io/token/TD4bVgcwj3FRbmAo283HxNvqZvY7T3uD8k ",
+ "Research": "https://cryptocompare.com/coins/rev/overview",
+ "Description": "REV is a utility token based on Ethereum and Tron from Revain, a blockchain-based review platform for the crypto community established in 2018. Revain platform consists of 6 main sections: projects, exchanges, wallets, games, casinos, and cards. In each section, they rank every company based on their user rating and number of reviews.Any crypto website is able to integrate reviews from the platform using Revain Widget. In this case, website users can write their feedback without leaving it and all reviews will appear on Revain platform as well.All user reviews are written in the blockchain, providing full transparency. No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.Revain\u0026#39;s ultimate goal is to provide high-quality and authentic user feedback on all global products and services using new emerging technologies like blockchain and machine learning.Revain recently replaced the smart contract and made an automatic swap from the coin (R) to coin (REV) in the ratio of 1:1 for all existing token holders. For more information regarding the swap, please click here.",
+ "Type": "TRC20",
+ "Id": "TD4bVgcwj3FRbmAo283HxNvqZvY7T3uD8k ",
+ "Decimals": 8
+}

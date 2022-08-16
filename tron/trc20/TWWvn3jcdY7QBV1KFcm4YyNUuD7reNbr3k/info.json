@@ -1,0 +1,12 @@
+{
+ "Name": "Wider Coin",
+ "ImageUrl": "/media/39109065/wdr.png",
+ "SmartContract": "TWWvn3jcdY7QBV1KFcm4YyNUuD7reNbr3k",
+ "Symbol": "WDR",
+ "Explorer": "https://etherscan.io/token/TWWvn3jcdY7QBV1KFcm4YyNUuD7reNbr3k",
+ "Research": "https://cryptocompare.com/coins/wdr/overview",
+ "Description": "Wider Coin (WDR) is a digital currency built with blockchain technology. The Wider Coin operates as the world\u0026#39;s digital currency, incorporating online e-commerce systems, shopping and real trade payment systems. With Api integrations, it is aimed to increase the use of wider coin and ensure its worldwide availability by creating a secure digital money payment network.Facebook | Youtube | InstagramWhitepaper",
+ "Type": "TRC20",
+ "Id": "TWWvn3jcdY7QBV1KFcm4YyNUuD7reNbr3k",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "APENFT",
+ "ImageUrl": "/media/37747691/nft1.png",
+ "SmartContract": "0xEF40B859D21e4d566a3d713e756197c021BffaAa",
+ "Symbol": "NFT",
+ "Explorer": "https://etherscan.io/token/0xEF40B859D21e4d566a3d713e756197c021BffaAa",
+ "Research": "https://cryptocompare.com/coins/nft/overview",
+ "Description": "APENFT aims to build a bridge between top-notch artists and blockchain and support the growth of native crypto NFT artists.The blockchain-based NFT was created to give digital assets a unique marker. NFT also provides a cross-border clearing and settlement platform, enabling nonfungible digital assets to be mapped onto the chain for exchanging.TelegramWhitepaper",
+ "Type": "TRC20",
+ "Id": "0xEF40B859D21e4d566a3d713e756197c021BffaAa",
+ "Decimals": 8
+}

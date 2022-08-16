@@ -1,0 +1,12 @@
+{
+ "Name": "VidyX",
+ "ImageUrl": "/media/38553433/vidyx-2.png",
+ "SmartContract": "TJBhS32MKMH6eQi9sfsiQjmCHi7bPbygTy",
+ "Symbol": "VIDYX",
+ "Explorer": "https://etherscan.io/token/TJBhS32MKMH6eQi9sfsiQjmCHi7bPbygTy",
+ "Research": "https://cryptocompare.com/coins/vidyx/overview",
+ "Description": "VidyX (VIDYX) is a token that provides attention powered tradable data contracts on the blockchain.Telegram | Medium",
+ "Type": "TRC20",
+ "Id": "TJBhS32MKMH6eQi9sfsiQjmCHi7bPbygTy",
+ "Decimals": 8
+}

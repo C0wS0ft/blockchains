@@ -1,0 +1,12 @@
+{
+ "Name": "WINk",
+ "ImageUrl": "/media/35651255/win.png",
+ "SmartContract": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+ "Symbol": "WIN",
+ "Explorer": "https://etherscan.io/token/TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+ "Research": "https://cryptocompare.com/coins/win/overview",
+ "Description": "WIN is a TRC20 token issued on the TRON network, which is used in multiple scenarios; WinkLink nodes receive WIN tokens as rewards for providing trusted data, Developers request trusted data by paying WIN to the WinkLink nodes, WIN holders can get involved in community governance and decide its futureBy creating a whole mining ecosystem, WINk will revolutionize the way that developers adopt the blockchain ecosystem while keeping wealth redistribution at its core.WIN will continue to be the centerpiece of the platform while developers will be able to utilize everything the WINk ecosystem has to offer. By taking behavioral mining to the next level, traditional apps will now have all the resources at their disposal to convert their apps to the TRON blockchain.WhitepaperTelegram",
+ "Type": "TRC20",
+ "Id": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+ "Decimals": 8
+}

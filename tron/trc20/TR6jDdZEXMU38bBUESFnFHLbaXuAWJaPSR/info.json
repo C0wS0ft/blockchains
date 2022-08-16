@@ -1,0 +1,12 @@
+{
+ "Name": "MetaFastest",
+ "ImageUrl": "/media/40484756/metaf.png",
+ "SmartContract": "TR6jDdZEXMU38bBUESFnFHLbaXuAWJaPSR",
+ "Symbol": "METAF",
+ "Explorer": "https://etherscan.io/token/TR6jDdZEXMU38bBUESFnFHLbaXuAWJaPSR",
+ "Research": "https://cryptocompare.com/coins/metaf/overview",
+ "Description": "Metafastest is an N.F.T horse racing platform game, a virtual digital game based on TRON. The main element of the platform is based on the \"blockchain\" ecosystem.Telegram | MediumWhitepaper",
+ "Type": "TRC20",
+ "Id": "TR6jDdZEXMU38bBUESFnFHLbaXuAWJaPSR",
+ "Decimals": 8
+}

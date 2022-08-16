@@ -1,0 +1,12 @@
+{
+ "Name": "Sun Token",
+ "ImageUrl": "/media/37747732/sun.png",
+ "SmartContract": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+ "Symbol": "SUN",
+ "Explorer": "https://etherscan.io/token/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+ "Research": "https://cryptocompare.com/coins/sun/overview",
+ "Description": "SUN is a social experiment filled with unlimited imaginations. It is a crucial component of the TRON DeFi. Together with the other developed decentralized finance (DeFi) projects, it enriches the whole TRON ecosystem. It may also take part in decentralized lending, insurance, liquidity, stable coins, etc. SUN is completely initiated, driven and developed by the SUN community.All of SUN’s functionalities will be implemented by open-source smart contracts, and is wholly operated by the community. The functionalities are developed based on community initiatives. All proposals and decision making are voted via SUN within the community, minority obeys majority.SUN will be deployed to the TRON Virtual Machine with smart contract, becoming a nexus closely correlated with other existing DeFi projectsTelegram | Whitepaper",
+ "Type": "TRC20",
+ "Id": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+ "Decimals": 8
+}

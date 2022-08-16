@@ -1,0 +1,12 @@
+{
+ "Name": "Kyrrex",
+ "ImageUrl": "/media/39501162/krrx.png",
+ "SmartContract": "TEL7oQ42fjSSYK9GobdRfQ5odkXdLqVBHF",
+ "Symbol": "KRRX",
+ "Explorer": "https://etherscan.io/token/TEL7oQ42fjSSYK9GobdRfQ5odkXdLqVBHF",
+ "Research": "https://cryptocompare.com/coins/krrx/overview",
+ "Description": "Kyrrex is a global digital bank, disrupting the traditional financial world and connecting it with online finance and cryptocurrency trading. It is easier than ever to exchange fiat currencies against digital assets and vice versa only through a single platform.TelegramWhitepaper",
+ "Type": "TRC20",
+ "Id": "TEL7oQ42fjSSYK9GobdRfQ5odkXdLqVBHF",
+ "Decimals": 8
+}

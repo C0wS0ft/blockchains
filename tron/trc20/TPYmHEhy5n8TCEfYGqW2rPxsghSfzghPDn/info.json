@@ -1,0 +1,12 @@
+{
+ "Name": "USDD",
+ "ImageUrl": "/media/40200150/usdd.png",
+ "SmartContract": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+ "Symbol": "USDD",
+ "Explorer": "https://etherscan.io/token/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+ "Research": "https://cryptocompare.com/coins/usdd/overview",
+ "Description": "USDD is a fully decentralized algorithmic stablecoin. USDD protocol runs on the TRON network. TRON is a decentralized network where the external market decides token prices.TelegramWhitepaper",
+ "Type": "TRC20",
+ "Id": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+ "Decimals": 8
+}

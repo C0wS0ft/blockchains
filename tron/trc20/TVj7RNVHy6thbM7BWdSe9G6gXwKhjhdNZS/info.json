@@ -1,0 +1,12 @@
+{
+ "Name": "Klever",
+ "ImageUrl": "/media/38553447/klv.png",
+ "SmartContract": "TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS",
+ "Symbol": "KLV",
+ "Explorer": "https://etherscan.io/token/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS",
+ "Research": "https://cryptocompare.com/coins/klv/overview",
+ "Description": "Klever is a cryptocurrency platform designed to solve two big issues in crypto today. The crypto security problem and the user experience problem. Klever App enables participants to use the a vast selection of dapps on the blockchain, from games, entertainment, decentralized finance, and other p2p distributed ledger applications. The app\u0026#39;s built-in Web Browser allows users to explore dapps, decentralized services, and products at the push of a button.Telegram | Discord | LinkedIn | Facebook | InstagramWhitepaper",
+ "Type": "TRC20",
+ "Id": "TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS",
+ "Decimals": 8
+}

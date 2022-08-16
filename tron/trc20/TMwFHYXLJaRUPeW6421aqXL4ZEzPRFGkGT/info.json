@@ -1,0 +1,12 @@
+{
+ "Name": "USDJ",
+ "ImageUrl": "/media/34477805/trx.jpg",
+ "SmartContract": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+ "Symbol": "USDJ",
+ "Explorer": "https://etherscan.io/token/TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+ "Research": "https://cryptocompare.com/coins/usdj/overview",
+ "Description": "USDJ is a stablecoin of TRON. It’s generated through decentralized smart contracts on the TRON network. Anyone can pledge TRX as collateral to generate USDJ. USDJ enters into free circulation as any other cryptocurrency does once generated. It is pegged to the US dollar through Collateralized Debt Positions (CDPs), and also has autonomous feedback mechanisms.",
+ "Type": "TRC20",
+ "Id": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+ "Decimals": 8
+}

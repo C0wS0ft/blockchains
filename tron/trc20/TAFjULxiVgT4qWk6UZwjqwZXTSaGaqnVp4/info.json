@@ -1,0 +1,12 @@
+{
+ "Name": "BitTorrent",
+ "ImageUrl": "/media/37746887/btt.png",
+ "SmartContract": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+ "Symbol": "BTT",
+ "Explorer": "https://etherscan.io/token/TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+ "Research": "https://cryptocompare.com/coins/btt/overview",
+ "Description": "BitTorrent Protocol is a decentralized protocol with over 1 billion users. BitTorrent Inc. invented and maintains the BitTorrent protocol. While there are many implementations of the BitTorrent software, BitTorrent and µTorrent (often called “utorrent”) remain two of the most popular. In 2018, BitTorrent Protocol reached a strategic partnership with TRON Blockchain Protocol. On July 24, 2018 TRON has successfully acquired BitTorrent and all BitTorrent products.BitTorrent (BTT) the token is a TRC-10 utility token based on the TRON blockchain to foster faster speed on the world’s largest decentralized application.December, 2021:With the Launch of BTTC Mainnet and BTT Redenomination Plan, the old BTT tokens will be redenominated and swapped with the new BTT tokens at a ratio of 1:1000. The total supply of BTT tokens will be increased from 990,000,000,000 to 990,000,000,000,000. The new tokens after redenomination are referred to as BTT, while the old ones are renamed as BTTOLD (BTTOLD stands for the old BTT tokens thereafter).See the official announcementTelegram | Facebook | Instagram",
+ "Type": "TRC20",
+ "Id": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+ "Decimals": 8
+}

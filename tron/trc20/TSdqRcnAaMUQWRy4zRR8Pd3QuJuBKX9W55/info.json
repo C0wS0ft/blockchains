@@ -1,0 +1,12 @@
+{
+ "Name": "SpokLottery",
+ "ImageUrl": "/media/37459202/spkl.png",
+ "SmartContract": "TSdqRcnAaMUQWRy4zRR8Pd3QuJuBKX9W55",
+ "Symbol": "SPKL",
+ "Explorer": "https://etherscan.io/token/TSdqRcnAaMUQWRy4zRR8Pd3QuJuBKX9W55",
+ "Research": "https://cryptocompare.com/coins/spkl/overview",
+ "Description": "SPOKpark is meant to be an innovative e-gaming platform powered by TRON network that aims at making the online gambling and betting industry decentralized.",
+ "Type": "TRC20",
+ "Id": "TSdqRcnAaMUQWRy4zRR8Pd3QuJuBKX9W55",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Round Dollar",
+ "ImageUrl": "/media/38554180/rd.png",
+ "SmartContract": "TLS49HRpnY4RymsWhkRW4ETnvkH7w8D72K",
+ "Symbol": "RD",
+ "Explorer": "https://etherscan.io/token/TLS49HRpnY4RymsWhkRW4ETnvkH7w8D72K",
+ "Research": "https://cryptocompare.com/coins/rd/overview",
+ "Description": "OneCash is a stablecoin centered global financial technology platform. Round Dollar (RD) is a synthetic stablecoin that anchors a basket of mainstream Asian currencies.Telegram",
+ "Type": "TRC20",
+ "Id": "TLS49HRpnY4RymsWhkRW4ETnvkH7w8D72K",
+ "Decimals": 8
+}

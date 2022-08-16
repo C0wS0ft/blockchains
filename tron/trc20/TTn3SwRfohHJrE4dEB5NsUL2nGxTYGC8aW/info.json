@@ -1,0 +1,12 @@
+{
+ "Name": "Molecular Future (TRC20)",
+ "ImageUrl": "/media/37747163/mof.png",
+ "SmartContract": "TTn3SwRfohHJrE4dEB5NsUL2nGxTYGC8aW",
+ "Symbol": "MOF",
+ "Explorer": "https://etherscan.io/token/TTn3SwRfohHJrE4dEB5NsUL2nGxTYGC8aW",
+ "Research": "https://cryptocompare.com/coins/mof/overview",
+ "Description": "Molecular Future is a decentralized digital asset management ecosystem that is based and founded by multiple Hong Kong companies (China Fortune, HBCC, XBTING Fund, HCASH Foundation, and Collistar Capital). It\u0026#39;s a platform designed to provide its user\u0026#39;s related Blockchain-based products, guidance through the Blockchain industry, agency trading software, and media information.The issued tokesn by Molecular Future are MOF, ERC20 and TRC20 tokens. MOF is a medium of exchange in the Molecular Future ecosystem, acts as a reward payment of the different campaigns running and completed transactions with MOF token.Facebook | Weibo | LinkedInWhitepaper ",
+ "Type": "TRC20",
+ "Id": "TTn3SwRfohHJrE4dEB5NsUL2nGxTYGC8aW",
+ "Decimals": 8
+}

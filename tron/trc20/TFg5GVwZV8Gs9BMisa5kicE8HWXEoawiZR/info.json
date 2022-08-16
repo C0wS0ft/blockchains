@@ -1,0 +1,12 @@
+{
+ "Name": "Didcoin",
+ "ImageUrl": "/media/38553214/did.png",
+ "SmartContract": "TFg5GVwZV8Gs9BMisa5kicE8HWXEoawiZR",
+ "Symbol": "DID",
+ "Explorer": "https://etherscan.io/token/TFg5GVwZV8Gs9BMisa5kicE8HWXEoawiZR",
+ "Research": "https://cryptocompare.com/coins/did/overview",
+ "Description": "Didcoin is a new solution for the financial and banking system of the Middle East countries with a potential audience of more than 500 million users.Telegram | Medium ",
+ "Type": "TRC20",
+ "Id": "TFg5GVwZV8Gs9BMisa5kicE8HWXEoawiZR",
+ "Decimals": 8
+}

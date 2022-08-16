@@ -1,0 +1,12 @@
+{
+ "Name": "LUMI Credits",
+ "ImageUrl": "/media/38554083/lumi.png",
+ "SmartContract": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
+ "Symbol": "LUMI",
+ "Explorer": "https://etherscan.io/token/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
+ "Research": "https://cryptocompare.com/coins/lumi/overview",
+ "Description": "Lumi is a token based on the Tron blockchain. It was created as a popular and utility token for the LUMI Credits gambling ecosystem.Telegram | Medium",
+ "Type": "TRC20",
+ "Id": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
+ "Decimals": 8
+}

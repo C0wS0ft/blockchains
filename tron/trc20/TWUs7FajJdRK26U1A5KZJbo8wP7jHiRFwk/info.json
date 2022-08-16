@@ -1,0 +1,12 @@
+{
+ "Name": "Zoe Cash",
+ "ImageUrl": "/media/37748287/zoe.png",
+ "SmartContract": "TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk",
+ "Symbol": "ZOE",
+ "Explorer": "https://etherscan.io/token/TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk",
+ "Research": "https://cryptocompare.com/coins/zoe/overview",
+ "Description": "Zoe Cash is a decentralized multipurpose system that integrates finance, online training, certifications, jobs, encrypted social interaction and monetization, stored and validated on its own blockchain.Telegram",
+ "Type": "TRC20",
+ "Id": "TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk",
+ "Decimals": 8
+}

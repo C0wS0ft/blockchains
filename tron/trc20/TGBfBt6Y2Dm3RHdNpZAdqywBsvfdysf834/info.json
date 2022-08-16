@@ -1,0 +1,12 @@
+{
+ "Name": "RealLink",
+ "ImageUrl": "/media/39500985/real.png",
+ "SmartContract": "TGBfBt6Y2Dm3RHdNpZAdqywBsvfdysf834",
+ "Symbol": "REAL",
+ "Explorer": "https://etherscan.io/token/TGBfBt6Y2Dm3RHdNpZAdqywBsvfdysf834",
+ "Research": "https://cryptocompare.com/coins/real/overview",
+ "Description": "RealLink is a crypto token designed for social networking optimization. In the future, it will be applied to metaverses and games as well.Telegram | Medium",
+ "Type": "TRC20",
+ "Id": "TGBfBt6Y2Dm3RHdNpZAdqywBsvfdysf834",
+ "Decimals": 8
+}

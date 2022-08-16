@@ -1,0 +1,12 @@
+{
+ "Name": "JUST",
+ "ImageUrl": "/media/37746866/jst.png",
+ "SmartContract": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+ "Symbol": "JST",
+ "Explorer": "https://etherscan.io/token/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+ "Research": "https://cryptocompare.com/coins/jst/overview",
+ "Description": "JST is a part of the USDJ currency system. Holding JST can participate in the community governance of JUST and pay the stabilization fee for CDP borrowing in the JUST system.TelegramWhitepaper",
+ "Type": "TRC20",
+ "Id": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+ "Decimals": 8
+}

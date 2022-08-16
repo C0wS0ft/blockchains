@@ -1,0 +1,12 @@
+{
+ "Name": "TRONbetLive",
+ "ImageUrl": "/media/37748252/live1.png",
+ "SmartContract": "TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK",
+ "Symbol": "LIVE",
+ "Explorer": "https://etherscan.io/token/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK",
+ "Research": "https://cryptocompare.com/coins/live/overview",
+ "Description": "By creating a whole mining ecosystem, WINk aims to revolutionize the way that developers adopt the blockchain ecosystem while keeping wealth redistribution at its core. WIN will continue to be the centrepiece of the platform while developers will be able to utilize everything the WINk ecosystem has to offer.",
+ "Type": "TRC20",
+ "Id": "TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK",
+ "Decimals": 8
+}

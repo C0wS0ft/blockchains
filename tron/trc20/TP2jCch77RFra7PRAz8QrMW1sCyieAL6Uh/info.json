@@ -1,0 +1,12 @@
+{
+ "Name": "KDIA COIN",
+ "ImageUrl": "/media/40484616/kdia.png",
+ "SmartContract": "TP2jCch77RFra7PRAz8QrMW1sCyieAL6Uh",
+ "Symbol": "KDIA",
+ "Explorer": "https://etherscan.io/token/TP2jCch77RFra7PRAz8QrMW1sCyieAL6Uh",
+ "Research": "https://cryptocompare.com/coins/kdia/overview",
+ "Description": "The KDIA coins are linked to asset services via the Adam platform. The ADAM platform warrants all diamond products provided by the Foundation.",
+ "Type": "TRC20",
+ "Id": "TP2jCch77RFra7PRAz8QrMW1sCyieAL6Uh",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Novax Coin",
+ "ImageUrl": "/media/37748300/nvx.png",
+ "SmartContract": "TUbzQMXMRgH1vDJShnL6ik4wzPRTWPt4KW",
+ "Symbol": "NVX",
+ "Explorer": "https://etherscan.io/token/TUbzQMXMRgH1vDJShnL6ik4wzPRTWPt4KW",
+ "Research": "https://cryptocompare.com/coins/nvx/overview",
+ "Description": "NovaxCoin is a peer-to-peer cryptocurrency designed to enable instant, near-zero cost payments to anyone in the world. NovaxCoin is an open-source, global payment network that is decentralized.Telegram",
+ "Type": "TRC20",
+ "Id": "TUbzQMXMRgH1vDJShnL6ik4wzPRTWPt4KW",
+ "Decimals": 8
+}

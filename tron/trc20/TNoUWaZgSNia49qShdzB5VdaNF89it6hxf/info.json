@@ -1,0 +1,12 @@
+{
+ "Name": "New Earth Order Money",
+ "ImageUrl": "/media/39501481/neom.png",
+ "SmartContract": "TNoUWaZgSNia49qShdzB5VdaNF89it6hxf",
+ "Symbol": "NEOM",
+ "Explorer": "https://etherscan.io/token/TNoUWaZgSNia49qShdzB5VdaNF89it6hxf",
+ "Research": "https://cryptocompare.com/coins/neom/overview",
+ "Description": "Neom Coin is a Cryptocurrency designed for the Smart Cities of the New World. It is created for Smart Cities that have started to be built in the Middle East and will spread to the world.TelegramWhitepaper ",
+ "Type": "TRC20",
+ "Id": "TNoUWaZgSNia49qShdzB5VdaNF89it6hxf",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Pearl Finance",
+ "ImageUrl": "/media/37305420/pearl.png",
+ "SmartContract": "TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
+ "Symbol": "PEARL",
+ "Explorer": "https://etherscan.io/token/TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
+ "Research": "https://cryptocompare.com/coins/pearl/overview",
+ "Description": "PEARL will be distributed in the sprit of YFI: no pre-mine, no founder shares, no VC interests - simply equal-opportunity staking distribution to attract a broad and vision-aligned community to steward the future of the protocol and token.",
+ "Type": "TRC20",
+ "Id": "TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
+ "Decimals": 8
+}

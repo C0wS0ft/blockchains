@@ -1,0 +1,12 @@
+{
+ "Name": "Wiggly Finance",
+ "ImageUrl": "/media/40420684/wgl.png",
+ "SmartContract": "TGZDNronbkKUBtSPwhG3DvZFLfNAWUot8k",
+ "Symbol": "WGL",
+ "Explorer": "https://etherscan.io/token/TGZDNronbkKUBtSPwhG3DvZFLfNAWUot8k",
+ "Research": "https://cryptocompare.com/coins/wgl/overview",
+ "Description": "Wiggly Finance is a smart contract published on the Wiggly BSC network. Therefore, it is a DAPP using the BSC infrastructure. (Decentralized Application)TelegramDocs",
+ "Type": "TRC20",
+ "Id": "TGZDNronbkKUBtSPwhG3DvZFLfNAWUot8k",
+ "Decimals": 8
+}

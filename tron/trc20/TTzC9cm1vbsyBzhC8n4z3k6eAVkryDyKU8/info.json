@@ -1,0 +1,12 @@
+{
+ "Name": "GMCoin",
+ "ImageUrl": "/media/39109116/gmcoin.png",
+ "SmartContract": "TTzC9cm1vbsyBzhC8n4z3k6eAVkryDyKU8",
+ "Symbol": "GMCOIN",
+ "Explorer": "https://etherscan.io/token/TTzC9cm1vbsyBzhC8n4z3k6eAVkryDyKU8",
+ "Research": "https://cryptocompare.com/coins/gmcoin/overview",
+ "Description": "GMCoin is a multilayered, utility-based, #business token of the company “GM Informatics JSC” that is used for zero-banking system and #tokenization for business.GMC is a TRC-10 based TRON powered token that is based on TRON Ecosystem. It is working autonomously and decentralized in TRON Blockchain.Telegram | Discord | Medium",
+ "Type": "TRC20",
+ "Id": "TTzC9cm1vbsyBzhC8n4z3k6eAVkryDyKU8",
+ "Decimals": 8
+}

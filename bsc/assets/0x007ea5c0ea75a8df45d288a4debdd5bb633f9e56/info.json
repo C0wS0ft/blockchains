@@ -1,0 +1,12 @@
+{
+ "Name": "CanYaCoin",
+ "ImageUrl": "/media/12318218/canya.png",
+ "SmartContract": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
+ "Symbol": "CANYA",
+ "Explorer": "https://etherscan.io/token/0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
+ "Research": "https://cryptocompare.com/coins/canya/overview",
+ "Description": "CanYa is a platform for the home and digital services industry, allowing users to find, book, pay and review service providers. The CanYaCoin is an ERC20 token based on the Ethereum blockchain, powering the platform payment system, enabling a decentralised, trustless and hedged escrow service, a single bridge between fiat and a variety of cryptocurrencies, a powerful rewards system to encourage network effects, and incentivised user-curation and userarbitration.The official CanYaCoin ticker is “CAN” and trades under that name on all the exchanges where it has been listed. The designation “CANYA” is for CryptoCompare.com only.",
+ "Type": "BEP20",
+ "Id": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
+ "Decimals": 8
+}

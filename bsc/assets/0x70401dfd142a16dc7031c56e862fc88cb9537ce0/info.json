@@ -1,0 +1,12 @@
+{
+ "Name": "Bird.Money",
+ "ImageUrl": "/media/39109111/bird.png",
+ "SmartContract": "0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
+ "Symbol": "BIRD",
+ "Explorer": "https://etherscan.io/token/0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
+ "Research": "https://cryptocompare.com/coins/bird/overview",
+ "Description": "Bird has designed an ecosystem to feed on-chain and off-chain data streams into machine learning models. Making its analytics products accessible via decentralized oracles allows anyone to create dApps that are customized for each individual user.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
+ "Decimals": 8
+}

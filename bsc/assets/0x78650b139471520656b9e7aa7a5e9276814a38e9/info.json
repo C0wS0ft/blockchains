@@ -1,0 +1,12 @@
+{
+ "Name": "BTC Standard Hashrate Token",
+ "ImageUrl": "/media/37622110/btcst.png",
+ "SmartContract": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
+ "Symbol": "BTCST",
+ "Explorer": "https://etherscan.io/token/0x78650b139471520656b9e7aa7a5e9276814a38e9",
+ "Research": "https://cryptocompare.com/coins/btcst/overview",
+ "Description": "Each BTCST is a token collateralized by a standardized unit of actual Bitcoin mining power. Holding the token is legally and functionally equivalent to owning the underlying mining power; staking the token on-chain will entitle the staking holder to receive mining rewards in Bitcoin, and listing of BTCST on major exchanges aims to bring meaningful liquidity to tokenized Bitcoin mining power.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
+ "Decimals": 8
+}

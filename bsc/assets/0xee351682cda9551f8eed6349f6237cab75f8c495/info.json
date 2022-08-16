@@ -1,0 +1,12 @@
+{
+ "Name": "Elements Play",
+ "ImageUrl": "/media/38553692/elm.png",
+ "SmartContract": "0xee351682cda9551f8eed6349f6237cab75f8c495",
+ "Symbol": "ELM",
+ "Explorer": "https://etherscan.io/token/0xee351682cda9551f8eed6349f6237cab75f8c495",
+ "Research": "https://cryptocompare.com/coins/elm/overview",
+ "Description": "Elements is an NFT blockchain game hosted by the BSC, this game has unique features that allow its players to participate directly in the self-sustaining economy of the game. ELEMENTS has been designed and created unifying the best features of blockchain games in one, this will make the difference and the evolution of NFT blockchain games.Elements is based on a circle of participation within the Game such as: collect, evolve, merge, fight, and trade your Elements and Lands. Elements is characterized by creating an intuitive and fast Game system with simple functions for its players. This circle of Activities and participation together with the economic system of the game is what makes the players receive rewards.The ELM token is the main currency of the game, with which you can trade in the elements market, evolve your costs, participate in tournaments and many more utilitiesThose who have ELM in their wallets will automatically gain from any new user who buys or sells ELM. ELM is the official governance currency of the ELEMENTS game and it is designed to be used solely as an interoperable utility token on the platform. The ELM token is a non-refundable functional utility token that will be used as a medium of exchange between ELEMENTS users in a decentralized way.Telegram | YouTube ",
+ "Type": "BEP20",
+ "Id": "0xee351682cda9551f8eed6349f6237cab75f8c495",
+ "Decimals": 8
+}

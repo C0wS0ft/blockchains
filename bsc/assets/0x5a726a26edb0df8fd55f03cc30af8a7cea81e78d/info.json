@@ -1,0 +1,12 @@
+{
+ "Name": "CrossWallet",
+ "ImageUrl": "/media/39198271/cwt.png",
+ "SmartContract": "0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D",
+ "Symbol": "CWT",
+ "Explorer": "https://etherscan.io/token/0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D",
+ "Research": "https://cryptocompare.com/coins/cwt/overview",
+ "Description": "CrossWallet is a wallet that enables multi-network asset management, works on any device, mobile or web, and lets users seamlessly move between different blockchains is teasing its design.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "RAMP",
+ "ImageUrl": "/media/38553393/ramp.png",
+ "SmartContract": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+ "Symbol": "RAMP",
+ "Explorer": "https://etherscan.io/token/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+ "Research": "https://cryptocompare.com/coins/ramp/overview",
+ "Description": "RAMP DEFI proposes that the staked capital on the non-ERC20 staking blockchains be collateralized into a stablecoin, “rUSD”, which is issued on the Ethereum blockchain. Similarly, users on the Ethereum blockchain can mint “eUSD” by depositing their ERC20 stablecoins into RAMP’s eUSD liquidity pool.rUSD holders and eUSD holders can borrow, lend or exchange rUSD/eUSD freely, creating a seamless liquidity “on/off ramp” for users with capital locked into staking arrangements.Telegram | Discord | Medium | Github | Reddit",
+ "Type": "BEP20",
+ "Id": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+ "Decimals": 8
+}

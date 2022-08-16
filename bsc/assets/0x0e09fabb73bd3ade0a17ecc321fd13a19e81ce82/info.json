@@ -1,0 +1,12 @@
+{
+ "Name": "PancakeSwap",
+ "ImageUrl": "/media/37747616/cake.png",
+ "SmartContract": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+ "Symbol": "CAKE",
+ "Explorer": "https://etherscan.io/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+ "Research": "https://cryptocompare.com/coins/cake/overview",
+ "Description": "PancakeSwap is an automated market maker (“AMM”) that allows two tokens to be exchanged on the Binance Smart Chain. It is designed to be fast, cheap, allowing anyone to participate. PancakeSwap runs on Binance Smart Chain, a blockchain with lower transaction costs than Ethereum or Bitcoin.Unlike centralized exchanges, PancakeSwap doesn’t hold funds when users trade, giving them 100% ownership of their own crypto.Built on open-source software, the website and all Smart Contracts are publicly visible for maximum transparency.Contracts are verified on BscScan so users know that what they see is what they get.Telegram | Instagram",
+ "Type": "BEP20",
+ "Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+ "Decimals": 8
+}

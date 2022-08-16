@@ -1,0 +1,12 @@
+{
+ "Name": "Shibacock",
+ "ImageUrl": "/media/37747527/cock.png",
+ "SmartContract": "0x9fdce4bafccfc9e9dac362be6bb5fb5d2aba3a58",
+ "Symbol": "COCK",
+ "Explorer": "https://etherscan.io/token/0x9fdce4bafccfc9e9dac362be6bb5fb5d2aba3a58",
+ "Research": "https://cryptocompare.com/coins/cock/overview",
+ "Description": "SHIBACOCK is decentralized, deflationary, community-driven Meme Token with a charity built into it.$COCK is the first cryptocurrency token to be listed and incentivized on SHIBACOCK Swap, its decentralized exchange.SHIBACOCK will support artist incubation, NFT Auction（will cooperate with BSC for NFT auction) and new projects through its SHIBACOCK PAD platform.",
+ "Type": "BEP20",
+ "Id": "0x9fdce4bafccfc9e9dac362be6bb5fb5d2aba3a58",
+ "Decimals": 8
+}

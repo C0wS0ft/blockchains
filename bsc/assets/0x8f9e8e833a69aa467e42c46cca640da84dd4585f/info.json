@@ -1,0 +1,12 @@
+{
+ "Name": "NFT Champions",
+ "ImageUrl": "/media/39109101/champ.png",
+ "SmartContract": "0x8f9e8e833a69aa467e42c46cca640da84dd4585f",
+ "Symbol": "CHAMP",
+ "Explorer": "https://etherscan.io/token/0x8f9e8e833a69aa467e42c46cca640da84dd4585f",
+ "Research": "https://cryptocompare.com/coins/champ/overview",
+ "Description": "Play-To-Earn: Buy, Train \u0026amp; Sell Rare NFTs, Win Prize Pools in Online PVP Matches \u0026amp; Tournaments, Earn Passive Rewards by holding $CHAMP, Land, and NFTs, Complete Raids to win rare NFTs \u0026amp; Item DropsThe game requires an initial investment of at least one NFT Champion, or you can receive a free gift from another player. Once you have a starter team and begin completing tasks and challenges, you can start earning NFTs and Rewards.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x8f9e8e833a69aa467e42c46cca640da84dd4585f",
+ "Decimals": 8
+}

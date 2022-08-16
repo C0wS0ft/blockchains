@@ -1,0 +1,12 @@
+{
+ "Name": "Meta Ruffy",
+ "ImageUrl": "/media/39501523/mr.png",
+ "SmartContract": "0x2456BBAD80BfAD346AecEa45fA38C81a6963132D",
+ "Symbol": "MR",
+ "Explorer": "https://etherscan.io/token/0x2456BBAD80BfAD346AecEa45fA38C81a6963132D",
+ "Research": "https://cryptocompare.com/coins/mr/overview",
+ "Description": "Meta Ruffy is an open world in the Metaverse based on the latest technology which merges together, web3.0, blockchain, VR and AR.Telegram | DiscordWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x2456BBAD80BfAD346AecEa45fA38C81a6963132D",
+ "Decimals": 8
+}

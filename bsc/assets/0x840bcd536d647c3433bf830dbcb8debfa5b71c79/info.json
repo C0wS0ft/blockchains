@@ -1,0 +1,12 @@
+{
+ "Name": "BNB Cash",
+ "ImageUrl": "/media/38553685/bnbch.png",
+ "SmartContract": "0x840bcd536d647c3433bf830dbcb8debfa5b71c79",
+ "Symbol": "BNBCH",
+ "Explorer": "https://etherscan.io/token/0x840bcd536d647c3433bf830dbcb8debfa5b71c79",
+ "Research": "https://cryptocompare.com/coins/bnbch/overview",
+ "Description": "In April of 2021, BNB Cash (by BNB Fintech) is founded as a BNB replacement primarily for exchanges that do not have BNB’s presence. Running on the BEP20 platform.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x840bcd536d647c3433bf830dbcb8debfa5b71c79",
+ "Decimals": 8
+}

@@ -1,0 +1,10 @@
+{
+ "Name": "Tsuzuki Inu",
+ "SmartContract": "0xf527d24391c767b86b8e91385e1ce9c54d230a2b",
+ "Symbol": "TZKI",
+ "Explorer": "https://etherscan.io/token/0xf527d24391c767b86b8e91385e1ce9c54d230a2b",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0xf527d24391c767b86b8e91385e1ce9c54d230a2b",
+ "Decimals": 9
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "EverGrowCoin",
+ "ImageUrl": "/media/39500878/egc.png",
+ "SmartContract": "0xC001BBe2B87079294C63EcE98BdD0a88D761434e",
+ "Symbol": "EGC",
+ "Explorer": "https://etherscan.io/token/0xC001BBe2B87079294C63EcE98BdD0a88D761434e",
+ "Research": "https://cryptocompare.com/coins/egc/overview",
+ "Description": "EverGrow Coin, launched in September 2021, is a cryptocurrency that automatically rewards holders in Binance Pegged USD ($BUSD), a regulated, stablecoin, pegged 1-1 with the US dollar.Telegram",
+ "Type": "BEP20",
+ "Id": "0xC001BBe2B87079294C63EcE98BdD0a88D761434e",
+ "Decimals": 8
+}

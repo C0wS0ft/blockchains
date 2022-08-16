@@ -1,0 +1,12 @@
+{
+ "Name": "Teaswap Art",
+ "ImageUrl": "/media/38553317/tsa.png",
+ "SmartContract": "0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b",
+ "Symbol": "TSA",
+ "Explorer": "https://etherscan.io/token/0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b",
+ "Research": "https://cryptocompare.com/coins/tsa/overview",
+ "Description": "TSANFT is a cross-chain marketplace of digital NFT Art built on BSC and Ethereum network, powered by the native governance token TSA and DeFi solutions.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b",
+ "Decimals": 8
+}

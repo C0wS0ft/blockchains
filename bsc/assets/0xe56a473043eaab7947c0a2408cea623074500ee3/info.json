@@ -1,0 +1,12 @@
+{
+ "Name": "SafeSwap",
+ "ImageUrl": "/media/38553800/safes.png",
+ "SmartContract": "0xe56a473043eaab7947c0a2408cea623074500ee3",
+ "Symbol": "SAFES",
+ "Explorer": "https://etherscan.io/token/0xe56a473043eaab7947c0a2408cea623074500ee3",
+ "Research": "https://cryptocompare.com/coins/safes/overview",
+ "Description": "SafeSwap is a decentralized trading protocol that allows different types of cryptocurrencies to be swapped among each other. The SafeSwap protocol is a secured and Smart Contract based application that interacts directly with metamask \u0026amp; trust wallet.TelegramThe official SafeSwap ticker is “SWAP” and trades under that name on all the exchanges where it has been listed. The designation “SAFES” is for CryptoCompare.com only.",
+ "Type": "BEP20",
+ "Id": "0xe56a473043eaab7947c0a2408cea623074500ee3",
+ "Decimals": 8
+}

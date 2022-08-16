@@ -1,0 +1,12 @@
+{
+ "Name": "Aleph.im",
+ "ImageUrl": "/media/37072226/aleph.png",
+ "SmartContract": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
+ "Symbol": "ALEPH",
+ "Explorer": "https://etherscan.io/token/0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
+ "Research": "https://cryptocompare.com/coins/aleph/overview",
+ "Description": "Aleph.im was built for Decentralized Finance, dedicated to providing secure storage and computing to dApps on all blockchains. Aleph.im messages signed using any of the underlying chain addresses are accepted instantly on the network. Those messages can come from a wide source range, including IoT devices, decentralized applications and trusted data providers (a dApp can handle multiple providers for a decentralized data sourcing).Aleph claims crosschain compatibility with Ethereum, Polkadot, Cosmos, Solana, Avalanche and the Binance Smart Chain",
+ "Type": "BEP20",
+ "Id": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
+ "Decimals": 8
+}

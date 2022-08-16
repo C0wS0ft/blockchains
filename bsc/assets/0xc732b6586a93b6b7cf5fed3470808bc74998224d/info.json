@@ -1,0 +1,12 @@
+{
+ "Name": "Kryptomon",
+ "ImageUrl": "/media/39109017/kmon.png",
+ "SmartContract": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+ "Symbol": "KMON",
+ "Explorer": "https://etherscan.io/token/0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+ "Research": "https://cryptocompare.com/coins/kmon/overview",
+ "Description": "Kryptomon is an NFT Play-To-Earn blockchain-game, where Pokémon meets Tamagotchi and CryptoKitties. Set in the Kryptomon metaverse, community members play as ‘Trainers’ of their own individual living NFT monsters — Kryptomons.Kryptomon aims to create the next step in the evolution of crypto-gaming by using advanced blockchain technologies, digital genetics, and location-based technologies to create a living and breathing metaverse shaped by the players.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+ "Decimals": 8
+}

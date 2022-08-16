@@ -1,0 +1,12 @@
+{
+ "Name": "1TRONIC",
+ "ImageUrl": "/media/37748286/1trc.png",
+ "SmartContract": "0x97300a4f628701672096460b5469c41a8d3ecb1a",
+ "Symbol": "1TRC",
+ "Explorer": "https://etherscan.io/token/0x97300a4f628701672096460b5469c41a8d3ecb1a",
+ "Research": "https://cryptocompare.com/coins/1trc/overview",
+ "Description": "1Tronic Network is a payment platform for daily necessities within the framework of the Crypto and Bank Payment Point (CBPP) application. Where bill payments use crypto assets and or fiat currencies.1TRC token is the main medium of exchange that is converted for payments on the 1TRONIC Network\u0026#39;s Crypto and Bank Payment Point (CBPP) payment platform. 1TRC tokens will also trade on the Decentralized Exchange (DEX) and Centralized Exchange (CEX) markets. It becomes the main asset in the Decentralized Finance (DeFi) project on the 1TRONIC Network platform.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x97300a4f628701672096460b5469c41a8d3ecb1a",
+ "Decimals": 8
+}

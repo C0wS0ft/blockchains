@@ -1,0 +1,10 @@
+{
+ "Name": "Venus XRP",
+ "SmartContract": "0xB248a295732e0225acd3337607cc01068e3b9c10",
+ "Symbol": "vXRP",
+ "Explorer": "https://bscscan.com/token/0xB248a295732e0225acd3337607cc01068e3b9c10",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xB248a295732e0225acd3337607cc01068e3b9c10",
+ "Decimals": 8
+}

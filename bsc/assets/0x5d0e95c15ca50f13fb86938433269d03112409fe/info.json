@@ -1,0 +1,12 @@
+{
+ "Name": "Knight War Spirits",
+ "ImageUrl": "/media/38553600/kws.png",
+ "SmartContract": "0x5D0E95C15cA50F13fB86938433269D03112409Fe",
+ "Symbol": "KWS",
+ "Explorer": "https://etherscan.io/token/0x5D0E95C15cA50F13fB86938433269D03112409Fe",
+ "Research": "https://cryptocompare.com/coins/kws/overview",
+ "Description": "Knight War - The Holy Trio is an upcoming Play-to-earn game in the style of the Idle Defense Genre, built on Binance Smart Chain and later Polygon Layer-2 Scaling Solution to utilize its low fees, fast transaction speed and large user base.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x5D0E95C15cA50F13fB86938433269D03112409Fe",
+ "Decimals": 8
+}

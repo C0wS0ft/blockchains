@@ -1,0 +1,10 @@
+{
+ "Name": "MetaCat",
+ "SmartContract": "0x0dC7d0192c148d7d2D6fa32DC280f953c0AD6A34",
+ "Symbol": "MetaCat",
+ "Explorer": "https://etherscan.io/token/0x0dC7d0192c148d7d2D6fa32DC280f953c0AD6A34",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x0dC7d0192c148d7d2D6fa32DC280f953c0AD6A34",
+ "Decimals": 18
+}

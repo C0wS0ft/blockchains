@@ -1,0 +1,12 @@
+{
+ "Name": "Blockchain Euro Project",
+ "ImageUrl": "/media/39501267/bepr.png",
+ "SmartContract": "0xbf0cf158e84ebacca1b7746e794d507073e5adfe",
+ "Symbol": "BEPR",
+ "Explorer": "https://etherscan.io/token/0xbf0cf158e84ebacca1b7746e794d507073e5adfe",
+ "Research": "https://cryptocompare.com/coins/bepr/overview",
+ "Description": "BEUROP is a European IT company with 5-year experience in smart contracts and blockchain solutions development.Their aim is to unite all our products and assets into unique and genuine ecosystem in wich clients can either promote their projects or to earn by playing the Legend of Aragon P2E game,  as well as get additional benefits from Beurop DEX, CEX and NFT Marketplace.Telegram | Discord | Medium | LinkedIn | Facebook | Youtube ",
+ "Type": "BEP20",
+ "Id": "0xbf0cf158e84ebacca1b7746e794d507073e5adfe",
+ "Decimals": 8
+}

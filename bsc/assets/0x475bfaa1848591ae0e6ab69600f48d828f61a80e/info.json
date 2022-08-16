@@ -1,0 +1,12 @@
+{
+ "Name": "Everdome",
+ "ImageUrl": "/media/39501437/dome.png",
+ "SmartContract": "0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
+ "Symbol": "DOME",
+ "Explorer": "https://etherscan.io/token/0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
+ "Research": "https://cryptocompare.com/coins/dome/overview",
+ "Description": "Everdome main objective is to become the most hyper-realistic verse across the entire landscape of the metaverse.TelegramLitepaper",
+ "Type": "BEP20",
+ "Id": "0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "DogeCola",
+ "ImageUrl": "/media/39501486/dogecola.png",
+ "SmartContract": "0xe320Df552e78D57E95cF1182B6960746d5016561",
+ "Symbol": "DOGECOLA",
+ "Explorer": "https://etherscan.io/token/0xe320Df552e78D57E95cF1182B6960746d5016561",
+ "Research": "https://cryptocompare.com/coins/dogecola/overview",
+ "Description": "Dogecola is a reflection token and soft drink at the same time with an auto-boost and hyper deflation system in place.Telegram",
+ "Type": "BEP20",
+ "Id": "0xe320Df552e78D57E95cF1182B6960746d5016561",
+ "Decimals": 8
+}

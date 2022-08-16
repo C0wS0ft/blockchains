@@ -1,0 +1,12 @@
+{
+ "Name": "Dreams Quest",
+ "ImageUrl": "/media/39108997/dreams.png",
+ "SmartContract": "0x54523d5fb56803bac758e8b10b321748a77ae9e9",
+ "Symbol": "DREAMS",
+ "Explorer": "https://etherscan.io/token/0x54523d5fb56803bac758e8b10b321748a77ae9e9",
+ "Research": "https://cryptocompare.com/coins/dreams/overview",
+ "Description": "Dreams Quest is building a metaverse-based economy, a self-sustaining DreamsVerse where people will be able to participate in the decentralised play-to-earn RPG game using dynamic NFTs. Unknown factors will affect character attributes in-game, and post-game outcomes will dynamically change the NFT card attributes and write them on the blockchain (the ethereal scribes) to show game history for each card.Telegram | Discord | Facebook | Instagram | LinkedIn | Medium",
+ "Type": "BEP20",
+ "Id": "0x54523d5fb56803bac758e8b10b321748a77ae9e9",
+ "Decimals": 8
+}

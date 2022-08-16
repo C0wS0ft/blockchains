@@ -1,0 +1,12 @@
+{
+ "Name": "Zelda Inu",
+ "ImageUrl": "/media/39501426/zlda.png",
+ "SmartContract": "0x26a7546c8f5e5f706cb598CAA68134f6eCf8d657",
+ "Symbol": "ZLDA",
+ "Explorer": "https://etherscan.io/token/0x26a7546c8f5e5f706cb598CAA68134f6eCf8d657",
+ "Research": "https://cryptocompare.com/coins/zlda/overview",
+ "Description": "Zelda Inu is a token on the BSC network heavily focused on making a real-world impact. Helping dogs in need by funding the rescues who save them.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x26a7546c8f5e5f706cb598CAA68134f6eCf8d657",
+ "Decimals": 8
+}

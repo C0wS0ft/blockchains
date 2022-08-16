@@ -1,0 +1,12 @@
+{
+ "Name": "TORG",
+ "ImageUrl": "/media/38553462/torg.png",
+ "SmartContract": "0xcfa0885131f602d11d4da248d2c65a62063567a9",
+ "Symbol": "TORG",
+ "Explorer": "https://etherscan.io/token/0xcfa0885131f602d11d4da248d2c65a62063567a9",
+ "Research": "https://cryptocompare.com/coins/torg/overview",
+ "Description": "TORG’s utility focus extends the notion of regular meme coins to an entirely new concept of employing a utility-driven value denominator: the utilimemes.The TORG FOUNDATION Grant Program\u0026#39;s aim is towards the betterment of the Blockchain and Crypto Economy and carefully managing the resources while expanding utilities for the TORG for the ecosystem. It links with the Mission and the TORG value proposition to create opportunities for human development and betterment, with a special focus on youth and the marginalized populations of the world, including the poor, the unbanked and the economically constrained. The Foundation and the Grant Program aim to explore, expand and pursue a growing set of opportunities to link the TORG to this concept of global utility.Telegram | Medium | Facebook | Instagram Litepaper",
+ "Type": "BEP20",
+ "Id": "0xcfa0885131f602d11d4da248d2c65a62063567a9",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Auto",
+ "ImageUrl": "/media/37746888/auto.png",
+ "SmartContract": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+ "Symbol": "AUTO",
+ "Explorer": "https://etherscan.io/token/0xa184088a740c695e156f91f5cc086a06bb78b827",
+ "Research": "https://cryptocompare.com/coins/auto/overview",
+ "Description": "AutoFarm is a yield farming aggregator running on Binance Smart Chain (BSC), Polygon Chain (MATIC) and Huobi ECO chain (HECO).The DApp (Decentralised Application) was designed with the purpose of optimising DeFi (Decentralised Finance) users yields as they interact with the other DApps in the DeFi space.Autofarm was initiated on Binance Smart Chain with no pre-farm, no pre-sales and with the goal of optimising DeFi users\u0026#39; yield farming at the lowest possible cost (All APY \u0026amp; APRs shown have already included fees).Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+ "Decimals": 8
+}

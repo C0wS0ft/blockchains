@@ -1,0 +1,12 @@
+{
+ "Name": "Bitcoin BR",
+ "ImageUrl": "/media/39377354/btcbr.png",
+ "SmartContract": "0x0cf8e180350253271f4b917ccfb0accc4862f262",
+ "Symbol": "BTCBR",
+ "Explorer": "https://etherscan.io/token/0x0cf8e180350253271f4b917ccfb0accc4862f262",
+ "Research": "https://cryptocompare.com/coins/btcbr/overview",
+ "Description": "Bitcoin BR is a decentralized financial payment network that rebuilds the traditional payment stack on the blockchain. It utilizes a basket of fiat-pegged stablecoins, algorithmically stabilized by its reserve currency BTCBR, to facilitate programmable payments and open financial infrastructure development.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x0cf8e180350253271f4b917ccfb0accc4862f262",
+ "Decimals": 8
+}

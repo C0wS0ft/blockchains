@@ -1,0 +1,12 @@
+{
+ "Name": "Ellipsis",
+ "ImageUrl": "/media/38553315/eps.png",
+ "SmartContract": "0xA7f552078dcC247C2684336020c03648500C6d9F",
+ "Symbol": "ELLIP",
+ "Explorer": "https://etherscan.io/token/0xA7f552078dcC247C2684336020c03648500C6d9F",
+ "Research": "https://cryptocompare.com/coins/ellip/overview",
+ "Description": "Ellipsis.finance is an exchange for stable coins on the Binance Smart Chain. It allows for stable coins swap with very low slippage and minimal fees.Ellipsis Finance is officially launched on March 2021 and is an authorised fork of Curve Finance; as such those that are familiar with Curve Finance will understand the functionality of Ellipsis Finance.EPS is a Revenue Earning token where token stakers will earn fees from the Ellipsis protocol.Telegram | GitHub | MediumThe official Ellipsis ticker is “EPS” and trades under that name on all the exchanges where it has been listed. The designation “ELLIP” is for CryptoCompare.com only.",
+ "Type": "BEP20",
+ "Id": "0xA7f552078dcC247C2684336020c03648500C6d9F",
+ "Decimals": 8
+}

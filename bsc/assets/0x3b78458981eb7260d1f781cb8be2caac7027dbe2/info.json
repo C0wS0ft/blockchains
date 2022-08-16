@@ -1,0 +1,12 @@
+{
+ "Name": "LaunchZone",
+ "ImageUrl": "/media/38554217/lz.png",
+ "SmartContract": "0x3b78458981eb7260d1f781cb8be2caac7027dbe2",
+ "Symbol": "LZ",
+ "Explorer": "https://etherscan.io/token/0x3b78458981eb7260d1f781cb8be2caac7027dbe2",
+ "Research": "https://cryptocompare.com/coins/lz/overview",
+ "Description": "In December 2020, BSCex Ecosystem was launched, a decentralized non-custodial cryptocurrency exchange-centered ecosystem that runs on Binance Smart Chain (BSC). Released products such as SwapX, LaunchPoolX and LaunchPadX.As BSCex continued to grow and partner with crypto startups and projects, they undergone a rebrand to LaunchZone, which aims to focus not only on providing users a seamless crypto experience, but also on assisting crypto startups with fundraising and software development until they are robust enough to launch successfully on their own.Recently, LaunchZone has completed its acquisition of The Sowing Network, BSC Army and ezDeFi.The native governance and utility token of the newly integrated LaunchZone Ecosystem is $LZ. $LZP is the freshly introduced token, which has the inflationary tokenomics and comes together with a whole new staking and farming system.Telegram",
+ "Type": "BEP20",
+ "Id": "0x3b78458981eb7260d1f781cb8be2caac7027dbe2",
+ "Decimals": 8
+}

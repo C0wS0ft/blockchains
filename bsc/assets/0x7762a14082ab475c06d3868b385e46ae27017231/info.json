@@ -1,0 +1,12 @@
+{
+ "Name": "PrivacySwap",
+ "ImageUrl": "/media/38553646/prv.png",
+ "SmartContract": "0x7762a14082ab475c06d3868b385e46ae27017231",
+ "Symbol": "PRV",
+ "Explorer": "https://etherscan.io/token/0x7762a14082ab475c06d3868b385e46ae27017231",
+ "Research": "https://cryptocompare.com/coins/prv/overview",
+ "Description": "PrivacySwap - a yield farming ecosystem built by a group of actual cybersecurity professionals on the Binance Smart Chain (BSC) who collectively have experience and resumes that span decades. With blockchain PrivacySwap aims to insert a layer of privacy protection in order to encourage and enhance the security and integrity of not just DeFi and blockchain, but in cyberspace on the whole.PRV is the native token. It is the utility token which you can use to participate in PrivacyVaults to earn a percentage of ALL vaults’ profits, in PrivacyCard by staking them to obtain a PrivacyCard, in PrivacyGames, to use PrivacyMixer to protectyour on-chain privacy, and more to come.They are a budding ecosystem that will bring forth utility that will keep YOUR privacy at the top of our priority list.Telegram | Youtube | Medium ",
+ "Type": "BEP20",
+ "Id": "0x7762a14082ab475c06d3868b385e46ae27017231",
+ "Decimals": 8
+}

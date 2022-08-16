@@ -1,0 +1,10 @@
+{
+ "Name": "Binance-Peg IoTeX Network",
+ "SmartContract": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+ "Symbol": "IOTX",
+ "Explorer": "https://bscscan.com/token/0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+ "Decimals": 18
+}

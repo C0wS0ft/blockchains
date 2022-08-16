@@ -1,0 +1,12 @@
+{
+ "Name": "Moonlight Token",
+ "ImageUrl": "/media/38553702/moonlight.png",
+ "SmartContract": "0xb1ced2e320e3f4c8e3511b1dc59203303493f382",
+ "Symbol": "MOONLIGHT",
+ "Explorer": "https://etherscan.io/token/0xb1ced2e320e3f4c8e3511b1dc59203303493f382",
+ "Research": "https://cryptocompare.com/coins/moonlight/overview",
+ "Description": "MoonLight Incubator is a ground-breaking organization that helps projects launch on BSC by providing a full scale range of services: technical support, marketing, networking, contract development \u0026amp; token launch. A 2% buy-back fee of Moonlight Token is included in the tokenomics of the incubated tokenMoonlight token launched with a 7% fee on every transaction to improve security by preventing bot trading, and decrease price volatility. The transaction fee is split between redistribution and LP generation:2% transaction fee redistributed to all existing holders5% transaction fee going into the LP (auto-generated LP)Telegram | Discord | Facebook | Youtube | Instagram​",
+ "Type": "BEP20",
+ "Id": "0xb1ced2e320e3f4c8e3511b1dc59203303493f382",
+ "Decimals": 8
+}

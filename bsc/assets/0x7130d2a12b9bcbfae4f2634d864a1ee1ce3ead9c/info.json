@@ -1,0 +1,11 @@
+{
+ "Name": "BTCB Token",
+ "SmartContract": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+ "Symbol": "BTCB",
+ "Explorer": "https://bscscan.com/token/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+ "Research": "https://cryptocompare.com/coins/bch/overview",
+ "Description": "",
+ "Type": "BEP20",
+ "Id": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+ "Decimals": 18
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Time and Space Traveller",
+ "ImageUrl": "/media/39198301/traveller.png",
+ "SmartContract": "0xf4e07a6a3ba1bfc2e79db83cf00485984675f1e4",
+ "Symbol": "TRAVELLER",
+ "Explorer": "https://etherscan.io/token/0xf4e07a6a3ba1bfc2e79db83cf00485984675f1e4",
+ "Research": "https://cryptocompare.com/coins/traveller/overview",
+ "Description": "Time and Space Traveler is a project to transform the unique, limited and intangible time into NFT (Non Fungible Token), making it digital and tangible.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xf4e07a6a3ba1bfc2e79db83cf00485984675f1e4",
+ "Decimals": 8
+}

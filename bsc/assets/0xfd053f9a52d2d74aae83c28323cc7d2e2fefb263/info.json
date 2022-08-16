@@ -1,0 +1,12 @@
+{
+ "Name": "Torii Finance",
+ "ImageUrl": "/media/38553918/torii.png",
+ "SmartContract": "0xfd053f9a52d2d74aae83c28323cc7d2e2fefb263",
+ "Symbol": "TORII",
+ "Explorer": "https://etherscan.io/token/0xfd053f9a52d2d74aae83c28323cc7d2e2fefb263",
+ "Research": "https://cryptocompare.com/coins/torii/overview",
+ "Description": "Torii.finance is a group of protocols running on Binance Smart Chain that allow users to optimize and manage their earnings on fungible and non-fungible assets through lending, staking and other DeFi services.TORII tokens are earned by enabling the staking and participating in locked blockchain smart contracts on the Torii.Finance or Torii.Fi platform - or participating partner platforms.Telegram",
+ "Type": "BEP20",
+ "Id": "0xfd053f9a52d2d74aae83c28323cc7d2e2fefb263",
+ "Decimals": 8
+}

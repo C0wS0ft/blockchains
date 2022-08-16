@@ -1,0 +1,12 @@
+{
+ "Name": "Twinci",
+ "ImageUrl": "/media/39501365/twin.png",
+ "SmartContract": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
+ "Symbol": "TWIN",
+ "Explorer": "https://etherscan.io/token/0xaf83f292fced83032f52ced45ef7dbddb586441a",
+ "Research": "https://cryptocompare.com/coins/twin/overview",
+ "Description": "Twinci is a decentralized NFTs social networking application on blockchain where users can create, sell, and collect digital products. They can receive an unlimited amount of money through the works that people drop a heart.TWIN is a Twinci token on the NFTs market. It can be used to buy and sell NFTs products that users like, and they will receive special offers when using TWIN tokens to pay. Profits from sharing revenue with art creators and collecting fees for Dapp\u0026#39;s NFTs transactions will be burned quarterly, and the more active the NFTs market is, the less the total supply of NFTs will be.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Travala",
+ "ImageUrl": "/media/37747635/ava.png",
+ "SmartContract": "0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9",
+ "Symbol": "AVA",
+ "Explorer": "https://etherscan.io/token/0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9",
+ "Research": "https://cryptocompare.com/coins/ava/overview",
+ "Description": "Travala.com (AVA) is a travel booking platform based on the NEO blockchain. The platform itself operates both a centralized front-end allowing suppliers to edit their listings, whilst operating a decentralized backend incorporating the NEO blockchain governing the AVA engine. Thus, building a trusted, transparent and secure travel booking platform reducing the costs associated with the travel industry.Travala.com was designed to be a real-world use platform and by utilizing the NEO blockchain it allows us to position ourselves above potential competition operating within the crypto space. NEO operating at 1,000 transactions per second with the aim to be running at 100,000 TPS by 2020 [as mentioned in NEO Devcon]. Telegram | LinkedIn | Facebook | Instagram | Blog",
+ "Type": "BEP20",
+ "Id": "0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9",
+ "Decimals": 8
+}

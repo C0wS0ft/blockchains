@@ -1,0 +1,12 @@
+{
+ "Name": "BabyDoge",
+ "ImageUrl": "/media/38553759/babydoge.png",
+ "SmartContract": "0xc748673057861a797275cd8a068abb95a902e8de",
+ "Symbol": "BABYDOGE",
+ "Explorer": "https://etherscan.io/token/0xc748673057861a797275cd8a068abb95a902e8de",
+ "Research": "https://cryptocompare.com/coins/babydoge/overview",
+ "Description": "Baby DogeCoin has learned a few tricks and lessons from his meme father, Doge. A new crypto birthed by fans of the DogeCoin online community. Baby Doge seeks to impress his father by showing his new improved transaction speeds \u0026amp; adorableness. He is Hyper-deflationary with static reflection that rewards holders, so more baby doge coins are being automatically added to users\u0026#39; wallets each transaction.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xc748673057861a797275cd8a068abb95a902e8de",
+ "Decimals": 8
+}

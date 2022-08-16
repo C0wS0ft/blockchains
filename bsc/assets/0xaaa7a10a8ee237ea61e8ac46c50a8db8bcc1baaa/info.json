@@ -1,0 +1,10 @@
+{
+ "Name": "QANX Token",
+ "SmartContract": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
+ "Symbol": "QANX",
+ "Explorer": "https://bscscan.com/token/0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
+ "Decimals": 18
+}

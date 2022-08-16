@@ -1,0 +1,12 @@
+{
+ "Name": "CryptoTycoon",
+ "ImageUrl": "/media/39501154/tycoon.png",
+ "SmartContract": "0x464863745ed3af8b9f8871f1082211c55f8f884d",
+ "Symbol": "TYCOON",
+ "Explorer": "https://etherscan.io/token/0x464863745ed3af8b9f8871f1082211c55f8f884d",
+ "Research": "https://cryptocompare.com/coins/tycoon/overview",
+ "Description": "CryptoTycoon is a light DeFi gaming platform based on BSC (Binance Smart Chain), in addition, CryptoTycoon is also a member of Binance MVB program. Players can use CTT and other BSC-based tokens to participate in game yield farming and NFT collection.CTT is the game token of CryptoTycoon, which has both functional and governance usages. It is currently running on Binance Smart Chain.The official CryptoTycoon ticker is “CTT” and trades under that name on all the exchanges where it has been listed. The designation “TYCOON” is for CryptoCompare.com only.Telegram | MediumDocs",
+ "Type": "BEP20",
+ "Id": "0x464863745ed3af8b9f8871f1082211c55f8f884d",
+ "Decimals": 8
+}

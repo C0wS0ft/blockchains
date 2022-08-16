@@ -1,0 +1,12 @@
+{
+ "Name": "KACO Finance",
+ "ImageUrl": "/media/38554020/kac.png",
+ "SmartContract": "0xf96429A7aE52dA7d07E60BE95A3ece8B042016fB",
+ "Symbol": "KAC",
+ "Explorer": "https://etherscan.io/token/0xf96429A7aE52dA7d07E60BE95A3ece8B042016fB",
+ "Research": "https://cryptocompare.com/coins/kac/overview",
+ "Description": "Kaco is a cross-chain DEX based on the Binance Smart Chain(BSC). It will help Binance Smart Chain Ecological projects to start up, provide liquidity, cross-chain, etc.$KAC is the token that powers the KACO ecosystem. Users can earn $KAC from the Farm or buy it on the KACO exchange.Telegram",
+ "Type": "BEP20",
+ "Id": "0xf96429A7aE52dA7d07E60BE95A3ece8B042016fB",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Tardigrades Finance",
+ "ImageUrl": "/media/37746898/trdg.png",
+ "SmartContract": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+ "Symbol": "TRDG",
+ "Explorer": "https://etherscan.io/token/0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+ "Research": "https://cryptocompare.com/coins/trdg/overview",
+ "Description": "Tardigrades Finance offers frictionless rewards of 5% Tax with 2.5% Burn / and 2.5% back to Holders for each transaction.",
+ "Type": "BEP20",
+ "Id": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+ "Decimals": 8
+}

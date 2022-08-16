@@ -1,0 +1,12 @@
+{
+ "Name": "Alpaca Finance",
+ "ImageUrl": "/media/37746474/alpaca.png",
+ "SmartContract": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+ "Symbol": "ALPACA",
+ "Explorer": "https://etherscan.io/token/0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+ "Research": "https://cryptocompare.com/coins/alpaca/overview",
+ "Description": "Alpaca Finance is a leverage yield farming protocol built on the Binance Smart Chain. It allows yield farmers to earn a higher return by opening a leverage position.",
+ "Type": "BEP20",
+ "Id": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+ "Decimals": 8
+}

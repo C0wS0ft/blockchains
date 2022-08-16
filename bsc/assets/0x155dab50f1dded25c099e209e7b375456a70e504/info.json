@@ -1,0 +1,12 @@
+{
+ "Name": "Mercor Finance",
+ "ImageUrl": "/media/39501477/mrcr.png",
+ "SmartContract": "0x155dab50F1DdeD25c099E209E7b375456a70e504",
+ "Symbol": "MRCR",
+ "Explorer": "https://etherscan.io/token/0x155dab50F1DdeD25c099E209E7b375456a70e504",
+ "Research": "https://cryptocompare.com/coins/mrcr/overview",
+ "Description": "Mercor’s mission is to disrupt and democratize the global algorithmic trading market by building a bridge between algorithmic trading and everyday investors worldwide.Mercor will democratize certain aspects of the platform, which will give Mercor token holders certain benefits and rights. The MRCR token will be used throughout the platform for multiple use cases.lding a bridge between algorithmic trading and everyday investors worldwide.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x155dab50F1DdeD25c099E209E7b375456a70e504",
+ "Decimals": 8
+}

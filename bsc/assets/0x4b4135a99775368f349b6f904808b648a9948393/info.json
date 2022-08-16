@@ -1,0 +1,12 @@
+{
+ "Name": "Derived",
+ "ImageUrl": "/media/39501487/dvdx.png",
+ "SmartContract": "0x4B4135A99775368f349b6f904808B648A9948393",
+ "Symbol": "DVDX",
+ "Explorer": "https://etherscan.io/token/0x4B4135A99775368f349b6f904808B648A9948393",
+ "Research": "https://cryptocompare.com/coins/dvdx/overview",
+ "Description": "Derived is a Decentralised Multi-Chain Asset Protocol giving users access to trade Stocks, Commodities, Forex or Crypto on a single platform. Derived brings the power of Smart Contracts to the world of derivatives trading acting as a bridge between traditional and digital financial markets.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x4B4135A99775368f349b6f904808B648A9948393",
+ "Decimals": 8
+}

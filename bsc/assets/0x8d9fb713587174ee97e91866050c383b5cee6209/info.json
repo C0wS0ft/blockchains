@@ -1,0 +1,12 @@
+{
+ "Name": "Velhalla",
+ "ImageUrl": "/media/39198236/scar.png",
+ "SmartContract": "0x8d9fB713587174Ee97e91866050c383b5cEE6209",
+ "Symbol": "SCAR",
+ "Explorer": "https://etherscan.io/token/0x8d9fB713587174Ee97e91866050c383b5cEE6209",
+ "Research": "https://cryptocompare.com/coins/scar/overview",
+ "Description": "Velhalla is a metaverse designed to allow its users to immerse themselves in a new universe driven by the Velas blockchain, where they can perform a wide range of actions, purchase and sell virtual pieces of land, outfit highly detailed characters, and more.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x8d9fB713587174Ee97e91866050c383b5cEE6209",
+ "Decimals": 8
+}

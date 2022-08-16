@@ -1,0 +1,12 @@
+{
+ "Name": "Anypad",
+ "ImageUrl": "/media/38553995/apad.png",
+ "SmartContract": "0x366d71ab095735b7dae83ce2b82d5262ef655f10",
+ "Symbol": "APAD",
+ "Explorer": "https://etherscan.io/token/0x366d71ab095735b7dae83ce2b82d5262ef655f10",
+ "Research": "https://cryptocompare.com/coins/apad/overview",
+ "Description": "Anypad is a blockchain incubator with a multi-chain launchpad and AMM Dex, whose primary focus is to Incubate the best Micro-cap projects.Anypad Incubator will serve as a catalyst for innovative and emerging blockchain startups, serving as a one-stop Incubator for accelerating the growth of new blockchain projects.Medium | TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x366d71ab095735b7dae83ce2b82d5262ef655f10",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "BUMooN",
+ "ImageUrl": "/media/38553653/bumn.png",
+ "SmartContract": "0x3aeff4e27e1f9144ed75ba65a80bdfee345f413e",
+ "Symbol": "BUMN",
+ "Explorer": "https://etherscan.io/token/0x3aeff4e27e1f9144ed75ba65a80bdfee345f413e",
+ "Research": "https://cryptocompare.com/coins/bumn/overview",
+ "Description": "BUMooN Token is a project for individuals who are dedicated to sustainable and eco-friendly living, BUMooN is a decentralized yield-generation utility eco-token that delivers an automated liquidity-locking and self-staking direct distribution protocol.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x3aeff4e27e1f9144ed75ba65a80bdfee345f413e",
+ "Decimals": 8
+}

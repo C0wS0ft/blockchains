@@ -1,0 +1,12 @@
+{
+ "Name": "Peacock Coin",
+ "ImageUrl": "/media/37747464/pekc.png",
+ "SmartContract": "0x050787de0cf5da03d9387b344334d51cae5dd0fd",
+ "Symbol": "PEKC",
+ "Explorer": "https://etherscan.io/token/0x050787de0cf5da03d9387b344334d51cae5dd0fd",
+ "Research": "https://cryptocompare.com/coins/pekc/overview",
+ "Description": "PeacockCoin is a deflationary yield token on the Binance Smart Chain with multi-dimensional NFT\u0026#39;s. PeacockCoin wants to facilitate influential, pioneering contemporary, digital, and crypto native artists\u0026#39; work.Peacock Coin (PEKC) is designed to rewards holders. The PeacockCoin tokenomics apply a special tax to every buyer or seller: 2,5% are redistributed back to holders while 2,5% are burned forever reducing the total supply.",
+ "Type": "BEP20",
+ "Id": "0x050787de0cf5da03d9387b344334d51cae5dd0fd",
+ "Decimals": 8
+}

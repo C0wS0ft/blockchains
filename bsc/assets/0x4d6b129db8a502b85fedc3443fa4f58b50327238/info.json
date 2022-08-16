@@ -1,0 +1,12 @@
+{
+ "Name": "ENVOY",
+ "ImageUrl": "/media/38554143/env.png",
+ "SmartContract": "0x4d6b129db8a502b85fedc3443fa4f58b50327238",
+ "Symbol": "ENV",
+ "Explorer": "https://etherscan.io/token/0x4d6b129db8a502b85fedc3443fa4f58b50327238",
+ "Research": "https://cryptocompare.com/coins/env/overview",
+ "Description": "ENVOY aims to build community driven NFT products that tap into the fanbase of premium collectibles, artists and brands.The team aims to create a new breed of NFTs that live both on the blockchain and in the real world. Each NFT can launch in up to five different tiers: Diamond, Platinum, Gold, Silver and Community. With ENVOY, everyone will be able to benefit from various collectibles that tap into the fanbase of the greatest artists and brandsDiscord | Medium | Telegram | Instagram",
+ "Type": "BEP20",
+ "Id": "0x4d6b129db8a502b85fedc3443fa4f58b50327238",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Ridotto",
+ "ImageUrl": "/media/38554199/rdt.png",
+ "SmartContract": "0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3",
+ "Symbol": "RDT",
+ "Explorer": "https://etherscan.io/token/0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3",
+ "Research": "https://cryptocompare.com/coins/rdt/overview",
+ "Description": "Ridotto is the a cross-chain gambling \u0026amp; lottery protocol.Built on Cardano, it will be based on complete transparency, anonymity, security, and fairness, and will be community driven to the core.Telegram | Discord | Youtube | Medium | RedditWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3",
+ "Decimals": 8
+}

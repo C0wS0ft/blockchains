@@ -1,0 +1,12 @@
+{
+ "Name": "SWAPP Protocol",
+ "ImageUrl": "/media/38554023/swapp.png",
+ "SmartContract": "0x8cb924583681cbfe487a62140a994a49f833c244",
+ "Symbol": "SWAPP",
+ "Explorer": "https://etherscan.io/token/0x8cb924583681cbfe487a62140a994a49f833c244",
+ "Research": "https://cryptocompare.com/coins/swapp/overview",
+ "Description": "Swapp is a company that helps users get paid for their data. There are many people who use the internet every day, but they don\u0026#39;t get paid for it. Swapp is designed to help these people. It uses blockchain technology to make data more safe and private.Telegram | Discord | Blog",
+ "Type": "BEP20",
+ "Id": "0x8cb924583681cbfe487a62140a994a49f833c244",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "GamesPad ",
+ "ImageUrl": "/media/39377381/gmpd.png",
+ "SmartContract": "0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63",
+ "Symbol": "GMPD",
+ "Explorer": "https://etherscan.io/token/0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63",
+ "Research": "https://cryptocompare.com/coins/gmpd/overview",
+ "Description": "GamesPad aims to bring together all aspects of gaming, NFT, and the metaverse. It’s a holistic and chain-agnostic ecosystem where impactful crypto gaming concepts come to reality. A Game-focused launchpad /game incubator /NFT aggregator and marketplace with staking and farming pools, gaming partnerships, etc.Telegram | Discord | Medium | LinkedIn | Facebook | Instagram | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63",
+ "Decimals": 8
+}

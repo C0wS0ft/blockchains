@@ -1,0 +1,12 @@
+{
+ "Name": "BaconDAO (BACON)",
+ "ImageUrl": "/media/39109031/bacon.png",
+ "SmartContract": "0x0615Dbba33Fe61a31c7eD131BDA6655Ed76748B1",
+ "Symbol": "BACON",
+ "Explorer": "https://etherscan.io/token/0x0615Dbba33Fe61a31c7eD131BDA6655Ed76748B1",
+ "Research": "https://cryptocompare.com/coins/bacon/overview",
+ "Description": "BaconDAO (BACON) is a Decentralized Autonomous Organization (DAO) for collaborative learning and investing in Cryptocurrencies. The mission of the organization is to create the largest and most knowledgeable Crypto community, harnessing its group knowledge to help members learn and profit from Cryptocurrencies.Telegram | Youtube | Instagram | Medium",
+ "Type": "BEP20",
+ "Id": "0x0615Dbba33Fe61a31c7eD131BDA6655Ed76748B1",
+ "Decimals": 8
+}

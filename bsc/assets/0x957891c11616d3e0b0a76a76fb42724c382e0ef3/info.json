@@ -1,0 +1,12 @@
+{
+ "Name": "Collateral Pay",
+ "ImageUrl": "/media/38553787/coll.png",
+ "SmartContract": "0x957891c11616d3e0b0a76a76fb42724c382e0ef3",
+ "Symbol": "COLL",
+ "Explorer": "https://etherscan.io/token/0x957891c11616d3e0b0a76a76fb42724c382e0ef3",
+ "Research": "https://cryptocompare.com/coins/coll/overview",
+ "Description": "COLLATERAL allows users to unlock and utilise their crypto assets, without having to sell them. Crypto assets will be used as collateral against payments to merchants by users. The COLLATERAL Ecosystem is powered by a P2P network of borrowers and lenders. Lenders stake crypto assets in staking contracts to receive an APY in return.The $COLL token is the native Token of the COLLATERAL Protocol.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x957891c11616d3e0b0a76a76fb42724c382e0ef3",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "HoDooi.com",
+ "ImageUrl": "/media/38553506/hod.png",
+ "SmartContract": "0x19A4866a85c652EB4a2ED44c42e4CB2863a62D51",
+ "Symbol": "HOD",
+ "Explorer": "https://etherscan.io/token/0x19A4866a85c652EB4a2ED44c42e4CB2863a62D51",
+ "Research": "https://cryptocompare.com/coins/hod/overview",
+ "Description": "The HoDooi.com multi-chain NFT marketplace is a marketplace that features all forms of digital artworks and collectibles, launching on the Binance Smart Chain.Medium",
+ "Type": "BEP20",
+ "Id": "0x19A4866a85c652EB4a2ED44c42e4CB2863a62D51",
+ "Decimals": 8
+}

@@ -1,0 +1,10 @@
+{
+ "Name": "MIOTAC",
+ "SmartContract": "0xd944f1d1e9d5f9bb90b62f9d45e447d989580782",
+ "Symbol": "IOTA",
+ "Explorer": "https://bscscan.com/token/0xd944f1d1e9d5f9bb90b62f9d45e447d989580782",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xd944f1d1e9d5f9bb90b62f9d45e447d989580782",
+ "Decimals": 18
+}

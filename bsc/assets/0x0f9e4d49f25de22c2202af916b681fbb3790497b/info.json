@@ -1,0 +1,10 @@
+{
+ "Name": "Perlin",
+ "SmartContract": "0x0F9E4D49f25de22c2202aF916B681FBB3790497B",
+ "Symbol": "PERL",
+ "Explorer": "https://bscscan.com/token/0x0F9E4D49f25de22c2202aF916B681FBB3790497B",
+ "Description": "",
+ "Type": "BEP20",
+ "Id": "0x0F9E4D49f25de22c2202aF916B681FBB3790497B",
+ "Decimals": 18
+}

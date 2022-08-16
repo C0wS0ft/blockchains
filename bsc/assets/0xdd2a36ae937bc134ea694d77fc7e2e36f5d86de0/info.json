@@ -1,0 +1,12 @@
+{
+ "Name": "Weld",
+ "ImageUrl": "/media/38553772/weld.png",
+ "SmartContract": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
+ "Symbol": "WELD",
+ "Explorer": "https://etherscan.io/token/0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
+ "Research": "https://cryptocompare.com/coins/weld/overview",
+ "Description": "Weld aims To bridge Crypto World with Traditional Finances with seamless Payment solution for regular daily expenses with minimal commissions backed by any crypto wallet. With Seamless integration with ApplePay / GooglePay, Secure and transparent financial flow, Tax-free crypto transactions on the go (no vat and other taxes on conversion).Telegram | Facebook | LinkedIn | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
+ "Decimals": 8
+}

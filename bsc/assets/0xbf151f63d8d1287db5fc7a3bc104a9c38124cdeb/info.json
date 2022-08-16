@@ -1,0 +1,12 @@
+{
+ "Name": "AVNRich",
+ "ImageUrl": "/media/39109088/avn.png",
+ "SmartContract": "0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb",
+ "Symbol": "AVN",
+ "Explorer": "https://etherscan.io/token/0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb",
+ "Research": "https://cryptocompare.com/coins/avn/overview",
+ "Description": "AVNRich is a multi-vendor marketplace that allows multiple vendors to sell their products on a single shopfront. The platform can support hundreds of vendors and thousands of products. The goal is to attract wholesalers, brands, and entrepreneurs\u0026#39; visual attention to help them expand their business and reach more customers worldwide.AVN token is served to be the platform token that is utilized to reward users by making use of the AVNRich multi-vendor platform, it is a cryptocurrency based on the Binance Smart Chain, also known as BEP-20 token. AVN token was created for the community with easy access to digital goods and services in the digital world.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "SaunaFinance Token",
+ "ImageUrl": "/media/39501470/sauna.png",
+ "SmartContract": "0x06b889a7a7fa15D8cC7CFf147962C4232cCE7CF0",
+ "Symbol": "SAUNA",
+ "Explorer": "https://etherscan.io/token/0x06b889a7a7fa15D8cC7CFf147962C4232cCE7CF0",
+ "Research": "https://cryptocompare.com/coins/sauna/overview",
+ "Description": "SAUNA FINANCE aims to build various Dapps and create ideal sauna facilities to satisfy sauna users all over the world. By the votes of $ SAUNA (SAUNA FINANCE TOKEN) holders, it realizes the best settings in every country/region, design of the facility, sauna room temperature, water bath temperature, etc., and create the most relaxed and happiest community.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x06b889a7a7fa15D8cC7CFf147962C4232cCE7CF0",
+ "Decimals": 8
+}

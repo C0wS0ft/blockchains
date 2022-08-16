@@ -1,0 +1,12 @@
+{
+ "Name": "Bosu Inu",
+ "ImageUrl": "/media/39198110/bosu.png",
+ "SmartContract": "0x3b668e5e3e2c28e3e17578f493957694b45f69ab",
+ "Symbol": "BOSU",
+ "Explorer": "https://etherscan.io/token/0x3b668e5e3e2c28e3e17578f493957694b45f69ab",
+ "Research": "https://cryptocompare.com/coins/bosu/overview",
+ "Description": "$BOSU is MEME cryptocurrency with an instant reward system.$BOSU token is a deflationary BEP-20 token that rewards its holders with frictionless rewards, and augments their share\u0026#39;s percentage by real burn feature on each transaction.$Bosu is more like swaps, exchange, nft and others are soon to be released and Aims to be an ALL-IN-ONE platform. Bosu also plans on building trust by allowing community governance. They will release an exclusive set of NFTs. $BOSU is hyperdeflationary in nature due to the automatic buy-back and burn feature that is in place.Telegram | Github | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x3b668e5e3e2c28e3e17578f493957694b45f69ab",
+ "Decimals": 8
+}

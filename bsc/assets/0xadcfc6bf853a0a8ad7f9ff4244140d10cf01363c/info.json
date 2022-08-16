@@ -1,0 +1,12 @@
+{
+ "Name": "TrustPad",
+ "ImageUrl": "/media/38553517/tpad.png",
+ "SmartContract": "0xADCFC6bf853a0a8ad7f9Ff4244140D10cf01363C",
+ "Symbol": "TPAD",
+ "Explorer": "https://etherscan.io/token/0xADCFC6bf853a0a8ad7f9Ff4244140D10cf01363C",
+ "Research": "https://cryptocompare.com/coins/tpad/overview",
+ "Description": "TrustPad is a decentralized multi-chain fundraising platform enabling projects to raise capital and promise safety to early-stage investors. Stake TrustPad tokens to get priority access to promising projects.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xADCFC6bf853a0a8ad7f9Ff4244140D10cf01363C",
+ "Decimals": 8
+}

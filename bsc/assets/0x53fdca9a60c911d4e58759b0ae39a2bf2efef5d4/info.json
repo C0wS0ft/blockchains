@@ -1,0 +1,12 @@
+{
+ "Name": "FlowCom",
+ "ImageUrl": "/media/37748372/fig.png",
+ "SmartContract": "0x53fdca9a60c911d4e58759b0ae39a2bf2efef5d4",
+ "Symbol": "FIG",
+ "Explorer": "https://etherscan.io/token/0x53fdca9a60c911d4e58759b0ae39a2bf2efef5d4",
+ "Research": "https://cryptocompare.com/coins/fig/overview",
+ "Description": "FlowCom offers FiG - native currency that rewards surfers and is used as payment in the FlowCom ecosystem.Telegram",
+ "Type": "BEP20",
+ "Id": "0x53fdca9a60c911d4e58759b0ae39a2bf2efef5d4",
+ "Decimals": 8
+}

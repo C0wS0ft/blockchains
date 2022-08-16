@@ -1,0 +1,12 @@
+{
+ "Name": "Nafter",
+ "ImageUrl": "/media/38553500/naft.png",
+ "SmartContract": "0xd7730681b1dc8f6f969166b29d8a5ea8568616a3",
+ "Symbol": "NAFT",
+ "Explorer": "https://etherscan.io/token/0xd7730681b1dc8f6f969166b29d8a5ea8568616a3",
+ "Research": "https://cryptocompare.com/coins/naft/overview",
+ "Description": "Nafter is an online NFT marketplace where creators and fans can interact, sell, and collect unique content. Every picture tells a story and, using Nafter, influencers, and creators can sell unique NFTs to their fans, each of whom can own a slice of the story.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xd7730681b1dc8f6f969166b29d8a5ea8568616a3",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Fire Inu",
+ "ImageUrl": "/media/37747718/finu.png",
+ "SmartContract": "0x60582805620370818967b32dc8cd709195b72fab",
+ "Symbol": "FINU",
+ "Explorer": "https://etherscan.io/token/0x60582805620370818967b32dc8cd709195b72fab",
+ "Research": "https://cryptocompare.com/coins/finu/overview",
+ "Description": "Fire Inu is deployed on the Binance Smart Chain and Ethereum network. It employes strategic tokenomics on both networks.Tokenomics are set to prioritize the needs of the community and be elastic and dynamic with a response. Tokenomics for both ERC and BSC networks are the same and are carefully designed for a robust trading experience.",
+ "Type": "BEP20",
+ "Id": "0x60582805620370818967b32dc8cd709195b72fab",
+ "Decimals": 8
+}

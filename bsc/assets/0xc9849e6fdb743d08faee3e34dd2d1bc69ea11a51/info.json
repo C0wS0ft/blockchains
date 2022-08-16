@@ -1,0 +1,12 @@
+{
+ "Name": "Pancake Bunny",
+ "ImageUrl": "/media/38553196/bunny.png",
+ "SmartContract": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+ "Symbol": "BUNNY",
+ "Explorer": "https://etherscan.io/token/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+ "Research": "https://cryptocompare.com/coins/bunny/overview",
+ "Description": "Pancake Bunny is a yield farming project aiming to complete difficult missions for cake farmers to get more cakes.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+ "Decimals": 8
+}

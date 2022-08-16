@@ -1,0 +1,12 @@
+{
+ "Name": "RisingSun",
+ "ImageUrl": "/media/38553993/rsun.png",
+ "SmartContract": "0x917841c010b3d86ED886F36F2C9807E07a2e3093",
+ "Symbol": "RSUN",
+ "Explorer": "https://etherscan.io/token/0x917841c010b3d86ED886F36F2C9807E07a2e3093",
+ "Research": "https://cryptocompare.com/coins/rsun/overview",
+ "Description": "RisingSun powers a rapidly expanding ecosystem on Binance Smart Chain. A mix of NFTs, play-to-earn mechanics and unique samurai aesthetics makes for one of the most novel gaming experiences in crypto. Players battle, earn and rule in the NFT card game — SamuraiRising.Telegram | Discord | Medium | RedditWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x917841c010b3d86ED886F36F2C9807E07a2e3093",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Vox.Finance",
+ "ImageUrl": "/media/39501309/vox.png",
+ "SmartContract": "0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
+ "Symbol": "VOX",
+ "Explorer": "https://etherscan.io/token/0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
+ "Research": "https://cryptocompare.com/coins/vox/overview",
+ "Description": "Vox Finance is a multi-blockchain decentralized finance (DeFi) yield-farming project developed by an independent team of developers, seeking to bring an innovative approach to the new emerging market.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
+ "Decimals": 8
+}

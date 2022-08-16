@@ -1,0 +1,12 @@
+{
+ "Name": "Cellframe",
+ "ImageUrl": "/media/39108981/cell.png",
+ "SmartContract": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+ "Symbol": "CELL",
+ "Explorer": "https://etherscan.io/token/0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+ "Research": "https://cryptocompare.com/coins/cell/overview",
+ "Description": "Cellframe is a quantum-resistant layer-1 network focused on secure and scalable cross-chain transfers. It is meant to be an infrastructure layer for web3. Cellframe uses variable post-quantum encryption by default.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Business Age of Empires",
+ "ImageUrl": "/media/39501101/baoe.png",
+ "SmartContract": "0x5d449e51ac8a7509dd71d22dcac8e32d9f9c5bfc",
+ "Symbol": "BAOE",
+ "Explorer": "https://etherscan.io/token/0x5d449e51ac8a7509dd71d22dcac8e32d9f9c5bfc",
+ "Research": "https://cryptocompare.com/coins/baoe/overview",
+ "Description": "BAoE is a “PLAY TO EARN” game built on the BSC platform. In Business Age of Empires, players will embody cyborgs, go on an adventure to uncover the treasures, and learn more about mankind\u0026#39;s once-famous civilizations.The Business Age of Empires (BAOE) token allows its investors to select a project or stake package to begin investing.  Players are available to play any games of Business Age of EmpiresTelegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x5d449e51ac8a7509dd71d22dcac8e32d9f9c5bfc",
+ "Decimals": 8
+}

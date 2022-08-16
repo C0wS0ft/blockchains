@@ -1,0 +1,12 @@
+{
+ "Name": "Demodyfi Token",
+ "ImageUrl": "/media/38553659/dmod.png",
+ "SmartContract": "0x002d8563759f5e1eaf8784181f3973288f6856e4",
+ "Symbol": "DMOD",
+ "Explorer": "https://etherscan.io/token/0x002d8563759f5e1eaf8784181f3973288f6856e4",
+ "Research": "https://cryptocompare.com/coins/dmod/overview",
+ "Description": "The Demodyfi protocol supports the value interoperability between different parachains, allowing the tokens on the Polkadot chain to be quickly traded and circulated. The protocol is integrating and combining communication between different blockchains:Ethereum Compatibility = “blockchains on parachains Architecture.”The protocol utilizes Moonbeam’s parachain smart contract interoperability while the Substrate framework serves as a fundamental layer. Combining this makes it potential to build on Polkadot, furthermore make it compatible with the EVM, and to deploy EVM-based bytecode compiled from Solidity using tools available from the Ethereum stack.By building on Moonbeam, Polkadot and Substrate lay the groundwork for new forms of social organization and decision-making. Demodyfi leverages Substrate\u0026#39;s governance and treasury management capabilities along with Polkadot\u0026#39;s cross-chain messaging to create a decentralized sovereign wealth fund. The goal for this is to fund and secure a parachain slot and drive further development.The result, Demodyfi is able to build a next-generation DEX that extends its DeFi product line into a single-source, cross-chain market. The ability to do both pools and cross-chain swaps, powered by the Polkadot ecosystem, can provide higher throughput for faster and cheaper transactions while remaining connected to the Ethereum Network and other blockchains for liquidity.Telegram | Instagram | LinkedIn | Medium",
+ "Type": "BEP20",
+ "Id": "0x002d8563759f5e1eaf8784181f3973288f6856e4",
+ "Decimals": 8
+}

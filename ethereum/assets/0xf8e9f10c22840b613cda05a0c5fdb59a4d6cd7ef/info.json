@@ -1,0 +1,10 @@
+{
+ "Name": "Dogs Of Elon",
+ "SmartContract": "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef",
+ "Symbol": "DOE",
+ "Explorer": "https://etherscan.io/token/0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef",
+ "Decimals": 18
+}

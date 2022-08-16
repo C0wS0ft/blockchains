@@ -1,0 +1,12 @@
+{
+ "Name": "Digital Financial Exchange",
+ "ImageUrl": "/media/39501085/difx.png",
+ "SmartContract": "0x697bd938e7E572E787ecd7bC74a31f1814C21264",
+ "Symbol": "DIFX",
+ "Explorer": "https://etherscan.io/token/0x697bd938e7E572E787ecd7bC74a31f1814C21264",
+ "Research": "https://cryptocompare.com/coins/difx/overview",
+ "Description": "DIFX consists of three main components: the exchange, the wallet, and the cross-asset platform. At DIFX, users can invest and trade across different asset classes on a single interface. The ERC-20 DIFX token is a medium of exchange for users to anonymously make payments and transactions instantly around the world. Additionally, token holders enjoy trading discounts of up to 50% of trading fees on DIFX Exchange whilst being able to leverage 10 times the total DIFX token value on any asset class listed on the exchange.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x697bd938e7E572E787ecd7bC74a31f1814C21264",
+ "Decimals": 8
+}

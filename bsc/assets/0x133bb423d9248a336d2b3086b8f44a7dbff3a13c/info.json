@@ -1,0 +1,12 @@
+{
+ "Name": "SIL Finance Token V2",
+ "ImageUrl": "/media/38553871/sil.png",
+ "SmartContract": "0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C",
+ "Symbol": "SIL",
+ "Explorer": "https://etherscan.io/token/0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C",
+ "Research": "https://cryptocompare.com/coins/sil/overview",
+ "Description": "SIL.Finance is a single-sided yield aggregator (1 click hedging) with adventurous functional #NFT farming card add-ons. Or in formal form, it’s a decentralized automatic investment platform based on smart contracts, focusing on providing users with DeFi Financial Management services. SIL provides dual-token liquidity for variable swaps, automatic LP matching, and automatic compound interests.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C",
+ "Decimals": 8
+}

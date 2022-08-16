@@ -1,0 +1,12 @@
+{
+ "Name": "Rabbit Finance",
+ "ImageUrl": "/media/38553525/rabbit.png",
+ "SmartContract": "0x95a1199EBA84ac5f19546519e287d43D2F0E1b41",
+ "Symbol": "RABBIT",
+ "Explorer": "https://etherscan.io/token/0x95a1199EBA84ac5f19546519e287d43D2F0E1b41",
+ "Research": "https://cryptocompare.com/coins/rabbit/overview",
+ "Description": "Rabbit Finance is a leveraged yield farming protocol based Binance Smart Chain (BSC) released by Rabbit Finance Lab. It supports users participating in liquidity farming through over-lending plus leverage to get more revenue.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x95a1199EBA84ac5f19546519e287d43D2F0E1b41",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "CryptoBeast",
+ "ImageUrl": "/media/38553556/beast.png",
+ "SmartContract": "0xe2273932c4cc5e21e203a16d4bbbc80ee7c0fbb6",
+ "Symbol": "BEAST",
+ "Explorer": "https://etherscan.io/token/0xe2273932c4cc5e21e203a16d4bbbc80ee7c0fbb6",
+ "Research": "https://cryptocompare.com/coins/beast/overview",
+ "Description": "Crypto Beast is a combination of traditional role-playing games (RPG) and the latest Play-to-Earn NFT trend. Built on Binance Smart Chain, Crypto Beast blends into the flow of the latest market movement.Telegram",
+ "Type": "BEP20",
+ "Id": "0xe2273932c4cc5e21e203a16d4bbbc80ee7c0fbb6",
+ "Decimals": 8
+}

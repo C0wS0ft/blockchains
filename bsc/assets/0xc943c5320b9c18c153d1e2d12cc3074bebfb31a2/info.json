@@ -1,0 +1,10 @@
+{
+ "Name": "Binance-Peg FLOW Token",
+ "SmartContract": "0xc943c5320b9c18c153d1e2d12cc3074bebfb31a2",
+ "Symbol": "FLOW",
+ "Explorer": "https://bscscan.com/token/0xc943c5320b9c18c153d1e2d12cc3074bebfb31a2",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xc943c5320b9c18c153d1e2d12cc3074bebfb31a2",
+ "Decimals": 18
+}

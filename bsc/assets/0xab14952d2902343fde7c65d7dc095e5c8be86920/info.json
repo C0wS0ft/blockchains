@@ -1,0 +1,12 @@
+{
+ "Name": "GOMA Finance",
+ "ImageUrl": "/media/38553921/goma.png",
+ "SmartContract": "0xab14952d2902343fde7c65d7dc095e5c8be86920",
+ "Symbol": "GOMA",
+ "Explorer": "https://etherscan.io/token/0xab14952d2902343fde7c65d7dc095e5c8be86920",
+ "Research": "https://cryptocompare.com/coins/goma/overview",
+ "Description": "GOMA Finance (GOMA) is a HYPER-Deflationary Community DeFi Coin focused on creating opportunities through innovative Decentralized financial instruments.Telegram",
+ "Type": "BEP20",
+ "Id": "0xab14952d2902343fde7c65d7dc095e5c8be86920",
+ "Decimals": 8
+}

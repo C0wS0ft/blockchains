@@ -1,0 +1,12 @@
+{
+ "Name": "Loud Market",
+ "ImageUrl": "/media/38553662/loud.png",
+ "SmartContract": "0x3d0e22387ddfe75d1aea9d7108a4392922740b96",
+ "Symbol": "LOUD",
+ "Explorer": "https://etherscan.io/token/0x3d0e22387ddfe75d1aea9d7108a4392922740b96",
+ "Research": "https://cryptocompare.com/coins/loud/overview",
+ "Description": "$LOUD is a Binance Smart Chain (BSC) Token built to support Loud Market’s NFT Marketplace. This platform has been created to empower musicians and artists in selling their work as NFTs instantly, at fair prices with no hidden fees. The platform gives artists the opportunity to promote their media and create another source of income in the form of instant cryptocurrency payments.Telegram",
+ "Type": "BEP20",
+ "Id": "0x3d0e22387ddfe75d1aea9d7108a4392922740b96",
+ "Decimals": 8
+}

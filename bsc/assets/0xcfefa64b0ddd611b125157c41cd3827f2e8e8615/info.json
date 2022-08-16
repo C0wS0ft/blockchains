@@ -1,0 +1,12 @@
+{
+ "Name": "KickPad",
+ "ImageUrl": "/media/37746790/kpad.png",
+ "SmartContract": "0xcfefa64b0ddd611b125157c41cd3827f2e8e8615",
+ "Symbol": "KPAD",
+ "Explorer": "https://etherscan.io/token/0xcfefa64b0ddd611b125157c41cd3827f2e8e8615",
+ "Research": "https://cryptocompare.com/coins/kpad/overview",
+ "Description": "KickPAD is a decentralized presale- and IDO platform based on the Binance Smart Chain. The project aims to address the current problems plaguing DeFi - making it a safer endeavor for everyone to engage with. The platform is built to make it easy for promising projects to launch on Binance Smart Chain to engage in trustless token sales and efficiently lock liquidity.",
+ "Type": "BEP20",
+ "Id": "0xcfefa64b0ddd611b125157c41cd3827f2e8e8615",
+ "Decimals": 8
+}

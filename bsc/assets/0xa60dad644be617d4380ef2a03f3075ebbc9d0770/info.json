@@ -1,0 +1,12 @@
+{
+ "Name": "KingDoge",
+ "ImageUrl": "/media/37747767/kdoge.png",
+ "SmartContract": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
+ "Symbol": "KDOGE",
+ "Explorer": "https://etherscan.io/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
+ "Research": "https://cryptocompare.com/coins/kdoge/overview",
+ "Description": "KingDoge is a deflationary auto-liquidity generating, static rewarding cryptocurrency protocol. KingDoge directly rewards the holders, while continuously increasing liquidity. The token rewards the investors just for holding.",
+ "Type": "BEP20",
+ "Id": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
+ "Decimals": 8
+}

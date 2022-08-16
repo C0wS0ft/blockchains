@@ -1,0 +1,12 @@
+{
+ "Name": "BSC Station",
+ "ImageUrl": "/media/37747394/bscs.png",
+ "SmartContract": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
+ "Symbol": "BSCS",
+ "Explorer": "https://etherscan.io/token/0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
+ "Research": "https://cryptocompare.com/coins/bscs/overview",
+ "Description": "BSC Station (BSCS) aims to build a Full-Stack DEFI with NFT Auction on the Binance Smart Chain. It will become economy infrastructure for DeFi and NFT powered by Binance Smart Chain. The Infrastructure for DeFi \u0026amp; NFT Powered by BSC.BSCS operates on top of existing blockchains Binance Smart Chain that is designed to offer maximum value to consumers and institutions. Binance Smart Chain has solved the problem of infrastructure in the context of BSCS’s product, and that BSCS represents the ideal use case to leverage the technologies offered by its platform.",
+ "Type": "BEP20",
+ "Id": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Scallop",
+ "ImageUrl": "/media/38554094/sclp.png",
+ "SmartContract": "0xF2c96E402c9199682d5dED26D3771c6B192c01af",
+ "Symbol": "SCLP",
+ "Explorer": "https://etherscan.io/token/0xF2c96E402c9199682d5dED26D3771c6B192c01af",
+ "Research": "https://cryptocompare.com/coins/sclp/overview",
+ "Description": "Scallop allows users to buy, sell and leverage digital content using a built-in NFT marketplace synced with accounts. SCLP is the utility token that empowers the entire Scallop ecosystem. Across the platform, it can be used to access various products, features and rewards.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xF2c96E402c9199682d5dED26D3771c6B192c01af",
+ "Decimals": 8
+}

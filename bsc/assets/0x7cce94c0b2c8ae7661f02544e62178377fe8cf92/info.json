@@ -1,0 +1,12 @@
+{
+ "Name": "Daddy Doge",
+ "ImageUrl": "/media/37748354/daddydoge.png",
+ "SmartContract": "0x7cce94c0b2c8ae7661f02544e62178377fe8cf92",
+ "Symbol": "DADDYDOGE",
+ "Explorer": "https://etherscan.io/token/0x7cce94c0b2c8ae7661f02544e62178377fe8cf92",
+ "Research": "https://cryptocompare.com/coins/daddydoge/overview",
+ "Description": "Daddy Doge is a deflationary DeFi token that takes a 9% tax from each buy and sell. This tax acts to benefit the project as a whole by putting 3% in the liquidity pool for a stable price floor, 3% proportionally reflected back to all holders of a DaddyDoge token and 3% added to a marketing/dev wallet to make sure that the project is able to succeed in the long term. Another large purpose of the tax is to decentivise large token holders from buying and selling quickly and damaging the price.Telegram",
+ "Type": "BEP20",
+ "Id": "0x7cce94c0b2c8ae7661f02544e62178377fe8cf92",
+ "Decimals": 8
+}

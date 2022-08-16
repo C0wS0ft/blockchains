@@ -1,0 +1,12 @@
+{
+ "Name": "PureFi",
+ "ImageUrl": "/media/37748351/ufi.png",
+ "SmartContract": "0xe2a59D5E33c6540E18aAA46BF98917aC3158Db0D",
+ "Symbol": "UFI",
+ "Explorer": "https://etherscan.io/token/0xe2a59D5E33c6540E18aAA46BF98917aC3158Db0D",
+ "Research": "https://cryptocompare.com/coins/ufi/overview",
+ "Description": "PureFi is a DeFi AML protocol for cryptocurrency onboarding. Developed by AMLBot in partnership with Hacken Foundation it aims to provide a full-cycle solution for cryptoasset analytics and AML/KYC procedures on the DeFi market. PureFi within a set of smart contracts will connect KYC/AML providers with DeFi users and Dexs/Defi projects in order to provide cryptoassets analytics and protect honest DeFi market players from “dirty money” risks. For example the liquidity pool user will be able to avoid the risk of getting an illegal money trail using the Verifiable Credentials certificate with his full-fledged AML/KYC data.PUREFI token (UFI) is the ERC20 token minted on the Ethereum blockchain and Binance Smart Chain (BSC) that empowers the PUREFI protocol. The key utility function of UFI is to provide access to PureFi services, to enable the circulation within PureFi protocol, receive new oracles and protocol updates, as well as enable cryptoasset analytics and identity verification.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xe2a59D5E33c6540E18aAA46BF98917aC3158Db0D",
+ "Decimals": 8
+}

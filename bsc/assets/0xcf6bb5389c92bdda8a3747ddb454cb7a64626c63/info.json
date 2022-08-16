@@ -1,0 +1,12 @@
+{
+ "Name": "Venus",
+ "ImageUrl": "/media/37747613/xvs.png",
+ "SmartContract": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+ "Symbol": "XVS",
+ "Explorer": "https://etherscan.io/token/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+ "Research": "https://cryptocompare.com/coins/xvs/overview",
+ "Description": "Venus Protocol is an algorithmic-based money market system designed to bring a complete decentralized finance-based lending and credit system onto Binance Smart Chain.Venus enables users to utilize their cryptocurrencies by supplying collateral to the network that may be borrowed by pledging over-collateralized cryptocurrencies. This creates a secure lending environment where the lender receives a compounded interest rate annually (APY) paid per block, while the borrower pays interest on the cryptocurrency borrowed. These interest rates are set by the protocol in a curve yield, where the rates are automated based on the demand of the specific market, such as Bitcoin.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+ "Decimals": 8
+}

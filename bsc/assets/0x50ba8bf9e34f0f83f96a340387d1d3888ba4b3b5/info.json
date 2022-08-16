@@ -1,0 +1,12 @@
+{
+ "Name": "RugZombie",
+ "ImageUrl": "/media/38553626/zmbe.png",
+ "SmartContract": "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5",
+ "Symbol": "ZMBE",
+ "Explorer": "https://etherscan.io/token/0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5",
+ "Research": "https://cryptocompare.com/coins/zmbe/overview",
+ "Description": "The RugZombie Team has created a Dapp from a fork of PancakeSwap code to allow users the opportunity to stake “dead” tokens in its Graves or Tombs in exchange for custom NFT artwork as a consolation prize and earn a yield with our $ZMBE token.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5",
+ "Decimals": 8
+}

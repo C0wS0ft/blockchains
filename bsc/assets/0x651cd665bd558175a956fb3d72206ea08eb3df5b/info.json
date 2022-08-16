@@ -1,0 +1,12 @@
+{
+ "Name": "Roseon Finance",
+ "ImageUrl": "/media/37747898/rosn.png",
+ "SmartContract": "0x651cd665bd558175a956fb3d72206ea08eb3df5b",
+ "Symbol": "ROSN",
+ "Explorer": "https://etherscan.io/token/0x651cd665bd558175a956fb3d72206ea08eb3df5b",
+ "Research": "https://cryptocompare.com/coins/rosn/overview",
+ "Description": "Roseon Finance is a mobile yield aggregator designed to manage crypto + NFT portfolios and optimizes yield across DeFi and CeFi networks.Key elements of the Roseon Finance ecosystem:Roseon Mobile is a mobile crypto app that tightly integrates with CeFi and DeFi services within a single interface to help simplify the digital asset investing experience.Roseon Aggregator Service integrates with external CeFi and DeFi sources to bring liquidity, yield and NFTs into the Roseon ecosystem.Roseon.DeFi is a decentralized yield farming application designed to provide liquidity pools, swaps and yield aggregation as it will interact with the other DeFi services with the goal of optimization.Telegram | Facebook | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x651cd665bd558175a956fb3d72206ea08eb3df5b",
+ "Decimals": 8
+}

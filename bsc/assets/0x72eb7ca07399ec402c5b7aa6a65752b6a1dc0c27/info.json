@@ -1,0 +1,12 @@
+{
+ "Name": "AstroSwap",
+ "ImageUrl": "/media/39500877/astro.png",
+ "SmartContract": "0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27",
+ "Symbol": "ASTRO",
+ "Explorer": "https://etherscan.io/token/0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27",
+ "Research": "https://cryptocompare.com/coins/astro/overview",
+ "Description": "AstroSwap is a DEX built on a Cardano network. AstroSwap is a interstellar DEX. This decentralized exchange is on a mission to launch on #ADAPad.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27",
+ "Decimals": 8
+}

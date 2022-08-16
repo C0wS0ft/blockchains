@@ -1,0 +1,12 @@
+{
+ "Name": "Bficoin",
+ "ImageUrl": "/media/37747252/bfic.png",
+ "SmartContract": "0xF0a0913BA2b173c1fbCa1c1b2FCFC0E3678f66a9",
+ "Symbol": "BFIC",
+ "Explorer": "https://etherscan.io/token/0xF0a0913BA2b173c1fbCa1c1b2FCFC0E3678f66a9",
+ "Research": "https://cryptocompare.com/coins/bfic/overview",
+ "Description": "Bfic Protocol is a decentralized network that allows anyone to invoice a payment for which the recipient can pay in a secure way. All of the information is stored in a decentralized authentic ledger.While it is built on the blockchain ledger of Smart Chain BFIC aims to be independent from other currencies, monetary policies, or technological choices so that it can build the most robust system possible.",
+ "Type": "BEP20",
+ "Id": "0xF0a0913BA2b173c1fbCa1c1b2FCFC0E3678f66a9",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Xcel Defi",
+ "ImageUrl": "/media/39501107/xld.png",
+ "SmartContract": "0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2",
+ "Symbol": "XLD",
+ "Explorer": "https://etherscan.io/token/0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2",
+ "Research": "https://cryptocompare.com/coins/xld/overview",
+ "Description": "XcelDefi is an ecosystem powered by XcelLabs that aims to become a comprehensive DeFi ecosystem by developing a chain of digital products spanning multiple sectors, backed by $XLD, a community-driven token and leveraging blockchain technology to do so.XcelDefi is a BEP20-based digital asset, which means it was built on Binance Smart Chain.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Aquari",
+ "ImageUrl": "/media/38553155/aquari.png",
+ "SmartContract": "0x6500197a2488610aca288fd8e2dfe88ec99e596c",
+ "Symbol": "AQUARI",
+ "Explorer": "https://etherscan.io/token/0x6500197a2488610aca288fd8e2dfe88ec99e596c",
+ "Research": "https://cryptocompare.com/coins/aquari/overview",
+ "Description": "Aquari is a community governed cryptocurrency that aims to combine the reflection and passive yield farming tokenomics along with the formation of a non-profit organization tasked with the goal of restoring all polluted bodies of water on Earth.Each transaction of the Aquari (AQUARI) token will be taxed for 10% of its total value. Tax will be divided into: 4% that will be burned to provide liquidity; 3% that will be redistributed amongst all Aquari holders; 3% that will be sent to a donation wallet to finance the Aquari Non-Profit Organization’s efforts.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x6500197a2488610aca288fd8e2dfe88ec99e596c",
+ "Decimals": 8
+}

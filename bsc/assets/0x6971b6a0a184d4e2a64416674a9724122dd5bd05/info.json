@@ -1,0 +1,12 @@
+{
+ "Name": "Squid Token",
+ "ImageUrl": "/media/38553771/sqg.png",
+ "SmartContract": "0x6971b6a0a184d4e2a64416674a9724122dd5bd05",
+ "Symbol": "SQG",
+ "Explorer": "https://etherscan.io/token/0x6971b6a0a184d4e2a64416674a9724122dd5bd05",
+ "Research": "https://cryptocompare.com/coins/sqg/overview",
+ "Description": "Squid Token is a Game Token on the Binance Smart Chain Network. Squid Token is inspired by the famous Netflix Series \"Squid Game\", the way that the game will happen is simple and easy to follow, all the users have to do is participate in the presale, the top 10 presale holders (based on the amount of holdings) will be given VIP entrance to the game application. The Squid Token application will have a prize pool, the prize pool will be 2% of the amount raised on the presale and 10 of you will be able to participate in the games in the application and 3 of the users will split the prize pool.",
+ "Type": "BEP20",
+ "Id": "0x6971b6a0a184d4e2a64416674a9724122dd5bd05",
+ "Decimals": 8
+}

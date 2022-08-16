@@ -1,0 +1,12 @@
+{
+ "Name": "Wall Street Games",
+ "ImageUrl": "/media/38553509/wsg.png",
+ "SmartContract": "0xa58950f05fea2277d2608748412bf9f802ea4901",
+ "Symbol": "WSG",
+ "Explorer": "https://etherscan.io/token/0xa58950f05fea2277d2608748412bf9f802ea4901",
+ "Research": "https://cryptocompare.com/coins/wsg/overview",
+ "Description": "Wall Street Games is a hybrid blockchain-based online gaming platform, where players battle each other in simple games for rewards in cryptocurrencies.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xa58950f05fea2277d2608748412bf9f802ea4901",
+ "Decimals": 8
+}

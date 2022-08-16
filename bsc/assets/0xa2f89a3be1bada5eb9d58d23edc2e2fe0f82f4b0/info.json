@@ -1,0 +1,12 @@
+{
+ "Name": "Option Panda Platform",
+ "ImageUrl": "/media/39109085/opa.png",
+ "SmartContract": "0xa2f89a3be1bada5eb9d58d23edc2e2fe0f82f4b0",
+ "Symbol": "OPA",
+ "Explorer": "https://etherscan.io/token/0xa2f89a3be1bada5eb9d58d23edc2e2fe0f82f4b0",
+ "Research": "https://cryptocompare.com/coins/opa/overview",
+ "Description": "A decentralized, non-custodial cryptocurrency derivatives trading platform.Option Panda is a decentralized options underwriting \u0026amp; trading exchange, which supports Ethereum, Binance Smart Chain etc. Its similar peers are Hegic and Binance Option, semi-decentralized and centralized in nature respectively. If you’re not familiar with option and its benefit, try learn some basics from here.At its initial launch, Option Panda will focus on providing traditional cryptocurrency (BTCB/ETH/BNB etc.) option trading on Binance Smart Chain, with gradual listing of more underlying assets.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xa2f89a3be1bada5eb9d58d23edc2e2fe0f82f4b0",
+ "Decimals": 8
+}

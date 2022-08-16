@@ -1,0 +1,12 @@
+{
+ "Name": "Cardence",
+ "ImageUrl": "/media/38553657/crdn.png",
+ "SmartContract": "0xfa17b330bcc4e7f3e2456996d89a5a54ab044831",
+ "Symbol": "CRDN",
+ "Explorer": "https://etherscan.io/token/0xfa17b330bcc4e7f3e2456996d89a5a54ab044831",
+ "Research": "https://cryptocompare.com/coins/crdn/overview",
+ "Description": "Cardence is a decentralized presale platform and IDO launchpad for new project on Cardano blockchain. By Decentralized presale platform, we mean that anybody with a Native Cardano token will be able to create a presale of their token on Cardence in a permissionless manner. The platform allows for : 1. Creation of vesting schedule for release of tokens to presale buyers 2. Whitelisting of wallet addresses for participation in whitelisted presales 3. Affiliate marketing of presales through creation of referral links which can earn a commission to the referrers. 4. Auto locking of liquidity on DEX before release of funds to presale creators Smart Mint will allow creation of fully customizable Cardano native tokens without writing any code. Smart Lock allows for creation of time locked token valuts for locking Cardano native tokens and liquidity tokens. It will also allow locking of tokens according to a vesting schedule.Telegram | Facebook | LinkedIn | Medium",
+ "Type": "BEP20",
+ "Id": "0xfa17b330bcc4e7f3e2456996d89a5a54ab044831",
+ "Decimals": 8
+}

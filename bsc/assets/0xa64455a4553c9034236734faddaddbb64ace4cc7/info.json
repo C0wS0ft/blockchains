@@ -1,0 +1,12 @@
+{
+ "Name": "Santos FC Fan Token",
+ "ImageUrl": "/media/39198159/santos.png",
+ "SmartContract": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+ "Symbol": "SANTOS",
+ "Explorer": "https://etherscan.io/token/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+ "Research": "https://cryptocompare.com/coins/santos/overview",
+ "Description": "Santos FC Fan Token (SANTOS) is the licensed fan token of the Brazilian football club Santos FC.",
+ "Type": "BEP20",
+ "Id": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+ "Decimals": 8
+}

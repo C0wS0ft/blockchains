@@ -1,0 +1,12 @@
+{
+ "Name": "Bitcoin Cash Token",
+ "ImageUrl": "/media/37746245/bch.png",
+ "SmartContract": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+ "Symbol": "BCH",
+ "Explorer": "https://bscscan.com/token/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+ "Research": "https://cryptocompare.com/coins/bch/overview",
+ "Description": "",
+ "Type": "BEP20",
+ "Id": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+ "Decimals": 8
+}

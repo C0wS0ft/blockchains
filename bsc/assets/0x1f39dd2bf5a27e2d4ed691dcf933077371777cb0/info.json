@@ -1,0 +1,12 @@
+{
+ "Name": "SnowCrash Token",
+ "ImageUrl": "/media/39109091/nora.png",
+ "SmartContract": "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0",
+ "Symbol": "NORA",
+ "Explorer": "https://etherscan.io/token/0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0",
+ "Research": "https://cryptocompare.com/coins/nora/overview",
+ "Description": "SnowCrash Space is a massive, collaborative, multiplayer open-world game. There are two worlds in SnowCrash Space: the MetaVoxel (Metaverse) and the real world (the world we’re in right now). The interesting challenges are not only distributed in the MetaVoxel, but also in the real world, which means that at some point, users will need to grab their phone (or future smart hardware released by SnowCrash Space), open the SnowCrash Space App and step outside their home to complete some of the challenges.$Nora is the community governance token of SnowCrash DAO. Players can trade $Nora on the exchange, or earn $Nora by completing tasks in the game. Players in MetaVoxel can use $Nora to buy land, islands, goods and various raw materials.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0",
+ "Decimals": 8
+}

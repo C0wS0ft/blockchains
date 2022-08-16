@@ -1,0 +1,12 @@
+{
+ "Name": "Metahero",
+ "ImageUrl": "/media/38553436/hero.png",
+ "SmartContract": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
+ "Symbol": "HERO",
+ "Explorer": "https://etherscan.io/token/0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
+ "Research": "https://cryptocompare.com/coins/hero/overview",
+ "Description": "HERO is a deflationary token with a 0-10% fee on each transaction. 0-2% of each transaction is redistributed to all HERO holders. Also, 0-8% of each transaction is forever burned ensuring an ever-decreasing supply of HERO.Telegram",
+ "Type": "BEP20",
+ "Id": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
+ "Decimals": 8
+}

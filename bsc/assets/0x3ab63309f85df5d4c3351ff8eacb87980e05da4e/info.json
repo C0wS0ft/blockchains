@@ -1,0 +1,12 @@
+{
+ "Name": "Wheat Token",
+ "ImageUrl": "/media/38553616/wheat.png",
+ "SmartContract": "0x3ab63309F85df5D4c3351ff8EACb87980E05Da4E",
+ "Symbol": "WHEAT",
+ "Explorer": "https://etherscan.io/token/0x3ab63309F85df5D4c3351ff8EACb87980E05Da4E",
+ "Research": "https://cryptocompare.com/coins/wheat/overview",
+ "Description": "Wheat is a yield optimizer and tokenization of yield farming positions within the Growth DeFi ecosystem. These yield farming positions can be used as collateral to mint MOR (MOR is a stablecoin overcollateralized by yield-bearing collaterals.)GRO:GRO is the governance token of the ecosystem. MOR’s system surplus buybacks and burns GRO.WHEAT:Wheat is the incentive token of the ecosystem. Buyback and burn mechanics are implemented through performance fees on stkTokens in combination with fee collectors.gROOT:gROOT is the index token of the ecosystem. It uses the ecosystem’s products (as well as other BSC DeFi platforms) to generate yield. Extremely low supply.Telegram",
+ "Type": "BEP20",
+ "Id": "0x3ab63309F85df5D4c3351ff8EACb87980E05Da4E",
+ "Decimals": 8
+}

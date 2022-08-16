@@ -1,0 +1,12 @@
+{
+ "Name": "Polylastic",
+ "ImageUrl": "/media/37747501/polx.png",
+ "SmartContract": "0xE29aC6Ea53Dea5211155f9d7C8c41BeEE852EfA0",
+ "Symbol": "POLX",
+ "Explorer": "https://etherscan.io/token/0xE29aC6Ea53Dea5211155f9d7C8c41BeEE852EfA0",
+ "Research": "https://cryptocompare.com/coins/polx/overview",
+ "Description": "The Polylastic (POLX) Index is designed to track token performance within the ever-evolving Elastic Finance industry (EFi). Its index will include elastic cryptocurrencies, seigniorage tokens, algorithmic stablecoins, cash systems and whatever comes next. The index is weighted based on the value of community support measured by the number of stakers, as well as the market cap of the token.The POLX token is a deflationary, fee-earning token used for governance and weighting the index according to delegated stake. As the index performs and earns fees from growth, 100% of revenue goes toward purchasing the token on the open market, and removing it from the total supply forever. As the EFi space advances, the POLX token becomes more scarce.",
+ "Type": "BEP20",
+ "Id": "0xE29aC6Ea53Dea5211155f9d7C8c41BeEE852EfA0",
+ "Decimals": 8
+}

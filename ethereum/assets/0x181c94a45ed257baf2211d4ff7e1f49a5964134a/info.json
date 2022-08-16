@@ -1,0 +1,10 @@
+{
+ "Name": "MetaShib Token",
+ "SmartContract": "0x181c94a45ed257baf2211d4ff7e1f49a5964134a",
+ "Symbol": "MetaShib",
+ "Explorer": "https://etherscan.io/token/0x181c94a45ed257baf2211d4ff7e1f49a5964134a",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x181c94a45ed257baf2211d4ff7e1f49a5964134a",
+ "Decimals": 9
+}

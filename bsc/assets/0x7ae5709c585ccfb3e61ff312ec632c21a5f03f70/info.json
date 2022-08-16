@@ -1,0 +1,12 @@
+{
+ "Name": "Doge Dash",
+ "ImageUrl": "/media/39109039/dogedash.png",
+ "SmartContract": "0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70",
+ "Symbol": "DOGEDASH",
+ "Explorer": "https://etherscan.io/token/0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70",
+ "Research": "https://cryptocompare.com/coins/dogedash/overview",
+ "Description": "The aim of the game is to Dash as fast as you can through all of the 10 levels whilst collecting coins along the way. Successful players who complete all 10 levels will be rewarded with the collected Doge Dash coins direct to their wallets.Doge Dash features 10 fast paced levels with the degree of difficulty increasing as the player progresses. Players must navigate over and under platforms, monsters and even a zombie infested City to reach the Dog House and complete the gameEach Dash costs the player 100 Doge Dash coins to enter. These coins are re-distributed into the Game Rewards wallets to keep it replenished for future players. A total of 10,000 coins are available on each Dash. If a player reaches the dog house at the end of level 10 the collected coins are then airdropped into their crypto wallet and tradeable instantly.Telegram | Instagram | Youtube",
+ "Type": "BEP20",
+ "Id": "0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70",
+ "Decimals": 8
+}

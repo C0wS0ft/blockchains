@@ -1,0 +1,12 @@
+{
+ "Name": "Beefy.Finance",
+ "ImageUrl": "/media/37746640/bifi.png",
+ "SmartContract": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+ "Symbol": "BIFI",
+ "Explorer": "https://etherscan.io/token/0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+ "Research": "https://cryptocompare.com/coins/bifi/overview",
+ "Description": "Beefy.Finance is a yield optimizer operating on Binance Smart Chain. In return for a small fee, Beefy.Finance automates several investment strategies utilizing liquidity pools.The project consists of an anonymous team, directly inspired by the yield optimization projects that had been developed on the Ethereum network. Its governance token distribution contracts went live on September 22, 2020, and the first set of vaults were opened on October 8, 2020.Telegram | Discord | YouTube",
+ "Type": "BEP20",
+ "Id": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+ "Decimals": 8
+}

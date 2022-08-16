@@ -1,0 +1,12 @@
+{
+ "Name": "Bholdus Token",
+ "ImageUrl": "/media/38553620/bho.png",
+ "SmartContract": "0x8717e80EfF08F53A45b4A925009957E14860A8a8",
+ "Symbol": "BHO",
+ "Explorer": "https://etherscan.io/token/0x8717e80EfF08F53A45b4A925009957E14860A8a8",
+ "Research": "https://cryptocompare.com/coins/bho/overview",
+ "Description": "BHoldus Chain is a blockchain dedicated to decentralized financial (DeFi) applications and non-fungible tokens (NFTs). Its chain not only offers intelligent feature creation explicitly for the fulfilment of financial services for both fungible tokens and non-fungible tokens (NFT) by exploiting the specific features of the blockchain.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x8717e80EfF08F53A45b4A925009957E14860A8a8",
+ "Decimals": 8
+}

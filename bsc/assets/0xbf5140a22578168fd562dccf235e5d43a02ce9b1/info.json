@@ -1,0 +1,10 @@
+{
+ "Name": "Binance-Peg Uniswap",
+ "SmartContract": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+ "Symbol": "UNI",
+ "Explorer": "https://bscscan.com/token/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+ "Decimals": 18
+}

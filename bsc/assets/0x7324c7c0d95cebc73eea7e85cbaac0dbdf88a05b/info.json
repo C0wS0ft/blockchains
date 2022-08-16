@@ -1,0 +1,10 @@
+{
+ "Name": "Chain",
+ "SmartContract": "0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b",
+ "Symbol": "XCN",
+ "Explorer": "https://bscscan.com/token/0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b",
+ "Decimals": 18
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Leopard",
+ "ImageUrl": "/media/39198280/leopard.png",
+ "SmartContract": "0x4efab39b14167da54aebed2094a61aa1fd384056",
+ "Symbol": "LEOPARD",
+ "Explorer": "https://etherscan.io/token/0x4efab39b14167da54aebed2094a61aa1fd384056",
+ "Research": "https://cryptocompare.com/coins/leopard/overview",
+ "Description": "Leopard (LEOPARD) is a community token, BEP-20 (Binance Smart Chain) with a project wallet and ecosystem for users to trade cryptocurrencies, stake, swap, buy and sell.Telegram",
+ "Type": "BEP20",
+ "Id": "0x4efab39b14167da54aebed2094a61aa1fd384056",
+ "Decimals": 8
+}

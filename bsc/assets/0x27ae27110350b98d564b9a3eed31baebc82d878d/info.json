@@ -1,0 +1,12 @@
+{
+ "Name": "CumRocket",
+ "ImageUrl": "/media/38553790/cummies.png",
+ "SmartContract": "0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
+ "Symbol": "CUMMIES",
+ "Explorer": "https://etherscan.io/token/0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
+ "Research": "https://cryptocompare.com/coins/cummies/overview",
+ "Description": "CumRocket is a deflationary token that operates on the Binance Smart Chain. This is a token that rewards holders and punishes sellers, which can encourage a steadier price action. CumRocket is a community project, meaning that the community will be involved in the development of the project, each member will be able to participate in discussion and submit ideas. CumRockets main goal is to tap into the porn industry and provide a novel 18+ NFT marketplace where users will be able to buy, sell, swap and collect exclusive 18+ content. As well as a platform that creators can charge for private content, where they get paid in crypto and tipped in $CUMMIES.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
+ "Decimals": 8
+}

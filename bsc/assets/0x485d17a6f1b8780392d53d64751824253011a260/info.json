@@ -1,0 +1,12 @@
+{
+ "Name": "Chrono.tech",
+ "ImageUrl": "/media/38554074/time.png",
+ "SmartContract": "0x485d17A6f1B8780392d53D64751824253011A260",
+ "Symbol": "CHRONO",
+ "Explorer": "https://etherscan.io/token/0x485d17A6f1B8780392d53D64751824253011A260",
+ "Research": "https://cryptocompare.com/coins/chrono/overview",
+ "Description": "Chrono.tech was founded in 2016 with the vision of transforming the way individuals access jobs and businesses connect with contractors. The company empowers HR and recruitment professionals with blockchain technology, as well as enabling global freelancers to secure the best jobs and make sure they are paid quickly and fairly.Chrono.tech vision is for a world in which anyone can find work and businesses can find the people they need, circumventing the middlemen, costs and inefficiencies of the conventional recruitment sector that so often proves a barrier to employment. The company’s wide-ranging ecosystem is designed to transform the way individuals access jobs and businesses connect with contractors, regardless of where workers and employers are located.The Sydney-based company was launched after a successful token sale in 2016. Since then Chrono.tech has built a suite of tools and services to facilitate recruitment, invoicing and payments, with a labour-hire platform LaborX, Plasma-based exchange TimeX, and cryptocurrency payroll solution PaymentX to reduce costs and improve quality and reliability.Telegram | Facebook | LinkedIn | Discord | Youtube | BlogWhitepaperThe official Chrono.tech ticker is “TIME” and trades under that name on all the exchanges where it has been listed. The designation “CHRONO” is for CryptoCompare.com only.",
+ "Type": "BEP20",
+ "Id": "0x485d17A6f1B8780392d53D64751824253011A260",
+ "Decimals": 8
+}

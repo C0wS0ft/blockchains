@@ -1,0 +1,12 @@
+{
+ "Name": "Laika Protocol",
+ "ImageUrl": "/media/38553780/laika.png",
+ "SmartContract": "0x2a49de60cc6204c3afc3e770fdb30a0554147519",
+ "Symbol": "LAIKA",
+ "Explorer": "https://etherscan.io/token/0x2a49de60cc6204c3afc3e770fdb30a0554147519",
+ "Research": "https://cryptocompare.com/coins/laika/overview",
+ "Description": "Laika is a first of its kind, Second Generation deflationary token on the Binance Smart Chain that utilizes a new type of Scalable Automatic Liquidity Pools in order to prevent price manipulation while also supporting cross-chain integration.Telegram | Discord | Github | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x2a49de60cc6204c3afc3e770fdb30a0554147519",
+ "Decimals": 8
+}

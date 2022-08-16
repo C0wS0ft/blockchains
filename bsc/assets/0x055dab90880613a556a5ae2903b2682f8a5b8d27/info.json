@@ -1,0 +1,12 @@
+{
+ "Name": "Mochiswap",
+ "ImageUrl": "/media/39198181/mochi.png",
+ "SmartContract": "0x055dab90880613a556a5ae2903b2682f8a5b8d27",
+ "Symbol": "MOCHI",
+ "Explorer": "https://etherscan.io/token/0x055dab90880613a556a5ae2903b2682f8a5b8d27",
+ "Research": "https://cryptocompare.com/coins/mochi/overview",
+ "Description": "Mochiswap is an experimental, open-source defi platform featuring an AMM, yield farms, single token auto-compounding vaults and more.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x055dab90880613a556a5ae2903b2682f8a5b8d27",
+ "Decimals": 8
+}

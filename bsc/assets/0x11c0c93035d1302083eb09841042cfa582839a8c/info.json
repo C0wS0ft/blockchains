@@ -1,0 +1,12 @@
+{
+ "Name": "Kaiken Shiba",
+ "ImageUrl": "/media/38553343/kshib.png",
+ "SmartContract": "0x11C0c93035d1302083eB09841042cFa582839A8C",
+ "Symbol": "KSHIB",
+ "Explorer": "https://etherscan.io/token/0x11C0c93035d1302083eB09841042cFa582839A8C",
+ "Research": "https://cryptocompare.com/coins/kshib/overview",
+ "Description": "Kaiken Shiba is an interesting meme whose mission is to rescue dogs in need, bringing the adoption of cryptocurrency into the mainstream through new concepts such as bounty, NFTS, decentralized exchange and credit cards on its website.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x11C0c93035d1302083eB09841042cFa582839A8C",
+ "Decimals": 8
+}

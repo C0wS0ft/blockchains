@@ -1,0 +1,12 @@
+{
+ "Name": "Plant vs Undead Token",
+ "ImageUrl": "/media/38553116/pvu.png",
+ "SmartContract": "0x31471e0791fcdbe82fbf4c44943255e923f1b794",
+ "Symbol": "PVU",
+ "Explorer": "https://etherscan.io/token/0x31471e0791fcdbe82fbf4c44943255e923f1b794",
+ "Research": "https://cryptocompare.com/coins/pvu/overview",
+ "Description": "Plant vs Undead (PVU) is a multiplayer tower defense game, where the users\u0026#39; plants are also their real assets. The goal is to combine the Plants vs Zombies with new blockchain technology – NFTs. Each plant is unique. Each plant is equally accessible to everyone through growing Seeds. Each plant can be bought/sell in the marketplace. In the process, the “game” part is the priority. Free-to-play gardeners are able to play and earn real assets. There is no initial investment barrier in PVU.Telegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x31471e0791fcdbe82fbf4c44943255e923f1b794",
+ "Decimals": 8
+}

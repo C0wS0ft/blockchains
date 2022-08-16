@@ -1,0 +1,12 @@
+{
+ "Name": "Shoppi Coin",
+ "ImageUrl": "/media/39501303/shop.png",
+ "SmartContract": "0x9bb2b75250fc34e16d9503c04781c718b2d467c8",
+ "Symbol": "SHOP",
+ "Explorer": "https://etherscan.io/token/0x9bb2b75250fc34e16d9503c04781c718b2d467c8",
+ "Research": "https://cryptocompare.com/coins/shop/overview",
+ "Description": "Shoppi uses the BEP-20 token, a Binance Smart Chain token protocol extending ERC-20, the most widely utilized Ethereum token standard. It functions as a blueprint for tokens, defining how they can be used, who can use them, and other applicable guidelines.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x9bb2b75250fc34e16d9503c04781c718b2d467c8",
+ "Decimals": 8
+}

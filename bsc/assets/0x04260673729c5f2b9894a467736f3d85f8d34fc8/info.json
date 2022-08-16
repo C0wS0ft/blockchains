@@ -1,0 +1,12 @@
+{
+ "Name": "CryptoPlanes",
+ "ImageUrl": "/media/38553883/cpan.png",
+ "SmartContract": "0x04260673729c5f2b9894a467736f3d85f8d34fc8",
+ "Symbol": "CPAN",
+ "Explorer": "https://etherscan.io/token/0x04260673729c5f2b9894a467736f3d85f8d34fc8",
+ "Research": "https://cryptocompare.com/coins/cpan/overview",
+ "Description": "CryptoPlanes is an expansion of the CryptoCity metaverse. The place where the famous NFT racing game CryptoCars was founded. CPAN is the CryptoPlanes token name.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x04260673729c5f2b9894a467736f3d85f8d34fc8",
+ "Decimals": 8
+}

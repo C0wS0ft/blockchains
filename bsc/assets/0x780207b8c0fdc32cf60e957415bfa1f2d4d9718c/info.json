@@ -1,0 +1,12 @@
+{
+ "Name": "Cashaa",
+ "ImageUrl": "/media/39500860/cas.png",
+ "SmartContract": "0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c",
+ "Symbol": "CAS",
+ "Explorer": "https://etherscan.io/token/0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c",
+ "Research": "https://cryptocompare.com/coins/cas/overview",
+ "Description": "Cashaa is an Ethereum-based banking platform powered by the technology of Auxledger. It offers an exchange and money transfer services between fiat and cryptocurrencies. financial technology combined with fiat will enable real-time, peer-to-peer value exchange and payment services across all the Blockchain. The integrated Cashaa\u0026#39;s wallet system enables its community to save, spend, borrow and get insured, with a simplified user experience in a legally compliant way. CAS, an EIP-20 token, is used as the main currency of Cashaa\u0026#39;s ecosystem and allows its holders to acquire premium services, trade cryptocurrencies anywhere in the world, provide the credit score for lenders, participate in governing mechanism of CAS usage, and publicly trade tokens.Telegram | Facebook | LinkedIn | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c",
+ "Decimals": 8
+}

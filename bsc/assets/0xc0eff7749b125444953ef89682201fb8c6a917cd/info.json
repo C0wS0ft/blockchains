@@ -1,0 +1,12 @@
+{
+ "Name": "Horizon Protocol",
+ "ImageUrl": "/media/38553523/hzn.png",
+ "SmartContract": "0xc0eff7749b125444953ef89682201fb8c6a917cd",
+ "Symbol": "HZN",
+ "Explorer": "https://etherscan.io/token/0xc0eff7749b125444953ef89682201fb8c6a917cd",
+ "Research": "https://cryptocompare.com/coins/hzn/overview",
+ "Description": "Horizon Protocol is a new DeFi platform that facilitates the onchain trading of synthetic assets that represent the real economy. Horizon Protocol seeks to provide exposure to real-world assets risk/return profiles via smart contracts on the blockchain. Forked from Synthetix, Horizon Protocol will leverage the time-tested derivative liquidity protocol and bring interoperability, scalability and a whole new array of tradable, real-world derivative products to the DeFi ecosystem.Telegram",
+ "Type": "BEP20",
+ "Id": "0xc0eff7749b125444953ef89682201fb8c6a917cd",
+ "Decimals": 8
+}

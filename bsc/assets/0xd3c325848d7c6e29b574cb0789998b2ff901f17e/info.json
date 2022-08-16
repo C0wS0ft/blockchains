@@ -1,0 +1,12 @@
+{
+ "Name": "ArtWallet",
+ "ImageUrl": "/media/39413411/1art.png",
+ "SmartContract": "0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
+ "Symbol": "1ART",
+ "Explorer": "https://etherscan.io/token/0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
+ "Research": "https://cryptocompare.com/coins/1art/overview",
+ "Description": "ArtWallet provides the solution for storing and owning NFTs with the simple gateway to the NFT marketplaces. Users can buy, store, and own exclusive NFT Items in a few clicks.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
+ "Decimals": 8
+}

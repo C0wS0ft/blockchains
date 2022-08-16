@@ -1,0 +1,10 @@
+{
+ "Name": "Venus BCH",
+ "SmartContract": "0x5f0388ebc2b94fa8e123f404b79ccf5f40b29176",
+ "Symbol": "VBCH",
+ "Explorer": "https://bscscan.com/token/0x5f0388ebc2b94fa8e123f404b79ccf5f40b29176",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x5f0388ebc2b94fa8e123f404b79ccf5f40b29176",
+ "Decimals": 8
+}

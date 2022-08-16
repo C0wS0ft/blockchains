@@ -1,0 +1,10 @@
+{
+ "Name": "Sunrise Token",
+ "SmartContract": "0x692aCCdD8b86692427E0aa4752AE917Df01CC56F",
+ "Symbol": "SUNC",
+ "Explorer": "https://etherscan.io/token/0x692aCCdD8b86692427E0aa4752AE917Df01CC56F",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x692aCCdD8b86692427E0aa4752AE917Df01CC56F",
+ "Decimals": 18
+}

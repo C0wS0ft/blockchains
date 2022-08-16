@@ -1,0 +1,12 @@
+{
+ "Name": "Monsters Clan",
+ "ImageUrl": "/media/39501235/mons.png",
+ "SmartContract": "0xe4c797d43631f4d660ec67b5cb0b78ef5c902532",
+ "Symbol": "MONS",
+ "Explorer": "https://etherscan.io/token/0xe4c797d43631f4d660ec67b5cb0b78ef5c902532",
+ "Research": "https://cryptocompare.com/coins/mons/overview",
+ "Description": "Monsters Clan is a NFT game based on a lifestyle of Monsters allowing players to control their monsters and fight their battles.Telegram | Medium Whitepaper",
+ "Type": "BEP20",
+ "Id": "0xe4c797d43631f4d660ec67b5cb0b78ef5c902532",
+ "Decimals": 8
+}

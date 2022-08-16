@@ -1,0 +1,12 @@
+{
+ "Name": "YooShi",
+ "ImageUrl": "/media/39413376/yooshi.png",
+ "SmartContract": "0x02ff5065692783374947393723dba9599e59f591",
+ "Symbol": "YOOSHI",
+ "Explorer": "https://etherscan.io/token/0x02ff5065692783374947393723dba9599e59f591",
+ "Research": "https://cryptocompare.com/coins/yooshi/overview",
+ "Description": "YooShi’s name and image are inspired by a dinosaur in Super Mario, whose name is Yoshi.YooShi GameFi Labs is an independent game incubator in the WEB3.0 era. It provides game developers with the complete GameFi game design system and technical support to help the game developers to finish blockchain game development more easily.YooShi GamePad is the first NFT-based gaming IDO platform on Binance Smart Chain. YooShi GamePad will allow gaming developers to raise funds by pre-selling unique in-game assets in the form of NFT.YooShi is a token on Binance Smart Chain boasting various features. Designed with burning mechanism, the total circulation supply of YooShi will be exponentially cut. Besides, by combining burning mechanism, innovative Auto-Liquidity function and NFT together, YooShi liquidity is allowed to increase rapidly. One of the most important features of YooShi is that it practices a large-scale decentralization which is rare for other tokens. Mixing these three outstanding features together, users are able to get a power house token out of the hands of anyone, except the community.Telegram | Discord | YouTube ",
+ "Type": "BEP20",
+ "Id": "0x02ff5065692783374947393723dba9599e59f591",
+ "Decimals": 8
+}

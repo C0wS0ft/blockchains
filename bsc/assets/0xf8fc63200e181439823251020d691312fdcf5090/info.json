@@ -1,0 +1,12 @@
+{
+ "Name": "ExzoCoin 2.0",
+ "ImageUrl": "/media/38553712/exzo.png",
+ "SmartContract": "0xf8fc63200e181439823251020d691312fdcf5090",
+ "Symbol": "EXZO",
+ "Explorer": "https://etherscan.io/token/0xf8fc63200e181439823251020d691312fdcf5090",
+ "Research": "https://cryptocompare.com/coins/exzo/overview",
+ "Description": "Exzo Network project includes two main components:● A web-based application that will provide a platform for decentralized cross-chain conversion of digital assets.● A blockchain network based on Proof-of-Stake (PoS) consensus mechanism that will provide an ecosystem for creating customized blockchains, deploying smart contracts, with low fees and high throughput.Exzo Network project will be aimed to including full support of Ethereum based dApps.All critical components of the system will be reused as much as possible from existing open source projects to reduce time-to-market and costs of implementation. Telegram | LinkedIn | Instagram | FacebookWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xf8fc63200e181439823251020d691312fdcf5090",
+ "Decimals": 8
+}

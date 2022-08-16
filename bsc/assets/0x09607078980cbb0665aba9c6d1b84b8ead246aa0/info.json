@@ -1,0 +1,12 @@
+{
+ "Name": "Pet Games",
+ "ImageUrl": "/media/38553568/petg.png",
+ "SmartContract": "0x09607078980cbb0665aba9c6d1b84b8ead246aa0",
+ "Symbol": "PETG",
+ "Explorer": "https://etherscan.io/token/0x09607078980cbb0665aba9c6d1b84b8ead246aa0",
+ "Research": "https://cryptocompare.com/coins/petg/overview",
+ "Description": "PET GAMES is inspired by Pokemon Story, their mission is to build a comprehensive platform of digital monsters that will enable millions of individuals to participate in the NFTs and blockchain-based gaming world in a simple, creative, and enjoyable way.Telegram",
+ "Type": "BEP20",
+ "Id": "0x09607078980cbb0665aba9c6d1b84b8ead246aa0",
+ "Decimals": 8
+}

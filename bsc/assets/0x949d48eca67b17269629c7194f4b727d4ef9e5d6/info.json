@@ -1,0 +1,12 @@
+{
+ "Name": "Merit Circle",
+ "ImageUrl": "/media/38554152/mc.png",
+ "SmartContract": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
+ "Symbol": "MC",
+ "Explorer": "https://etherscan.io/token/0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
+ "Research": "https://cryptocompare.com/coins/mc/overview",
+ "Description": "Merit Circle is a decentralized autonomous organization focused on developing the play-to-earn economy.Merit Circle is on a mission to maximize value accrual across different games in the metaverse. Creating a platform at the intersection of capital, expertise and players. It aims to remain on the forefront of innovation in the play-to-earn industry, with activities that are widespread across multiple sectors and niches causing a constantly adapting organization that’s always evolving.Telegram | Discord | Medium | GitBook",
+ "Type": "BEP20",
+ "Id": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
+ "Decimals": 8
+}

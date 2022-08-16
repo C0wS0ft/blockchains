@@ -1,0 +1,12 @@
+{
+ "Name": "Zeptacoin",
+ "ImageUrl": "/media/39501182/zptc.png",
+ "SmartContract": "0x39ae6d231d831756079ec23589d2d37a739f2e89",
+ "Symbol": "ZPTC",
+ "Explorer": "https://etherscan.io/token/0x39ae6d231d831756079ec23589d2d37a739f2e89",
+ "Research": "https://cryptocompare.com/coins/zptc/overview",
+ "Description": "Zeptagram is a blockchain-based trading platform where music ip-rights owners can tokenize their assets. When music creates value, funds will be shared among token holders.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x39ae6d231d831756079ec23589d2d37a739f2e89",
+ "Decimals": 8
+}

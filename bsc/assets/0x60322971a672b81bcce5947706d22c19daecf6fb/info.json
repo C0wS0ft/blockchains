@@ -1,0 +1,11 @@
+{
+    "name": "MarsDAO",
+    "symbol": "MDAO",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "MarsDAO is a community token of a multifunctional decentralized platform for using various investment instruments in the cryptocurrency market and operating on the principle of decentralized autonomous organizations (DAO)",
+    "website": "https://daomars.net/",
+    "explorer": "https://bscscan.com/address/0x60322971a672B81BccE5947706D22c19dAeCf6Fb",
+    "status": "active",
+    "id": "0x60322971a672B81BccE5947706D22c19dAeCf6Fb"
+}

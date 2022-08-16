@@ -1,0 +1,12 @@
+{
+ "Name": "MOBOX",
+ "ImageUrl": "/media/37747034/mbox.png",
+ "SmartContract": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+ "Symbol": "MBOX",
+ "Explorer": "https://etherscan.io/token/0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+ "Research": "https://cryptocompare.com/coins/mbox/overview",
+ "Description": "MOBOX is a community-driven platform empowering users by rewarding them for their engagement and enjoyment. By using innovative tokenomics, utilizing finance and games. Whilst also combining the best of DeFi and NFTs to create a truly unique and everlasting FREE TO PLAY, PLAY TO EARN ECOSYSTEM.MBOX Token hodlers have the right to submit and vote on proposals. Hodlers will be able to manage the success of the platform such as games to develop and integrate, unique functions, events, development and more.",
+ "Type": "BEP20",
+ "Id": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+ "Decimals": 8
+}

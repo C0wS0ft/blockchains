@@ -1,0 +1,12 @@
+{
+ "Name": "CheCoin",
+ "ImageUrl": "/media/38553570/checoin.png",
+ "SmartContract": "0x54626300818e5c5b44db0fcf45ba4943ca89a9e2",
+ "Symbol": "CHECOIN",
+ "Explorer": "https://etherscan.io/token/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2",
+ "Research": "https://cryptocompare.com/coins/checoin/overview",
+ "Description": "$CheCoin is a BNB reflection token inspired by the legend of Che Guevara. Its auto-claim feature will add every 60 minutes some BNB token to the users\u0026#39; wallet.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x54626300818e5c5b44db0fcf45ba4943ca89a9e2",
+ "Decimals": 8
+}

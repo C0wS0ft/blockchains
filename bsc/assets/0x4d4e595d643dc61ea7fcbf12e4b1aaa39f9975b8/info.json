@@ -1,0 +1,12 @@
+{
+ "Name": "Battle Pets",
+ "ImageUrl": "/media/38553520/pet.png",
+ "SmartContract": "0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8",
+ "Symbol": "PET",
+ "Explorer": "https://etherscan.io/token/0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8",
+ "Research": "https://cryptocompare.com/coins/pet/overview",
+ "Description": "\"Battle Pets\" is a blockchain game about adorable pets running on Binance Smart Chain. Each pet is an NFT(Non-fungible Token) that can be collected, nourished, and armed with weapons to battle with other pets.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8",
+ "Decimals": 8
+}

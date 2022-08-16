@@ -1,0 +1,12 @@
+{
+ "Name": "Don-key",
+ "ImageUrl": "/media/39198251/don.png",
+ "SmartContract": "0x217ddead61a42369a266f1fb754eb5d3ebadc88a",
+ "Symbol": "DON",
+ "Explorer": "https://etherscan.io/token/0x217ddead61a42369a266f1fb754eb5d3ebadc88a",
+ "Research": "https://cryptocompare.com/coins/don/overview",
+ "Description": "Don-key is designed to reduce the entry barrier for both yield farmers and liquidity providers, opening the DeFi world for two distinct groups of people: those with low investment funds and those who cannot dedicate themselves to mastering the skills and strategies needed to participate in the DeFi world.DON tokens are the full utility token for the Don-key \"copy farming\" platform. In order to access the DAPP and participate users need to hold at least 100 $DON in their wallet.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x217ddead61a42369a266f1fb754eb5d3ebadc88a",
+ "Decimals": 8
+}

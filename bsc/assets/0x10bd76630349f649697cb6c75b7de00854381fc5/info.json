@@ -1,0 +1,12 @@
+{
+ "Name": "Animal Token",
+ "ImageUrl": "/media/38554184/stray.png",
+ "SmartContract": "0x10bd76630349f649697cb6c75b7de00854381fc5",
+ "Symbol": "STRAY",
+ "Explorer": "https://etherscan.io/token/0x10bd76630349f649697cb6c75b7de00854381fc5",
+ "Research": "https://cryptocompare.com/coins/stray/overview",
+ "Description": "Animal Token is a project designed to help homeless animals.The main goal of the Animal Token Project is to provide all possible help to homeless animals, such as:Charitable activities to existing shelters;Building shelters around the world;Adoption assistance.Telegram",
+ "Type": "BEP20",
+ "Id": "0x10bd76630349f649697cb6c75b7de00854381fc5",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Blocks Space",
+ "ImageUrl": "/media/39108987/bls.png",
+ "SmartContract": "0x34aa9099d924f3fb2377ff20d81b235311c15346",
+ "Symbol": "BLS",
+ "Explorer": "https://etherscan.io/token/0x34aa9099d924f3fb2377ff20d81b235311c15346",
+ "Research": "https://cryptocompare.com/coins/bls/overview",
+ "Description": "1000Blocks Space is a project where users create community-powered NFTs that yield returns in the process of NFT creation. We make digital art creation fun and rewarding.The long term vision of 1000Blocks Space is to create a unique process of digital art creation and this process would be used by many as a defacto standard.Telegram | Discord | Facebook | Instagram | YouTube | TikTokWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x34aa9099d924f3fb2377ff20d81b235311c15346",
+ "Decimals": 8
+}

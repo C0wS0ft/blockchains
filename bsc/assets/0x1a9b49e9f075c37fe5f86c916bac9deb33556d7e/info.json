@@ -1,0 +1,12 @@
+{
+ "Name": "ASPO Shards",
+ "ImageUrl": "/media/39501400/aspo.png",
+ "SmartContract": "0x1a9b49E9f075c37Fe5f86C916bac9DEb33556D7E",
+ "Symbol": "ASPO",
+ "Explorer": "https://etherscan.io/token/0x1a9b49E9f075c37Fe5f86C916bac9DEb33556D7E",
+ "Research": "https://cryptocompare.com/coins/aspo/overview",
+ "Description": "ASPO World is a magic card NFT game constructed and developed based on the Blockchain platform. By joining ASPO World, players can freely interact with other players in a massive virtual world by participating in matches, completing missions, and receiving unique items or game tokens.ASPO Shards (ASPO) is a BEP-20 governance token for ASPO World. ASPO holders will be able to claim rewards if they stake their tokens, play games and participate in important governance votes. Players will also be able to earn ASPO as they play various games within the ASPO Universe and through user-generated content.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x1a9b49E9f075c37Fe5f86C916bac9DEb33556D7E",
+ "Decimals": 8
+}

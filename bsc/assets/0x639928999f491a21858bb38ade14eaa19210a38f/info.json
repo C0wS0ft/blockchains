@@ -1,0 +1,12 @@
+{
+ "Name": "OnlyCam",
+ "ImageUrl": "/media/39500808/only.png",
+ "SmartContract": "0x639928999f491A21858Bb38adE14eAA19210a38F",
+ "Symbol": "ONLY",
+ "Explorer": "https://etherscan.io/token/0x639928999f491A21858Bb38adE14eAA19210a38F",
+ "Research": "https://cryptocompare.com/coins/only/overview",
+ "Description": "OnlyCam is a decentralized NSFW ecosystem that offers a simple and effective way to empower adult content creators and reward viewers in one fell swoop. It aim to help adult content creators to earn much more and content consumers to pay much less via disintermediation. The inclusive community embraces the principles of diversity, fairness, and freedom.Even though the adult entertainment industry is one of the fastest-growing industries across the world with over $100 billion in turnover, the content creators don’t get to see their fair share of profits. Issues like lack of copyright laws, interference of intermediaries, and strict censorship cause the content creators to lose money hand over fist and make it difficult for the content consumers to view adult content.OnlyCam helps solve this problem by eliminating the producers, agencies, and intermediaries who receive a significant portion of the creator’s income. Furthermore, whenever a $ONLY token holder makes a transaction on any of the platforms across the OnlyCam network, every token holder on the network receives part of the transaction to their wallet.$ONLY is a operating on the Binance Smart Chain; the transactions are fast to execute, have small gas fees, and are even environmentally friendly.Since OnlyCam is a community project, the users are involved in the development of the project. Each of them can join the discussions, submit ideas, and participate in the global expansion of the OnlyCam network. In return for their participation, they earn $ONLY tokens from OnlyCam.Telegram | Medium | Instagram",
+ "Type": "BEP20",
+ "Id": "0x639928999f491A21858Bb38adE14eAA19210a38F",
+ "Decimals": 8
+}

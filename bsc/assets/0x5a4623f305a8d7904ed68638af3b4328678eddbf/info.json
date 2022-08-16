@@ -1,0 +1,12 @@
+{
+ "Name": "dART Insurance",
+ "ImageUrl": "/media/37747244/dart.png",
+ "SmartContract": "0x5a4623F305A8d7904ED68638AF3B4328678edDBF",
+ "Symbol": "DART",
+ "Explorer": "https://etherscan.io/token/0x5a4623F305A8d7904ED68638AF3B4328678edDBF",
+ "Research": "https://cryptocompare.com/coins/dart/overview",
+ "Description": "dART is a project that aims to change the NFT and insurance markets, introducing more innovative and user-friendly ways to earn money. dART token is an integral part of the ecosystem. It will influence the direction of the platform and the NFT insurance market in a major way, enabling dART Insurance to achieve better results by involving its community when making crucial decisions.",
+ "Type": "BEP20",
+ "Id": "0x5a4623F305A8d7904ED68638AF3B4328678edDBF",
+ "Decimals": 8
+}

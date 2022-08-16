@@ -1,0 +1,12 @@
+{
+ "Name": "Rocki",
+ "ImageUrl": "/media/39109106/rocki.png",
+ "SmartContract": "0xFf44b937788215ecA197BAaf9AF69dbdC214aa04",
+ "Symbol": "ROCKI",
+ "Explorer": "https://etherscan.io/token/0xFf44b937788215ecA197BAaf9AF69dbdC214aa04",
+ "Research": "https://cryptocompare.com/coins/rocki/overview",
+ "Description": "ROCKI is aMusic Streaming Platform utilizing blockchain technology or royalty payments, offering better transparency, faster payments with options for stream compensations in ROCKI tokens and/or FIAT from the monthly subscription.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xFf44b937788215ecA197BAaf9AF69dbdC214aa04",
+ "Decimals": 8
+}

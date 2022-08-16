@@ -1,0 +1,12 @@
+{
+ "Name": "Bogged Finance",
+ "ImageUrl": "/media/38553639/bog.png",
+ "SmartContract": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+ "Symbol": "BOG",
+ "Explorer": "https://etherscan.io/token/0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+ "Research": "https://cryptocompare.com/coins/bog/overview",
+ "Description": "Bogged.Finance is a DeFi tool suite for the Binance Smart Chain powered by the BOG token. It aims to develop a one-stop trading platform for BSC with all the tools normally available only to Centralised Exchange (CEX) users.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+ "Decimals": 8
+}

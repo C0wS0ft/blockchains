@@ -1,0 +1,12 @@
+{
+ "Name": "Vention",
+ "ImageUrl": "/media/38553550/vention.png",
+ "SmartContract": "0x2f053e33bd590830858161d42c67e9e8a9390019",
+ "Symbol": "VENTION",
+ "Explorer": "https://etherscan.io/token/0x2f053e33bd590830858161d42c67e9e8a9390019",
+ "Research": "https://cryptocompare.com/coins/vention/overview",
+ "Description": "Vention is a platform for Filipinos to buy and sell NFTs. Pinoys and anybody can now appreciate, showcase, and trade digital work of arts.Telegram",
+ "Type": "BEP20",
+ "Id": "0x2f053e33bd590830858161d42c67e9e8a9390019",
+ "Decimals": 8
+}

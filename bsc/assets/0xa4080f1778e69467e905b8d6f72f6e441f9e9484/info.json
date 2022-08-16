@@ -1,0 +1,10 @@
+{
+ "Name": "Synapse",
+ "SmartContract": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+ "Symbol": "SYN",
+ "Explorer": "https://bscscan.com/token/0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+ "Decimals": 18
+}

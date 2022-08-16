@@ -1,0 +1,12 @@
+{
+ "Name": "Trava Finance",
+ "ImageUrl": "/media/39501243/trava.png",
+ "SmartContract": "0x0391bE54E72F7e001f6BBc331777710b4f2999Ef",
+ "Symbol": "TRAVA",
+ "Explorer": "https://etherscan.io/token/0x0391bE54E72F7e001f6BBc331777710b4f2999Ef",
+ "Research": "https://cryptocompare.com/coins/trava/overview",
+ "Description": "TRAVA.FINANCE (or TRAVA) is a decentralized marketplace for cross-chain lending. TRAVA.FINANCE offers a flexible mechanism in which users can create and manage their own lending pools to start a lending business. TRAVA.FINANCE is deployed on the Binance Smart Chain and allows for lending with BSC tokens first; we then enable cross-chain lending with various tokens on Ethereum and other blockchain networks.Telegram | Discord | Reddit | Github | Medium | LinkedIn | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x0391bE54E72F7e001f6BBc331777710b4f2999Ef",
+ "Decimals": 8
+}

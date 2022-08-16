@@ -1,0 +1,10 @@
+{
+ "Name": "OpenOcean",
+ "SmartContract": "0x7778360F035C589fCE2f4eA5786CbD8B36e5396B",
+ "Symbol": "OOE",
+ "Explorer": "https://etherscan.io/token/0x7778360F035C589fCE2f4eA5786CbD8B36e5396B",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x7778360F035C589fCE2f4eA5786CbD8B36e5396B",
+ "Decimals": 18
+}

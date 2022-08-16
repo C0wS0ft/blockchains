@@ -1,0 +1,12 @@
+{
+ "Name": "Wanaka Farm WAIRERE Token",
+ "ImageUrl": "/media/39109090/wai.png",
+ "SmartContract": "0x934c9198582bf2631128c5d4b051aacef9a6224f",
+ "Symbol": "WAI",
+ "Explorer": "https://etherscan.io/token/0x934c9198582bf2631128c5d4b051aacef9a6224f",
+ "Research": "https://cryptocompare.com/coins/wai/overview",
+ "Description": "Wanaka Farm is an NFT P2E blockchain-based game where people can own their virtual lands and other NFT items.Medium",
+ "Type": "BEP20",
+ "Id": "0x934c9198582bf2631128c5d4b051aacef9a6224f",
+ "Decimals": 8
+}

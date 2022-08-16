@@ -1,0 +1,12 @@
+{
+ "Name": "Arata",
+ "ImageUrl": "/media/38553619/arata.png",
+ "SmartContract": "0xd4a06f9d51a992a3a1f07bd5cdff1c465b23a723",
+ "Symbol": "ARATA",
+ "Explorer": "https://etherscan.io/token/0xd4a06f9d51a992a3a1f07bd5cdff1c465b23a723",
+ "Research": "https://cryptocompare.com/coins/arata/overview",
+ "Description": "Arata is a Decentralized Community-Driven NFT-based online video game, Anime Centent Incubator, Video Streaming Platform, and NFTs Marketplace for Gamers, Anime Fans, Anime Creators and Artists to battle to Create, Buy, Sell, and Watch Anime Video Contents while Earning ARATA COINS.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xd4a06f9d51a992a3a1f07bd5cdff1c465b23a723",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "LEXIT",
+ "ImageUrl": "/media/39501253/lexi.png",
+ "SmartContract": "0x41a95f152e50fffd7184d9388956a2d0b8756ba9",
+ "Symbol": "LEXI",
+ "Explorer": "https://etherscan.io/token/0x41a95f152e50fffd7184d9388956a2d0b8756ba9",
+ "Research": "https://cryptocompare.com/coins/lexi/overview",
+ "Description": "LEXIT is a platform for transforming Intellectual Property into Non Fungible Tokens (NFTs). Anyone owning Art, Music, Film/Videos, Patents or Technical Inventions, can join and submit a listing for an NFT Launch, collect NFTs, follow/like its favourite creators and have the ability to build their NFT identity with LEXIT.LEXIT will soon after also release an extension of its NFT Launchpad with an integration of its Decentralized Exchange (DEX) which will make launched NFTs immediately available for trading on LEXIT’s DeFi Pools.Telegram | Reddit | Medium | Facebook",
+ "Type": "BEP20",
+ "Id": "0x41a95f152e50fffd7184d9388956a2d0b8756ba9",
+ "Decimals": 8
+}

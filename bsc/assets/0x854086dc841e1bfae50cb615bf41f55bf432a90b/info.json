@@ -1,0 +1,12 @@
+{
+ "Name": "GarudaSwap",
+ "ImageUrl": "/media/37747572/garuda.png",
+ "SmartContract": "0x854086dC841e1bfae50Cb615bF41f55BF432a90b",
+ "Symbol": "GARUDA",
+ "Explorer": "https://etherscan.io/token/0x854086dC841e1bfae50Cb615bF41f55BF432a90b",
+ "Research": "https://cryptocompare.com/coins/garuda/overview",
+ "Description": "GarudaSwap is the Next Generation Automatic Liquidity Acquisition yield farm and AMM decentralized exchange running on Binance Smart Chain.",
+ "Type": "BEP20",
+ "Id": "0x854086dC841e1bfae50Cb615bF41f55BF432a90b",
+ "Decimals": 8
+}

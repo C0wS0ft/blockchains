@@ -1,0 +1,12 @@
+{
+ "Name": "Doggy",
+ "ImageUrl": "/media/38553493/doggy-2.png",
+ "SmartContract": "0x74926b3d118a63f6958922d3dc05eb9c6e6e00c6",
+ "Symbol": "DOGGY",
+ "Explorer": "https://etherscan.io/token/0x74926b3d118a63f6958922d3dc05eb9c6e6e00c6",
+ "Research": "https://cryptocompare.com/coins/doggy/overview",
+ "Description": "Crypto doggies are 10,000 procedurally designed NFTs in gif format with cute animation by top-notch artists and they can be minted by burning Doggy tokens. Each of the NFTs is unique with traits like dog breed, color, or accessories.Telegram",
+ "Type": "BEP20",
+ "Id": "0x74926b3d118a63f6958922d3dc05eb9c6e6e00c6",
+ "Decimals": 8
+}

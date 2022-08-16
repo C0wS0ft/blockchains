@@ -1,0 +1,9 @@
+"Name": "Cardano Token",
+ "SmartContract": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+ "Symbol": "ADA",
+ "Explorer": "https://bscscan.com/token/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+ "Research": "https://www.cryptocompare.com/coins/ada/overview",
+ "Description": "Designed and developed by IOHK in conjunction with the University of Edinburgh, the University of Athens and the University of Connecticut, Cardano SL (or Cardano Settlement Layer) is a Proof of Stake cryptocurrency based on the Haskell implementation of the white paper “Ouroboros: A Provably Secure Proof of Stake Blockchain Protocol” by Aggelos Kiayias, Alexander Russell, Bernardo David and Roman Oliynykov.",
+ "Type": "BEP20",
+ "Id": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+ "Decimals": 18

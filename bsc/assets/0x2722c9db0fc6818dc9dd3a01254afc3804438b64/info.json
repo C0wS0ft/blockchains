@@ -1,0 +1,12 @@
+{
+ "Name": "Yaki Gold",
+ "ImageUrl": "/media/38553757/yag.png",
+ "SmartContract": "0x2722c9db0Fc6818DC9DD3A01254Afc3804438b64",
+ "Symbol": "YAG",
+ "Explorer": "https://etherscan.io/token/0x2722c9db0Fc6818DC9DD3A01254Afc3804438b64",
+ "Research": "https://cryptocompare.com/coins/yag/overview",
+ "Description": "CryptoZoon has found a way to combine the blockchain-based gaming world and NFT in a next-generation concept and created a digital platform universe of unique digital creatures.CryptoZoon plans to make blockchain technology accessible to the common consumer via these strategies:Tokenization of digital creatures.Play to earn concept.A friendly, consumer-based concept with a real passion for blockchain technology.An open platform that welcomes users with varying levels of technical expertise.A revenue-based paradigm that can be sustained with Zoon value inflation limitationCryptoZoon, hosted on the Binance Smart Chain (BSC) is a platform that features tokenized Digital creatures in a virtual universe.Telegram | Discord | Facebook | Instagram | Reddit | Youtube | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x2722c9db0Fc6818DC9DD3A01254Afc3804438b64",
+ "Decimals": 8
+}

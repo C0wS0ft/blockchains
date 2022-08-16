@@ -1,0 +1,12 @@
+{
+ "Name": "RiceFarm",
+ "ImageUrl": "/media/38553562/rice1.png",
+ "SmartContract": "0xc4eeff5aab678c3ff32362d80946a3f5de4a1861",
+ "Symbol": "RICE",
+ "Explorer": "https://etherscan.io/token/0xc4eeff5aab678c3ff32362d80946a3f5de4a1861",
+ "Research": "https://cryptocompare.com/coins/rice/overview",
+ "Description": "RiceFarm is an automatic liquidity acquisition yield farm and AMM decentralized exchange running on Binance Smart Chain.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xc4eeff5aab678c3ff32362d80946a3f5de4a1861",
+ "Decimals": 8
+}

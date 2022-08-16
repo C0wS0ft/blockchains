@@ -1,0 +1,12 @@
+{
+ "Name": "OpenOcean",
+ "ImageUrl": "/media/37748248/ooe.png",
+ "SmartContract": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+ "Symbol": "OOE",
+ "Explorer": "https://etherscan.io/token/0x9029fdfae9a03135846381c7ce16595c3554e10a",
+ "Research": "https://cryptocompare.com/coins/ooe/overview",
+ "Description": "OpenOcean is a full aggregation protocol for crypto trading that source liquidity from DeFi and CeFi, and enable cross-chain swaps. Its intelligent routing algorithm is designed to find the best prices from DEXes and CEXes, and split the routes to provide traders with the best prices with low slippage and fast settlement. The function is free to use, OpenOcean users only need to pay the normal blockchain gas fees and exchange fees for the trades.OOE is the governance and utility token of OpenOcean that enables utility for users of the protocol and lets the community participate in governance. Governance token holders are able to shape the future of the protocol by suggesting proposals and voting on protocol parameters, dex aggregations, and future chains for starters.Telegram | Discord | Facebook | YouTube | LinkedIn | GitHub | Reddit | Medium",
+ "Type": "BEP20",
+ "Id": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+ "Decimals": 8
+}

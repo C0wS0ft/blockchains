@@ -1,0 +1,12 @@
+{
+ "Name": "BinaryX",
+ "ImageUrl": "/media/39108977/bnx.png",
+ "SmartContract": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
+ "Symbol": "BNX",
+ "Explorer": "https://etherscan.io/token/0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
+ "Research": "https://cryptocompare.com/coins/bnx/overview",
+ "Description": "Cyber Dragon is an online game based on Binance Smart Chain (BSC). Players can create characters, challenge copies, and loot rare items. The final challenge is to defeat the ultimate boss, the cyber dragon. The tokens paid by all players will become the assets of the cyber dragon\u0026#39;s treasure house. Defeating the dragon will receive the dragon treasure house rewards. The Cyber Dragon will be reborn and become stronger, increase the wealth of the treasure house and wait for the players to challenge again.Cyber ​​Dragon\u0026#39;s governance tokens, BNX token holders can participate in community governance and voting rights on major game decisions. At the same time, holding BNX tokens can also get regular airdrops of gold. Some key operations of the game require consuming BNX tokens, such as creating heroes, forging rare equipment, challenging the Cyber ​​Dragon dungeon and some top dungeons. Ways to get BNX tokens: buying from Dex such as Pancake, Babyswap, challenging specific dungeons in the game, and participating in other Defi products of BinaryX. Most of the BNX paid by users in the game will be used to set event rewards and returned to users.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
+ "Decimals": 8
+}

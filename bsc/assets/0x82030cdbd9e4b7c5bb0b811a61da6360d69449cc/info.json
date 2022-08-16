@@ -1,0 +1,12 @@
+{
+ "Name": "RealFevr",
+ "ImageUrl": "/media/37748205/fevr.png",
+ "SmartContract": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc",
+ "Symbol": "FEVR",
+ "Explorer": "https://etherscan.io/token/0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc",
+ "Research": "https://cryptocompare.com/coins/fevr/overview",
+ "Description": "RealFevr is a fantasy football app where players compete in public and private leagues, and can use the $FEVR token to bet on specific matches, to purchase packs of collectibles (NFTs), or to acquire RealFevr NFTs directly from the marketplace - where other fans are selling their collectibles.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc",
+ "Decimals": 8
+}

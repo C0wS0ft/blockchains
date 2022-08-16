@@ -1,0 +1,12 @@
+{
+ "Name": "SpaceGrime",
+ "ImageUrl": "/media/38553992/grimex.png",
+ "SmartContract": "0x89671544190ee39e469c8393009875df6565457a",
+ "Symbol": "GRIMEX",
+ "Explorer": "https://etherscan.io/token/0x89671544190ee39e469c8393009875df6565457a",
+ "Research": "https://cryptocompare.com/coins/grimex/overview",
+ "Description": "SpaceGrime is an experimental interplanetary virtual currency, tradeable on 3 different blockchains - MATIC (Polygon), Avalanche C-Chain (AVAX) and Binance Smartchain (BSC). It is inspired by memes, music, technology, and digital art, as those items will be the cultural artifacts that transcend space and time and are destined to spread virally throughout the galaxy. SpaceGrime seeks to bring together a rapidly growing community of Earthlings who want to go to the Moon, Mars and beyond.Telegram | Instagram | Facebook | Reddit | Youtube",
+ "Type": "BEP20",
+ "Id": "0x89671544190ee39e469c8393009875df6565457a",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Asian Fintech",
+ "ImageUrl": "/media/39501441/afin.png",
+ "SmartContract": "0xEe9E5eFF401ee921b138490d00CA8D1F13f67A72",
+ "Symbol": "AFIN",
+ "Explorer": "https://etherscan.io/token/0xEe9E5eFF401ee921b138490d00CA8D1F13f67A72",
+ "Research": "https://cryptocompare.com/coins/afin/overview",
+ "Description": "Founded in 2018, AFIN aims to connect cryptocurrency and sustainability together, allowing holders of AFIN Coin to be involved in cryptocurrency without worrying about the damage to the environment.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xEe9E5eFF401ee921b138490d00CA8D1F13f67A72",
+ "Decimals": 8
+}

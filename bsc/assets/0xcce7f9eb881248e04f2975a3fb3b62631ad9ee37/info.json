@@ -1,0 +1,12 @@
+{
+ "Name": "Slam Token",
+ "ImageUrl": "/media/38553890/slam.png",
+ "SmartContract": "0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37",
+ "Symbol": "SLAM",
+ "Explorer": "https://etherscan.io/token/0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37",
+ "Research": "https://cryptocompare.com/coins/slam/overview",
+ "Description": "It is a BEP-20 token on Binance Smart Chain. SLAM Token has and always will be the governance token of every platform under the SLAM Ecosystem. There is a 10% transaction fee to buy or sell $SLAM. 5% goes to the liquidity pool while other 5% is redistributed amongst SLAM holders. This ensures that holders are always rewarded while LP is getting bigger with each transaction.Telegram | Discord | Medium | YouTubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37",
+ "Decimals": 8
+}

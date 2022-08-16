@@ -1,0 +1,12 @@
+{
+ "Name": "MyLottoCoin",
+ "ImageUrl": "/media/37747462/myl.png",
+ "SmartContract": "0xc110e8d4d7f4a319a1a8f16ca94b3afde7665595",
+ "Symbol": "MYL",
+ "Explorer": "https://etherscan.io/token/0xc110e8d4d7f4a319a1a8f16ca94b3afde7665595",
+ "Research": "https://cryptocompare.com/coins/myl/overview",
+ "Description": "MyLottoCoin is a fully autonomous blockchain-based solution incorporating the elements of traditional lotteries into the security, reliability, transparency and performance of blockchain technology. It offers a multifaceted approach to simplifying the current lottery model enabling fast, reliable, and tamper-proof technology access to players, while maintaining the traditional elements. The fully automatized and decentralized solution, operated by smart contracts on Binance Smart Chain (BSC), designed to effectively bridge the gap between a blockchain gaming experience and traditional practice, while maintaining the lottery’s critical process and values as central to the business model.MyLottoCoin has introduced a community-centric reward program reconceptualizing the lottery model with a tokenized play-to-earn and Hodl-to-Reward initiative.In order to facilitate and autonomize the reward program, MyLottoCoin has issued its own native utility token, MYL. Out of the total supply of BSC-based BEP-20 MYL token (100 million), 50% is allocated for free distribution among players (Play-2-Earn).Telegram | Facebook | Instagram | YouTube | LinkedIn | RedditWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xc110e8d4d7f4a319a1a8f16ca94b3afde7665595",
+ "Decimals": 8
+}

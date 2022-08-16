@@ -1,0 +1,10 @@
+{
+ "Name": "KOK coin",
+ "SmartContract": "0x9B9647431632AF44be02ddd22477Ed94d14AacAa",
+ "Symbol": "KOK",
+ "Explorer": "https://etherscan.io/token/0x9B9647431632AF44be02ddd22477Ed94d14AacAa",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x9B9647431632AF44be02ddd22477Ed94d14AacAa",
+ "Decimals": 18
+}

@@ -1,0 +1,10 @@
+{
+ "Name": "BELT Token",
+ "SmartContract": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f",
+ "Symbol": "BELT",
+ "Explorer": "https://bscscan.com/token/0xe0e514c71282b6f4e823703a39374cf58dc3ea4f",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f
+ "Decimals": 18
+}

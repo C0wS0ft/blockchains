@@ -1,0 +1,12 @@
+{
+ "Name": "KCC MemePad",
+ "ImageUrl": "/media/39108990/kccm.png",
+ "SmartContract": "0x57f239e1e62abd0f68d7b7c0fe11df25b3217d99",
+ "Symbol": "KCCM",
+ "Explorer": "https://etherscan.io/token/0x57f239e1e62abd0f68d7b7c0fe11df25b3217d99",
+ "Research": "https://cryptocompare.com/coins/kccm/overview",
+ "Description": "KCC MemePad is a Micro \u0026amp; LowCap launchpad on KCC. bringing stabilty, safety and amazing opportunities on the new and highly anticipated KuCoin Community Chain.The KCC MemePad team individually vets all prospective projects on our launchpad. Only the best of the best make it to the public.KCC MemePad backers receive a guaranteed allocation of project tokens based on their tokens held and lock duration.Telegram",
+ "Type": "BEP20",
+ "Id": "0x57f239e1e62abd0f68d7b7c0fe11df25b3217d99",
+ "Decimals": 8
+}

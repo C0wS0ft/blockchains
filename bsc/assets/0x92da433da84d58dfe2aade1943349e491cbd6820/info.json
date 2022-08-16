@@ -1,0 +1,12 @@
+{
+ "Name": "Rise of Defenders",
+ "ImageUrl": "/media/39413396/rdr.png",
+ "SmartContract": "0x92da433da84d58dfe2aade1943349e491cbd6820",
+ "Symbol": "RDR",
+ "Explorer": "https://etherscan.io/token/0x92da433da84d58dfe2aade1943349e491cbd6820",
+ "Research": "https://cryptocompare.com/coins/rdr/overview",
+ "Description": "Rise of Defenders is similar to the Tower Defense game with added RPG elements. Inspired by popular JRPG game titles such as Final Fantasy, Fire Emblem, Tactic Ogre, and AFK Arena,… The main task of the game is to organize the formation, upgrade heroes, and prevent the destruction of the base by monsters. Each hero in the game has its own unique skills that make fighting and defence easier.The RDR token is the main token in the game. It allows token holders to play, invest and also be a part of the game. RDR was created to be a key driver in this gaming ecosystem. RDR economics has been designed to encourage and maximize interaction between players and games. Regarding some certain actions in Rise of Defenders game, players will be rewarded with RDR.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x92da433da84d58dfe2aade1943349e491cbd6820",
+ "Decimals": 8
+}

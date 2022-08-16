@@ -1,0 +1,12 @@
+{
+ "Name": "Artex",
+ "ImageUrl": "/media/37748259/artex.png",
+ "SmartContract": "0xf1b032e7225d1c9068ce317a956a0e8007591ba0",
+ "Symbol": "ARTEX",
+ "Explorer": "https://etherscan.io/token/0xf1b032e7225d1c9068ce317a956a0e8007591ba0",
+ "Research": "https://cryptocompare.com/coins/artex/overview",
+ "Description": "Artex is a blockchain-based art investment platform that users can trade and manage their fine art investments. The digital currency of the Artex ecosystem is Artex Token (ARTEX).Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xf1b032e7225d1c9068ce317a956a0e8007591ba0",
+ "Decimals": 8
+}

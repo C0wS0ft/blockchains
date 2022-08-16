@@ -1,0 +1,12 @@
+{
+ "Name": "Wifedoge",
+ "ImageUrl": "/media/38554177/wifedoge.png",
+ "SmartContract": "0x07b36f2549291d320132712a1e64d3826b1fb4d7",
+ "Symbol": "WIFEDOGE",
+ "Explorer": "https://etherscan.io/token/0x07b36f2549291d320132712a1e64d3826b1fb4d7",
+ "Research": "https://cryptocompare.com/coins/wifedoge/overview",
+ "Description": "WifeDoge is a meme cryptocurrency that seeks to improve upon Dogecoin by improving transaction speeds and adding more deflationary attributes that reward users. Like some other meme cryptocurrencies, WifeDoge awards users by giving them a percentage of every transaction that occurs. That means users’ wallets will receive WifeDoge automatically over time. This reflection encourages more supporters and holders of the coin. WifeDoge bills itself as a “hyper-deflationary” crypto.WifeDoge was launched in Jul 2021 and has an ambitious roadmap,Reserve 5% of the tokens for Elon Musk. Give it to him at the right time, otherwise the 5% of the tokens will be forever LockedTelegram | Discord | Github | Youtube | RedditWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x07b36f2549291d320132712a1e64d3826b1fb4d7",
+ "Decimals": 8
+}

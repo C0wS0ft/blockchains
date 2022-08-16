@@ -1,0 +1,12 @@
+{
+ "Name": "YDragon",
+ "ImageUrl": "/media/38553617/ydr.png",
+ "SmartContract": "0x3757232b55e60da4a8793183ac030cfce4c3865d",
+ "Symbol": "YDR",
+ "Explorer": "https://etherscan.io/token/0x3757232b55e60da4a8793183ac030cfce4c3865d",
+ "Research": "https://cryptocompare.com/coins/ydr/overview",
+ "Description": "YDragon is a cross-chain index ecosystem with yield bearing collateral, providing a true interoperable cross-asset experience. A cross-chain platform that delivers multiple sources of income. Crafted by YDragon.YDragon is a platform offering a range of opportunities to own a diverse selection of cryptocurrencies with a single token. Within this selection there will be one ever-present token; YDR.YDR is central to the vision due to its utility and governance characteristics. As an investor, as you hold YDR,  you hold the power to influence future decisions on YDragon indexes and their assets.Telegram (channel) | Telegram (chat) | Medium Whitepaper",
+ "Type": "BEP20",
+ "Id": "0x3757232b55e60da4a8793183ac030cfce4c3865d",
+ "Decimals": 8
+}

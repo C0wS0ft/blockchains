@@ -1,0 +1,12 @@
+{
+ "Name": "Smile Token",
+ "ImageUrl": "/media/38553778/smile.png",
+ "SmartContract": "0x1cd137eb5bdf426aae58c3ed80383f74e42d9bf2",
+ "Symbol": "SMILE",
+ "Explorer": "https://etherscan.io/token/0x1cd137eb5bdf426aae58c3ed80383f74e42d9bf2",
+ "Research": "https://cryptocompare.com/coins/smile/overview",
+ "Description": "Smile token is a a protocol that unifies leading DeFi protocols and blockchain infrastructure by standardising communication between them to create and execute complex financial transactions, while championing Privacy, Anonymity and Sovereignty.Telegram",
+ "Type": "BEP20",
+ "Id": "0x1cd137eb5bdf426aae58c3ed80383f74e42d9bf2",
+ "Decimals": 8
+}

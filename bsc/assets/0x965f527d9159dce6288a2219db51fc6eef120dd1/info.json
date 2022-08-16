@@ -1,0 +1,10 @@
+{
+ "Name": "Biswap",
+ "SmartContract": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
+ "Symbol": "BSW",
+ "Explorer": "https://bscscan.com/token/0x965f527d9159dce6288a2219db51fc6eef120dd1",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
+ "Decimals": 18
+}

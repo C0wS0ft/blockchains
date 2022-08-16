@@ -1,0 +1,12 @@
+{
+ "Name": "ZUNA",
+ "ImageUrl": "/media/39109015/zuna.png",
+ "SmartContract": "0x5d07edaba2151a3c6802b28636ecc23082398edb",
+ "Symbol": "ZUNA",
+ "Explorer": "https://etherscan.io/token/0x5d07edaba2151a3c6802b28636ecc23082398edb",
+ "Research": "https://cryptocompare.com/coins/zuna/overview",
+ "Description": "Zuna is a deflationary DeFi token. Built on the Binance Smart Chain; Zuna has low gas fees and a use case for future projects.Telegram | Youtube | Instagram |  Facebook | Blog",
+ "Type": "BEP20",
+ "Id": "0x5d07edaba2151a3c6802b28636ecc23082398edb",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Ferrum Network",
+ "ImageUrl": "/media/37747934/frm.png",
+ "SmartContract": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+ "Symbol": "FRM",
+ "Explorer": "https://etherscan.io/token/0xe5caef4af8780e59df925470b050fb23c43ca68c",
+ "Research": "https://cryptocompare.com/coins/frm/overview",
+ "Description": "Ferrum Network, designed by a distributed systems expert with over ten years experience at the world’s biggest tech companies, was built to address two fundamental problems impeding the mainstream adoption of cryptocurrencies: slow transaction speeds and the lack of interoperability between networks. Instead of building a standalone network, Ferrum Network leverages the values of existing blockchains and connects them to a high-speed transaction layer that enables peer-to-peer transactions of any digital asset.Ferrum Network was conceptualised in early 2018, with its testnet prototype beginning development in Q1 that year. The team were finalists at the Consensus NYC Pitch Competition in Q2 2018 and went on to raise $1.12mn in funding to sustain development across a seed round, two private sales and finally a public ICO in August 2019.The token itself was issued on the ERC-20 and BEP-2 standards.  This remains the case until their mainnet is released, following which FRM will become a native token to the mainnet.Facebook | Instagram | Telegram | TikTok | YouTube | LinkedIn",
+ "Type": "BEP20",
+ "Id": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+ "Decimals": 8
+}

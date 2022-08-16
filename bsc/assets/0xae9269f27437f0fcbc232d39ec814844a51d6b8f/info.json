@@ -1,0 +1,10 @@
+{
+ "Name": "Burger Swap",
+ "SmartContract": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+ "Symbol": "Burger",
+ "Explorer": "https://bscscan.com/token/0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+ "Decimals": 18
+}

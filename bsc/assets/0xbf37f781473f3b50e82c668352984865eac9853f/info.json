@@ -1,0 +1,12 @@
+{
+ "Name": "The Crypto You",
+ "ImageUrl": "/media/39501256/tcy.png",
+ "SmartContract": "0xBf37f781473f3b50E82C668352984865eac9853f",
+ "Symbol": "TCY",
+ "Explorer": "https://etherscan.io/token/0xBf37f781473f3b50E82C668352984865eac9853f",
+ "Research": "https://cryptocompare.com/coins/tcy/overview",
+ "Description": "The Crypto You is a Baby Metaverse blockchain game on Binance Smart Chain (BSC). Players can summon characters, complete daily mining missions, conquer the Dark Force, loot rare items to play and earn.MILK is the circulating token of The Crypto You, where most of the actions will consume MILK, such as levelling up the character, PVE, item repair and so on. Users could earn MILK from Daily Mining and PVE, as well as trading on BabySwap.The MILK that users pay in game will be mostly used in burning or treasury, and will be rewarded to users via activities and missions in the future.The official The Crypto You ticker is “MILK” and trades under that name on all the exchanges where it has been listed. The designation “TCY” is for CryptoCompare.com only.Telegram | Discord | MediumDocs​",
+ "Type": "BEP20",
+ "Id": "0xBf37f781473f3b50E82C668352984865eac9853f",
+ "Decimals": 8
+}

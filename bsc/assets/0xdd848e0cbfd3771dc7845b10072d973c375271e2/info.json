@@ -1,0 +1,12 @@
+{
+ "Name": "Lanceria",
+ "ImageUrl": "/media/38553185/lanc.png",
+ "SmartContract": "0xdd848e0cbfd3771dc7845b10072d973c375271e2",
+ "Symbol": "LANC",
+ "Explorer": "https://etherscan.io/token/0xdd848e0cbfd3771dc7845b10072d973c375271e2",
+ "Research": "https://cryptocompare.com/coins/lanc/overview",
+ "Description": "Lanceria is building the definitive freelancing platform using blockchain technology, AI, lower fees and a streamlined workflow for independent contractors and businesses.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xdd848e0cbfd3771dc7845b10072d973c375271e2",
+ "Decimals": 8
+}

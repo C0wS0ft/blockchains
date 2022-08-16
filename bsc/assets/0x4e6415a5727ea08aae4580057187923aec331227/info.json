@@ -1,0 +1,12 @@
+{
+ "Name": "Refinable",
+ "ImageUrl": "/media/37747392/fine.png",
+ "SmartContract": "0x4e6415a5727ea08aae4580057187923aec331227",
+ "Symbol": "FINE",
+ "Explorer": "https://etherscan.io/token/0x4e6415a5727ea08aae4580057187923aec331227",
+ "Research": "https://cryptocompare.com/coins/fine/overview",
+ "Description": "Invested by Binance and Mr Beast, Refinable is an NFT marketplace on BSC, empowering both individual creators and beloved brands to easily and affordably create, discover, trade, and leverage NFTs. Supporting all communities in engaging with NFTs is Refinable’s mission and it looks forward to empowering the next generation of digital transactions.",
+ "Type": "BEP20",
+ "Id": "0x4e6415a5727ea08aae4580057187923aec331227",
+ "Decimals": 8
+}

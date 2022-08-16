@@ -1,0 +1,12 @@
+{
+ "Name": "AetherV2",
+ "ImageUrl": "/media/38554204/ath.png",
+ "SmartContract": "0x6d3a0fb0070ea61f901ebc0b675c30450acac737",
+ "Symbol": "ATH",
+ "Explorer": "https://etherscan.io/token/0x6d3a0fb0070ea61f901ebc0b675c30450acac737",
+ "Research": "https://cryptocompare.com/coins/ath/overview",
+ "Description": "Aether is building a bridge between science and cryptocurrency.Aether will travel to the limits of science and technology, directing his project and efforts to transform the impossible into reality. Their project is based on research, technology development, and the achieving of humankind primary dream. In 2022, they plan to develop and send a small satellite into orbit. The satellite will be called AETHER and it will be used by other crypto projects that have their own blockchain, to run nodes.Telegram | Github | Discord | Facebook | Instagram | Medium | BitcoinTalkWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x6d3a0fb0070ea61f901ebc0b675c30450acac737",
+ "Decimals": 8
+}

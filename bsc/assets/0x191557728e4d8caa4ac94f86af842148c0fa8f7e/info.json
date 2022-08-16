@@ -1,0 +1,12 @@
+{
+ "Name": "Ormeus Ecosystem",
+ "ImageUrl": "/media/38553578/eco.png",
+ "SmartContract": "0x191557728e4d8caa4ac94f86af842148c0fa8f7e",
+ "Symbol": "ECO",
+ "Explorer": "https://etherscan.io/token/0x191557728e4d8caa4ac94f86af842148c0fa8f7e",
+ "Research": "https://cryptocompare.com/coins/eco/overview",
+ "Description": "Architecturally designed to create a ‘business first’ approach to global currency and digital life, Ormeus Ecosystem is collaborating with Binance Chain to create a ground-breaking “Internet of Business Assets”. The multi-functional ecosystem cryptocurrencies will achieve mass adoption as businesses ranging from Banking, Insurance, Agriculture, Energy, Mining, Real Estate, Health, Trading, Payments, and Online Retail are signed-on to the network - categorized into ‘side-chains’ - and catapulted into the blockchain age.The network fuses enterprise, data, sales force and virtual money through partnering with Binance. The innovative onboarding ramp for businesses and the native fuel for the network is the new ECO token, a ground-breaking ‘gas’ used to power, protect, authorize and process data in real-time between thousands of corporate and personal users. The ECO token can reward and notify when data points are shared cross-chain, and even works in conjunction with point-of-sale terminal systems to prevent and terminate fraudulent sales of goods.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x191557728e4d8caa4ac94f86af842148c0fa8f7e",
+ "Decimals": 8
+}

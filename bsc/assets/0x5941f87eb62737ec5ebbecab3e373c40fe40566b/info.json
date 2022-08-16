@@ -1,0 +1,12 @@
+{
+ "Name": "Moon Nation Game",
+ "ImageUrl": "/media/38553713/mng.png",
+ "SmartContract": "0x5941f87eb62737ec5ebbecab3e373c40fe40566b",
+ "Symbol": "MNG",
+ "Explorer": "https://etherscan.io/token/0x5941f87eb62737ec5ebbecab3e373c40fe40566b",
+ "Research": "https://cryptocompare.com/coins/mng/overview",
+ "Description": "A Next Generation Crypto-Powered Space Game Built on Binance Smart Chain. MNB is bridging gap of crypto and games.By Connecting the wallet you can view your $MNG balance on the Platform. You can Exchange your $MNG token to the local currency of MNB and can use that. Purchase Games, Spent point to play games on hourly basis, Exchange in-game Currency and more$MNG’s transaction fees will play a key role in its success and longevity. These fees are used to create price stability, steady deflation, and rewards for token holders.Telegram | Facebook | Discord | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x5941f87eb62737ec5ebbecab3e373c40fe40566b",
+ "Decimals": 8
+}

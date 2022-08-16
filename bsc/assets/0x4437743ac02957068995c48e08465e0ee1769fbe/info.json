@@ -1,0 +1,12 @@
+{
+ "Name": "Fortress Lending",
+ "ImageUrl": "/media/39501117/fts.png",
+ "SmartContract": "0x4437743ac02957068995c48e08465e0ee1769fbe",
+ "Symbol": "FTS",
+ "Explorer": "https://etherscan.io/token/0x4437743ac02957068995c48e08465e0ee1769fbe",
+ "Research": "https://cryptocompare.com/coins/fts/overview",
+ "Description": "A Decentralized Marketplace For Lenders And Borrowers With Borderless Stablecoins.Telegram | Medium | GithubWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x4437743ac02957068995c48e08465e0ee1769fbe",
+ "Decimals": 8
+}

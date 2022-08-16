@@ -1,0 +1,12 @@
+{
+ "Name": "PARSIQ",
+ "ImageUrl": "/media/37072375/prq.png",
+ "SmartContract": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+ "Symbol": "PRQ",
+ "Explorer": "https://etherscan.io/token/0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+ "Research": "https://cryptocompare.com/coins/prq/overview",
+ "Description": "PARSIQ Token (PRQ) is an essential piece of the PARSIQ platform that co-exists with FIAT payments for using its services. Payments within the platform that are made in PRQ tokens guarantee a discounted rate. During the first Epoch when PRQ tokens are used as payment for running Smart-Triggers users receive higher execution limits, unlock transport methods, and are able to propose features that can be added to the platform.",
+ "Type": "BEP20",
+ "Id": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+ "Decimals": 8
+}

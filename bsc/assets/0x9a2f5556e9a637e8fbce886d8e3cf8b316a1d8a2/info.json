@@ -1,0 +1,10 @@
+{
+ "Name": "BIDR BEP20",
+ "SmartContract": "0x9a2f5556e9a637e8fbce886d8e3cf8b316a1d8a2",
+ "Symbol": "BIDR",
+ "Explorer": "https://bscscan.com/token/0x9a2f5556e9a637e8fbce886d8e3cf8b316a1d8a2",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x9a2f5556e9a637e8fbce886d8e3cf8b316a1d8a2",
+ "Decimals": 18
+}

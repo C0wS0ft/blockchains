@@ -1,0 +1,12 @@
+{
+ "Name": "MarketMove",
+ "ImageUrl": "/media/38553705/move.png",
+ "SmartContract": "0x231cf6f78620e42fe00d0c5c3088b427f355d01c",
+ "Symbol": "MOVE",
+ "Explorer": "https://etherscan.io/token/0x231cf6f78620e42fe00d0c5c3088b427f355d01c",
+ "Research": "https://cryptocompare.com/coins/move/overview",
+ "Description": "MarketMove is a revolutionary project in the DeFi space, combining game-changing use cases fueled by AI with rewarding tokenomics.‍Holding a specific number of MarketMove tokens will grant access to selected features of the app, which will serve as an additional buying incentive. Telegram | Youtube Whitepaper",
+ "Type": "BEP20",
+ "Id": "0x231cf6f78620e42fe00d0c5c3088b427f355d01c",
+ "Decimals": 8
+}

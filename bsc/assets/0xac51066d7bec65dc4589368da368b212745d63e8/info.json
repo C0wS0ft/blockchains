@@ -1,0 +1,11 @@
+{
+ "Name": "Alice",
+ "SmartContract": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+ "Symbol": "ALICE",
+ "Explorer": "https://bscscan.com/token/0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+ "Research": "https://www.cryptocompare.com/coins/alice/overview",
+ "Description": "",
+ "Type": "BEP20",
+ "Id": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+ "Decimals": 6
+}

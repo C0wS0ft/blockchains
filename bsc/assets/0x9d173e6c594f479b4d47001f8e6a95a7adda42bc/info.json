@@ -1,0 +1,12 @@
+{
+ "Name": "CryptoZoon",
+ "ImageUrl": "/media/38553503/zoon.png",
+ "SmartContract": "0x9d173e6c594f479b4d47001f8e6a95a7adda42bc",
+ "Symbol": "ZOON",
+ "Explorer": "https://etherscan.io/token/0x9d173e6c594f479b4d47001f8e6a95a7adda42bc",
+ "Research": "https://cryptocompare.com/coins/zoon/overview",
+ "Description": "CryptoZoon is inspired by Pokemon Story, its mission is to build a comprehensive platform of digital monsters that will enable millions of individuals to participate in the NFT and blockchain-based gaming world in a simple, creative, and enjoyable way. ZOON is the official currency in the CryptoZoon verse.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x9d173e6c594f479b4d47001f8e6a95a7adda42bc",
+ "Decimals": 8
+}

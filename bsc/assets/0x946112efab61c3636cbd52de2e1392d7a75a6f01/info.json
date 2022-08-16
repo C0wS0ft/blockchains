@@ -1,0 +1,12 @@
+{
+ "Name": "Hydro",
+ "ImageUrl": "/media/37747436/hydro.png",
+ "SmartContract": "0x946112efaB61C3636CBD52DE2E1392D7A75A6f01",
+ "Symbol": "HYDRO",
+ "Explorer": "https://etherscan.io/token/0x946112efaB61C3636CBD52DE2E1392D7A75A6f01",
+ "Research": "https://cryptocompare.com/coins/hydro/overview",
+ "Description": "Hydro is an open-source blockchain project, with a global community of passionate smart contract and product development specialists dedicated to solving the unbanked problem.Hydro’s vision is to be the life of a new global decentralized economy, allowing for secure and interoperable decentralized applications across P2P payments, B2B payments, Point of Sale, Remittance, Lending, Credit, Savings, and Tokenization. This new ecosystem is built on top of our revolutionary ERC-1484 identity standard.Project Hydro was launched in March 2018 with the goal of changing the lives of 2 Billion unbanked people forever. The project was incubated by Hydrogen, one of the leading fintech API companies in the world, named “Fintech Startup of the Year”  by KPMG and “World Changing Technology” by Fast Company. The Hydrogen team knew they were onto something great, when over 10,000 developers answered the original call to action. This is when Project Hydro expanded to be a global, decentralized, and open-source project run by the community for the global community! Now any of you can be a part of Project Hydro and help to change the world.Project Hydro is run by a group of elected representatives, what we call “Decentralization Ambassadors” or DAs for short. The DAs are tasked with maintaining the Hydro protocols, encouraging new developers in the ecosystem, and helping companies launch enterprise applications and new infrastructure on top of the ecosystem. The DAs maintain a treasury of HYDRO tokens that are used to encourage long-term sustainability of the ecosystem by incentivizing new development. Anyone globally across engineering, product management, marketing, community management, and design, can join Project Hydro. Elections take place on a rolling basis, with Officer elections happening every 6 months. Over 100 DAs will be elected in Project Hydro’s first two years. Please see our Governance page for more details on this democratic process!Telegram | Discord | Facebook | Instagram | YouTube | LinkedIn | Reddit | Medium",
+ "Type": "BEP20",
+ "Id": "0x946112efaB61C3636CBD52DE2E1392D7A75A6f01",
+ "Decimals": 8
+}

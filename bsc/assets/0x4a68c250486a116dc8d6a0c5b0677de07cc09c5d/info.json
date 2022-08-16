@@ -1,0 +1,12 @@
+{
+ "Name": "Poodl",
+ "ImageUrl": "/media/38553599/poodl.png",
+ "SmartContract": "0x4a68c250486a116dc8d6a0c5b0677de07cc09c5d",
+ "Symbol": "POODL",
+ "Explorer": "https://etherscan.io/token/0x4a68c250486a116dc8d6a0c5b0677de07cc09c5d",
+ "Research": "https://cryptocompare.com/coins/poodl/overview",
+ "Description": "POODL was created by a group of developers that decided to run the project like most meme-coins, pumped it, dumped it, and then abandoned it. This left the community in a rather difficult situation.Most tokens are simply left for dead after the first pump and dump, but POODL survived because the community saw potential in it and together, started a Telegram group to revive it. Pretty quickly people got interested in the project and the community started to grow exponentially.After reviving the token, creating an official site, and all of the necessary infrastructure, the community began to question where to go from here.See the full POODL timelineTelegram | Discord | Instagram | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x4a68c250486a116dc8d6a0c5b0677de07cc09c5d",
+ "Decimals": 8
+}

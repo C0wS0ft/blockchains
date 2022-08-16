@@ -1,0 +1,12 @@
+{
+ "Name": "Mist",
+ "ImageUrl": "/media/38554159/mist.png",
+ "SmartContract": "0x68e374f856bf25468d365e539b700b648bf94b67",
+ "Symbol": "MIST",
+ "Explorer": "https://etherscan.io/token/0x68e374f856bf25468d365e539b700b648bf94b67",
+ "Research": "https://cryptocompare.com/coins/mist/overview",
+ "Description": "Mist is an open-world, Action Role Playing Game with a dynamic combat style that is unique in the world of MMOs. Collect NFTs, battle epic monsters, and explore infinite immersive environments in this blockchain-based NFT Action RPG. You can collect NFTs, battle epic monsters, and explore immersive environments in this blockchain-based NFT Action RPG built on the Mist NFT Framework.The game universe connects to the MIST native token as the in-game currency, allowing you to farm and stake tokens to earn in- and out- of game rewards.Telegram | Discord | YouTube | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x68e374f856bf25468d365e539b700b648bf94b67",
+ "Decimals": 8
+}

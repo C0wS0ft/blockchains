@@ -1,0 +1,12 @@
+{
+ "Name": "Metabolic",
+ "ImageUrl": "/media/39500882/mtbc.png",
+ "SmartContract": "0x4f6b30c94f19a0aa3c93079c8f40e76af597aa01",
+ "Symbol": "MTBC",
+ "Explorer": "https://etherscan.io/token/0x4f6b30c94f19a0aa3c93079c8f40e76af597aa01",
+ "Research": "https://cryptocompare.com/coins/mtbc/overview",
+ "Description": "Metabolic (MTBC) token is a reflectionary token within the NFT Metaverse Gaming space, that automatically rewards users for holding supported by an all-in-one platform with state-of-the-art tokenomics.Telegram | Discord | Reddit | YouTube | Instagram",
+ "Type": "BEP20",
+ "Id": "0x4f6b30c94f19a0aa3c93079c8f40e76af597aa01",
+ "Decimals": 8
+}

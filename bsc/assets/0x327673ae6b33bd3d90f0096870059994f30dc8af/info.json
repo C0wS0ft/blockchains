@@ -1,0 +1,12 @@
+{
+ "Name": "Lympo Market Token",
+ "ImageUrl": "/media/39109062/lmt.png",
+ "SmartContract": "0x327673ae6b33bd3d90f0096870059994f30dc8af",
+ "Symbol": "LMT",
+ "Explorer": "https://etherscan.io/token/0x327673ae6b33bd3d90f0096870059994f30dc8af",
+ "Research": "https://cryptocompare.com/coins/lmt/overview",
+ "Description": "Lympo is building a sports NFTs ecosystem including NFTs with IP rights of world-famous athletes and clubs. The ecosystem will also include custom sports characters created by various artists and sports influencers.LMT (Lympo Market Token) is the utility token used throughout The Lympo ecosystem as the basis of transactions, interactions, and NFT minting. It is an ERC-20 utility token built on the Ethereum blockchain.LMT can only be acquired with the existing LYM token.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x327673ae6b33bd3d90f0096870059994f30dc8af",
+ "Decimals": 8
+}

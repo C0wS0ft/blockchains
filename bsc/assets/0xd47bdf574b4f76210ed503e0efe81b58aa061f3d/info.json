@@ -1,0 +1,12 @@
+{
+ "Name": "DTravel",
+ "ImageUrl": "/media/39334538/trvl.png",
+ "SmartContract": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
+ "Symbol": "TRVL",
+ "Explorer": "https://etherscan.io/token/0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
+ "Research": "https://cryptocompare.com/coins/trvl/overview",
+ "Description": "Dtravel is a community-owned and governed home-sharing platform. It uses the TRVL token to power platform governance and voting, travel bookings, incentives and rewards, property protection and more.Much like a co-op where owners can vote on organizational governance, hosts and guests who have TRVL are members of the Dtravel DAO.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Antis Inu",
+ "ImageUrl": "/media/39501455/antis.png",
+ "SmartContract": "0xcf64701D4567172a1De9177c319945589eD81b13",
+ "Symbol": "ANTIS",
+ "Explorer": "https://etherscan.io/token/0xcf64701D4567172a1De9177c319945589eD81b13",
+ "Research": "https://cryptocompare.com/coins/antis/overview",
+ "Description": "Antis Inu is a community-driven memecoin that launched on the BEP-20 network on December 28, 2021.TelegramPawpaper",
+ "Type": "BEP20",
+ "Id": "0xcf64701D4567172a1De9177c319945589eD81b13",
+ "Decimals": 8
+}

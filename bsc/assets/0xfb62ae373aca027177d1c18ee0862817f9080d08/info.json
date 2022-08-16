@@ -1,0 +1,12 @@
+{
+ "Name": "My DeFi Pet",
+ "ImageUrl": "/media/38553356/dpet.png",
+ "SmartContract": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+ "Symbol": "DPET",
+ "Explorer": "https://etherscan.io/token/0xfb62ae373aca027177d1c18ee0862817f9080d08",
+ "Research": "https://cryptocompare.com/coins/dpet/overview",
+ "Description": "My DeFi Pet brings traditional game experience and DeFi features to NFT collectibles where players can collect, breed and trade monsters or items, battle and participate in events.DPET token is the main in-game currency. It will be used for trading, exchanging, improving the Pets and their special qualities, mainly in the first phase.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+ "Decimals": 8
+}

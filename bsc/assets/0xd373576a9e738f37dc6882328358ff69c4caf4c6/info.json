@@ -1,0 +1,12 @@
+{
+ "Name": "Zamio",
+ "ImageUrl": "/media/39500828/zam.png",
+ "SmartContract": "0xd373576a9e738f37dc6882328358ff69c4caf4c6",
+ "Symbol": "ZAM",
+ "Explorer": "https://etherscan.io/token/0xd373576a9e738f37dc6882328358ff69c4caf4c6",
+ "Research": "https://cryptocompare.com/coins/zam/overview",
+ "Description": "ZAM is the native token that powers the Zamzam Ecosystem and can be used for transactions on-chain, paying for fees on the network, receiving discounts and cashbacks, and receiving yield.With interoperability in mind and the idea being that users can seamlessly exchange digital assets from one blockchain to another, ZAM is intended to be used as a universal bridge token for CeFi and DeFi.Initially, ZAM has cross-chain support for two of the most widely used blockchains in the world: Ethereum \u0026amp; Binance Smart Chain. In the future, support for other blockchains will be added.Discord | Telegram | Github | Reddit  | Linkedin | Facebook | YouTubeWhitePaper",
+ "Type": "BEP20",
+ "Id": "0xd373576a9e738f37dc6882328358ff69c4caf4c6",
+ "Decimals": 8
+}

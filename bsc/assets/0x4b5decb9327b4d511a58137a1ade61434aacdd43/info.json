@@ -1,0 +1,12 @@
+{
+ "Name": "Poken",
+ "ImageUrl": "/media/39501391/pkn.png",
+ "SmartContract": "0x4B5DeCb9327B4D511A58137A1aDE61434AacdD43",
+ "Symbol": "PKN",
+ "Explorer": "https://etherscan.io/token/0x4B5DeCb9327B4D511A58137A1aDE61434AacdD43",
+ "Research": "https://cryptocompare.com/coins/pkn/overview",
+ "Description": "Pokmi\u0026#39;s reasons for being is to provide a fairer, more transparent and ethical model for content creators by putting them back at the center of the economic equation, to transform the world of uncensored content. To guarantee to 18+ and only to them a content experience through Blockchain technology.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x4B5DeCb9327B4D511A58137A1aDE61434AacdD43",
+ "Decimals": 8
+}

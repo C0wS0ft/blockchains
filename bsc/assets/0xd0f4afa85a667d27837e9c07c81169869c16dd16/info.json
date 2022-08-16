@@ -1,0 +1,12 @@
+{
+ "Name": "Privapp Network",
+ "ImageUrl": "/media/38554137/bpriva.png",
+ "SmartContract": "0xD0f4afA85a667d27837e9c07c81169869c16Dd16",
+ "Symbol": "BPRIVA",
+ "Explorer": "https://etherscan.io/token/0xD0f4afA85a667d27837e9c07c81169869c16Dd16",
+ "Research": "https://cryptocompare.com/coins/bpriva/overview",
+ "Description": "Privapp Network provides a service where chain signatures, secret chain transactions and hashed wallet addresses are used to hide sender-recipient addresses and transaction amounts. Chain signatures are defined as digital contracts that can be signed by all users belonging to a group, who have the key.Telegram",
+ "Type": "BEP20",
+ "Id": "0xD0f4afA85a667d27837e9c07c81169869c16Dd16",
+ "Decimals": 8
+}

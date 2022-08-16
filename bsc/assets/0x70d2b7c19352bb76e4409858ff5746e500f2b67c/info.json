@@ -1,0 +1,12 @@
+{
+ "Name": "Pawtocol",
+ "ImageUrl": "/media/39501307/upi.png",
+ "SmartContract": "0x70D2b7C19352bB76e4409858FF5746e500f2B67c",
+ "Symbol": "UPI",
+ "Explorer": "https://etherscan.io/token/0x70D2b7C19352bB76e4409858FF5746e500f2B67c",
+ "Research": "https://cryptocompare.com/coins/upi/overview",
+ "Description": "Pawtocol LLC, a Delaware limited liability company (“Pawtocol”, “we”, “our”, “us”) aims to take the pet care industry into the blockchain age by developing a platform with a pet-focused economy and ecosystem.Pawtocol is building a multi-functional platform that can seamlessly integrate into the average pet parent’s daily life, to make crucial pet care decisions easier, reduce the lifetime cost of pet ownership, and ultimately improve the lives of pets everywhere.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x70D2b7C19352bB76e4409858FF5746e500f2B67c",
+ "Decimals": 8
+}

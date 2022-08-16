@@ -1,0 +1,12 @@
+{
+ "Name": "Lotus Capital",
+ "ImageUrl": "/media/39108976/lc.png",
+ "SmartContract": "0x0faba0355cfa2e998c41044eb7f4a09441c111bc",
+ "Symbol": "LC",
+ "Explorer": "https://etherscan.io/token/0x0faba0355cfa2e998c41044eb7f4a09441c111bc",
+ "Research": "https://cryptocompare.com/coins/lc/overview",
+ "Description": "Lotus Capital initiates decentralized funds, accelerates venture fund portfolio investments through an involved community, and provides checks and balances to fund management. Lotus Capital is a tokenized venture fund, which means every participant receives shares of future profits. Lotus Capital works according to a buy-back mechanism: profits from investments are used to buy back the Lotus Capital token in order to increase the value for holders.Telegram",
+ "Type": "BEP20",
+ "Id": "0x0faba0355cfa2e998c41044eb7f4a09441c111bc",
+ "Decimals": 8
+}

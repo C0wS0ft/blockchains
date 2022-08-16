@@ -1,0 +1,12 @@
+{
+ "Name": "Chiliz",
+ "ImageUrl": "/media/37747540/chz.png",
+ "SmartContract": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+ "Symbol": "CHZ",
+ "Explorer": "https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+ "Research": "https://cryptocompare.com/coins/chz/overview",
+ "Description": "Chiliz is a fin-tech platform for tokenizing sports teams. Its currency and blockchain technology power products for casual, mainstream consumers. Socios.com - a tokenized fan engagement solution for sports - is the first platform powered by Chiliz.The CHZ token is currently available across two blockchains in BEP-2 \u0026amp; ERC20 variations. It is openly purchasable on multiple centralized exchanges including Binance DEX, KuCoin, Bitmax, and others. CHZ tokens will also be purchasable on Socios.com via debit/ credit card.CHZ tokens run on both Binance Chain and the Ethereum blockchain.Telegram",
+ "Type": "BEP20",
+ "Id": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+ "Decimals": 8
+}

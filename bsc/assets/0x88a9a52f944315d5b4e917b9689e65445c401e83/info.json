@@ -1,0 +1,12 @@
+{
+ "Name": "Fear",
+ "ImageUrl": "/media/37747665/fear.png",
+ "SmartContract": "0x88a9a52f944315d5b4e917b9689e65445c401e83",
+ "Symbol": "FEAR",
+ "Explorer": "https://etherscan.io/token/0x88a9a52f944315d5b4e917b9689e65445c401e83",
+ "Research": "https://cryptocompare.com/coins/fear/overview",
+ "Description": "Fear NFT\u0026#39;s develop horror-based blockchain NFT games targeting teenagers and young adults. Utilising its gamer base and strong organic brand value, it aims to enrich the gaming experience for existing and new gamers by introducing game asset ownership and interactivity via those assets.",
+ "Type": "BEP20",
+ "Id": "0x88a9a52f944315d5b4e917b9689e65445c401e83",
+ "Decimals": 8
+}

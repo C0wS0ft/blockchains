@@ -1,0 +1,10 @@
+{
+ "Name": "Decentraland",
+ "SmartContract": "0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8",
+ "Symbol": "MANA",
+ "Explorer": "https://bscscan.com/token/0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8",
+ "Decimals": 18
+}

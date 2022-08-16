@@ -1,0 +1,12 @@
+{
+ "Name": "Vagabond",
+ "ImageUrl": "/media/39500813/vgo.png",
+ "SmartContract": "0xf365920c476491f855891dc67b23bd2d0c4c7a72",
+ "Symbol": "VGO",
+ "Explorer": "https://etherscan.io/token/0xf365920c476491f855891dc67b23bd2d0c4c7a72",
+ "Research": "https://cryptocompare.com/coins/vgo/overview",
+ "Description": "Vagabond is an Operating System which provides decentralized Business Apps. An enterprise Blockchain-as-a-Service (BaaS) solution that helps businesses and individuals to create decentralized applications for the most pressing global challenges. It enables pioneers and paradigm shifters to develop Business Models for the New Economy by using Vagabonds Legal and Technology infrastructure.Vagabond sets to build its community for individuals and supports users to experiment, learn or run their dApps (e.g. NFT Marketplace) based on the Vagabond platform.Discord | Github | LinkedInWhitepaper  ",
+ "Type": "BEP20",
+ "Id": "0xf365920c476491f855891dc67b23bd2d0c4c7a72",
+ "Decimals": 8
+}

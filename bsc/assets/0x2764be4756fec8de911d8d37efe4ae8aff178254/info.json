@@ -1,0 +1,12 @@
+{
+ "Name": "Plastiks",
+ "ImageUrl": "/media/39501239/plastik.png",
+ "SmartContract": "0x2764be4756fec8de911d8d37efe4ae8aff178254",
+ "Symbol": "PLASTIK",
+ "Explorer": "https://etherscan.io/token/0x2764be4756fec8de911d8d37efe4ae8aff178254",
+ "Research": "https://cryptocompare.com/coins/plastik/overview",
+ "Description": "The PLASTIK token arises from the need to connect plastic producers with recyclers. Their marketplace aims to set a new standard for traceability in plastic production by providing certifications and tracking of raw materials.Telegram | Discord | Medium | LinkedIn | Youtube | InstagramWhitepaper ",
+ "Type": "BEP20",
+ "Id": "0x2764be4756fec8de911d8d37efe4ae8aff178254",
+ "Decimals": 8
+}

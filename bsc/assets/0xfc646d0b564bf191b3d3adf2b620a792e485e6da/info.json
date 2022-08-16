@@ -1,0 +1,12 @@
+{
+ "Name": "Half Pizza",
+ "ImageUrl": "/media/39501474/piza.png",
+ "SmartContract": "0xFC646D0B564bf191B3d3adF2B620a792E485e6Da",
+ "Symbol": "PIZA",
+ "Explorer": "https://etherscan.io/token/0xFC646D0B564bf191B3d3adF2B620a792E485e6Da",
+ "Research": "https://cryptocompare.com/coins/piza/overview",
+ "Description": "HalfPizza is a technology in the form of decentralized reward-oriented communities on different boards.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xFC646D0B564bf191B3d3adF2B620a792E485e6Da",
+ "Decimals": 8
+}

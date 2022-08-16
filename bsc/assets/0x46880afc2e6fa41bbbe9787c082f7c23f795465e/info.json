@@ -1,0 +1,12 @@
+{
+ "Name": "Binamars",
+ "ImageUrl": "/media/38553651/bmars.png",
+ "SmartContract": "0x46880afc2E6FA41bBbE9787c082f7c23F795465E",
+ "Symbol": "BMARS",
+ "Explorer": "https://etherscan.io/token/0x46880afc2E6FA41bBbE9787c082f7c23F795465E",
+ "Research": "https://cryptocompare.com/coins/bmars/overview",
+ "Description": "Binamars is a platform that integrates NFT games and decentralized yield farm applications.Each Sell transaction of the BMARS token will be charged a 5% fee. The charge would be automatically added to the Locked Staking contract for disbursing interest to participants in this operation.Telegram",
+ "Type": "BEP20",
+ "Id": "0x46880afc2E6FA41bBbE9787c082f7c23F795465E",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "iNFT Token",
+ "ImageUrl": "/media/39501382/inftt.png",
+ "SmartContract": "0xd2ff8c018a22ff06f4be781090579d0490b9a69f",
+ "Symbol": "INFTT",
+ "Explorer": "https://etherscan.io/token/0xd2ff8c018a22ff06f4be781090579d0490b9a69f",
+ "Research": "https://cryptocompare.com/coins/inftt/overview",
+ "Description": "iNFT is a NFT asset trading platform, with the widest range of NFT asset categories. iNFT supports mainstream public chains, such as Ethereum and BSC. Based on blockchain and smart contracts, it provides functions, like casting, trading, auction, blind box and some other gameplay methods.Telegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xd2ff8c018a22ff06f4be781090579d0490b9a69f",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Legend of Fantasy War",
+ "ImageUrl": "/media/39501485/lfw.png",
+ "SmartContract": "0xD71239a33C8542Bd42130c1B4ACA0673B4e4f48B",
+ "Symbol": "LFW",
+ "Explorer": "https://etherscan.io/token/0xD71239a33C8542Bd42130c1B4ACA0673B4e4f48B",
+ "Research": "https://cryptocompare.com/coins/lfw/overview",
+ "Description": "Legend of Fantasy War is a 3D turn-based role-playing online video blockchain game. By blockchainizing in-game items, the game provides players ownership of in-game items by owning so-called Non-Fungible Token (NFT).The native digital cryptographically-secured fungible token of Legend of Fantasy War (ticker symbol LFW) is a transferable representation of attributed governance and utility functions specified in the protocol/code of Legend of Fantasy War, and which is designed to be used solely as an interoperable utility token on the gaming ecosystem.Telegram | Discord | MediumDocs",
+ "Type": "BEP20",
+ "Id": "0xD71239a33C8542Bd42130c1B4ACA0673B4e4f48B",
+ "Decimals": 8
+}

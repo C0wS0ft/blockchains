@@ -1,0 +1,12 @@
+{
+ "Name": "YocoinYOCO",
+ "ImageUrl": "/media/38554009/yoco.png",
+ "SmartContract": "0xdd17629d05e068a9d118ee35d11101d4140d0586",
+ "Symbol": "YOCO",
+ "Explorer": "https://etherscan.io/token/0xdd17629d05e068a9d118ee35d11101d4140d0586",
+ "Research": "https://cryptocompare.com/coins/yoco/overview",
+ "Description": "YoCoin is a 100% community-driven and fair-launched global payments system that features protocol static rewards and dynamic DeFi liquidity. YoCoin aims to be one of the safest long-term stores of value. YoCoin is working on launching the YoMarketplace, which will allow anyone to list their business and accept YOCO as payment. The YoWallet is also under construction.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xdd17629d05e068a9d118ee35d11101d4140d0586",
+ "Decimals": 8
+}

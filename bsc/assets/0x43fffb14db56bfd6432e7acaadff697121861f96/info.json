@@ -1,0 +1,12 @@
+{
+ "Name": "Flourish Coin",
+ "ImageUrl": "/media/38553345/flrs.png",
+ "SmartContract": "0x43fffb14db56bfd6432e7acaadff697121861f96",
+ "Symbol": "FLRS",
+ "Explorer": "https://etherscan.io/token/0x43fffb14db56bfd6432e7acaadff697121861f96",
+ "Research": "https://cryptocompare.com/coins/flrs/overview",
+ "Description": "Flourish is a BEP20 protocol that offers unique tokenomics. While being deflationary and yield generating with static rewards, it also features an integrated fee for charity.TelegramWhitepaper ",
+ "Type": "BEP20",
+ "Id": "0x43fffb14db56bfd6432e7acaadff697121861f96",
+ "Decimals": 8
+}

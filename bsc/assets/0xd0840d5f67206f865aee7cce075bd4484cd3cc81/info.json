@@ -1,0 +1,12 @@
+{
+ "Name": "AFEN Blockchain",
+ "ImageUrl": "/media/39501255/afen.png",
+ "SmartContract": "0xd0840d5f67206f865aee7cce075bd4484cd3cc81",
+ "Symbol": "AFEN",
+ "Explorer": "https://etherscan.io/token/0xd0840d5f67206f865aee7cce075bd4484cd3cc81",
+ "Research": "https://cryptocompare.com/coins/afen/overview",
+ "Description": "AFEN has the objective of combining blockchain’s immutable data structure and the backing of government bodies to provide legitimacy to products. This brand aims to legitimate and the promotion of African culture. Real-Estate NFT’s paired with Government backing would be at the forefront of innovation as the buyer will be able to trust the legitimacy of their ownership.The $Afen token serves three distinct purposes: NFT marketplace, staking, educational and cashback.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xd0840d5f67206f865aee7cce075bd4484cd3cc81",
+ "Decimals": 8
+}

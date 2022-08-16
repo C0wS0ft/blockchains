@@ -1,0 +1,12 @@
+{
+ "Name": "SMD Coin",
+ "ImageUrl": "/media/39501534/smd.png",
+ "SmartContract": "0x2b31b83D2a960d648e9c8d3B84dF5452c80aB947",
+ "Symbol": "SMD",
+ "Explorer": "https://etherscan.io/token/0x2b31b83D2a960d648e9c8d3B84dF5452c80aB947",
+ "Research": "https://cryptocompare.com/coins/smd/overview",
+ "Description": "SMD COIN is an integrated platform, providing Coins Staking, Yield Farming and Self-Holding. SMD COIN provides customers with decentralized farming services, personalised financial solutions, and a variety of interest models and earning opportunities.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x2b31b83D2a960d648e9c8d3B84dF5452c80aB947",
+ "Decimals": 8
+}

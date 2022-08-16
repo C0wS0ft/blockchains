@@ -1,0 +1,12 @@
+{
+ "Name": "Bit2Me",
+ "ImageUrl": "/media/39501039/b2m.png",
+ "SmartContract": "0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f",
+ "Symbol": "B2M",
+ "Explorer": "https://etherscan.io/token/0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f",
+ "Research": "https://cryptocompare.com/coins/b2m/overview",
+ "Description": "Bit2Me is an ecosystem of crypto solutions that provide services related to Blockchain technology, cryptocurrencies, and other digital assets.Bit2Me will be responsible for the issuance of a non-representative token of negotiable value (utility token) called B2M token.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f",
+ "Decimals": 8
+}

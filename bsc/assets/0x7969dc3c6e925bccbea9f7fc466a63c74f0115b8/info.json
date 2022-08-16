@@ -1,0 +1,12 @@
+{
+ "Name": "Lion Token",
+ "ImageUrl": "/media/37748045/lion.png",
+ "SmartContract": "0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8",
+ "Symbol": "LION",
+ "Explorer": "https://etherscan.io/token/0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8",
+ "Research": "https://cryptocompare.com/coins/lion/overview",
+ "Description": "Lion Token is an experiment in decentralized community building based on the Huobi Eco Chain, Binance Smart Chain, and GateChain.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8",
+ "Decimals": 8
+}

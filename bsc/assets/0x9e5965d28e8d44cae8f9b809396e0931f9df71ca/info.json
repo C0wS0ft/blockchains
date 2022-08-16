@@ -1,0 +1,12 @@
+{
+ "Name": "Space SIP",
+ "ImageUrl": "/media/38554130/sip.png",
+ "SmartContract": "0x9e5965d28e8d44cae8f9b809396e0931f9df71ca",
+ "Symbol": "SIP",
+ "Explorer": "https://etherscan.io/token/0x9e5965d28e8d44cae8f9b809396e0931f9df71ca",
+ "Research": "https://cryptocompare.com/coins/sip/overview",
+ "Description": "Space SIP (SIP) is a Play to Earn NFT RPG developed on the Binance Smart Chain platform. The game revolves around the acquisition of a legendary Spaceship and a Weapon to wield them. Players can send the Spaceship to mine $SIP tokens. Players may participate in combat using their assets to earn $SIP tokens. Assets are player owned NFTs minted in the ERC-721 standard which may be traded om the proprietary marketplace.Space SIP uses a play-to-earn model by distributing $SIP through mining and game activities, giving value to player NFTs by increasing their use through future features. NFTs may be freely traded on the marketplace for $SIP tokens, which can be traded on exchanges or converted to fiat currenceis.Telegram | Discord | Medium | Youtube",
+ "Type": "BEP20",
+ "Id": "0x9e5965d28e8d44cae8f9b809396e0931f9df71ca",
+ "Decimals": 8
+}

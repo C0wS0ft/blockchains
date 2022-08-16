@@ -1,0 +1,12 @@
+{
+ "Name": "Kalata Protocol",
+ "ImageUrl": "/media/38553946/kala.png",
+ "SmartContract": "0x32299c93960bb583a43c2220dc89152391a610c5",
+ "Symbol": "KALA",
+ "Explorer": "https://etherscan.io/token/0x32299c93960bb583a43c2220dc89152391a610c5",
+ "Research": "https://cryptocompare.com/coins/kala/overview",
+ "Description": "KALATA is the backbone of Synthetic Asset issuance and transaction agreements, allowing everyone to have a smooth experience of real-world financial assets. KALATA is also a derivative trading and mortgage lending platform for decentralized synthetic assets. KALA is the native token of the system, which is designed to promote community governance and stimulate the activity of KALATA ecosystem.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x32299c93960bb583a43c2220dc89152391a610c5",
+ "Decimals": 8
+}

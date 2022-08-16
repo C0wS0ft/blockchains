@@ -1,0 +1,12 @@
+{
+ "Name": "Brokoli Token",
+ "ImageUrl": "/media/38554220/brkl.png",
+ "SmartContract": "0x66cafcf6c32315623c7ffd3f2ff690aa36ebed38",
+ "Symbol": "BRKL",
+ "Explorer": "https://etherscan.io/token/0x66cafcf6c32315623c7ffd3f2ff690aa36ebed38",
+ "Research": "https://cryptocompare.com/coins/brkl/overview",
+ "Description": "Brokoli is an impact-to-earn NFT tree metaverse. Here, every DeFi function is climate positive at no extra cost for the user. Users can make, own, and trade the positive impact they make by using Brokoli\u0026#39;s green DeFi products. Brokoli\u0026#39;s core platform: a green aggregator for token swaps, lending and yield farming. It makes every DeFi transaction climate positive at no extra cost for the user.API: Any GameFi and DeFi platform can implement the Brokoli API to make their transactions climate positive, generating more revenue, brand awareness and users for Brokoli. NFT Digital Forests: Users can receive seeds by using Brokoli\u0026#39;s green products or by completing quests. These seeds are turned into NFT trees after the DAO vote. Digital NFT forests will be tradable as Brokoli Impact Credits with other users that want to move up the leaderboard of impact, and with corporates that want CSR (corporate social responsibility) - it\u0026#39;s a decentralized alternative to carbon credits. Governing the protocol is the decentralized autonomous organization (DAO) model that controls 100% of the climate offset funding, with the BRKL token at its core. This mechanism distributes the funds collected between Tree Planting, Renewable Energy and Electronic Waste Collection projects around the globe, with token holders having 100% control of the fund allocations.Telegram | Discord | TikTokWhitepaper ",
+ "Type": "BEP20",
+ "Id": "0x66cafcf6c32315623c7ffd3f2ff690aa36ebed38",
+ "Decimals": 8
+}

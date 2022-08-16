@@ -1,0 +1,12 @@
+{
+ "Name": "Ariva",
+ "ImageUrl": "/media/38553672/arv.png",
+ "SmartContract": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+ "Symbol": "ARV",
+ "Explorer": "https://etherscan.io/token/0x6679eb24f59dfe111864aec72b443d1da666b360",
+ "Research": "https://cryptocompare.com/coins/arv/overview",
+ "Description": "Ariva is a cryptocurrency launched by Ariva Co., produced for active use in global and local tourism and travel networks in the near future. Project is a worldwide B2C travel \u0026amp; tourism network where members can meet with global and local tourism service providers in the light of previous travelers\u0026#39; experiences and comments, make bookings with cryptocurrencies, and earn crypto money from both their reservations and valuable content sharing.ARV came into existence with the intention to make transactions hassle-free in global and local tourism networks in the near future.Telegram | Youtube | Instagram | Facebook | Medium",
+ "Type": "BEP20",
+ "Id": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+ "Decimals": 8
+}

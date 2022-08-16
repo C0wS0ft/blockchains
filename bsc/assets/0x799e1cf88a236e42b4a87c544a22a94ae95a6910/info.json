@@ -1,0 +1,12 @@
+{
+ "Name": "MContent",
+ "ImageUrl": "/media/37748284/mcontent.png",
+ "SmartContract": "0x799e1cf88a236e42b4a87c544a22a94ae95a6910",
+ "Symbol": "MCONTENT",
+ "Explorer": "https://etherscan.io/token/0x799e1cf88a236e42b4a87c544a22a94ae95a6910",
+ "Research": "https://cryptocompare.com/coins/mcontent/overview",
+ "Description": "MContent is introducing a digital content market place that aims to build a collaborative content ecosystem with the core purpose of seed funding, incubating and curating film makers and content producers around the World.This platform will create direct financing and investments for deserving content creators, film professionals and media artists who have the talent but not the resources giving them access to global investors as well as a global audience.Telegram",
+ "Type": "BEP20",
+ "Id": "0x799e1cf88a236e42b4a87c544a22a94ae95a6910",
+ "Decimals": 8
+}

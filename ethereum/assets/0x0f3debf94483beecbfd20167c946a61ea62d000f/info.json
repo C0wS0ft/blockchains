@@ -1,0 +1,10 @@
+{
+ "Name": "SPIKE INU",
+ "SmartContract": "0x0f3dEBf94483beEcBFD20167C946A61Ea62d000f",
+ "Symbol": "SPKI",
+ "Explorer": "https://etherscan.io/token/0x0f3dEBf94483beEcBFD20167C946A61Ea62d000f",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x0f3dEBf94483beEcBFD20167C946A61Ea62d000f",
+ "Decimals": 9
+}

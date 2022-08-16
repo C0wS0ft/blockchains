@@ -1,0 +1,12 @@
+{
+ "Name": "OptionRoom",
+ "ImageUrl": "/media/38553764/room.png",
+ "SmartContract": "0x3C45A24d36Ab6fc1925533C1F57bC7e1b6fbA8a4",
+ "Symbol": "ROOM",
+ "Explorer": "https://etherscan.io/token/0x3C45A24d36Ab6fc1925533C1F57bC7e1b6fbA8a4",
+ "Research": "https://cryptocompare.com/coins/room/overview",
+ "Description": "OptionRoom is a user governed oracle and forecast protocol built on Polkadot. OptionRoom has the ability to serve as an OaaS - Oracle as a Service where oracle requests are solved by governance. It allows users to create and participate in event derivatives that are pegged to real-world outcomes by governance consensus.Dual token model: ROOM serving as the utility token of OptionRoom and COURT serving as the governance token of the protocol. The governance token COURT can only be obtained by providing liquidity/staking the utility token ROOMTelegram | GithubWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x3C45A24d36Ab6fc1925533C1F57bC7e1b6fbA8a4",
+ "Decimals": 8
+}

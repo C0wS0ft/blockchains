@@ -1,0 +1,12 @@
+{
+ "Name": "VYNK Chain",
+ "ImageUrl": "/media/39501406/vync.png",
+ "SmartContract": "0xee1ae38BE4Ce0074C4A4A8DC821CC784778f378c",
+ "Symbol": "VYNC",
+ "Explorer": "https://etherscan.io/token/0xee1ae38BE4Ce0074C4A4A8DC821CC784778f378c",
+ "Research": "https://cryptocompare.com/coins/vync/overview",
+ "Description": "VYNK CHAIN is a Defi and Utility token from VynkPay which is a crypto payments application and a gateway to blockchain apps. Its mission is to connect people from all over the world by creating a healthy environment that accelerates trading without involving a single bank account.Telegram",
+ "Type": "BEP20",
+ "Id": "0xee1ae38BE4Ce0074C4A4A8DC821CC784778f378c",
+ "Decimals": 8
+}

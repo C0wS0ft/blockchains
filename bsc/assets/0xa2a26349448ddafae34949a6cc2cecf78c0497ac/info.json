@@ -1,0 +1,12 @@
+{
+ "Name": "TrusterCoin",
+ "ImageUrl": "/media/39198273/tsc.png",
+ "SmartContract": "0xA2a26349448ddAfAe34949a6Cc2cEcF78c0497aC",
+ "Symbol": "TSC",
+ "Explorer": "https://etherscan.io/token/0xA2a26349448ddAfAe34949a6Cc2cEcF78c0497aC",
+ "Research": "https://cryptocompare.com/coins/tsc/overview",
+ "Description": "TrusterCoin is a utility token for use on tokenization platforms The platform will allow the creation of new tokenization of small, medium to large companies through blockchain technology.Telegram",
+ "Type": "BEP20",
+ "Id": "0xA2a26349448ddAfAe34949a6Cc2cEcF78c0497aC",
+ "Decimals": 8
+}

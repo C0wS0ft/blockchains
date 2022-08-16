@@ -1,0 +1,12 @@
+{
+ "Name": "World of Defish",
+ "ImageUrl": "/media/39413343/wod.png",
+ "SmartContract": "0x298632d8ea20d321fab1c9b473df5dbda249b2b6",
+ "Symbol": "WOD",
+ "Explorer": "https://etherscan.io/token/0x298632d8ea20d321fab1c9b473df5dbda249b2b6",
+ "Research": "https://cryptocompare.com/coins/wod/overview",
+ "Description": "World of Defish is a decentralized NFT gaming universe running on BSC where players immerse themselves in the underwater universe.World of Defish offers players the NFT world where they can explore the seven seas to look for the desired NFT fish.Fishermen can upgrade their equipment and skills to improve fishing production.Telegram | Medium | LinkedInWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x298632d8ea20d321fab1c9b473df5dbda249b2b6",
+ "Decimals": 8
+}

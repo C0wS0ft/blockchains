@@ -1,0 +1,12 @@
+{
+ "Name": "PolkaWar",
+ "ImageUrl": "/media/38553513/pwar.png",
+ "SmartContract": "0x16153214e683018d5aa318864c8e692b66e16778",
+ "Symbol": "PWAR",
+ "Explorer": "https://etherscan.io/token/0x16153214e683018d5aa318864c8e692b66e16778",
+ "Research": "https://cryptocompare.com/coins/pwar/overview",
+ "Description": "PolkaWar is a blockchain-based NFT gaming platform and marketplace. Inspired by the recent crypto NFT and gaming narratives, PolkaWar aims to combine and synergize them both to build an attractive platform.The game allows every player to build a character and participate in the battle against other players. Further, PolkaWar will also include an NFT marketplace, where players can sell their items, weapons and upgraded equipment for crypto. Some of the items can even be redeemed for real-world replicas.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x16153214e683018d5aa318864c8e692b66e16778",
+ "Decimals": 8
+}

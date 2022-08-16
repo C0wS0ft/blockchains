@@ -1,0 +1,10 @@
+{
+ "Name": "The Force Token",
+ "SmartContract": "0x658a109c5900bc6d2357c87549b651670e5b0539",
+ "Symbol": "FOR",
+ "Explorer": "https://bscscan.com/token/0x658a109c5900bc6d2357c87549b651670e5b0539",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x658a109c5900bc6d2357c87549b651670e5b0539",
+ "Decimals": 18
+}

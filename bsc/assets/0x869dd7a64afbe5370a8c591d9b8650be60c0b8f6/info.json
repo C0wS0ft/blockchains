@@ -1,0 +1,12 @@
+{
+ "Name": "FastMoon",
+ "ImageUrl": "/media/37747364/fastmoon.png",
+ "SmartContract": "0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6",
+ "Symbol": "FASTMOON",
+ "Explorer": "https://etherscan.io/token/0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6",
+ "Research": "https://cryptocompare.com/coins/fastmoon/overview",
+ "Description": "FastMoon is a deflationary BEP-20 protocol, which provides an LP Acquisition algorithm, Static Rewards, Buy Transaction Limiter based on initial Total Supply, and Manual Burn.",
+ "Type": "BEP20",
+ "Id": "0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6",
+ "Decimals": 8
+}

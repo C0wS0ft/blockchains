@@ -1,0 +1,12 @@
+{
+ "Name": "ShibElon",
+ "ImageUrl": "/media/39198094/shibelon.png",
+ "SmartContract": "0xc183062db25fc96325485ea369c979ce881ac0ea",
+ "Symbol": "SHIBELON",
+ "Explorer": "https://etherscan.io/token/0xc183062db25fc96325485ea369c979ce881ac0ea",
+ "Research": "https://cryptocompare.com/coins/shibelon/overview",
+ "Description": "ShibElon follows 5 different mechanisms which include BNB rewards to holders, marketing wallet reflection in BNB, weekly buyback, burn of supply, liquidity fee and team reflection in BNBTelegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xc183062db25fc96325485ea369c979ce881ac0ea",
+ "Decimals": 8
+}

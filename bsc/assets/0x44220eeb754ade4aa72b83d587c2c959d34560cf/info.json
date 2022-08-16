@@ -1,0 +1,12 @@
+{
+ "Name": "MoonBet",
+ "ImageUrl": "/media/39501054/mbet.png",
+ "SmartContract": "0x44220eeb754ade4aa72b83d587c2c959d34560cf",
+ "Symbol": "MBET",
+ "Explorer": "https://etherscan.io/token/0x44220eeb754ade4aa72b83d587c2c959d34560cf",
+ "Research": "https://cryptocompare.com/coins/mbet/overview",
+ "Description": "Moonbet is a community-driven decentralized iGaming ecosystem. It allows the community to become owners of an online sportsbook, casino, and eSports betting platform through decentralized gaming.MBET is the native token of Moonbet ecosystem built on the Binance Smart Chain. By holding MBET tokens, all holders of the MBET token will receive 50% of the profits from the Moonbet Sportsbook \u0026amp; Casino.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x44220eeb754ade4aa72b83d587c2c959d34560cf",
+ "Decimals": 8
+}

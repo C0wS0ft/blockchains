@@ -1,0 +1,12 @@
+{
+ "Name": "Hero Arena",
+ "ImageUrl": "/media/39109086/hera.png",
+ "SmartContract": "0x49c7295ff86eabf5bf58c6ebc858db4805738c01",
+ "Symbol": "HERA",
+ "Explorer": "https://etherscan.io/token/0x49c7295ff86eabf5bf58c6ebc858db4805738c01",
+ "Research": "https://cryptocompare.com/coins/hera/overview",
+ "Description": "Hero Arena is a Metaverse RPG Game builded on blockchain technology. With inspiration from the Dota2 Game. It is a futuristic world with 5 different factions, each with their own strengths and weaknesses. Players can recruit heroes which then can be used to progress in the campaign mode and fight against the enemies. In the combat arena players can earn profit from enemies.Play to Earn Players action their mission everyday. Training Heroes and earn HERA Token.Telegram",
+ "Type": "BEP20",
+ "Id": "0x49c7295ff86eabf5bf58c6ebc858db4805738c01",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "TradeStars",
+ "ImageUrl": "/media/38553514/tsx.png",
+ "SmartContract": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+ "Symbol": "TSX",
+ "Explorer": "https://etherscan.io/token/0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+ "Research": "https://cryptocompare.com/coins/tsx/overview",
+ "Description": "TradeStars is a Fantasy Stocks trading platform powered by the Ethereum + Matic Layer 2 blockchains where users can trade digital assets that represent real-life events\u0026#39; statistics. It’s a decentralized social gaming experience in which people can express their passion for sports, compete against each other, and show “How much your sports knowledge is worth”.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+ "Decimals": 8
+}

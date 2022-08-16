@@ -1,0 +1,12 @@
+{
+ "Name": "Bidcommerce",
+ "ImageUrl": "/media/37747793/bidcom.png",
+ "SmartContract": "0x9986aa69545dC44B66fc85Ba505Fd66FEAE0d6A5",
+ "Symbol": "BIDCOM",
+ "Explorer": "https://etherscan.io/token/0x9986aa69545dC44B66fc85Ba505Fd66FEAE0d6A5",
+ "Research": "https://cryptocompare.com/coins/bidcom/overview",
+ "Description": "The BidCommerce ($BidCom) is a project driven by Community members focusing on Decentralized Finance (DeFi) and AI-Powered Commerce Ecosystem.",
+ "Type": "BEP20",
+ "Id": "0x9986aa69545dC44B66fc85Ba505Fd66FEAE0d6A5",
+ "Decimals": 8
+}

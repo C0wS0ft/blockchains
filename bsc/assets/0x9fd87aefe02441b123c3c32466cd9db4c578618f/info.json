@@ -1,0 +1,12 @@
+{
+ "Name": "Thetan Arena",
+ "ImageUrl": "/media/38553499/thg.png",
+ "SmartContract": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+ "Symbol": "THG",
+ "Explorer": "https://etherscan.io/token/0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+ "Research": "https://cryptocompare.com/coins/thg/overview",
+ "Description": "Thetan Arena ($THG) is a blockchain-based MOBA and Battle Royale game by KardiaChain and Wolffun Game with many interesting and unique gameplay designs and in-game economics direction. It is focused on creating a massive social E-sport gaming experience with a highly incentivized Play-2-Earn model.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+ "Decimals": 8
+}

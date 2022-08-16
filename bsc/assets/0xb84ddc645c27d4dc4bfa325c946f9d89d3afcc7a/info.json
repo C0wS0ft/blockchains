@@ -1,0 +1,12 @@
+{
+ "Name": "Bonus Cake",
+ "ImageUrl": "/media/38553872/bonuscake.png",
+ "SmartContract": "0xb84ddc645c27d4dc4bfa325c946f9d89d3afcc7a",
+ "Symbol": "BONUSCAKE",
+ "Explorer": "https://etherscan.io/token/0xb84ddc645c27d4dc4bfa325c946f9d89d3afcc7a",
+ "Research": "https://cryptocompare.com/coins/bonuscake/overview",
+ "Description": "BONUS CAKE is a yield-generating contract on the Binance Smart Chain (BSC): users get rewarded in CAKE instead of tokens.Telegram",
+ "Type": "BEP20",
+ "Id": "0xb84ddc645c27d4dc4bfa325c946f9d89d3afcc7a",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Popsicle Finance",
+ "ImageUrl": "/media/37746830/ice1.png",
+ "SmartContract": "0xf16e81dce15b08f326220742020379b855b87df9",
+ "Symbol": "ICE",
+ "Explorer": "https://etherscan.io/token/0xf16e81dce15b08f326220742020379b855b87df9",
+ "Research": "https://cryptocompare.com/coins/ice/overview",
+ "Description": "Popsicle Finance is a next-gen cross-chain yield enhancement platform focusing on Automated Market-Making (AMM) Liquidity Providers (LP).",
+ "Type": "BEP20",
+ "Id": "0xf16e81dce15b08f326220742020379b855b87df9",
+ "Decimals": 8
+}

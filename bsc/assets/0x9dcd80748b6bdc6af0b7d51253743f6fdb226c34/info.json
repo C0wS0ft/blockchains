@@ -1,0 +1,10 @@
+{
+ "Name": "Givetime",
+ "SmartContract": "0x9dcD80748b6bDC6aF0B7d51253743f6Fdb226c34",
+ "Symbol": "GTM",
+ "Explorer": "https://bscscan.com/token/0x9dcD80748b6bDC6aF0B7d51253743f6Fdb226c34",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x9dcD80748b6bDC6aF0B7d51253743f6Fdb226c34",
+ "Decimals": 18
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Sheesh it is bussin bussin",
+ "ImageUrl": "/media/38553565/sheesh.png",
+ "SmartContract": "0x7E5d52C3335C91Af0da392BEa4BB9e43F2AbA62C",
+ "Symbol": "SHEESH",
+ "Explorer": "https://etherscan.io/token/0x7E5d52C3335C91Af0da392BEa4BB9e43F2AbA62C",
+ "Research": "https://cryptocompare.com/coins/sheesh/overview",
+ "Description": "Sheesh Token is a community-driven token, created primarily for social media influencers/gamers to link the world of crypto to the masses of social media.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x7E5d52C3335C91Af0da392BEa4BB9e43F2AbA62C",
+ "Decimals": 8
+}

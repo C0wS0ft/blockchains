@@ -1,0 +1,12 @@
+{
+ "Name": "Little Rabbit",
+ "ImageUrl": "/media/38553221/ltrbt.png",
+ "SmartContract": "0x17d749d3e2ac204a07e19d8096d9a05c423ea3af",
+ "Symbol": "LTRBT",
+ "Explorer": "https://etherscan.io/token/0x17d749d3e2ac204a07e19d8096d9a05c423ea3af",
+ "Research": "https://cryptocompare.com/coins/ltrbt/overview",
+ "Description": "Littlerabbit is a projects on the Binance Smart Chain. Its aim is to maximize users investment with yield farming mechanism that provides sustainable and profitable yields combined with transparent security features.",
+ "Type": "BEP20",
+ "Id": "0x17d749d3e2ac204a07e19d8096d9a05c423ea3af",
+ "Decimals": 8
+}

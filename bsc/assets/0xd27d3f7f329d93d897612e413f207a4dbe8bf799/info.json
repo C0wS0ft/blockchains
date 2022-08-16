@@ -1,0 +1,12 @@
+{
+ "Name": "Moonshot",
+ "ImageUrl": "/media/38553681/moonshot.png",
+ "SmartContract": "0xd27d3f7f329d93d897612e413f207a4dbe8bf799",
+ "Symbol": "MOONSHOT",
+ "Explorer": "https://etherscan.io/token/0xd27d3f7f329d93d897612e413f207a4dbe8bf799",
+ "Research": "https://cryptocompare.com/coins/moonshot/overview",
+ "Description": "Moonshot is a frictionless yield and liquidity generation smart contract which applies a 10% fee to each transaction, be that a buy, sell, or transfer from wallet to wallet. This transaction fee is split into two portions that serve separate functions.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xd27d3f7f329d93d897612e413f207a4dbe8bf799",
+ "Decimals": 8
+}

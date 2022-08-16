@@ -1,0 +1,12 @@
+{
+ "Name": "iBuffer Token",
+ "ImageUrl": "/media/39383105/ibfr.png",
+ "SmartContract": "0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5",
+ "Symbol": "IBFR",
+ "Explorer": "https://etherscan.io/token/0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5",
+ "Research": "https://cryptocompare.com/coins/ibfr/overview",
+ "Description": "Buffer is a non-custodial on-chain peer-to-pool options trading protocol that works just like an Automated Market Maker (eg: PancakeSwap) where traders can create, buy and settle options against a liquidity pool without the need of a counterparty (option writer).Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5",
+ "Decimals": 8
+}

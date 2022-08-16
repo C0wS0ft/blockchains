@@ -1,0 +1,12 @@
+{
+ "Name": "Wenlambo",
+ "ImageUrl": "/media/38553559/wenlambo.png",
+ "SmartContract": "0xd8a31016cd7da048ca21ffe04256c6d08c3a2251",
+ "Symbol": "WENLAMBO",
+ "Explorer": "https://etherscan.io/token/0xd8a31016cd7da048ca21ffe04256c6d08c3a2251",
+ "Research": "https://cryptocompare.com/coins/wenlambo/overview",
+ "Description": "WenLambo is an evolving project, this project surrounds an ever-changing market environment, so amendments will be made periodically to best reflect current events.WENLAMBO is a yield and liquidity generation protocol. It taxes transactions and distributes 3% to holders and locks 3% to liquidity.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xd8a31016cd7da048ca21ffe04256c6d08c3a2251",
+ "Decimals": 8
+}

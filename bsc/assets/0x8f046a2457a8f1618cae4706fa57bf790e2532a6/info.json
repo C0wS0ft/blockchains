@@ -1,0 +1,12 @@
+{
+ "Name": "Restore Truth Token",
+ "ImageUrl": "",
+ "SmartContract": "0x8F046a2457a8F1618cAe4706Fa57Bf790e2532a6",
+ "Symbol": "RTT",
+ "Explorer": "https://etherscan.io/token/0x8F046a2457a8F1618cAe4706Fa57Bf790e2532a6",
+ "Research": "https://cryptocompare.com/coins/rtt/overview",
+ "Description": "RTT is a cryptocurrency ecosystem that provides its holders with uncensored news, access to exclusive content, crypto and civic literacy education material, an NFT marketplace and more.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x8F046a2457a8F1618cAe4706Fa57Bf790e2532a6",
+ "Decimals": 8
+}

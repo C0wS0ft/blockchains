@@ -1,0 +1,12 @@
+{
+ "Name": "ERON",
+ "ImageUrl": "/media/39501425/eron.png",
+ "SmartContract": "0xB9f32A64ba104F22f34b7eA4FCA712E507CE1B99",
+ "Symbol": "ERON",
+ "Explorer": "https://etherscan.io/token/0xB9f32A64ba104F22f34b7eA4FCA712E507CE1B99",
+ "Research": "https://cryptocompare.com/coins/eron/overview",
+ "Description": "The ERON PROJECT is a charity project created in order to provide the most basic human standards such as purified water, electricity and gas to people in poor areas. This project was established in order to identify poor areas and to build utility networks or extensions into such areas.The ERON PROJECT will run on its own private nodes developed on the Ethereum Web3 blockchain, using the GO implementation of Ethereum, the GETH platform. At a later date, nodes will become available for public deployment.Telegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xB9f32A64ba104F22f34b7eA4FCA712E507CE1B99",
+ "Decimals": 8
+}

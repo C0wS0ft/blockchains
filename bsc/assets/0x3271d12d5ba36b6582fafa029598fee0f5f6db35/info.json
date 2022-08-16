@@ -1,0 +1,12 @@
+{
+ "Name": "Lil Floki",
+ "ImageUrl": "/media/39501509/lilfloki.png",
+ "SmartContract": "0x3271D12D5ba36B6582fafA029598FEe0F5F6Db35",
+ "Symbol": "LILFLOKI",
+ "Explorer": "https://etherscan.io/token/0x3271D12D5ba36B6582fafA029598FEe0F5F6Db35",
+ "Research": "https://cryptocompare.com/coins/lilfloki/overview",
+ "Description": "The project aims for future use-cases including donations to New Zealand Dog Charities and offering BNB Rewards to their holders.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x3271D12D5ba36B6582fafA029598FEe0F5F6Db35",
+ "Decimals": 8
+}

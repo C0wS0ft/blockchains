@@ -1,0 +1,12 @@
+{
+ "Name": "Squid Game",
+ "ImageUrl": "/media/38554104/squid.png",
+ "SmartContract": "0x87230146E138d3F296a9a77e497A2A83012e9Bc5",
+ "Symbol": "SQUID",
+ "Explorer": "https://etherscan.io/token/0x87230146E138d3F296a9a77e497A2A83012e9Bc5",
+ "Research": "https://cryptocompare.com/coins/squid/overview",
+ "Description": "The Squid Game project is a crypto play to earn platform on BSC chain inspired by the Korean hit series on Netflix about a deadly tournament of children\u0026#39;s games.Telegram",
+ "Type": "BEP20",
+ "Id": "0x87230146E138d3F296a9a77e497A2A83012e9Bc5",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "DOSE",
+ "ImageUrl": "/media/39198203/dose.png",
+ "SmartContract": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
+ "Symbol": "DOSE",
+ "Explorer": "https://etherscan.io/token/0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
+ "Research": "https://cryptocompare.com/coins/dose/overview",
+ "Description": "DOSE is the token of purchase, utility and action and is at the heart of the OliveX gamified fitness ecosystem. Players will receive DOSE tokens for completing workout based gameplay in Dustland Runner, Dustland Cyclist, 22 Pushups and other experiences.DOSE is an ERC-20 Fungible Token (FT) of purchase, utility and action. It is the heart of the OliveX gamified fitness ecosystem. Players will receive DOSE tokens for completing workout based gameplay in Dustland Runner, Dustland Cyclist, 22 Pushups and other experiences. These tokens can be used to unlock items, purchase NFTs and participate in special events and game modes.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "NFT Art Finance",
+ "ImageUrl": "/media/38553949/nftart.png",
+ "SmartContract": "0xf7844cb890f4c339c497aeab599abdc3c874b67a",
+ "Symbol": "NFTART",
+ "Explorer": "https://etherscan.io/token/0xf7844cb890f4c339c497aeab599abdc3c874b67a",
+ "Research": "https://cryptocompare.com/coins/nftart/overview",
+ "Description": "NFT Art Finance aims to empower NFT creators and artists on BSC with a new NFT concept. Its hyper-deflationary utility token - NFTART will be powering several functions of the upcoming platform.Telegram",
+ "Type": "BEP20",
+ "Id": "0xf7844cb890f4c339c497aeab599abdc3c874b67a",
+ "Decimals": 8
+}

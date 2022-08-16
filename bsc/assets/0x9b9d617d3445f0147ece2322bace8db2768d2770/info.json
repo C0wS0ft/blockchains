@@ -1,0 +1,12 @@
+{
+ "Name": "CUE Protocol",
+ "ImageUrl": "/media/37746808/cue.png",
+ "SmartContract": "0x9b9d617d3445f0147ece2322bace8db2768d2770",
+ "Symbol": "CUE",
+ "Explorer": "https://etherscan.io/token/0x9b9d617d3445f0147ece2322bace8db2768d2770",
+ "Research": "https://cryptocompare.com/coins/cue/overview",
+ "Description": "Cue Protocol is a community-driven protocol with deflationary mechanics. 2.5% of every transaction is collected by the governance wallet. The community can vote on the use of the governance wallet such as a burn.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x9b9d617d3445f0147ece2322bace8db2768d2770",
+ "Decimals": 8
+}

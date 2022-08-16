@@ -1,0 +1,12 @@
+{
+ "Name": "Luna Rush",
+ "ImageUrl": "/media/39413398/lus.png",
+ "SmartContract": "0xde301d6a2569aefcfe271b9d98f318baee1d30a4",
+ "Symbol": "LUS",
+ "Explorer": "https://etherscan.io/token/0xde301d6a2569aefcfe271b9d98f318baee1d30a4",
+ "Research": "https://cryptocompare.com/coins/lus/overview",
+ "Description": "Luna Rush is an Anime-style casual hanging-up game, this is an incremental game about strategy. Luna Rush Token (LUS) is the governance token of Luna Rush, issued on Binance Smart Chain.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xde301d6a2569aefcfe271b9d98f318baee1d30a4",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "OnlyCumies",
+ "ImageUrl": "/media/39501242/onlycumies.png",
+ "SmartContract": "0x60dac5fa1570d37287f2e7eb9f7add0c268ee81a",
+ "Symbol": "ONLYCUMIES",
+ "Explorer": "https://etherscan.io/token/0x60dac5fa1570d37287f2e7eb9f7add0c268ee81a",
+ "Research": "https://cryptocompare.com/coins/onlycumies/overview",
+ "Description": "OnlyCumies is proud to support diverse content creators, both as models and as stakeholders with valid input on the ecosystem and development. Paying for adult content in crypto provides both buyers and creators with anonymity.OnlyCumies is a deflationary token centered around the adult entertainment industry. Its mission is to build the greatest uncensored content collection across the internet and support content creators.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x60dac5fa1570d37287f2e7eb9f7add0c268ee81a",
+ "Decimals": 8
+}

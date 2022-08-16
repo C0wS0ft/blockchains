@@ -1,0 +1,12 @@
+{
+ "Name": "Battle Hero",
+ "ImageUrl": "/media/38553960/bath.png",
+ "SmartContract": "0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE",
+ "Symbol": "BATH",
+ "Explorer": "https://etherscan.io/token/0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE",
+ "Research": "https://cryptocompare.com/coins/bath/overview",
+ "Description": "Battle Hero\u0026#39;s project intention was from the very start to create an NFT game where users could be rewarded when they play it, as more hours are spent playing and enjoying this fun game more coins will be redeemed by them. This game was developed by and for players.Battle Hero (BATH) token is used as the main cryptocurrency/token within the entire game. All in-game and out-of-game economy will always be with the $BATH token.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE",
+ "Decimals": 8
+}

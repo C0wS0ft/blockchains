@@ -1,0 +1,12 @@
+{
+ "Name": "Bzzone",
+ "ImageUrl": "/media/38553710/bzzone.png",
+ "SmartContract": "0x47fa20ba81333ba507d687913baf7c89432182a1",
+ "Symbol": "BZZONE",
+ "Explorer": "https://etherscan.io/token/0x47fa20ba81333ba507d687913baf7c89432182a1",
+ "Research": "https://cryptocompare.com/coins/bzzone/overview",
+ "Description": "PangolinSwap is a cross-chain aggregation platform that integrates NFT, DEX, and MiningTelegram",
+ "Type": "BEP20",
+ "Id": "0x47fa20ba81333ba507d687913baf7c89432182a1",
+ "Decimals": 8
+}

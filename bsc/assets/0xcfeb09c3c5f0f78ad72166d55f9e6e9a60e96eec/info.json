@@ -1,0 +1,12 @@
+{
+ "Name": "vEmpire DDAO",
+ "ImageUrl": "/media/39501393/vemp.png",
+ "SmartContract": "0xcFEB09C3c5F0f78aD72166D55f9e6E9A60e96eEC",
+ "Symbol": "VEMP",
+ "Explorer": "https://etherscan.io/token/0xcFEB09C3c5F0f78aD72166D55f9e6E9A60e96eEC",
+ "Research": "https://cryptocompare.com/coins/vemp/overview",
+ "Description": "vEmpire DDAO is a Decentralized Metaverse Investment Organization. The official vEmpire protocol incorporates different strategies to incentivize Metaverse token staking to fund the battle against centralisation.vEmpire is entirely focused on protecting decentralized technologies through virtual property and Metaversal asset acquisition.Integral to the protocol is the VEMP token. This is the native token for the Empire and is the currency used to reward trading card battle winners, liquidity providers, stakers and the DDAO. At present, Metaverses only have MANA or other native tokens being used on world for content.Telegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xcFEB09C3c5F0f78aD72166D55f9e6E9A60e96eEC",
+ "Decimals": 8
+}

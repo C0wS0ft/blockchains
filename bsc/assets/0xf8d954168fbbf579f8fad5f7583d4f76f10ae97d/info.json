@@ -1,0 +1,12 @@
+{
+ "Name": "NFT Alley",
+ "ImageUrl": "/media/38553526/alley.png",
+ "SmartContract": "0xf8d954168fbbf579f8fad5f7583d4f76f10ae97d",
+ "Symbol": "ALLEY",
+ "Explorer": "https://etherscan.io/token/0xf8d954168fbbf579f8fad5f7583d4f76f10ae97d",
+ "Research": "https://cryptocompare.com/coins/alley/overview",
+ "Description": "NFT Alley empowers multi-chain NFT marketplace to make crypto-collectibles accessible.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xf8d954168fbbf579f8fad5f7583d4f76f10ae97d",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "TRONPAD",
+ "ImageUrl": "/media/38554022/tronpad.png",
+ "SmartContract": "0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4",
+ "Symbol": "TRONPAD",
+ "Explorer": "https://etherscan.io/token/0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4",
+ "Research": "https://cryptocompare.com/coins/tronpad/overview",
+ "Description": "TronPad is an IDO platform built on and partnered with the Tron Network. TronPad is designed to empower cryptocurrency projects with the ability to distribute tokens and raise liquidity.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4",
+ "Decimals": 8
+}

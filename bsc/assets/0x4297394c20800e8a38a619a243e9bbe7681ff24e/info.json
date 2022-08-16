@@ -1,0 +1,12 @@
+{
+ "Name": "Hot Cross",
+ "ImageUrl": "/media/37747654/hotcross.png",
+ "SmartContract": "0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+ "Symbol": "HOTCROSS",
+ "Explorer": "https://etherscan.io/token/0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+ "Research": "https://cryptocompare.com/coins/hotcross/overview",
+ "Description": "Hot Cross is a multi-chain tool suite. It aims to be a toolbox for EVM networks and expand to non-EVM chains in future.The native digital cryptographically-secured ecosystem utility token of Hot Cross ($HOTCROSS) is a transferable representation of attributed functions specified in the protocol/code of Hot Cross, which is designed to play a major role in the functioning of the ecosystem on Hot Cross and intended to be used solely as the primary utility token on the protocol/network which allows users to access a various number of products in the Hot Cross suite.",
+ "Type": "BEP20",
+ "Id": "0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+ "Decimals": 8
+}

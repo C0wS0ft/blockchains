@@ -1,0 +1,12 @@
+{
+ "Name": "LPI DAO",
+ "ImageUrl": "/media/38553627/lpi.png",
+ "SmartContract": "0x3428ebf69d2db64a056c68871f27c9e0310f26c9",
+ "Symbol": "LPI",
+ "Explorer": "https://etherscan.io/token/0x3428ebf69d2db64a056c68871f27c9e0310f26c9",
+ "Research": "https://cryptocompare.com/coins/lpi/overview",
+ "Description": "LPI DAO is a decentralized seed sale aggregation platform that specializes in market trending projects to provide support and backing to upcoming projects through the LPI investment platform. LPI provides upcoming projects with backing through our in-house marketing and development teams.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x3428ebf69d2db64a056c68871f27c9e0310f26c9",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Upfire",
+ "ImageUrl": "/media/39501341/upr.png",
+ "SmartContract": "0xf720e38f678b29b243f7d53b56acbf5de98f2385",
+ "Symbol": "UPR",
+ "Explorer": "https://etherscan.io/token/0xf720e38f678b29b243f7d53b56acbf5de98f2385",
+ "Research": "https://cryptocompare.com/coins/upr/overview",
+ "Description": "Upfire is a peer-to-peer (P2P) distributed file-transferring platform designed at its core to enhance the file-sharing protocol by incentivizing seeders. By encrypting communications on the blockchain and allowing nodes to communicate directly, Upfire can function as a fully-decentralized exchange for file transactions - allowing users to download or seed their files while earning BNB in the process.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xf720e38f678b29b243f7d53b56acbf5de98f2385",
+ "Decimals": 8
+}

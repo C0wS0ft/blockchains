@@ -1,0 +1,10 @@
+{
+ "Name": "BSC Conflux",
+ "SmartContract": "0x045c4324039da91c52c55df5d785385aab073dcf",
+ "Symbol": "bCFX",
+ "Explorer": "https://bscscan.com/token/0x045c4324039da91c52c55df5d785385aab073dcf",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x045c4324039da91c52c55df5d785385aab073dcf",
+ "Decimals": 18
+}

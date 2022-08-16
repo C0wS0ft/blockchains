@@ -1,0 +1,12 @@
+{
+ "Name": "Lucky Lion",
+ "ImageUrl": "/media/38553810/lucky.png",
+ "SmartContract": "0xc3D912863152E1Afc935AD0D42d469e7C6B05B77",
+ "Symbol": "LUCKY",
+ "Explorer": "https://etherscan.io/token/0xc3D912863152E1Afc935AD0D42d469e7C6B05B77",
+ "Research": "https://cryptocompare.com/coins/lucky/overview",
+ "Description": "Lucky Lion is an addition to the portfolio of APAC\u0026#39;s iGaming brands, allowing players to yield their tokens on its decentralised yield farm, play games and stake their winnings through the revenue sharing pool to earn even more rewards.Lucky Lion is a fair launch project with no pre-sale and no investor. Similar to many fair launch projects, it will reward various participants that help bootstrap its ecosystem. This will be the only way to earn LION tokens.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xc3D912863152E1Afc935AD0D42d469e7C6B05B77",
+ "Decimals": 8
+}

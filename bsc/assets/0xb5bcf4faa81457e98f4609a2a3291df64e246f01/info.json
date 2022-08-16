@@ -1,0 +1,12 @@
+{
+ "Name": "Parabolic",
+ "ImageUrl": "/media/38554208/para.png",
+ "SmartContract": "0xb5bcf4faa81457e98f4609a2a3291df64e246f01",
+ "Symbol": "PARAB",
+ "Explorer": "https://etherscan.io/token/0xb5bcf4faa81457e98f4609a2a3291df64e246f01",
+ "Research": "https://cryptocompare.com/coins/parab/overview",
+ "Description": "Parabolic Token has been designed to achieve a single purpose which is GOING PARABOLIC (making an upward price move). With these comes the introduction of the addictive game and tokenomics that will be of great help to the coin in taking it to attainable heights. All profits made from the game would be burnt in order to raise the value of the token. And that holders may get the best financial advantage of the limited supply that is left.Parabolic token is made by the trusted and doxed Dev Mark Hamilton, the owner of MIND MUSIC. Mind Music is a long-term secure project developed to raise money for mental health awareness, thus breaking the stigma, whilst rewarding token holders.WhitepaperThe official Parabolic ticker is “PARA” and trades under that name on all the exchanges where it has been listed. The designation “PARAB” is for CryptoCompare.com only.",
+ "Type": "BEP20",
+ "Id": "0xb5bcf4faa81457e98f4609a2a3291df64e246f01",
+ "Decimals": 8
+}

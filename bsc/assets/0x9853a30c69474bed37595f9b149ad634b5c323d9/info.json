@@ -1,0 +1,12 @@
+{
+ "Name": "TendieSwap",
+ "ImageUrl": "/media/38553541/tendie.png",
+ "SmartContract": "0x9853a30c69474bed37595f9b149ad634b5c323d9",
+ "Symbol": "TENDIE",
+ "Explorer": "https://etherscan.io/token/0x9853a30c69474bed37595f9b149ad634b5c323d9",
+ "Research": "https://cryptocompare.com/coins/tendie/overview",
+ "Description": "TendieSWAP is a decentralized exchange with several utilities ranging from ITO (Initial Tendie Offerings) to our flagship Prediction protocol.",
+ "Type": "BEP20",
+ "Id": "0x9853a30c69474bed37595f9b149ad634b5c323d9",
+ "Decimals": 8
+}

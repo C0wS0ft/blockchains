@@ -1,0 +1,12 @@
+{
+ "Name": "Chumbi Valley",
+ "ImageUrl": "/media/39500961/chmb.png",
+ "SmartContract": "0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
+ "Symbol": "CHMB",
+ "Explorer": "https://etherscan.io/token/0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
+ "Research": "https://cryptocompare.com/coins/chmb/overview",
+ "Description": "Chumbi Valley is a role-playing blockchain game. It is being built on BSC \u0026amp; Polygon for its near-instant transaction speed and almost zero fees. The game will be playable in app form, launching on PC, Mac, Android, and eventually iOS. All in-game items and creatures are blockchain-based tokens and NFTs. Chumbi Valley’s visuals and gameplay are completely original and inspired by classics like Zelda, Stardew Valley, Pokemon \u0026amp; Studio Ghibli.Telegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
+ "Decimals": 8
+}

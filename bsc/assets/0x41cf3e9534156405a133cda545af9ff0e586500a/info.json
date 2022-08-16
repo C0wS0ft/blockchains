@@ -1,0 +1,12 @@
+{
+ "Name": "GamingShiba",
+ "ImageUrl": "/media/39501412/gamingshiba.png",
+ "SmartContract": "0x41cf3E9534156405a133Cda545aF9fF0E586500A",
+ "Symbol": "GAMINGSHIBA",
+ "Explorer": "https://etherscan.io/token/0x41cf3E9534156405a133Cda545aF9fF0E586500A",
+ "Research": "https://cryptocompare.com/coins/gamingshiba/overview",
+ "Description": "GamingShiba is a token designed to introduce to the digital world, the innovation of a multi functional Streaming Platform, which enables gamers to purchase and sell NFTs, transform their best performances into NFT and launch them into the biggest NFT marketplaces.TelegramLitepaper",
+ "Type": "BEP20",
+ "Id": "0x41cf3E9534156405a133Cda545aF9fF0E586500A",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Decubate",
+ "ImageUrl": "/media/38553554/dcb.png",
+ "SmartContract": "0xeac9873291ddaca754ea5642114151f3035c67a2",
+ "Symbol": "DCB",
+ "Explorer": "https://etherscan.io/token/0xeac9873291ddaca754ea5642114151f3035c67a2",
+ "Research": "https://cryptocompare.com/coins/dcb/overview",
+ "Description": "Decubate is a community-powered investment platform aiming for startup economy on-chain, unlocking liquidity for investors, and accelerating the mass adoption of blockchain technology.DCB will be the backbone of the entire ecosystem.Telegram",
+ "Type": "BEP20",
+ "Id": "0xeac9873291ddaca754ea5642114151f3035c67a2",
+ "Decimals": 8
+}

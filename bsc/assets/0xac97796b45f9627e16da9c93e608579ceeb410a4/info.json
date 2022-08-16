@@ -1,0 +1,12 @@
+{
+ "Name": "Zono Swap",
+ "ImageUrl": "/media/39501278/zono.png",
+ "SmartContract": "0xAc97796B45F9627e16da9C93e608579ceEb410a4",
+ "Symbol": "ZONO",
+ "Explorer": "https://etherscan.io/token/0xAc97796B45F9627e16da9C93e608579ceEb410a4",
+ "Research": "https://cryptocompare.com/coins/zono/overview",
+ "Description": "Zono Swap is a decentralized exchange platform on Binance Smart Chain with the main aim to facilitate crypto users all around. Providing blockchain and crypto solutions, Zono Swap is an expanding crypto portal. Talk of crypto trading, staking, lending/borrowing, an all-in-one NFT marketplace.Telegram | Github | Facebook Docs",
+ "Type": "BEP20",
+ "Id": "0xAc97796B45F9627e16da9C93e608579ceEb410a4",
+ "Decimals": 8
+}

@@ -1,0 +1,10 @@
+{
+ "Name": "Binance-Peg Elrond Token",
+ "SmartContract": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+ "Symbol": "EGLD",
+ "Explorer": "https://bscscan.com/token/0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+ "Decimals": 18
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Luneko",
+ "ImageUrl": "/media/37747636/lune.png",
+ "SmartContract": "0xacd1caef47e4c47bafe8a51b3f4305fc38203b7a",
+ "Symbol": "LUNE",
+ "Explorer": "https://etherscan.io/token/0xacd1caef47e4c47bafe8a51b3f4305fc38203b7a",
+ "Research": "https://cryptocompare.com/coins/lune/overview",
+ "Description": "Luneko is a BSC token with a maximum supply of 18,400,000 and a 2% automatic staking reward on all transaction volume. It also possesses the functionality to institute token burn, maximum transaction size, and focused redistribution upon community consensus.Luneko is named after the eponymous fictional creatures from the artworks of the artist Ash Hazel Woods, shared under the Creative Commons ShareAlike 3.0 Unported license.Luneko\u0026#39;s primary utility is as a finite store of value on the Binance Smart Chain.",
+ "Type": "BEP20",
+ "Id": "0xacd1caef47e4c47bafe8a51b3f4305fc38203b7a",
+ "Decimals": 8
+}

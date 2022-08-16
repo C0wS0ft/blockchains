@@ -1,0 +1,12 @@
+{
+ "Name": "MoonStarter",
+ "ImageUrl": "/media/37748171/mnst.png",
+ "SmartContract": "0x6a6ccf15b38da4b5b0ef4c8fe9fefcb472a893f9",
+ "Symbol": "MNST",
+ "Explorer": "https://etherscan.io/token/0x6a6ccf15b38da4b5b0ef4c8fe9fefcb472a893f9",
+ "Research": "https://cryptocompare.com/coins/mnst/overview",
+ "Description": "MOONSTARTER Mission is to be the single-stop multi-chain launchpad for selected projects without distinction of the blockchain used. While the current project landscape is scattered and dependent on the blockchain used, MOONSTARTER will offer the possibility to launch on one or multiple selected blockchains.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x6a6ccf15b38da4b5b0ef4c8fe9fefcb472a893f9",
+ "Decimals": 8
+}

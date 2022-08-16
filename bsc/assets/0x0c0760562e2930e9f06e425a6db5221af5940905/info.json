@@ -1,0 +1,12 @@
+{
+ "Name": "Drone Coin",
+ "ImageUrl": "/media/39501025/drone.png",
+ "SmartContract": "0x0c0760562e2930e9f06e425a6db5221af5940905",
+ "Symbol": "DRONE",
+ "Explorer": "https://etherscan.io/token/0x0c0760562e2930e9f06e425a6db5221af5940905",
+ "Research": "https://cryptocompare.com/coins/drone/overview",
+ "Description": "Drone coin aims to become a top cryptocurrency in the market by providing constant use of its coin to its traders to meet some of their actual demands. Its cryptocurrency, Drone, deals with all types of crypto trading. Crypto trading works on smart contracts, broadening its use in various sectors like shopping, holiday packages, AI (artificial intelligence), etc.Whitepaper",
+ "Type": "BEP20",
+ "Id": "0x0c0760562e2930e9f06e425a6db5221af5940905",
+ "Decimals": 8
+}

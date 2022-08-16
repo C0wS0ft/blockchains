@@ -1,0 +1,12 @@
+{
+ "Name": "gotEM",
+ "ImageUrl": "/media/38553892/gotem.png",
+ "SmartContract": "0xa5fbc3520dd4bb85fcd175e1e3b994546a2c1ee8",
+ "Symbol": "GOTEM",
+ "Explorer": "https://etherscan.io/token/0xa5fbc3520dd4bb85fcd175e1e3b994546a2c1ee8",
+ "Research": "https://cryptocompare.com/coins/gotem/overview",
+ "Description": "gotEMs provides users with a decentralized crowdsourcing DeFi platform enabling crowdsourcing and crowdfunding for private investigations, private security, and humanitarian missions.The GOTEM token will be used to access services on its platform. Services include private investigations, cyber investigations, private security, cybersecurity, and general investigative services provided by contractors, freelancers, and security groups on the platform. The utility of the token being that it is used to execute a Smart Contract between the user and contractor.Telegram",
+ "Type": "BEP20",
+ "Id": "0xa5fbc3520dd4bb85fcd175e1e3b994546a2c1ee8",
+ "Decimals": 8
+}

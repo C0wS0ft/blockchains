@@ -1,0 +1,10 @@
+{
+ "Name": "Binance-Peg Cosmos Token",
+ "SmartContract": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+ "Symbol": "ATOM",
+ "Explorer": "https://bscscan.com/token/0x0eb3a705fc54725037cc9e008bdede697f62f335",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+ "Decimals": 18
+}

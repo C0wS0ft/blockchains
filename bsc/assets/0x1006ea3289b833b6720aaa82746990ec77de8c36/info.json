@@ -1,0 +1,12 @@
+{
+ "Name": "Digital Bank of Africa",
+ "ImageUrl": "/media/39108978/dba.png",
+ "SmartContract": "0x1006ea3289b833b6720aaa82746990ec77de8c36",
+ "Symbol": "DBA",
+ "Explorer": "https://etherscan.io/token/0x1006ea3289b833b6720aaa82746990ec77de8c36",
+ "Research": "https://cryptocompare.com/coins/dba/overview",
+ "Description": "DafriBank Digital is a branchless financial technology company providing customized financial services, payment gateway solutions and growth opportunities to digital entrepreneurs and businesses of all sizes.Medium",
+ "Type": "BEP20",
+ "Id": "0x1006ea3289b833b6720aaa82746990ec77de8c36",
+ "Decimals": 8
+}

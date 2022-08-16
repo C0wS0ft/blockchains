@@ -1,0 +1,10 @@
+{
+ "Name": "Curate",
+ "SmartContract": "0xd52669712f253cd6b2fe8a8638f66ed726cb770c",
+ "Symbol": "XCUR",
+ "Explorer": "https://bscscan.com/token/0xd52669712f253cd6b2fe8a8638f66ed726cb770c",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xd52669712f253cd6b2fe8a8638f66ed726cb770c",
+ "Decimals": 18
+}

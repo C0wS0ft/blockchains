@@ -1,0 +1,12 @@
+{
+ "Name": "Less Network",
+ "ImageUrl": "/media/37747759/less.png",
+ "SmartContract": "0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6",
+ "Symbol": "LESS",
+ "Explorer": "https://etherscan.io/token/0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6",
+ "Research": "https://cryptocompare.com/coins/less/overview",
+ "Description": "LESS is a platform that offers cross-chain trading services in one place. There are four main services in this ecosystem work, LessPad, LessTools, LessDex and LessNFT.",
+ "Type": "BEP20",
+ "Id": "0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "WEB3 Inu",
+ "ImageUrl": "/media/39413408/web3.png",
+ "SmartContract": "0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f",
+ "Symbol": "WEB3",
+ "Explorer": "https://etherscan.io/token/0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f",
+ "Research": "https://cryptocompare.com/coins/web3/overview",
+ "Description": "Web3 is an umbrella term for an online ecosystem that cuts out the big middlemen on the Internet. Web3 Inu is a Rent-To-Earn token concept based in real-world data interacting in two different layers: On-Chain and Off-Chain. 犬 (Inu) means doge in Japanese language. The meme coin movement rejects formalities and protocol. Web3 Inu is a Doge based on Web3 idea to embrace blockchain and transparency, allows users to rent, buy, upgrade and sell real-life businesses worldwide.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f",
+ "Decimals": 8
+}

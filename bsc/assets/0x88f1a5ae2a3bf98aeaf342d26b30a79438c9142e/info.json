@@ -1,0 +1,10 @@
+{
+ "Name": "Binance-Peg yearn.finance",
+ "SmartContract": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+ "Symbol": "YFI",
+ "Explorer": "https://bscscan.com/token/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+ "Decimals": 18
+}

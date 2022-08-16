@@ -1,0 +1,12 @@
+{
+ "Name": "Tranchess",
+ "ImageUrl": "/media/38554148/chess.png",
+ "SmartContract": "0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
+ "Symbol": "CHESS",
+ "Explorer": "https://etherscan.io/token/0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
+ "Research": "https://cryptocompare.com/coins/chess/overview",
+ "Description": "Tranchess Swap is the marketplace to trade QUEEN, BISHOP and ROOK with USDC. CHESS is the governance token of the Tranchess community.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
+ "Decimals": 8
+}

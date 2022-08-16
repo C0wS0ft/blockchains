@@ -1,0 +1,12 @@
+{
+ "Name": "Yummy",
+ "ImageUrl": "/media/39501246/yummy.png",
+ "SmartContract": "0xB003C68917BaB76812797d1b8056822f48E2e4fe",
+ "Symbol": "YUMMY",
+ "Explorer": "https://etherscan.io/token/0xB003C68917BaB76812797d1b8056822f48E2e4fe",
+ "Research": "https://cryptocompare.com/coins/yummy/overview",
+ "Description": "Yummy Crypto is a project launched on May 1st, 2021 with the vision to deliver value to holders via Growth Fund while providing contributions to help solve some of the world\u0026#39;s most pressing issues.Telegram | Reddit | Facebook | Youtube | Facebook | InstagramWhitepaper ",
+ "Type": "BEP20",
+ "Id": "0xB003C68917BaB76812797d1b8056822f48E2e4fe",
+ "Decimals": 8
+}

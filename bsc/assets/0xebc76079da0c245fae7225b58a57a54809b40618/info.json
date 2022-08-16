@@ -1,0 +1,12 @@
+{
+ "Name": "BNBPay",
+ "ImageUrl": "/media/38553655/bpay.png",
+ "SmartContract": "0xeBC76079Da0c245faE7225b58a57A54809b40618",
+ "Symbol": "BPAY",
+ "Explorer": "https://etherscan.io/token/0xeBC76079Da0c245faE7225b58a57A54809b40618",
+ "Research": "https://cryptocompare.com/coins/bpay/overview",
+ "Description": "BNBPay Wallet incorporates ERC-1363 EIP to allows customers to spend crypto at ecommerce stores and local cafe or restaurant, all for only pennies in fees. Our objectives are to provide a decentralized, private and instant payment that costs just pennies.BNBPay offers decentralized payment which eliminates the need for independent third parties such as trustees, processors, clearing houses, exchanges, and settlement organizations, cutting out the middleman.Telegram | Facebook | Medium",
+ "Type": "BEP20",
+ "Id": "0xeBC76079Da0c245faE7225b58a57A54809b40618",
+ "Decimals": 8
+}

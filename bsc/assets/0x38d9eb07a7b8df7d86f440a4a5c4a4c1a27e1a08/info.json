@@ -1,0 +1,12 @@
+{
+ "Name": "bloXmove Token",
+ "ImageUrl": "/media/39501430/blxm.png",
+ "SmartContract": "0x38d9eb07A7b8Df7D86F440A4A5c4a4c1a27E1a08",
+ "Symbol": "BLXM",
+ "Explorer": "https://etherscan.io/token/0x38d9eb07A7b8Df7D86F440A4A5c4a4c1a27E1a08",
+ "Research": "https://cryptocompare.com/coins/blxm/overview",
+ "Description": "bloXmove is a software platform designed and built to provide a common infrastructure around which mobility services can be managed, operated and financially settled.The BLXM token utility is designed such that it can be used to consume these two services within the ecosystem.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x38d9eb07A7b8Df7D86F440A4A5c4a4c1a27E1a08",
+ "Decimals": 8
+}

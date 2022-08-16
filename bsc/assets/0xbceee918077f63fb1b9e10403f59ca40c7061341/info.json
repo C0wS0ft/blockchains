@@ -1,0 +1,12 @@
+{
+ "Name": "Papa Doge",
+ "ImageUrl": "/media/37748079/papadoge.png",
+ "SmartContract": "0xbceee918077f63fb1b9e10403f59ca40c7061341",
+ "Symbol": "PAPADOGE",
+ "Explorer": "https://etherscan.io/token/0xbceee918077f63fb1b9e10403f59ca40c7061341",
+ "Research": "https://cryptocompare.com/coins/papadoge/overview",
+ "Description": "Papa Doge (PAPADOGE) is a meme-based token that aims to be the best protocol in promoting fun and joy.",
+ "Type": "BEP20",
+ "Id": "0xbceee918077f63fb1b9e10403f59ca40c7061341",
+ "Decimals": 8
+}

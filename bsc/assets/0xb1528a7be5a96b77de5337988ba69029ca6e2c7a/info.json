@@ -1,0 +1,10 @@
+{
+ "Name": "Barking",
+ "SmartContract": "0xb1528a7BE5A96B77de5337988Ba69029cA6E2c7A",
+ "Symbol": "BARK",
+ "Explorer": "https://bscscan.com/token/0xb1528a7BE5A96B77de5337988Ba69029cA6E2c7A",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xb1528a7BE5A96B77de5337988Ba69029cA6E2c7A",
+ "Decimals": 18
+}

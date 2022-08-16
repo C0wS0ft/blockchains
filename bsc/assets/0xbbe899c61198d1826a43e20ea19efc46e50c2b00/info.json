@@ -1,0 +1,12 @@
+{
+ "Name": "Safe Energy",
+ "ImageUrl": "/media/38553164/energyx.png",
+ "SmartContract": "0xbbe899c61198d1826a43e20ea19efc46e50c2b00",
+ "Symbol": "ENERGYX",
+ "Explorer": "https://etherscan.io/token/0xbbe899c61198d1826a43e20ea19efc46e50c2b00",
+ "Research": "https://cryptocompare.com/coins/energyx/overview",
+ "Description": "SafeEnergy is a community-driven deflationary charity token with future projects to reduce our carbon footprint by making renewable energy sources more accessible.Telegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xbbe899c61198d1826a43e20ea19efc46e50c2b00",
+ "Decimals": 8
+}

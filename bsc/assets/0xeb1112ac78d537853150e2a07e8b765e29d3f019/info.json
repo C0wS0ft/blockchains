@@ -1,0 +1,12 @@
+{
+ "Name": "HASH Token",
+ "ImageUrl": "/media/38553698/hash.png",
+ "SmartContract": "0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+ "Symbol": "HASH",
+ "Explorer": "https://etherscan.io/token/0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+ "Research": "https://cryptocompare.com/coins/hash/overview",
+ "Description": "HASH is a utility BEP-20 and ERC-20 token and fuel of Hashbon FiRe crypto payment ecosystem powered by both DeFi and CeFi products. In September 2021, Hashbon introduced the Hashbon Rocket CDEX platform that enables cross-chain token swaps in a DeFi manner. Hashbon’s vision is to ease crypto payment processing among users and businesses and make crypto a smooth, transparent and everyday payment method. HASH token will fuel Hashbon payment ecosystem for growing and granting more convenient and frictionless opportunities to crypto enthusiasts.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+ "Decimals": 8
+}

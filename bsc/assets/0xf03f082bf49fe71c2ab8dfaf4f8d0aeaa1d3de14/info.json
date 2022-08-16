@@ -1,0 +1,12 @@
+{
+ "Name": "Ponyo Impact",
+ "ImageUrl": "/media/39413364/ponyo.png",
+ "SmartContract": "0xf03f082bf49fe71c2ab8dfaf4f8d0aeaa1d3de14",
+ "Symbol": "PONYO",
+ "Explorer": "https://etherscan.io/token/0xf03f082bf49fe71c2ab8dfaf4f8d0aeaa1d3de14",
+ "Research": "https://cryptocompare.com/coins/ponyo/overview",
+ "Description": "Ponyo Impact is an anime-inspired “auto-impact” investing token. Inspired by the sea-based 2008 Japanese film about a rescued goldfish, our founders are on a mission to prove that Web 3.0 can make the world a better place. In testing our thesis, we devised a sustainable investing model. 3% of all Ponyo transactions are automatically donated to the Coral Restoration Foundation, one of the world’s most effective non-profit organizations supporting coral reefs’ natural recovery processes. We are setting the paradigm that investing in crypto can be a fundamentally sustainable business.Telegram | Discord (Ponyo Impact NFT Launchpad) | Twitter | TikTok | Youtube | Reddit Audit | Litepaper",
+ "Type": "BEP20",
+ "Id": "0xf03f082bf49fe71c2ab8dfaf4f8d0aeaa1d3de14",
+ "Decimals": 8
+}

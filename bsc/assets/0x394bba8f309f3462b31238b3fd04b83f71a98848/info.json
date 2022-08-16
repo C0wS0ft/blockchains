@@ -1,0 +1,12 @@
+{
+ "Name": "Pocoland",
+ "ImageUrl": "/media/38554139/poco.png",
+ "SmartContract": "0x394bba8f309f3462b31238b3fd04b83f71a98848",
+ "Symbol": "POCO",
+ "Explorer": "https://etherscan.io/token/0x394bba8f309f3462b31238b3fd04b83f71a98848",
+ "Research": "https://cryptocompare.com/coins/poco/overview",
+ "Description": "POCO is a “play-to-earn\" NFTs game based on Blockchain technology and Binance Smart Chain network. Pocoland ecosystem consists of game play, battle, tournament and farming.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x394bba8f309f3462b31238b3fd04b83f71a98848",
+ "Decimals": 8
+}

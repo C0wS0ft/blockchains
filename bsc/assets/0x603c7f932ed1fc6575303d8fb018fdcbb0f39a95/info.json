@@ -1,0 +1,12 @@
+{
+ "Name": "ApeSwap Finance",
+ "ImageUrl": "/media/38553358/banana.png",
+ "SmartContract": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+ "Symbol": "BANANA",
+ "Explorer": "https://etherscan.io/token/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+ "Research": "https://cryptocompare.com/coins/banana/overview",
+ "Description": "ApeSwap is an Automated Market Maker, Yield Farming, and Staking platform on Binance Smart Chain (forked from PancakeSwap). ApeSwap was built by DeFi Apes, for DeFi Apes. $BANANA is the native currency of our platform. Stake, pool, and earn $BANANA all on ApeSwap.Telegram | Medium | Discord | Reddit | GithubWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+ "Decimals": 8
+}

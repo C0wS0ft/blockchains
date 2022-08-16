@@ -1,0 +1,12 @@
+{
+ "Name": "ShiBonk",
+ "ImageUrl": "/media/39413323/shibo.png",
+ "SmartContract": "0xf224ade71c20f9823e34e0792f72437596b4e28c",
+ "Symbol": "SHIBO",
+ "Explorer": "https://etherscan.io/token/0xf224ade71c20f9823e34e0792f72437596b4e28c",
+ "Research": "https://cryptocompare.com/coins/shibo/overview",
+ "Description": "ShiBonk is building an ecosystem of utility through dApps, games, partnerships, and products that aims to cement it as a significant player in the Binance Smart Chain space.Telegram | Reddit | Discord",
+ "Type": "BEP20",
+ "Id": "0xf224ade71c20f9823e34e0792f72437596b4e28c",
+ "Decimals": 8
+}

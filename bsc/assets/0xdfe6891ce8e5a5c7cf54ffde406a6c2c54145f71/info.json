@@ -1,0 +1,12 @@
+{
+ "Name": "CHEEMS INU",
+ "ImageUrl": "/media/39334554/cinu.png",
+ "SmartContract": "0xdfe6891ce8e5a5c7cf54ffde406a6c2c54145f71",
+ "Symbol": "CINU",
+ "Explorer": "https://etherscan.io/token/0xdfe6891ce8e5a5c7cf54ffde406a6c2c54145f71",
+ "Research": "https://cryptocompare.com/coins/cinu/overview",
+ "Description": "Cheems Inu is at its core a meme coin. As it currently stands, Cheems Inu has launched and sold out of our V1 NFTs. It will also be the home of Meme Tools with an expected launch of Q1 2022. Meme Tools will aim to merge all crypto meme tokens on a single social media platform.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xdfe6891ce8e5a5c7cf54ffde406a6c2c54145f71",
+ "Decimals": 8
+}

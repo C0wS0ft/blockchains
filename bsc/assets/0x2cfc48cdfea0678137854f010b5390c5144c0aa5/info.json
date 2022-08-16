@@ -1,0 +1,12 @@
+{
+ "Name": "Scientix",
+ "ImageUrl": "/media/38553803/scix.png",
+ "SmartContract": "0x2CFC48CdFea0678137854F010b5390c5144C0Aa5",
+ "Symbol": "SCIX",
+ "Explorer": "https://etherscan.io/token/0x2CFC48CdFea0678137854F010b5390c5144C0Aa5",
+ "Research": "https://cryptocompare.com/coins/scix/overview",
+ "Description": "Scientix is a future-yield-backed synthetic asset platform on Binance Smart Chain. It\u0026#39;s designed to allow users to get interest-free loans that pay themselves off over time with no liquidation risk, while their collateral earns them yields in the background.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x2CFC48CdFea0678137854F010b5390c5144C0Aa5",
+ "Decimals": 8
+}

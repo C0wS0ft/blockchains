@@ -1,0 +1,12 @@
+{
+ "Name": "DEEPSPACE",
+ "ImageUrl": "/media/39500820/dps.png",
+ "SmartContract": "0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c",
+ "Symbol": "DPS",
+ "Explorer": "https://etherscan.io/token/0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c",
+ "Research": "https://cryptocompare.com/coins/dps/overview",
+ "Description": "DEEPSPACE is a Play-to-Earn space multiverse exploration strategy game.Allows its users to earn a passive income from holding $DPS, trading NFTs, and taking risks as they explore DEEPSPACE with their fleet of ships.In DEEPSPACE, users explore, harvest, and fight their way through the DEEPSPACE universe.Telegram | Discord | Reddit | Github | Facebook | Youtube | InstagramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c",
+ "Decimals": 8
+}

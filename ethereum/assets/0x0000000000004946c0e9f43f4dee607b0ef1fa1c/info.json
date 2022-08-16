@@ -1,0 +1,10 @@
+{
+ "Name": "Chi Gastoken by 1inch",
+ "SmartContract": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+ "Symbol": "CHI",
+ "Explorer": "https://etherscan.io/token/0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+ "Decimals": 0
+}

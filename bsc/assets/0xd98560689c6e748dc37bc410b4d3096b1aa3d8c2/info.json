@@ -1,0 +1,12 @@
+{
+ "Name": "Defi For You",
+ "ImageUrl": "/media/37747108/dfy.png",
+ "SmartContract": "0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2",
+ "Symbol": "DFY",
+ "Explorer": "https://etherscan.io/token/0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2",
+ "Research": "https://cryptocompare.com/coins/dfy/overview",
+ "Description": "DeFi For You is a peer-to-peer NFT trading and crypto lending platform built on the Binance Smart Chain. It allows users to use NFTs as collateral for a P2P loan.",
+ "Type": "BEP20",
+ "Id": "0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2",
+ "Decimals": 8
+}

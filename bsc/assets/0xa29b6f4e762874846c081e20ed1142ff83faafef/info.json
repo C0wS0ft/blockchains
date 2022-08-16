@@ -1,0 +1,12 @@
+{
+ "Name": "MooMonster",
+ "ImageUrl": "/media/39501385/moo.png",
+ "SmartContract": "0xa29b6f4e762874846c081e20ed1142ff83faafef",
+ "Symbol": "MOO",
+ "Explorer": "https://etherscan.io/token/0xa29b6f4e762874846c081e20ed1142ff83faafef",
+ "Research": "https://cryptocompare.com/coins/moo/overview",
+ "Description": "Moo Monster is a free-to-play and play-to-earn game. The game\u0026#39;s story will be played by players taking on the role of adventurers. Until one day he finds himself waking up in a \"Mooniverse\". This world is full of Moo monsters (pigs) for no reason. He must face many dangers to find the truth and to return to the world he was in.Moo Monster tokens are used as the dual-token standard.Telegram | DiscordWhitepaper  ",
+ "Type": "BEP20",
+ "Id": "0xa29b6f4e762874846c081e20ed1142ff83faafef",
+ "Decimals": 8
+}

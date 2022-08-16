@@ -1,0 +1,12 @@
+{
+ "Name": "Triall",
+ "ImageUrl": "/media/39198195/trl.png",
+ "SmartContract": "0x58f9102bf53cf186682bd9a281d3cd3c616eec41",
+ "Symbol": "TRL",
+ "Explorer": "https://etherscan.io/token/0x58f9102bf53cf186682bd9a281d3cd3c616eec41",
+ "Research": "https://cryptocompare.com/coins/trl/overview",
+ "Description": "Triall brings web 3.0 to medical research via blockchain-integrated software solutions that secure and streamline clinical trials. Their blockchain infrastructure makes clinical trial data tamper-resistant and enables secure integrations between the systems and parties involved in clinical research.Telegram",
+ "Type": "BEP20",
+ "Id": "0x58f9102bf53cf186682bd9a281d3cd3c616eec41",
+ "Decimals": 8
+}

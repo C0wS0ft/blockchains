@@ -1,0 +1,12 @@
+{
+ "Name": "Blizzard.money",
+ "ImageUrl": "/media/37746767/blzd.png",
+ "SmartContract": "0x57067a6bd75c0e95a6a5f158455926e43e79beb0",
+ "Symbol": "BLZD",
+ "Explorer": "https://etherscan.io/token/0x57067a6bd75c0e95a6a5f158455926e43e79beb0",
+ "Research": "https://cryptocompare.com/coins/blzd/overview",
+ "Description": "Blizzard.Money is a yield farming and staking platform on Binance Smart Chain. Blizzard is the native token of the platform.",
+ "Type": "BEP20",
+ "Id": "0x57067a6bd75c0e95a6a5f158455926e43e79beb0",
+ "Decimals": 8
+}

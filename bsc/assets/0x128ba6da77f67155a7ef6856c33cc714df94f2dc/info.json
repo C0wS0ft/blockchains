@@ -1,0 +1,12 @@
+{
+ "Name": "OUD",
+ "ImageUrl": "/media/39501472/oud.png",
+ "SmartContract": "0x128Ba6Da77f67155A7ef6856C33cc714dF94f2DC",
+ "Symbol": "OUD",
+ "Explorer": "https://etherscan.io/token/0x128Ba6Da77f67155A7ef6856C33cc714dF94f2DC",
+ "Research": "https://cryptocompare.com/coins/oud/overview",
+ "Description": "Westwood OUD Ltd is a blockchain-based firm that combines blockchain technology with one of the oldest Aquilaria Industries. Its token has been designed and; created to operate on two networks, Binance Smart Chain and Ethereum Smart Chain.Token holders will be able to earn and utilise OUD tokens and be entitled to join the community. Within the community, OUD Token would allow holders to create and vote on proposals to determine various features and activities on the OUD platform (e.g. exclusive events, the scope of community activities, support for charity associations, participation in environmental causes), so as to build a community through engagement and incentivization for the eco-environment.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x128Ba6Da77f67155A7ef6856C33cc714dF94f2DC",
+ "Decimals": 8
+}

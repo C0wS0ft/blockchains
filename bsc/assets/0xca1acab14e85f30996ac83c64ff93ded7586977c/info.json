@@ -1,0 +1,12 @@
+{
+ "Name": "Antex",
+ "ImageUrl": "/media/39501350/antex.png",
+ "SmartContract": "0xca1acab14e85f30996ac83c64ff93ded7586977c",
+ "Symbol": "ANTEX",
+ "Explorer": "https://etherscan.io/token/0xca1acab14e85f30996ac83c64ff93ded7586977c",
+ "Research": "https://cryptocompare.com/coins/antex/overview",
+ "Description": "Antex is a decentralized financial infrastructure that aims to provide the foundational building layers for a new digital economy with following products: stable-coin, crypto/fiat, DEX, launchpad, lock liquidity and lock token and connecting crypto to the real worldTelegram | Discord | Facebook | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xca1acab14e85f30996ac83c64ff93ded7586977c",
+ "Decimals": 8
+}

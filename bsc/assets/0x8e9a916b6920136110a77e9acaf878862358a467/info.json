@@ -1,0 +1,12 @@
+{
+ "Name": "Egoras Rights",
+ "ImageUrl": "/media/39501410/egr.png",
+ "SmartContract": "0x8e9a916b6920136110a77E9acAf878862358A467",
+ "Symbol": "EGR",
+ "Explorer": "https://etherscan.io/token/0x8e9a916b6920136110a77E9acAf878862358A467",
+ "Research": "https://cryptocompare.com/coins/egr/overview",
+ "Description": "Egoras is a blockchain-based recommerce/resale marketplace that allows sellers and buyers of used items to exchange value without any third party that can look over or manipulate transactions. Egoras combines concepts from recommerce with lessons learned from building cryptocurrencies.TelegramDocs",
+ "Type": "BEP20",
+ "Id": "0x8e9a916b6920136110a77E9acAf878862358A467",
+ "Decimals": 8
+}

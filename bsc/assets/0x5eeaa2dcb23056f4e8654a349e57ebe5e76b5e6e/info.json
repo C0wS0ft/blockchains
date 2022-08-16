@@ -1,0 +1,12 @@
+{
+ "Name": "Virtue Poker Points",
+ "ImageUrl": "/media/38554135/vpp.png",
+ "SmartContract": "0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
+ "Symbol": "VPP",
+ "Explorer": "https://etherscan.io/token/0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
+ "Research": "https://cryptocompare.com/coins/vpp/overview",
+ "Description": "Virtue Poker is a decentralized poker platform that uses the Ethereum blockchain and peer-to-peer networking to provide an online poker site.Telegram",
+ "Type": "BEP20",
+ "Id": "0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
+ "Decimals": 8
+}

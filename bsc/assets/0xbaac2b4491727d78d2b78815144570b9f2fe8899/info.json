@@ -1,0 +1,12 @@
+{
+ "Name": "The Doge NFT",
+ "ImageUrl": "/media/39109029/dog.png",
+ "SmartContract": "0xbaac2b4491727d78d2b78815144570b9f2fe8899",
+ "Symbol": "DOG",
+ "Explorer": "https://etherscan.io/token/0xbaac2b4491727d78d2b78815144570b9f2fe8899",
+ "Research": "https://cryptocompare.com/coins/dog/overview",
+ "Description": "The most iconic meme in internet history, the original Doge, is now fractionalized and available for anyone to own. Fractionalizing this NFT means that now anyone can own a piece of one of the most recognized and loved images of our generation.Discord",
+ "Type": "BEP20",
+ "Id": "0xbaac2b4491727d78d2b78815144570b9f2fe8899",
+ "Decimals": 8
+}

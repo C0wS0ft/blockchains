@@ -1,0 +1,12 @@
+{
+ "Name": "Radio Caca",
+ "ImageUrl": "/media/38553515/raca.png",
+ "SmartContract": "0x12BB890508c125661E03b09EC06E404bc9289040",
+ "Symbol": "RACA",
+ "Explorer": "https://etherscan.io/token/0x12BB890508c125661E03b09EC06E404bc9289040",
+ "Research": "https://cryptocompare.com/coins/raca/overview",
+ "Description": "Radio Caca is the exclusive manager of Maye Musk Mystery Box (MPB) NFT and DeFi+GameFi vehicle for The USM Metaverse.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x12BB890508c125661E03b09EC06E404bc9289040",
+ "Decimals": 8
+}

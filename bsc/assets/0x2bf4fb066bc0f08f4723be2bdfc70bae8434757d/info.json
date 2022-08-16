@@ -1,0 +1,12 @@
+{
+ "Name": "Yuang Coin",
+ "ImageUrl": "/media/37747781/yuang.png",
+ "SmartContract": "0x2bf4fb066bc0f08f4723be2bdfc70bae8434757d",
+ "Symbol": "YUANG",
+ "Explorer": "https://etherscan.io/token/0x2bf4fb066bc0f08f4723be2bdfc70bae8434757d",
+ "Research": "https://cryptocompare.com/coins/yuang/overview",
+ "Description": "YuangCoin is a cryptocurrency and financial platform that will launch Yuangex (Exchange) which will be a CEX, DEX and NFT Marketplace.The original Yuang Coin supply was 1 Quadrillion coins on the BSC and 1 Quadrillion coins on the Ethereum Blockchain. There will never be any additional YuangCoins minted.",
+ "Type": "BEP20",
+ "Id": "0x2bf4fb066bc0f08f4723be2bdfc70bae8434757d",
+ "Decimals": 8
+}

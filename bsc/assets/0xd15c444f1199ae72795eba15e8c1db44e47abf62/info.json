@@ -1,0 +1,12 @@
+{
+ "Name": "TEN",
+ "ImageUrl": "/media/38553527/tenfi.png",
+ "SmartContract": "0xd15c444f1199ae72795eba15e8c1db44e47abf62",
+ "Symbol": "TENFI",
+ "Explorer": "https://etherscan.io/token/0xd15c444f1199ae72795eba15e8c1db44e47abf62",
+ "Research": "https://cryptocompare.com/coins/tenfi/overview",
+ "Description": "TEN, the Token Enrichment Network, is powered by Binance Smart Chain, TEN Finance leverages the innovations brought to the market by first generation DeFi projects and integrates emerging technologies to enhance yield optimization in a simple yet efficient manner.TEN simplifies the staking process with the most liquid BSC Liquidity Pools while provides a robust yield earning environment for the users.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xd15c444f1199ae72795eba15e8c1db44e47abf62",
+ "Decimals": 8
+}

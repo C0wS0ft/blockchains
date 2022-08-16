@@ -1,0 +1,12 @@
+{
+ "Name": "Puli Inu",
+ "ImageUrl": "/media/39500848/puli.png",
+ "SmartContract": "0xaef0a177c8c329cbc8508292bb7e06c00786bbfc",
+ "Symbol": "PULI",
+ "Explorer": "https://etherscan.io/token/0xaef0a177c8c329cbc8508292bb7e06c00786bbfc",
+ "Research": "https://cryptocompare.com/coins/puli/overview",
+ "Description": "Pulimatic will be an app that combines multiple crypto features like a crypto wallet, a Dex that can be used to swap to your favorite tokens, play to earn games, and chat \u0026amp; discussion room. Pulimatic also plans to own a Gaming LaunchPad. Puli Inu has a total supply of 100,000,000. According to the white paper, 4% of the total supply and 6% were distributed to Liquidity and marketing respectively. There’s no information about the tax structure.  Telegram | Instagram",
+ "Type": "BEP20",
+ "Id": "0xaef0a177c8c329cbc8508292bb7e06c00786bbfc",
+ "Decimals": 8
+}

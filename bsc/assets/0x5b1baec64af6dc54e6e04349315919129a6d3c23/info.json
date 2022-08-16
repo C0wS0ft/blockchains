@@ -1,0 +1,12 @@
+{
+ "Name": "DNAxCAT",
+ "ImageUrl": "/media/39109035/dxct.png",
+ "SmartContract": "0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+ "Symbol": "DXCT",
+ "Explorer": "https://etherscan.io/token/0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+ "Research": "https://cryptocompare.com/coins/dxct/overview",
+ "Description": "DNAxCAT is built on the DNAxCAT IP world view. In the virtual adventure world of DNAxCAT, players can raise and breed a variety of cute meow warriors and fight side by side with them. And players can get more rewards through daily missions, PVE, and PVP systems in the game.NAxCAT is also an economy in which ownership is totally decided by players, allowing players to seamlessly sell and trade their game assets into Token. Telegram | Medium | Discord",
+ "Type": "BEP20",
+ "Id": "0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Venus Reward Token",
+ "ImageUrl": "/media/38553667/vrt.png",
+ "SmartContract": "0x5f84ce30dc3cf7909101c69086c50de191895883",
+ "Symbol": "VRT",
+ "Explorer": "https://etherscan.io/token/0x5f84ce30dc3cf7909101c69086c50de191895883",
+ "Research": "https://cryptocompare.com/coins/vrt/overview",
+ "Description": "Venus enables a decentralized stablecoin, VAI, built on Binance Smart Chain that is backed by a basket of stablecoins and crypto assets without centralized control. A Decentralized Marketplace for Lenders and Borrowers with Borderless Stablecoins.Funds held within the protocol can earn APY\u0026#39;s based on the market demand for that asset. Interest is earned by the block and can be used as collateral to borrow assets or to mint stablecoins.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x5f84ce30dc3cf7909101c69086c50de191895883",
+ "Decimals": 8
+}

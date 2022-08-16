@@ -1,0 +1,12 @@
+{
+ "Name": "Sishi Finance",
+ "ImageUrl": "/media/38553518/sishi.png",
+ "SmartContract": "0x8e8538c75f273ab2df6adeecd3622a9c314fccf3",
+ "Symbol": "SISHI",
+ "Explorer": "https://etherscan.io/token/0x8e8538c75f273ab2df6adeecd3622a9c314fccf3",
+ "Research": "https://cryptocompare.com/coins/sishi/overview",
+ "Description": "Sishi Finance is a strategic fork of Goose Finance running on Binance Smart Chain with significant modifications in the token economic model. Its goal is to maximize the income of the liquidity providers on BSC DEXs and SISHI holders.The purpose of SISHI tokens is simple - it is the governance and utility token of Sishi Finance. SISHI is aimed at incentivizing users to be liquidity providers for pools across BSC\u0026#39;s multiple DEXs through Sishi Finance as well as to allow Sishi holders to have a say in the direction of Sishi Finance on the whole via voting. Along the way, as Sishi tirelessly builds its ecosystem, SISHI will be an integral part of sustaining and keeping the ecosystem running seamlessly.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x8e8538c75f273ab2df6adeecd3622a9c314fccf3",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "KAINET",
+ "ImageUrl": "/media/39501321/kainet.png",
+ "SmartContract": "0x723b6795be37ad8a0376acfb50034fa21912b439",
+ "Symbol": "KAINET",
+ "Explorer": "https://etherscan.io/token/0x723b6795be37ad8a0376acfb50034fa21912b439",
+ "Research": "https://cryptocompare.com/coins/kainet/overview",
+ "Description": "KAINET is a DeFi ecosystem of utility tools and a play-to-earn RPG game, all powered by the KAINET token. Backed by an established team of developers, crypto experts and a growing community.Land of Kai is a 3D open world game providing a strong story mode. Play the game to earn tokens while challenging real opponents.Telegram | Discord | Reddit | Github | Medium | Facebook | Youtube | InstagramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x723b6795be37ad8a0376acfb50034fa21912b439",
+ "Decimals": 8
+}

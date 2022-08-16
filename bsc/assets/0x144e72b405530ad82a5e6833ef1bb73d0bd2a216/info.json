@@ -1,0 +1,12 @@
+{
+ "Name": "Effort Economy ",
+ "ImageUrl": "/media/37748214/efft.png",
+ "SmartContract": "0x144e72b405530ad82a5e6833ef1bb73d0bd2a216",
+ "Symbol": "EFFT",
+ "Explorer": "https://etherscan.io/token/0x144e72b405530ad82a5e6833ef1bb73d0bd2a216",
+ "Research": "https://cryptocompare.com/coins/efft/overview",
+ "Description": "Effort Economy is where apps and brands give out Effort Tokens in payment for “efforts” where the efforts are actions performed by app users and brand customers that help apps and brands achieve their business objectives.Effort Token is an BEP-20 token deployed on the Binance Smart Chain Blockchain. It has a current total supply of 100 Million tokens which will be reduced to 50 Million through a series of token burning events.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x144e72b405530ad82a5e6833ef1bb73d0bd2a216",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "BlokPad",
+ "ImageUrl": "/media/39501082/bpad.png",
+ "SmartContract": "0x29132062319aa375e764ef8ef756f2b28c77a9c9",
+ "Symbol": "BPAD",
+ "Explorer": "https://etherscan.io/token/0x29132062319aa375e764ef8ef756f2b28c77a9c9",
+ "Research": "https://cryptocompare.com/coins/bpad/overview",
+ "Description": "Bloktopia will act as a tokenised decentralised VR Crypto Skyscraper powered by the Polygon Network. Bloktopia is designed to provide a VR Experience for the crypto community, bringing users together all in one immersive and engaging environment.The Bloktopia Metaverse will be comprised of Real Estate Bloks that can be Purchased \u0026amp; Governed by the Blok token holders.The native token of Bloktopia is $BLOK and holders will be known as Bloktopians.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x29132062319aa375e764ef8ef756f2b28c77a9c9",
+ "Decimals": 8
+}

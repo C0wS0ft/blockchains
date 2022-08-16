@@ -1,0 +1,12 @@
+{
+ "Name": "Project Quantum",
+ "ImageUrl": "/media/38553536/qbit.png",
+ "SmartContract": "0xa38898a4ae982cb0131104a6746f77fa0da57aaa",
+ "Symbol": "QBIT",
+ "Explorer": "https://etherscan.io/token/0xa38898a4ae982cb0131104a6746f77fa0da57aaa",
+ "Research": "https://cryptocompare.com/coins/qbit/overview",
+ "Description": "Quantum Works is funded solely from its own cryptocurrency token, a BEP20 token utilising a smart contract on the Binance Block Chain network. This cryptocurrency is the money that will drive the economy in Quantum Works first AAA title to be published, Project Quantum (working title), and future titles to come.Telegram | Blog",
+ "Type": "BEP20",
+ "Id": "0xa38898a4ae982cb0131104a6746f77fa0da57aaa",
+ "Decimals": 8
+}

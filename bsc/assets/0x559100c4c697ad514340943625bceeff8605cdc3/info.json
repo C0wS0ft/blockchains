@@ -1,0 +1,12 @@
+{
+ "Name": "Contracto",
+ "ImageUrl": "/media/39109019/lock.png",
+ "SmartContract": "0x559100c4c697ad514340943625bceeff8605cdc3",
+ "Symbol": "LOCK",
+ "Explorer": "https://etherscan.io/token/0x559100c4c697ad514340943625bceeff8605cdc3",
+ "Research": "https://cryptocompare.com/coins/lock/overview",
+ "Description": "Contracto.org is the official website of Dappsy Team audits. These audits are not basic smart contract code checks, but rather a more comprehensive kind of auditing in which most projects are meticulously scrutinized before being certified by Contracto and receiving the confirmed tick on Dappsy. All projects that pass this audit must provide sufficient information to staff in order to receive higher audit scoresContracto.org is the second stage in offering investors more secure and environmentally friendly investing possibilities.Powered by DappsyWhitepaper ",
+ "Type": "BEP20",
+ "Id": "0x559100c4c697ad514340943625bceeff8605cdc3",
+ "Decimals": 8
+}

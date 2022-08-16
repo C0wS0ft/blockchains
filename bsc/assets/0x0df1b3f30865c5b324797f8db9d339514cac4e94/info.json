@@ -1,0 +1,12 @@
+{
+ "Name": "Betu",
+ "ImageUrl": "/media/38553557/betu.png",
+ "SmartContract": "0x0df1b3f30865c5b324797f8db9d339514cac4e94",
+ "Symbol": "BETU",
+ "Explorer": "https://etherscan.io/token/0x0df1b3f30865c5b324797f8db9d339514cac4e94",
+ "Research": "https://cryptocompare.com/coins/betu/overview",
+ "Description": "BetU is a sports, esports and crypto betting platform. It is secured by smart contracts and powered by the BETU Token. BetU will offer traditional bookmaker services along with peer to peer betting, aiming to provide better odds and bigger winnings.Telegram",
+ "Type": "BEP20",
+ "Id": "0x0df1b3f30865c5b324797f8db9d339514cac4e94",
+ "Decimals": 8
+}

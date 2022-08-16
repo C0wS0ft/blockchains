@@ -1,0 +1,12 @@
+{
+ "Name": "JEDSTAR",
+ "ImageUrl": "/media/38553618/jed.png",
+ "SmartContract": "0x058a7af19bdb63411d0a84e79e3312610d7fa90c",
+ "Symbol": "JED",
+ "Explorer": "https://etherscan.io/token/0x058a7af19bdb63411d0a84e79e3312610d7fa90c",
+ "Research": "https://cryptocompare.com/coins/jed/overview",
+ "Description": "JedsTar Token is a decentralized BEP-20 token built by the intergalactic community for the community.\"We do not just reach for the moon. We create moons for the community in the galaxy.\"JEDSTAR Token is a Decentralized Finance (DeFi) Token on the Binance Smart Chain (BSC).JEDSTAR is the First of Three Tokens. The next two will have pre-sales on the Binance Smart Chain. All Three of these Tokens are used in the “Intergalactic” Decentralised Ecosystem. The DECO will come to life and all will be revealed when all 3 Tokens are Live.Telegram | Instagram | DiscordWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x058a7af19bdb63411d0a84e79e3312610d7fa90c",
+ "Decimals": 8
+}

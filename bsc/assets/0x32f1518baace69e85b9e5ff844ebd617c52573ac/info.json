@@ -1,0 +1,12 @@
+{
+ "Name": "Dexsport protocol native token",
+ "ImageUrl": "",
+ "SmartContract": "0x32f1518BaAcE69e85b9E5fF844eBd617c52573ac",
+ "Symbol": "DESU",
+ "Explorer": "https://etherscan.io/token/0x32f1518BaAcE69e85b9E5fF844eBd617c52573ac",
+ "Research": "https://cryptocompare.com/coins/desu/overview",
+ "Description": "",
+ "Type": "BEP20",
+ "Id": "0x32f1518BaAcE69e85b9E5fF844eBd617c52573ac",
+ "Decimals": 8
+}

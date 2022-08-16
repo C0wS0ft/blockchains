@@ -1,0 +1,12 @@
+{
+ "Name": "DekBox",
+ "ImageUrl": "/media/37747719/dek.png",
+ "SmartContract": "0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98",
+ "Symbol": "DEK",
+ "Explorer": "https://etherscan.io/token/0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98",
+ "Research": "https://cryptocompare.com/coins/dek/overview",
+ "Description": "DekBox (decentralized lending box) is a DeFi ecological platform for lending + SWAP + aggregated income created by developers in the global DeFi community.DekBox’s synthetic asset business aims to provide users with liquidity benefits and multi-dimensional appreciation of mortgage POS assets through multi-chain asset synthesizing mortgage agreements.",
+ "Type": "BEP20",
+ "Id": "0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98",
+ "Decimals": 8
+}

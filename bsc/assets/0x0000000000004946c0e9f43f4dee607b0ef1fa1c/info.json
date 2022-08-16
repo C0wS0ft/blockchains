@@ -1,0 +1,10 @@
+{
+ "Name": "Chi Gastoken by 1inch",
+ "SmartContract": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+ "Symbol": "CHI",
+ "Explorer": "https://bscscan.com/search?f=0&q=0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+ "Decimals": 0
+}

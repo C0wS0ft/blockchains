@@ -1,0 +1,12 @@
+{
+ "Name": "SafeBTC",
+ "ImageUrl": "/media/37746788/safebtc.png",
+ "SmartContract": "0x380624A4a7e69dB1cA07deEcF764025FC224D056",
+ "Symbol": "SAFEBTC",
+ "Explorer": "https://etherscan.io/token/0x380624A4a7e69dB1cA07deEcF764025FC224D056",
+ "Research": "https://cryptocompare.com/coins/safebtc/overview",
+ "Description": "SafeBTC generates yield by applying a tax of 5% on every transaction splitting that instantly among token holders and the liquidity pool.",
+ "Type": "BEP20",
+ "Id": "0x380624A4a7e69dB1cA07deEcF764025FC224D056",
+ "Decimals": 8
+}

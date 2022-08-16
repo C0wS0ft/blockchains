@@ -1,0 +1,12 @@
+{
+ "Name": "KCCPad",
+ "ImageUrl": "/media/38553516/kccpad.png",
+ "SmartContract": "0x11582Ef4642B1e7F0a023804B497656E2663bC9B",
+ "Symbol": "KCCPAD",
+ "Explorer": "https://etherscan.io/token/0x11582Ef4642B1e7F0a023804B497656E2663bC9B",
+ "Research": "https://cryptocompare.com/coins/kccpad/overview",
+ "Description": "KCCPAD is a deflationary launch pad, there is a 1% fee for selling, a 25% fee for early unstaking and projects will need to commit to buying and burning tokens to launch their IDOs.Telegram",
+ "Type": "BEP20",
+ "Id": "0x11582Ef4642B1e7F0a023804B497656E2663bC9B",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "ARTDECO",
+ "ImageUrl": "/media/37747738/artdeco.png",
+ "SmartContract": "0x6515a41578bb7ad5486b96384e4148e7844f3d70",
+ "Symbol": "ARTDECO",
+ "Explorer": "https://etherscan.io/token/0x6515a41578bb7ad5486b96384e4148e7844f3d70",
+ "Research": "https://cryptocompare.com/coins/artdeco/overview",
+ "Description": "ART DECO is an Elon Musk inspired Defi Platform that embodies NFT Minting Dapp For Digital Creators To Mint Their Works as NFTs and also A Marketplace for NFTs where creators can earn money as they list their collectibles on a Decentralized Platform built on the Binance Smart Chain.",
+ "Type": "BEP20",
+ "Id": "0x6515a41578bb7ad5486b96384e4148e7844f3d70",
+ "Decimals": 8
+}

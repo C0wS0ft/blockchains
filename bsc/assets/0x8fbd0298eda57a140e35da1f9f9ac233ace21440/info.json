@@ -1,0 +1,12 @@
+{
+ "Name": "Volcano Uni",
+ "ImageUrl": "/media/39377353/vlc.png",
+ "SmartContract": "0x8fbd0298eda57a140e35da1f9f9ac233ace21440",
+ "Symbol": "VLC",
+ "Explorer": "https://etherscan.io/token/0x8fbd0298eda57a140e35da1f9f9ac233ace21440",
+ "Research": "https://cryptocompare.com/coins/vlc/overview",
+ "Description": "Volcano Uni is an ecosystem that aims to bring accessibility to the world of cryptocurrencies. Volcano is a token that was created with binance’s BEP20 blockchain, the project focuses on collaborating with recycling environmental care companies and Metaverso technology.Telegram",
+ "Type": "BEP20",
+ "Id": "0x8fbd0298eda57a140e35da1f9f9ac233ace21440",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "CoinxPad",
+ "ImageUrl": "/media/38553598/cxpad.png",
+ "SmartContract": "0xe90d1567ecef9282cc1ab348d9e9e2ac95659b99",
+ "Symbol": "CXPAD",
+ "Explorer": "https://etherscan.io/token/0xe90d1567ecef9282cc1ab348d9e9e2ac95659b99",
+ "Research": "https://cryptocompare.com/coins/cxpad/overview",
+ "Description": "Coinxpad is designed to empower crypto projects with the ability to distribute tokens and raise liquidity. It aims to create a safe destination for small/medium/big presale investors and early phase projects.Telegram",
+ "Type": "BEP20",
+ "Id": "0xe90d1567ecef9282cc1ab348d9e9e2ac95659b99",
+ "Decimals": 8
+}

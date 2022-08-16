@@ -1,0 +1,12 @@
+{
+ "Name": "TheForce Trade",
+ "ImageUrl": "/media/38553704/foc.png",
+ "SmartContract": "0x3051cfb958dcd408fba70256073adba943fdf552",
+ "Symbol": "FOC",
+ "Explorer": "https://etherscan.io/token/0x3051cfb958dcd408fba70256073adba943fdf552",
+ "Research": "https://cryptocompare.com/coins/foc/overview",
+ "Description": "TheForce.Trade is a DeFi and NFT Value-Adding Platform that utilises community-elected tools and smart contracts to unlock the full value of DeFi and NFT assets. It is designed to solve the difficulties of DeFi and NFT investors in collecting and analysing information on different projects and mining pools.The motivation behind developing this Platform is that a lot of DeFi investors, including ourselves, find it always difficult and time-consuming to put together all the data we need, and it is also quite cumbersome to manually harvest farming yields and switch between pools and projects.The Platform creates values by presenting users with community-voted tools they need to maximise their returns on DeFi yield farming and to unlock liquidity and valuation on NFTs collections while allowing them to track and control relevant risks.Telegram | Medium | Discord ",
+ "Type": "BEP20",
+ "Id": "0x3051cfb958dcd408fba70256073adba943fdf552",
+ "Decimals": 8
+}

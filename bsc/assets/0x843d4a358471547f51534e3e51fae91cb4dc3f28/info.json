@@ -1,0 +1,12 @@
+{
+ "Name": "Loser Coin",
+ "ImageUrl": "/media/37747496/lowb.png",
+ "SmartContract": "0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+ "Symbol": "LOWB",
+ "Explorer": "https://etherscan.io/token/0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+ "Research": "https://cryptocompare.com/coins/lowb/overview",
+ "Description": "Losercoin (ticker symbol: $LOWB) describes itself as a project initiated by two poor guys from China, one is a father of two kids from a village, the other one is a coder living a miserable life by working 60 hours a week.Two founders first heard about Bitcoin in 2017 and had lost a ton of money by trading cryptocurrencies. They started this project as an open journey and were fully prepared to lose everything.",
+ "Type": "BEP20",
+ "Id": "0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+ "Decimals": 8
+}

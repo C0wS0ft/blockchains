@@ -1,0 +1,12 @@
+{
+ "Name": "Shield Network",
+ "ImageUrl": "/media/38553801/shieldnet.png",
+ "SmartContract": "0xf2e00684457de1a3c87361bc4bfe2de92342306c",
+ "Symbol": "SHIELDNET",
+ "Explorer": "https://etherscan.io/token/0xf2e00684457de1a3c87361bc4bfe2de92342306c",
+ "Research": "https://cryptocompare.com/coins/shieldnet/overview",
+ "Description": "Shield Network is a token on the BSC platform aspiring to make the crypto market safer for everyone to invest in. The token is deflationary with a 2% tax on every transaction. 1% is burned, the other 1% is redistributed amongst holders. The token will forever increase in rarity. Its goals are beyond making a BSC token, the main goal is to create a token audit platform where every token is thoroughly audited by the Shield Network team to ensure safety and avoid scams.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xf2e00684457de1a3c87361bc4bfe2de92342306c",
+ "Decimals": 8
+}

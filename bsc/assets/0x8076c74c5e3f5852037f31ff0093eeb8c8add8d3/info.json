@@ -1,0 +1,12 @@
+{
+ "Name": "SafeMoon",
+ "ImageUrl": "/media/37747526/safemoon.png",
+ "SmartContract": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+ "Symbol": "SAFEMOON",
+ "Explorer": "https://etherscan.io/token/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+ "Research": "https://cryptocompare.com/coins/safemoon/overview",
+ "Description": "SafeMoon Protocol is a decentralized finance (DeFi) token. According to the SafeMoon website, SafeMoon has three functions that take place during each trade: Reflection, LP Acquisition and Burn.SafeMoon protocol is a combination of RFI tokenomics and an auto-liquidity generating protocol. According to an article, SafeMoon plans to develop a non-fungible token (NFT) exchange, as well as charity projects and crypto educational apps. With SafeMoon protocol, token holders will earn more SAFEMOON depending on how many coins they have. This can be up to an 80% APY, which is staggering when compared to traditional interest accounts. SafeMoon protocol will gain value over time thanks to its coin-burning strategy, making it a deflationary digital currency.SafeMooon Protocol will be expanding to include an NFT marketplace and coin launchpad which will allow users to create their own cryptocurrencies via the platform. SafeMoon protocol has an ambitious roadmap thanks to its growing popularity and they wish to be listed on the leading exchanges, launch a decentralized exchange (DEX), and increase their partnerships by the end of 2021.SafeMoon launched on Mar. 8, 2021.Telegram | Discord | Facebook | Instagram | YouTube",
+ "Type": "BEP20",
+ "Id": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+ "Decimals": 8
+}

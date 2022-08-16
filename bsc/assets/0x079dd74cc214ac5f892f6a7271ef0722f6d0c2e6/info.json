@@ -1,0 +1,12 @@
+{
+ "Name": "Nasa Doge",
+ "ImageUrl": "/media/38554200/nasadoge.png",
+ "SmartContract": "0x079dd74cc214ac5f892f6a7271ef0722f6d0c2e6",
+ "Symbol": "NASADOGE",
+ "Explorer": "https://etherscan.io/token/0x079dd74cc214ac5f892f6a7271ef0722f6d0c2e6",
+ "Research": "https://cryptocompare.com/coins/nasadoge/overview",
+ "Description": "NasaDoge prevents being a ponzi with paulownia trees.  With the paulownia project, it plans to generate regular income for its investors.  The target is 1,000,000 trees, thus aiming to generate income between $150,000,000 and $250,000,000 every 5 years.  70% of this revenue will be fully distributed to NasaDoge holders.  It will be ready for cutting every 5 years as it is the fastest growing tree in the world.  The team will use 20% to realize more projects, and the remaining 10% will buy NasaDoge and burn it. NasaDoge is an enterprise token that aims to generate income for its investors by converting digital investments into real assets and values. It increases its brand value and token value with its sponsorships and agreements.Telegram | Facebook | Instagram",
+ "Type": "BEP20",
+ "Id": "0x079dd74cc214ac5f892f6a7271ef0722f6d0c2e6",
+ "Decimals": 8
+}

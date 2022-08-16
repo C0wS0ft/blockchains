@@ -1,0 +1,12 @@
+{
+ "Name": "Realfinance Network",
+ "ImageUrl": "/media/39501337/refi.png",
+ "SmartContract": "0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f",
+ "Symbol": "REFI",
+ "Explorer": "https://etherscan.io/token/0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f",
+ "Research": "https://cryptocompare.com/coins/refi/overview",
+ "Description": "Refi is an investment network platform and financial services. Refi swap is a protocol that allows buyers and sellers to exchange their Bep20 tokens, Refi Tokens are a means of payment in this protocol later.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f",
+ "Decimals": 8
+}

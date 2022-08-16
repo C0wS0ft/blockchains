@@ -1,0 +1,12 @@
+{
+ "Name": "Teddy Doge",
+ "ImageUrl": "/media/39501536/teddy.png",
+ "SmartContract": "0x10f6f2b97F3aB29583D9D38BaBF2994dF7220C21",
+ "Symbol": "TEDDY",
+ "Explorer": "https://etherscan.io/token/0x10f6f2b97F3aB29583D9D38BaBF2994dF7220C21",
+ "Research": "https://cryptocompare.com/coins/teddy/overview",
+ "Description": "TeddyDoge is a community-driven organization built to be a one-stop decentralized exchange. It is intended to create a broader range of network effects.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x10f6f2b97F3aB29583D9D38BaBF2994dF7220C21",
+ "Decimals": 8
+}

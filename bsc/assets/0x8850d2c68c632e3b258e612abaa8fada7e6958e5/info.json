@@ -1,0 +1,12 @@
+{
+ "Name": "Pig Finance",
+ "ImageUrl": "/media/38553440/pig.png",
+ "SmartContract": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
+ "Symbol": "PIG",
+ "Explorer": "https://etherscan.io/token/0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
+ "Research": "https://cryptocompare.com/coins/pig/overview",
+ "Description": "PIG is a token on Binance Smart Chain. It is a token with a Black Hole design that exponentially cuts the total supply in circulation by massive amounts. PIG combines this with an Auto-Liquidity feature designed to increase the liquidity of the token rapidly.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
+ "Decimals": 8
+}

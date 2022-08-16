@@ -1,0 +1,12 @@
+{
+ "Name": "Auroracoin",
+ "ImageUrl": "/media/19608/aur.png",
+ "SmartContract": "0xadccd9b784b1398d95c2e952df4c78dc62c7dad9",
+ "Symbol": "AURORAC",
+ "Explorer": "https://etherscan.io/token/0xadccd9b784b1398d95c2e952df4c78dc62c7dad9",
+ "Research": "https://cryptocompare.com/coins/aurorac/overview",
+ "Description": "Auroracoin is a cryptocurrency for Iceland. It is based on litecoin and is 50% premined. The premined coins will be distributed to the entire population of Iceland, starting at the end of March 2014. An interesting way to encourage coin use and market penetration and similar to Spaincoins marketing push. Difficulty retargets every eight blocks and there is no block reward reduction.The official Auroracoin ticker is “AUR” and trades under that name on all the exchanges where it has been listed. The designation “AURORAC” is for CryptoCompare.com only.",
+ "Type": "BEP20",
+ "Id": "0xadccd9b784b1398d95c2e952df4c78dc62c7dad9",
+ "Decimals": 8
+}

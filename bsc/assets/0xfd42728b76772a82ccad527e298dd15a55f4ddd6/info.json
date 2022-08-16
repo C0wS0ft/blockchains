@@ -1,0 +1,12 @@
+{
+ "Name": "KarenCoin",
+ "ImageUrl": "/media/38554102/karen.png",
+ "SmartContract": "0xfd42728b76772a82ccad527e298dd15a55f4ddd6",
+ "Symbol": "KAREN",
+ "Explorer": "https://etherscan.io/token/0xfd42728b76772a82ccad527e298dd15a55f4ddd6",
+ "Research": "https://cryptocompare.com/coins/karen/overview",
+ "Description": "Karen Coin is a deflationary defi token that takes an 8% fee from each transaction made with the token then generates 4% liquidity and 4% reward distributed to holders. The more the users hold the more they earn. The purpose of this is to incentivise investors for holding and punish whales (Large market manipulators). 50% of the total supply of coins was burnt prior to launch.Telegram",
+ "Type": "BEP20",
+ "Id": "0xfd42728b76772a82ccad527e298dd15a55f4ddd6",
+ "Decimals": 8
+}

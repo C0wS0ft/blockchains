@@ -1,0 +1,12 @@
+{
+ "Name": "Pin",
+ "ImageUrl": "/media/37747981/pin.png",
+ "SmartContract": "0xc1f976b91217e240885536af8b63bc8b5269a9be",
+ "Symbol": "PIN",
+ "Explorer": "https://etherscan.io/token/0xc1f976b91217e240885536af8b63bc8b5269a9be",
+ "Research": "https://cryptocompare.com/coins/pin/overview",
+ "Description": "PIN is a proof-of-work cryptocurrency designed to index web3 metadata. PIN also exists as a wrapped token on Ethereum, Binance Smart Chain, and Polygon.PIN, formerly FLO (The Flo Blockchain), is in its eighth year of growth and development. It launched in 2013 as a Litecoin fork and was established to be decentralized, secure, fast and efficient. PIN\u0026#39;s blockchain structure is derived directly from Bitcoin\u0026#39;s UTXO model, and its security is also provided from Proof of Work. PIN was created with no pre-mine, no ICO, no master-nodes, no airdrops, and no dev-fund. It was launched fairly to all participating miners and continues to maintain this core ethos of true decentralization. As a result, its community has driven its development since its inception and continues to do so to this day.Users and developers can \"pin\" metadata, permanently and immutably storing it on the network for public use. Pins can then be retrieved and read by any PIN-based application. When combined with its supporting metadata library, the Open Index Protocol (\"OIP\"), PIN provides a new standard for publishing, indexing, and monetizing any digital content.Facebook | Telegram | YouTube | Discord | BitcoinTalk",
+ "Type": "BEP20",
+ "Id": "0xc1f976b91217e240885536af8b63bc8b5269a9be",
+ "Decimals": 8
+}

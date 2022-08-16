@@ -1,0 +1,10 @@
+{
+ "Name": "SiaCashCoin",
+ "SmartContract": "0xc26eafc627624badf990f8d30116892ed204db51",
+ "Symbol": "SCC",
+ "Explorer": "https://bscscan.com/token/0xc26eafc627624badf990f8d30116892ed204db51",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xc26eafc627624badf990f8d30116892ed204db51",
+ "Decimals": 18
+}

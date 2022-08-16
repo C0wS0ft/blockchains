@@ -1,0 +1,12 @@
+{
+ "Name": "StackOS",
+ "ImageUrl": "/media/37747422/stack.png",
+ "SmartContract": "0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+ "Symbol": "STACK",
+ "Explorer": "https://etherscan.io/token/0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+ "Research": "https://cryptocompare.com/coins/stack/overview",
+ "Description": "StackOS is an open protocol that allows individuals to collectively offer a decentralized cloud where users can deploy any full-stack application, decentralized app, blockchain privatenets and mainnet nodes.",
+ "Type": "BEP20",
+ "Id": "0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+ "Decimals": 8
+}

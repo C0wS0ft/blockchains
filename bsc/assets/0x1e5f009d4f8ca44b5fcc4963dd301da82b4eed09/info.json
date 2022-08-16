@@ -1,0 +1,12 @@
+{
+ "Name": "Zabaku Inu",
+ "ImageUrl": "/media/38553885/zabaku.png",
+ "SmartContract": "0x1e5f009d4f8ca44b5fcc4963dd301da82b4eed09",
+ "Symbol": "ZABAKU",
+ "Explorer": "https://etherscan.io/token/0x1e5f009d4f8ca44b5fcc4963dd301da82b4eed09",
+ "Research": "https://cryptocompare.com/coins/zabaku/overview",
+ "Description": "ZABAKU INU, a new token for a new dogTelegram",
+ "Type": "BEP20",
+ "Id": "0x1e5f009d4f8ca44b5fcc4963dd301da82b4eed09",
+ "Decimals": 8
+}

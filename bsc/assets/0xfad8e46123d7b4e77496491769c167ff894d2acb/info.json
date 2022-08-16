@@ -1,0 +1,12 @@
+{
+ "Name": "Fox Finance",
+ "ImageUrl": "/media/37747375/fox.png",
+ "SmartContract": "0xFAd8E46123D7b4e77496491769C167FF894d2ACB",
+ "Symbol": "FOXF",
+ "Explorer": "https://etherscan.io/token/0xFAd8E46123D7b4e77496491769C167FF894d2ACB",
+ "Research": "https://cryptocompare.com/coins/foxf/overview",
+ "Description": "FOX is an auto-staking token designed to grant rewards to its holders. 6% of each tx goes to liquidity with a rolling 4-year lock, and another 6% goes to each holder by stake (burn wallet). Fox aims to create a community of awareness focused on wildlife conservation through its advocacy platform.Telegram | Discord | RedditWhitepaperThe official Fox Finance ticker is “FOX” and trades under that name on all the exchanges where it has been listed. The designation “FOXF” is for CryptoCompare.com only.",
+ "Type": "BEP20",
+ "Id": "0xFAd8E46123D7b4e77496491769C167FF894d2ACB",
+ "Decimals": 8
+}

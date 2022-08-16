@@ -1,0 +1,12 @@
+{
+ "Name": "Votechain",
+ "ImageUrl": "/media/37747911/vbsc.png",
+ "SmartContract": "0xa3294a571b4526310332a6602a3dec110125af61",
+ "Symbol": "VBSC",
+ "Explorer": "https://etherscan.io/token/0xa3294a571b4526310332a6602a3dec110125af61",
+ "Research": "https://cryptocompare.com/coins/vbsc/overview",
+ "Description": "VoteChain has built a multi-layered architecture based on blockchain technology, specifically ERC20 and Binance Smart Chain (BSC) with many innovations developed by their team.",
+ "Type": "BEP20",
+ "Id": "0xa3294a571b4526310332a6602a3dec110125af61",
+ "Decimals": 8
+}

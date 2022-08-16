@@ -1,0 +1,12 @@
+{
+ "Name": "SappChat",
+ "ImageUrl": "/media/39501271/app.png",
+ "SmartContract": "0x097f8ae21e81d4f248a2e2d18543c6b3cc0d8e59",
+ "Symbol": "APP",
+ "Explorer": "https://etherscan.io/token/0x097f8ae21e81d4f248a2e2d18543c6b3cc0d8e59",
+ "Research": "https://cryptocompare.com/coins/app/overview",
+ "Description": "Sappchat is a Blockchain-based, distributed platform that aims at safely, privately and securely connecting users worldwide by encryption and mobile communication technologies. Sappchat is built upon the Sappchain – its technical partner\u0026#39;s Blockchain, especially developed to cater to the needs of users of both cryptocurrencies and communication technologies.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x097f8ae21e81d4f248a2e2d18543c6b3cc0d8e59",
+ "Decimals": 8
+}

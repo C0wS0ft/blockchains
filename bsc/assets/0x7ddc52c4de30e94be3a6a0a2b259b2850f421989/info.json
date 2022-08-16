@@ -1,0 +1,10 @@
+{
+ "Name": "GoMining Token",
+ "SmartContract": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+ "Symbol": "GMT",
+ "Explorer": "https://bscscan.com/token/0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+ "Decimals": 18
+}

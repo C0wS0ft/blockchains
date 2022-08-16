@@ -1,0 +1,12 @@
+{
+ "Name": "Falcon Swaps",
+ "ImageUrl": "/media/39501198/falcons.png",
+ "SmartContract": "0xb139ed26b743c7254a246cf91eb594d097238524",
+ "Symbol": "FALCONS",
+ "Explorer": "https://etherscan.io/token/0xb139ed26b743c7254a246cf91eb594d097238524",
+ "Research": "https://cryptocompare.com/coins/falcons/overview",
+ "Description": "Falcon Swaps is an AMM+NFT decentralized exchange for newborn projects on Binance Smart Chain, providing a trading solution with project support.Telegram | MediumDocs",
+ "Type": "BEP20",
+ "Id": "0xb139ed26b743c7254a246cf91eb594d097238524",
+ "Decimals": 8
+}

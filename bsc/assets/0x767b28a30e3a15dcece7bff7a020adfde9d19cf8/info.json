@@ -1,0 +1,12 @@
+{
+ "Name": "Wrapped Metrix",
+ "ImageUrl": "/media/39501531/mrxb.png",
+ "SmartContract": "0x767B28a30E3a15DCEcE7bFF7a020ADfdE9D19cf8",
+ "Symbol": "MRXB",
+ "Explorer": "https://etherscan.io/token/0x767B28a30E3a15DCEcE7bFF7a020ADfdE9D19cf8",
+ "Research": "https://cryptocompare.com/coins/mrxb/overview",
+ "Description": "Metrix is a cryptocurrency that has been hard-forked from the QTUM blockchain. It is a decentralized digital asset that is driven and guided by “governors”. All governors hold a substantial amount of the coin (7.5 million MRX) locked in so that they can vote on proposals on the chain.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x767B28a30E3a15DCEcE7bFF7a020ADfdE9D19cf8",
+ "Decimals": 8
+}

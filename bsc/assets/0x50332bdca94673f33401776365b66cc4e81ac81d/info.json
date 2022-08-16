@@ -1,0 +1,12 @@
+{
+ "Name": "CryptoCars",
+ "ImageUrl": "/media/39198164/ccar.png",
+ "SmartContract": "0x50332bdca94673f33401776365b66cc4e81ac81d",
+ "Symbol": "CCAR",
+ "Explorer": "https://etherscan.io/token/0x50332bdca94673f33401776365b66cc4e81ac81d",
+ "Research": "https://cryptocompare.com/coins/ccar/overview",
+ "Description": "CryptoCars is inspired by the movie Cars - A 2006 American computer-animated sports comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures and the NFT Blockchain Technology that helps to prove your ownership of digital assets.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x50332bdca94673f33401776365b66cc4e81ac81d",
+ "Decimals": 8
+}

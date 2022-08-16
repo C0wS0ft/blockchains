@@ -1,0 +1,12 @@
+{
+ "Name": "MetaWars",
+ "ImageUrl": "/media/39108971/wars.png",
+ "SmartContract": "0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c",
+ "Symbol": "WARS",
+ "Explorer": "https://etherscan.io/token/0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c",
+ "Research": "https://cryptocompare.com/coins/wars/overview",
+ "Description": "MetaWars is a multiplayer strategy and roleplaying game powered by a growing digital economy built on blockchain technology. Players can choose their own path using an enormous collection of NFTs and impact every major event across the Galaxy and earn, stake, and trade with $WARS, the utility token of the game universe.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c",
+ "Decimals": 8
+}

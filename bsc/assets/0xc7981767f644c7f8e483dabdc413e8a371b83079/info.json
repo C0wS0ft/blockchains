@@ -1,0 +1,12 @@
+{
+ "Name": "Liquidus",
+ "ImageUrl": "/media/39501408/liq.png",
+ "SmartContract": "0xc7981767f644C7F8e483DAbDc413e8a371b83079",
+ "Symbol": "LIQ",
+ "Explorer": "https://etherscan.io/token/0xc7981767f644C7F8e483DAbDc413e8a371b83079",
+ "Research": "https://cryptocompare.com/coins/liq/overview",
+ "Description": "The Liquidus app has the goal of making the DeFi space accessible to a mainstream audience. Telegram | MediumLitepaper ",
+ "Type": "BEP20",
+ "Id": "0xc7981767f644C7F8e483DAbDc413e8a371b83079",
+ "Decimals": 8
+}

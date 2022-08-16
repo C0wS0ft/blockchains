@@ -1,0 +1,12 @@
+{
+ "Name": "Avaxlauncher",
+ "ImageUrl": "/media/39108959/avxl.png",
+ "SmartContract": "0xbd29490383edfd560426c3b63d01534408bc2da6",
+ "Symbol": "AVXL",
+ "Explorer": "https://etherscan.io/token/0xbd29490383edfd560426c3b63d01534408bc2da6",
+ "Research": "https://cryptocompare.com/coins/avxl/overview",
+ "Description": "AvaXlauncher is the first Incubator + launchpad for the Avalanche ecosystem. AvaXlauncher offers a fast, secure, and efficient platform for decentralized fundraising.Telegram",
+ "Type": "BEP20",
+ "Id": "0xbd29490383edfd560426c3b63d01534408bc2da6",
+ "Decimals": 8
+}

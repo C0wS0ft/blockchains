@@ -1,0 +1,12 @@
+{
+ "Name": "Nerve Finance",
+ "ImageUrl": "/media/39383059/nrv.png",
+ "SmartContract": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+ "Symbol": "NRV",
+ "Explorer": "https://etherscan.io/token/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+ "Research": "https://cryptocompare.com/coins/nrv/overview",
+ "Description": "Nerve is an automated market-maker (AMM) on the Binance Smart Chain (BSC) designed for low-slippage trading of stablecoins and other pegged assets. Nerve launched its signature 3Pool with a basket of dollar-pegged stablecoins consisting of BUSD, USDT and USDC. The protocol has since established an fUSDT metapool and pegged BTC and ETH pools in service of its cross-chain Nerve Bridge, as well as an rUSD metapool in collaboration with Ramp DeFi and a UST metapool in collaboration with Terra. More pools are constantly in development, and projects are welcome to apply to develop a metapool with Nerve through the BUIDL program.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+ "Decimals": 8
+}

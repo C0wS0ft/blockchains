@@ -1,0 +1,12 @@
+{
+ "Name": "FatCake",
+ "ImageUrl": "/media/38553613/fatcake.png",
+ "SmartContract": "0xb7dba4c673bedb174dc3ff7ec65d17c863d39b16",
+ "Symbol": "FATCAKE",
+ "Explorer": "https://etherscan.io/token/0xb7dba4c673bedb174dc3ff7ec65d17c863d39b16",
+ "Research": "https://cryptocompare.com/coins/fatcake/overview",
+ "Description": "The Fat Cake token is based on a Dividend-Paying Token Standard, which means all the CAKE that the contract collects from taxes will be split equally and proportionally to all tokens holders. The contract keeps track of all token holders, as well as an index into the array for processing.Each time a transaction is processed, the contract checks for the amount of withdraw-able dividends each holder has acquired. If the dividends surpass the minimum threshold for autoclaims, the contract will automatically distribute CAKE as the holder\u0026#39;s reflections.This system is fully automated and does not add the minimal gas fees proportional to value transferred. The number of holders processed through each transaction is dynamic and based on the transaction size. Holders will receive dividends from the queue based on their position in the array. It is a fair and fully automated system. There is no minimum holding amount to receive rewards, however, if your rewards do no exceed the minimum to cover gas fees, the contract will save your reflections until the threshold is met or exceeded10% of every buy or sell transaction goes toward rewards, which depending on volume are paid out as frequently as every hour. Products and services are all designed to add additional liquidity and bolster token rewards.Telegram | LinkedIn | Facebook | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xb7dba4c673bedb174dc3ff7ec65d17c863d39b16",
+ "Decimals": 8
+}

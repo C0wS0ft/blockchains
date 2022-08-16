@@ -1,0 +1,10 @@
+{
+ "Name": "Venus ETH",
+ "SmartContract": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8",
+ "Symbol": "VETH",
+ "Explorer": "https://bscscan.com/token/0xf508fcd89b8bd15579dc79a6827cb4686a3592c8",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8",
+ "Decimals": 18
+}

@@ -1,0 +1,10 @@
+{
+ "Name": "ANKR",
+ "SmartContract": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+ "Symbol": "ANKR",
+ "Explorer": "https://bscscan.com/token/0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+ "Decimals": 18
+}

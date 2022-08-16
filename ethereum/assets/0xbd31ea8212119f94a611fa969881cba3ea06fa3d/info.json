@@ -1,0 +1,10 @@
+{
+ "Name": "LUNA (Wormhole)",
+ "SmartContract": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+ "Symbol": "LUNA",
+ "Explorer": "https://etherscan.io/token/0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+ "Decimals": 6
+}

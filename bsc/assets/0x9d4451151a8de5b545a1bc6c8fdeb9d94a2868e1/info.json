@@ -1,0 +1,12 @@
+{
+ "Name": "Lunar",
+ "ImageUrl": "/media/39501275/lnr.png",
+ "SmartContract": "0x9d4451151a8de5b545a1bc6c8fdeb9d94a2868e1",
+ "Symbol": "LNR",
+ "Explorer": "https://etherscan.io/token/0x9d4451151a8de5b545a1bc6c8fdeb9d94a2868e1",
+ "Research": "https://cryptocompare.com/coins/lnr/overview",
+ "Description": "Lunar (LNR) is a DeFi ecosystem. This starts with their Lunar DEX, which initially aims to streamline the entire process of BSC token trading into a single platform with a frictionless user experience. At the core of the Lunar Ecosystem is the Lunar Token (LNR), which distributes 3% of LNR transactions and a percentage of Lunar DEX transactions to holders.Telegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x9d4451151a8de5b545a1bc6c8fdeb9d94a2868e1",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "ETNA Network",
+ "ImageUrl": "/media/37746787/etna.png",
+ "SmartContract": "0x51f35073ff7cf54c9e86b7042e59a8cc9709fc46",
+ "Symbol": "ETNA",
+ "Explorer": "https://etherscan.io/token/0x51f35073ff7cf54c9e86b7042e59a8cc9709fc46",
+ "Research": "https://cryptocompare.com/coins/etna/overview",
+ "Description": "ETNA Network (ETNA) is a hybrid DeFI-type project that is set to bridge the gap between the decentralized space and the masses that are being left out due to the complexities in DeFi.ETNA DeBank Product is best described as a Digital asset system that combines a digital money market feature that supports the use of both cryptocurrencies and whitelisted NFTs as collaterals and the first Liquidity Protocol that is augmented with a Broker-Buyer type trading (BBT) Mechanism.",
+ "Type": "BEP20",
+ "Id": "0x51f35073ff7cf54c9e86b7042e59a8cc9709fc46",
+ "Decimals": 8
+}

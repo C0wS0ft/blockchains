@@ -1,0 +1,12 @@
+{
+ "Name": "PetKingdom",
+ "ImageUrl": "/media/38553649/pkd.png",
+ "SmartContract": "0xa7c97d58cb980a701e3c6e4e6c45554eeb9aa878",
+ "Symbol": "PKD",
+ "Explorer": "https://etherscan.io/token/0xa7c97d58cb980a701e3c6e4e6c45554eeb9aa878",
+ "Research": "https://cryptocompare.com/coins/pkd/overview",
+ "Description": "PetKingdom enables users to become owners and earn real money in a Blockchain-based social game economy. Earn $PKD by participating in daily fights and deciding the future of the Warrior and The Planet orbit the Sun.At the end of every PetKingdom game, the player who wins will gets $PKD.To increase the player\u0026#39;s Pet Power and battle for victory, you may purchase and earn different boost rewards such as 5 stones symbolize 5 different elements: Metal, Wood, Water, Fire, and Earth or a variety of other NFTs.Telegram | Discord ",
+ "Type": "BEP20",
+ "Id": "0xa7c97d58cb980a701e3c6e4e6c45554eeb9aa878",
+ "Decimals": 8
+}

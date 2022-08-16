@@ -1,0 +1,12 @@
+{
+ "Name": "Safemars",
+ "ImageUrl": "/media/37747362/safemars.png",
+ "SmartContract": "0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
+ "Symbol": "SAFEMARS",
+ "Explorer": "https://etherscan.io/token/0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
+ "Research": "https://cryptocompare.com/coins/safemars/overview",
+ "Description": "SAFEMARS is programmed to reward holders while increasing in both liquidity and value. It applies 4% tax on transactions and 2% goes to holders while 2% is auto-locked to liquidity.Telegram | Instagram | YouTube | RedditWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
+ "Decimals": 8
+}

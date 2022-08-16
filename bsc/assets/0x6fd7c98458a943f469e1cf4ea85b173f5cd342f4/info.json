@@ -1,0 +1,12 @@
+{
+ "Name": "BillionHappiness",
+ "ImageUrl": "/media/39501471/bhc.png",
+ "SmartContract": "0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4",
+ "Symbol": "BHC",
+ "Explorer": "https://etherscan.io/token/0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4",
+ "Research": "https://cryptocompare.com/coins/bhc/overview",
+ "Description": "Billion Happiness is a blockchain community-based project for Defi, Yield Farming, Staking and NFT Marketplace.Telegram | Github | MediumCertik Audit",
+ "Type": "BEP20",
+ "Id": "0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4",
+ "Decimals": 8
+}

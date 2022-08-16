@@ -1,0 +1,12 @@
+{
+ "Name": "DxSale Network",
+ "ImageUrl": "/media/38553671/sale.png",
+ "SmartContract": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
+ "Symbol": "SALE",
+ "Explorer": "https://etherscan.io/token/0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
+ "Research": "https://cryptocompare.com/coins/sale/overview",
+ "Description": "DxSale is a decentralized platform as a service that supports all decentralized exchanges such as Uniswap, IDEX, Switcheo and Co-dex by providing an easy to integrate governed IEO platform.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Pacoca",
+ "ImageUrl": "/media/38553522/pacoca.png",
+ "SmartContract": "0x55671114d774ee99d653d6c12460c780a67f1d18",
+ "Symbol": "PACOCA",
+ "Explorer": "https://etherscan.io/token/0x55671114d774ee99d653d6c12460c780a67f1d18",
+ "Research": "https://cryptocompare.com/coins/pacoca/overview",
+ "Description": "Paçoca is a portfolio manager where users can track their DeFi assets, invest in smart vaults with compounding yields, and trade tokens at the best rates using the decentralized exchange aggregator.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x55671114d774ee99d653d6c12460c780a67f1d18",
+ "Decimals": 8
+}

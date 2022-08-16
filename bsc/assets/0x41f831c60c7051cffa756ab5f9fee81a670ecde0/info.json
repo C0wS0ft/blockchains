@@ -1,0 +1,12 @@
+{
+ "Name": "Baby Lambo Inu",
+ "ImageUrl": "/media/39501087/blinu.png",
+ "SmartContract": "0x41f831c60c7051cffa756ab5f9fee81a670ecde0",
+ "Symbol": "BLINU",
+ "Explorer": "https://etherscan.io/token/0x41f831c60c7051cffa756ab5f9fee81a670ecde0",
+ "Research": "https://cryptocompare.com/coins/blinu/overview",
+ "Description": "$BLINU (Baby Lambo Inu) is a hyper-deflationary token on the Binance Smart Chain that provides investment opportunities and use casesTelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x41f831c60c7051cffa756ab5f9fee81a670ecde0",
+ "Decimals": 8
+}

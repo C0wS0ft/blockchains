@@ -1,0 +1,12 @@
+{
+ "Name": "Manga Token",
+ "ImageUrl": "/media/38553900/manga.png",
+ "SmartContract": "0xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68",
+ "Symbol": "MANGA",
+ "Explorer": "https://etherscan.io/token/0xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68",
+ "Research": "https://cryptocompare.com/coins/manga/overview",
+ "Description": "A token that allows you to gain access to Manga NFTs from renowned mangaka(s) such as Yuji Kaida, Godzilla\u0026#39;s artist, and Yoshitaka Amano, Final Fantasy\u0026#39;s illustrator on Trophee.xyzTelegram | Youtube | Instagram | Discord | Facebook | Medium ",
+ "Type": "BEP20",
+ "Id": "0xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Pyram Token",
+ "ImageUrl": "/media/37748345/pyram.png",
+ "SmartContract": "0xedecfb4801c04f3eb394b89397c6aafa4adda15b",
+ "Symbol": "PYRAM",
+ "Explorer": "https://etherscan.io/token/0xedecfb4801c04f3eb394b89397c6aafa4adda15b",
+ "Research": "https://cryptocompare.com/coins/pyram/overview",
+ "Description": "$Pyramid token is related to the gambling game Pyramid. It will be used as money to play and as money to earn. ArenaSwap project aims to be a reference for the gaming into DeFi.Pyramid game is a gambling game with NFT content in the theme of fighting.Telegram",
+ "Type": "BEP20",
+ "Id": "0xedecfb4801c04f3eb394b89397c6aafa4adda15b",
+ "Decimals": 8
+}

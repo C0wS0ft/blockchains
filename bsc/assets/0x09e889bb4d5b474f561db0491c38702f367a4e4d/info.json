@@ -1,0 +1,10 @@
+{
+ "Name": "Clover",
+ "SmartContract": "0x09E889BB4D5b474f561db0491C38702F367A4e4d",
+ "Symbol": "CLV",
+ "Explorer": "https://www.cryptocompare.com/coins/clv/overview",
+ "Research": "https://cryptocompare.com/coins/bch/overview",
+ "Description": "",
+ "Type": "BEP20",
+ "Id": "0x09E889BB4D5b474f561db0491C38702F367A4e4d",
+ "Decimals": 18

@@ -1,0 +1,12 @@
+{
+ "Name": "Zeppelin Dao",
+ "ImageUrl": "/media/37747488/zep.png",
+ "SmartContract": "0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD",
+ "Symbol": "ZEP",
+ "Explorer": "https://etherscan.io/token/0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD",
+ "Research": "https://cryptocompare.com/coins/zep/overview",
+ "Description": "$ZEP is an auto-yield community token: only hold it to indefinitely receive shares of every Zeppelin transaction around the world, through the Quartermaster Fee. Liquidity is auto-locked at launch, and protocol continuously adds liquidity into the Iron Bank pool - aiming to steadily raising the price floor forever.",
+ "Type": "BEP20",
+ "Id": "0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD",
+ "Decimals": 8
+}

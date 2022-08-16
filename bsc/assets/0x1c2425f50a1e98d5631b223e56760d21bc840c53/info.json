@@ -1,0 +1,12 @@
+{
+ "Name": "World Stream Finance",
+ "ImageUrl": "/media/38553269/tream.png",
+ "SmartContract": "0x1c2425f50a1e98d5631b223e56760d21bc840c53",
+ "Symbol": "$TREAM",
+ "Explorer": "https://etherscan.io/token/0x1c2425f50a1e98d5631b223e56760d21bc840c53",
+ "Research": "https://cryptocompare.com/coins/tream/overview",
+ "Description": "$tream is used to contribute to the development of the community of streamers, to be a way to buy game items with discounts and a platform to bet and follow e-sports championships by multiplying their tokens.Telegram | Youtube",
+ "Type": "BEP20",
+ "Id": "0x1c2425f50a1e98d5631b223e56760d21bc840c53",
+ "Decimals": 8
+}

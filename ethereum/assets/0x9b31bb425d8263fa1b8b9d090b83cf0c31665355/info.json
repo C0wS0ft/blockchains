@@ -1,0 +1,10 @@
+{
+ "Name": "Coinspaid",
+ "SmartContract": "0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+ "Symbol": "CPD",
+ "Explorer": "https://etherscan.io/address/0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+ "Decimals": 18
+}

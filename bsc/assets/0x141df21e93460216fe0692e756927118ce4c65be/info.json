@@ -1,0 +1,12 @@
+{
+ "Name": "YOI SHIBA INU",
+ "ImageUrl": "/media/38554166/yosi.png",
+ "SmartContract": "0x141df21e93460216fe0692e756927118ce4c65be",
+ "Symbol": "YOSI",
+ "Explorer": "https://etherscan.io/token/0x141df21e93460216fe0692e756927118ce4c65be",
+ "Research": "https://cryptocompare.com/coins/yosi/overview",
+ "Description": "The Yoi Shiba Inu was created in October 2021Yoi Shiba Inu is a doge themed decentralized meme based cryptocurrency which provides platform to meme makers.The team launched Yoi Shiba Inu with the intention to add real value to the meme world. Yoi Shiba Inu will allow meme creators to create and earn with their memes in a Decentralised way. It has become a unique social experiment in which the investors are integrated into the project both from a community and developmental standpoint.Telegram Whitepaper",
+ "Type": "BEP20",
+ "Id": "0x141df21e93460216fe0692e756927118ce4c65be",
+ "Decimals": 8
+}

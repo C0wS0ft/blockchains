@@ -1,0 +1,10 @@
+{
+ "Name": "Wrapped BNB",
+ "SmartContract": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+ "Symbol": "WBNB",
+ "Explorer": "https://bscscan.com/token/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+ "Research": "https://www.cryptocompare.com/coins/smt/overview",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+ "Decimals": 18

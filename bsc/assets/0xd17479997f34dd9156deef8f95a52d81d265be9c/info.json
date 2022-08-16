@@ -1,0 +1,10 @@
+{
+ "Name": "Decentralized USD",
+ "SmartContract": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+ "Symbol": "USDD",
+ "Explorer": "https://bscscan.com/token/0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+ "Decimals": 18
+}

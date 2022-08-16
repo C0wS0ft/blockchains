@@ -1,0 +1,12 @@
+{
+ "Name": "Shell Token",
+ "ImageUrl": "/media/38553944/shell.png",
+ "SmartContract": "0x01c16da6E041Cf203959624Ade1F39652973D0EB",
+ "Symbol": "SHELL",
+ "Explorer": "https://etherscan.io/token/0x01c16da6E041Cf203959624Ade1F39652973D0EB",
+ "Research": "https://cryptocompare.com/coins/shell/overview",
+ "Description": "Clam Island is an immersive 3D island where users can invest using the power of blockchain and yield farming by interacting with in-game characters. They can also buy Clams and use them to produce Pearls, both of which are NFTs that can be used to generate yield, boost users\u0026#39; investment returns, keep because they’re cool, or sell to another collector.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x01c16da6E041Cf203959624Ade1F39652973D0EB",
+ "Decimals": 8
+}

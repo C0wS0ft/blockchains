@@ -1,0 +1,12 @@
+{
+ "Name": "Retire Token",
+ "ImageUrl": "/media/39501415/retire.png",
+ "SmartContract": "0x90800E102A243d17e8d8E0f0e52284751BcAC8fE",
+ "Symbol": "RETIRE",
+ "Explorer": "https://etherscan.io/token/0x90800E102A243d17e8d8E0f0e52284751BcAC8fE",
+ "Research": "https://cryptocompare.com/coins/retire/overview",
+ "Description": "The entire Retire Token ethos is to reward long term holders. An investment in Retire is an investment for the future. Too often in the cryptocurrency space, a tokens ecosystem benefits market manipulation, leading to a culture of ‘pump and dump’ that leaves long term holders missing out on profit. The unique tokenomics of Retire Token go further than most to prohibit this type or manipulation and protect holders.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x90800E102A243d17e8d8E0f0e52284751BcAC8fE",
+ "Decimals": 8
+}

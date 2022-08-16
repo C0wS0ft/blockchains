@@ -1,0 +1,12 @@
+{
+ "Name": "Project Inverse",
+ "ImageUrl": "/media/39501447/xiv.png",
+ "SmartContract": "0x00518f36d2E0E514E8EB94D34124fC18eE756f10",
+ "Symbol": "XIV",
+ "Explorer": "https://etherscan.io/token/0x00518f36d2E0E514E8EB94D34124fC18eE756f10",
+ "Research": "https://cryptocompare.com/coins/xiv/overview",
+ "Description": "INVERSE is a non-custodial, counter-volatility, decentralized protocol that allows users to take advantage of the downward moves of select assets. INVERSE is powered by the XIV token, a free-floating, inverse-yielding, BEP-20 token.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x00518f36d2E0E514E8EB94D34124fC18eE756f10",
+ "Decimals": 8
+}

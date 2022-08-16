@@ -1,0 +1,12 @@
+{
+ "Name": "Monsta Infinite",
+ "ImageUrl": "/media/38553485/moni.png",
+ "SmartContract": "0x9573c88ae3e37508f87649f87c4dd5373c9f31e0",
+ "Symbol": "MONI",
+ "Explorer": "https://etherscan.io/token/0x9573c88ae3e37508f87649f87c4dd5373c9f31e0",
+ "Research": "https://cryptocompare.com/coins/moni/overview",
+ "Description": "Monsta Infinite is a decentralized game universe where users can earn tokens through playing the game competitively or for leisure.‌",
+ "Type": "BEP20",
+ "Id": "0x9573c88ae3e37508f87649f87c4dd5373c9f31e0",
+ "Decimals": 8
+}

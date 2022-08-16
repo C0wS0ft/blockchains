@@ -1,0 +1,12 @@
+{
+ "Name": "Zuki Moba",
+ "ImageUrl": "/media/39501363/zuki.png",
+ "SmartContract": "0xe81257d932280ae440b17afc5f07c8a110d21432",
+ "Symbol": "ZUKI",
+ "Explorer": "https://etherscan.io/token/0xe81257d932280ae440b17afc5f07c8a110d21432",
+ "Research": "https://cryptocompare.com/coins/zuki/overview",
+ "Description": "Zuki Moba is designed with the background of a snow shooting game, with simple gameplay and chibi graphics. Users can choose between survival or team mode. Zuki Moba is a blockchain game platform that makes blockchain NFTs.Telegram | Discord | Reddit | Facebook | LinkedIn | InstagramDocs ",
+ "Type": "BEP20",
+ "Id": "0xe81257d932280ae440b17afc5f07c8a110d21432",
+ "Decimals": 8
+}

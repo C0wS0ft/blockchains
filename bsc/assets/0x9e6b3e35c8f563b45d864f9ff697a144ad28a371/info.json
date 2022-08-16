@@ -1,0 +1,12 @@
+{
+ "Name": "DogemonGo",
+ "ImageUrl": "/media/38553650/dogo.png",
+ "SmartContract": "0x9e6b3e35c8f563b45d864f9ff697a144ad28a371",
+ "Symbol": "DOGO",
+ "Explorer": "https://etherscan.io/token/0x9e6b3e35c8f563b45d864f9ff697a144ad28a371",
+ "Research": "https://cryptocompare.com/coins/dogo/overview",
+ "Description": "DogemonGo is a Binance Smart Chain (BSC) augmented reality (AR) mobile game similar to Pokemon Go, where you locate, capture, train, and battle virtual creatures called Dogemons. DogemonGo Combines the Playing Experience with \"Dogemons\"Users can catch Dogemons and sometimes you can find Crypto Currency as prey among other Dogemons.Telegram | Facebook | Instagram | Youtube",
+ "Type": "BEP20",
+ "Id": "0x9e6b3e35c8f563b45d864f9ff697a144ad28a371",
+ "Decimals": 8
+}

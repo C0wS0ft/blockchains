@@ -1,0 +1,12 @@
+{
+ "Name": "Demole",
+ "ImageUrl": "/media/39109082/dmlg.png",
+ "SmartContract": "0x1c796c140de269e255372ea687ef7644bab87935",
+ "Symbol": "DMLG",
+ "Explorer": "https://etherscan.io/token/0x1c796c140de269e255372ea687ef7644bab87935",
+ "Research": "https://cryptocompare.com/coins/dmlg/overview",
+ "Description": "DeFi Monster Legends is a playable NFT game with fully 3D design and animation. With earning mechanisms both for gamers and investors. Demole is available for PC and mobile.Developed on Binance Smart Chain.Telegram | Discord | Reddit | Instagram | Facebook",
+ "Type": "BEP20",
+ "Id": "0x1c796c140de269e255372ea687ef7644bab87935",
+ "Decimals": 8
+}

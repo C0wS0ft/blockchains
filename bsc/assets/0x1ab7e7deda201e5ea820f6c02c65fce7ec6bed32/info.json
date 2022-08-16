@@ -1,0 +1,10 @@
+{
+ "Name": "BOT",
+ "SmartContract": "0x1Ab7E7DEdA201E5Ea820F6C02C65Fce7ec6bEd32",
+ "Symbol": "BOT",
+ "Explorer": "https://bscscan.com/token/0x1Ab7E7DEdA201E5Ea820F6C02C65Fce7ec6bEd32",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x1Ab7E7DEdA201E5Ea820F6C02C65Fce7ec6bEd32",
+ "Decimals": 18
+}

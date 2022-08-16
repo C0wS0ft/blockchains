@@ -1,0 +1,12 @@
+{
+ "Name": "Furukuru",
+ "ImageUrl": "/media/39501445/fuku.png",
+ "SmartContract": "0xEc181B5f1d7B069192a3554bde509728b16d5D73",
+ "Symbol": "FUKU",
+ "Explorer": "https://etherscan.io/token/0xEc181B5f1d7B069192a3554bde509728b16d5D73",
+ "Research": "https://cryptocompare.com/coins/fuku/overview",
+ "Description": "Furukuru is a fun P2E Tamagotchi and racing game on the public blockchain. Players can race with their Furu or Kuru characters to earn $ FUKU.Telegram",
+ "Type": "BEP20",
+ "Id": "0xEc181B5f1d7B069192a3554bde509728b16d5D73",
+ "Decimals": 8
+}

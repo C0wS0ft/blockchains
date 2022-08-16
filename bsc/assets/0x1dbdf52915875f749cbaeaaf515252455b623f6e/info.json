@@ -1,0 +1,12 @@
+{
+ "Name": "Peculium",
+ "ImageUrl": "/media/39198282/pcl.png",
+ "SmartContract": "0x1dbdf52915875f749cbaeaaf515252455b623f6e",
+ "Symbol": "PCL",
+ "Explorer": "https://etherscan.io/token/0x1dbdf52915875f749cbaeaaf515252455b623f6e",
+ "Research": "https://cryptocompare.com/coins/pcl/overview",
+ "Description": "Created in 2017, PECULIUM aims to bring advanced investment and wealth management services to the world of Digital Assets.PCL is a BEP-20 multi-utility token granting access to PECULIUM services and rewards to users and stakeholders. PECULIUM is a team of Early adopters of blockchain, data science experts, and tech fans. PECULIUM has developed the SAIΞVE app, a wealth management platform for Digital Assets. SAIΞVE App combines Artificial intelligence and Smart contracts, implementing elements from traditional savings and investments with all-data-driven decision investments making. Peculium\u0026#39;s High-Yield Savings Account BELIΞVE relies on a long-only based investment strategy that creates return in the upward momentum at spots markets.Telegram | Facebook | Medium | Reddit | Github | Instagram | Youtube | LinkedInWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x1dbdf52915875f749cbaeaaf515252455b623f6e",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "DogeHouse Capital",
+ "ImageUrl": "/media/38553610/dogex.png",
+ "SmartContract": "0x69315c56b987dd9f0234ba0c70b1c7770f8f1852",
+ "Symbol": "DOGEX",
+ "Explorer": "https://etherscan.io/token/0x69315c56b987dd9f0234ba0c70b1c7770f8f1852",
+ "Research": "https://cryptocompare.com/coins/dogex/overview",
+ "Description": "DogeHouse Capital is a cryptocurrency project bringing professional digital asset management to meme-based digital currencies on the Binance Smart Chain, Cardano Blockchain, and beyond.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x69315c56b987dd9f0234ba0c70b1c7770f8f1852",
+ "Decimals": 8
+}

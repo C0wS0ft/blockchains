@@ -1,0 +1,12 @@
+{
+ "Name": "MiniDOGE",
+ "ImageUrl": "/media/37748180/minidoge.png",
+ "SmartContract": "0xBa07EED3d09055d60CAEf2bDfCa1c05792f2dFad",
+ "Symbol": "MINIDOGE",
+ "Explorer": "https://etherscan.io/token/0xBa07EED3d09055d60CAEf2bDfCa1c05792f2dFad",
+ "Research": "https://cryptocompare.com/coins/minidoge/overview",
+ "Description": "MiniDOGE is an auto-Boost, Hyper Deflationary Coin. Mini Doge is on a mission to help lost and scared animals find their way to the nearest animal shelter. Every buy gives members more with the auto-boost and hyper deflation system in place.MiniDOGE AutoBoost function is built mathematically to do variable buybacks which adjust based on volume in order to maintain stability. AutoBoost will vary based on the transactions over the past 24 hours which will continue to adjust based on the volume. AutoBoost will buy back variable amounts every time a sale occurs with MiniDOGE token.Telegram | Facebook | InstagramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xBa07EED3d09055d60CAEf2bDfCa1c05792f2dFad",
+ "Decimals": 8
+}

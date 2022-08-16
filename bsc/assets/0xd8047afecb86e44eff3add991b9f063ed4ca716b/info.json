@@ -1,0 +1,12 @@
+{
+ "Name": "Good Games Guild",
+ "ImageUrl": "/media/39501184/ggg.png",
+ "SmartContract": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
+ "Symbol": "GGG",
+ "Explorer": "https://etherscan.io/token/0xd8047afecb86e44eff3add991b9f063ed4ca716b",
+ "Research": "https://cryptocompare.com/coins/ggg/overview",
+ "Description": "Good Games Guild is a Gaming Hub that aims to create a virtual world economy by optimizing its owned assets utility for maximum reward generated, also sponsoring millions of play-to-earn gamers, investing in play-to-earn games along with their in-game assets.GGG will issue Utility Token namely Good Games Token emblazoned with GGG sticker. Players use $GGG as a native currency in GGG Ecosystem on top of that it’s also tradable and has a burnt feature.Telegram | Discord | MediumDocs",
+ "Type": "BEP20",
+ "Id": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Community Token",
+ "ImageUrl": "/media/39500821/comt.png",
+ "SmartContract": "0x45b239cc0a760d1afd276b749141c7e404844ee6",
+ "Symbol": "COMT",
+ "Explorer": "https://etherscan.io/token/0x45b239cc0a760d1afd276b749141c7e404844ee6",
+ "Research": "https://cryptocompare.com/coins/comt/overview",
+ "Description": "Community Token (COMT) it’s the official currency for all Community Metaverse products and systems (except in the Voting System).The total supply will be 1,000,000,000,000,000 (one quadrillion) tokens. Total commission on transactions – 4%: 1% tax – to the Development/Marketing Wallet 1% tax – as dividends for CVP holders through staking. Dividends will be sent to staking contracts and distributed between all holders who stake CVP 2% tax – will be redistributed between holdersCommunity Metaverse aims to present a truly transparent and fully community-driven ecosystem. Giving holders full authority to make decisions (through our Voting System) on which direction to take, and which products to create.Telegram | Discord | Reddit | Medium | Facebook | Instagram",
+ "Type": "BEP20",
+ "Id": "0x45b239cc0a760d1afd276b749141c7e404844ee6",
+ "Decimals": 8
+}

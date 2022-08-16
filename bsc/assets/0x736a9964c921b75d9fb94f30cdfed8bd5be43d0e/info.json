@@ -1,0 +1,12 @@
+{
+ "Name": "Cheesus",
+ "ImageUrl": "/media/39501092/cheesus.png",
+ "SmartContract": "0x736a9964c921b75d9fb94f30cdfed8bd5be43d0e",
+ "Symbol": "CHEESUS",
+ "Explorer": "https://etherscan.io/token/0x736a9964c921b75d9fb94f30cdfed8bd5be43d0e",
+ "Research": "https://cryptocompare.com/coins/cheesus/overview",
+ "Description": "Cheesus is a multichain DeFi analytical tool designed to help users find real gems without getting caught in any mousetraps. Cheesus is the NFT metaverse portfolio tracking, customizable datasets, rating source for DeFi projects, with a decentralized Copy Trading feature and multichain aggregated data.​Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x736a9964c921b75d9fb94f30cdfed8bd5be43d0e",
+ "Decimals": 8
+}

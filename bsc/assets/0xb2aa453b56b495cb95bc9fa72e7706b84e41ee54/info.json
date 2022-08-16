@@ -1,0 +1,12 @@
+{
+ "Name": "WonderHero",
+ "ImageUrl": "/media/39500780/wnd.png",
+ "SmartContract": "0xB2AA453B56b495cb95BC9fa72E7706B84e41EE54",
+ "Symbol": "WND",
+ "Explorer": "https://etherscan.io/token/0xB2AA453B56b495cb95BC9fa72E7706B84e41EE54",
+ "Research": "https://cryptocompare.com/coins/wnd/overview",
+ "Description": "WonderHero is blockchain NFT (non-fungible token) play to earn mobile game. The game is a turn-based MMORPG for iOS and Android platform where players collect Heroes, enter turn-based combat and play to earn tokens in a fantasy world.WND is the Governance Token required to upgrade heroes, weapons, equipment, items etc, and is the main Play To Earn income and the farm output will gradually increase as players level up in their gameplay.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xB2AA453B56b495cb95BC9fa72E7706B84e41EE54",
+ "Decimals": 8
+}

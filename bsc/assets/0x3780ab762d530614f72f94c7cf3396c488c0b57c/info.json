@@ -1,0 +1,12 @@
+{
+ "Name": "Shiba Dollars",
+ "ImageUrl": "/media/39413405/shibadollars.png",
+ "SmartContract": "0x3780ab762d530614f72f94c7cf3396c488c0b57c",
+ "Symbol": "SHIBADOLLARS",
+ "Explorer": "https://etherscan.io/token/0x3780ab762d530614f72f94c7cf3396c488c0b57c",
+ "Research": "https://cryptocompare.com/coins/shibadollars/overview",
+ "Description": "Shibadollars works on an autonomous frictionless yield farming and liquidity generation protocol.Telegram",
+ "Type": "BEP20",
+ "Id": "0x3780ab762d530614f72f94c7cf3396c488c0b57c",
+ "Decimals": 8
+}

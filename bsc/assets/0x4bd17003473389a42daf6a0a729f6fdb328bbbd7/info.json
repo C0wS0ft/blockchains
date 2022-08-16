@@ -1,0 +1,10 @@
+{
+ "Name": "VAI Stablecoin",
+ "SmartContract": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
+ "Symbol": "VAI",
+ "Explorer": "https://bscscan.com/token/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
+ "Decimals": 18
+}

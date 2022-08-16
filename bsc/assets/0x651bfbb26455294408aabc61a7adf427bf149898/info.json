@@ -1,0 +1,12 @@
+{
+ "Name": "Mello Token",
+ "ImageUrl": "/media/38553806/mello.png",
+ "SmartContract": "0x651bfbb26455294408aabc61a7adf427bf149898",
+ "Symbol": "MELLO",
+ "Explorer": "https://etherscan.io/token/0x651bfbb26455294408aabc61a7adf427bf149898",
+ "Research": "https://cryptocompare.com/coins/mello/overview",
+ "Description": "The Mello vision is of a luxurious, fully functioning virtual reality gaming environment, wherein a plethora of fully immersive games can be played from the comfort of one\u0026#39;s own home. This bold vision includes the integration of the Mello Token.The Mello Token (MELLO) is a redistributive cryptocurrency built on Binance Smart Chain. It\u0026#39;s designed to incentivize users by rewarding strong-hands with a portion of a 3% tax charged against every sale.Telegram",
+ "Type": "BEP20",
+ "Id": "0x651bfbb26455294408aabc61a7adf427bf149898",
+ "Decimals": 8
+}

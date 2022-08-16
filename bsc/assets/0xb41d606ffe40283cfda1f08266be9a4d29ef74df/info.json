@@ -1,0 +1,12 @@
+{
+ "Name": "Moonradar.finance",
+ "ImageUrl": "/media/38553585/mrf.png",
+ "SmartContract": "0xb41d606ffe40283cfda1f08266be9a4d29ef74df",
+ "Symbol": "MRF",
+ "Explorer": "https://etherscan.io/token/0xb41d606ffe40283cfda1f08266be9a4d29ef74df",
+ "Research": "https://cryptocompare.com/coins/mrf/overview",
+ "Description": "Moonradar is a Booster Pad for project creators \u0026amp; a GEM Hunter for investors in the Binance Smart Chain ecosystem. Helping project creators boost their value by providing functionality \u0026amp; utility to their token. For Investors, Moonradar provides GEM hunting \u0026amp; Portfolio management solutionsMoonradar is a block chain project built purely in the interest of DeX traders, to protect them from falling for numerous rug-pull scams and honeypot scams. The service aims to provide users with a list of safe projects that they can invest in at an early stage and maximize profits. Moonradar also provides the holders of MRF tokens with tools to swap tokens (Moonswap) and to manage portfolio(Moonboard). While the services are free to use, users will have to hold certain amount of MRF tokens to be able to access the premium features and maximize ROI.Telegram | InstagramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xb41d606ffe40283cfda1f08266be9a4d29ef74df",
+ "Decimals": 8
+}

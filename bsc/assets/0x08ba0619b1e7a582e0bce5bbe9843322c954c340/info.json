@@ -1,0 +1,12 @@
+{
+ "Name": "Binamon",
+ "ImageUrl": "/media/39198085/bmon.png",
+ "SmartContract": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
+ "Symbol": "BMON",
+ "Explorer": "https://etherscan.io/token/0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
+ "Research": "https://cryptocompare.com/coins/bmon/overview",
+ "Description": "Binamon is a metaverse of digital monsters that live on the Binance Smart Chain (BSC), which allows millions of people to join the NFT and blockchain-based gaming world.Telegram | Discord | YouTube",
+ "Type": "BEP20",
+ "Id": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
+ "Decimals": 8
+}

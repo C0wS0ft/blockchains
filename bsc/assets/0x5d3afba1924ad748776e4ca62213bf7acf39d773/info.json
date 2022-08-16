@@ -1,0 +1,12 @@
+{
+ "Name": "Kiwigo",
+ "ImageUrl": "/media/37747871/kgo.png",
+ "SmartContract": "0x5d3afba1924ad748776e4ca62213bf7acf39d773",
+ "Symbol": "KGO",
+ "Explorer": "https://etherscan.io/token/0x5d3afba1924ad748776e4ca62213bf7acf39d773",
+ "Research": "https://cryptocompare.com/coins/kgo/overview",
+ "Description": "Kiwipay is a peer-to-peer payment based on blockchain with the KiwiGo app at its back, which supports network growth through rewards for cryptocurrency. Kiwipay combines rideshare industry concepts with the technological advantages of a blockchain.",
+ "Type": "BEP20",
+ "Id": "0x5d3afba1924ad748776e4ca62213bf7acf39d773",
+ "Decimals": 8
+}

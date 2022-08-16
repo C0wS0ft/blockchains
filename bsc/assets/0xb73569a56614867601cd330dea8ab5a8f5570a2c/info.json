@@ -1,0 +1,12 @@
+{
+ "Name": "BurnDoge",
+ "ImageUrl": "/media/38553789/burndoge.png",
+ "SmartContract": "0xb73569a56614867601cd330dea8ab5a8f5570a2c",
+ "Symbol": "BURNDOGE",
+ "Explorer": "https://etherscan.io/token/0xb73569a56614867601cd330dea8ab5a8f5570a2c",
+ "Research": "https://cryptocompare.com/coins/burndoge/overview",
+ "Description": "BurnDoge is an addtion to the Doge family. The fully decentralized DeFi token with instant usage rewards for 4% of every buy or sell directly to its holders. Supply will become scarcer over time with 4% of every buy and sell being automatically burned.Telegram",
+ "Type": "BEP20",
+ "Id": "0xb73569a56614867601cd330dea8ab5a8f5570a2c",
+ "Decimals": 8
+}

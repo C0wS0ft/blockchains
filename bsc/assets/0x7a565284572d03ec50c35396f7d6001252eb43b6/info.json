@@ -1,0 +1,12 @@
+{
+ "Name": "DogeZilla",
+ "ImageUrl": "/media/38554110/dogezilla.png",
+ "SmartContract": "0x7a565284572d03ec50c35396f7d6001252eb43b6",
+ "Symbol": "DOGEZILLA",
+ "Explorer": "https://etherscan.io/token/0x7a565284572d03ec50c35396f7d6001252eb43b6",
+ "Research": "https://cryptocompare.com/coins/dogezilla/overview",
+ "Description": "DogeZilla is a community-driven project. It is a Memecoin + Utility in the crypto sphere. And it declared to disrupt the space with its DogeZilla Vault – Security to make crypto space safer for millions.Telegram",
+ "Type": "BEP20",
+ "Id": "0x7a565284572d03ec50c35396f7d6001252eb43b6",
+ "Decimals": 8
+}

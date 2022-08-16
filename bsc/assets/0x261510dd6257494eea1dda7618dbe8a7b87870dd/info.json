@@ -1,0 +1,12 @@
+{
+ "Name": "Dehero Community Token",
+ "ImageUrl": "/media/38553528/heroes.png",
+ "SmartContract": "0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd",
+ "Symbol": "HEROES",
+ "Explorer": "https://etherscan.io/token/0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd",
+ "Research": "https://cryptocompare.com/coins/heroes/overview",
+ "Description": "DeHero is a decentralized GameFi application based on BSC.By staking NFT assets, users can unbox NFT card packs blind boxes, collect NFT roles, and do card mining with appropriate training strategies. As a result, users obtain DeHero\u0026#39;s governance token HEROES.Users can trade NFT cards in the trading market. More application scenarios, such as NFT card battles and DAO community co-governance, will be opened soon.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd",
+ "Decimals": 8
+}

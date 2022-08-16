@@ -1,0 +1,12 @@
+{
+ "Name": "Polker",
+ "ImageUrl": "/media/39501505/pkr.png",
+ "SmartContract": "0xc49DDe62B4A0810074721fAcA54Aab52369f486a",
+ "Symbol": "PKR",
+ "Explorer": "https://etherscan.io/token/0xc49DDe62B4A0810074721fAcA54Aab52369f486a",
+ "Research": "https://cryptocompare.com/coins/pkr/overview",
+ "Description": "PKR allows all users from investors and crypto-enthusiasts to gamers and developers to trade, pay, create, and play across any of its supported cryptocurrency networks.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xc49DDe62B4A0810074721fAcA54Aab52369f486a",
+ "Decimals": 8
+}

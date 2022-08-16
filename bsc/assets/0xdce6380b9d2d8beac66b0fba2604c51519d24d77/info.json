@@ -1,0 +1,12 @@
+{
+ "Name": "Adadex Tools",
+ "ImageUrl": "/media/38553684/adat.png",
+ "SmartContract": "0xdce6380b9d2d8beac66b0fba2604c51519d24d77",
+ "Symbol": "ADAT",
+ "Explorer": "https://etherscan.io/token/0xdce6380b9d2d8beac66b0fba2604c51519d24d77",
+ "Research": "https://cryptocompare.com/coins/adat/overview",
+ "Description": "Adadex Tools is developing a set of Defi tools for traders on Decentralized exchanges just as the race for top DEX is ongoing in the Cardano ecosystem, the Adadex tools aim to provide as much data as possible for traders on DEXes in order to have a competitive advantage in the highly volatile defi market.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xdce6380b9d2d8beac66b0fba2604c51519d24d77",
+ "Decimals": 8
+}

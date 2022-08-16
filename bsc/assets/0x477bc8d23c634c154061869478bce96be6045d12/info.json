@@ -1,0 +1,12 @@
+{
+ "Name": "Seedify.fund",
+ "ImageUrl": "/media/37746769/sfund.png",
+ "SmartContract": "0x477bc8d23c634c154061869478bce96be6045d12",
+ "Symbol": "SFUND",
+ "Explorer": "https://etherscan.io/token/0x477bc8d23c634c154061869478bce96be6045d12",
+ "Research": "https://cryptocompare.com/coins/sfund/overview",
+ "Description": "Seedify.fund is a seed fund \u0026amp; decentralized incubator, empowering the next innovations of the blockchain ecosystem, through community-driven governance, feedback, and involvement mechanisms.Any entrepreneur/innovator can submit their projects to Seedify.fund DAO project proposals, get voted by the community, and get their seed fund as well as enter our incubation program.At Seedify.fund, stakers and our community members who involve in the success of the projects that get their seed fund and incubated through community votings, receive reward tokens from selected projects, creating a DeFi seed fund mechanism.",
+ "Type": "BEP20",
+ "Id": "0x477bc8d23c634c154061869478bce96be6045d12",
+ "Decimals": 8
+}

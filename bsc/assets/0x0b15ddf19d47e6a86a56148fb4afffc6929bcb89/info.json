@@ -1,0 +1,12 @@
+{
+ "Name": "Impossible Decentralized Incubator Access",
+ "ImageUrl": "/media/38554084/idia.png",
+ "SmartContract": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+ "Symbol": "IDIA",
+ "Explorer": "https://etherscan.io/token/0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+ "Research": "https://cryptocompare.com/coins/idia/overview",
+ "Description": "Impossible Finance is a multi-chain incubator, launchpad, and swap platform which offers a robust product-first ecosystem designed to support top-tier blockchain projects to targeted user audiences.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+ "Decimals": 8
+}

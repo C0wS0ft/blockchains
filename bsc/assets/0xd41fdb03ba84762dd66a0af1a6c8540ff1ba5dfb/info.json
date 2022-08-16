@@ -1,0 +1,12 @@
+{
+ "Name": "SafePal",
+ "ImageUrl": "/media/38553782/sfp.png",
+ "SmartContract": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+ "Symbol": "SFP",
+ "Explorer": "https://etherscan.io/token/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+ "Research": "https://cryptocompare.com/coins/sfp/overview",
+ "Description": "Founded in 2018, SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto management platform for the masses. SafePal provides hardware wallet and software wallet product lines, all paired and managed through the SafePal App, where users can easily store, manage, swap, trade, and grow their crypto wealth. SafePal supports 20 blockchains, including Binance Chain and Binance Smart Chain, 10,000 tokens, and NFT assets. It has integrated with Binance DEX, Binance Spot Trading, and all DApps on Ethererum, BSC and Tron networks. SafePal is also the first hardware wallet portfolio of Binance Labs.Telegram | Youtube",
+ "Type": "BEP20",
+ "Id": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "MocktailSwap",
+ "ImageUrl": "/media/37748209/mok.png",
+ "SmartContract": "0xca69c118fa550387794d48900a866891217e5c9f",
+ "Symbol": "MOK",
+ "Explorer": "https://etherscan.io/token/0xca69c118fa550387794d48900a866891217e5c9f",
+ "Research": "https://cryptocompare.com/coins/mok/overview",
+ "Description": "MocktailSwap Finance is an AMM protocol designed to incorporate multi-strategy yield optimizing on Binance Smart Chain (BSC) that provides aggregation through vault compounding, lending and yield generation.Mocktail Token is a semi-fungible token on Binance Smart Chain.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xca69c118fa550387794d48900a866891217e5c9f",
+ "Decimals": 8
+}

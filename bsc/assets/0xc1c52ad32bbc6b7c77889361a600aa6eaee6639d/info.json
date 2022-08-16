@@ -1,0 +1,11 @@
+{
+ "Name": "Amir Wallet Token",
+ "SmartContract": "0xC1C52Ad32BBc6b7c77889361a600Aa6EaEe6639D",
+ "Symbol": "AWT",
+ "https://bscscan.com/token/0xC1C52Ad32BBc6b7c77889361a600Aa6EaEe6639D",
+ "Research": "https://www.cryptocompare.com/coins/awt/overview",
+ "Description": "",
+ "Type": "BEP20",
+ "Id": "0xC1C52Ad32BBc6b7c77889361a600Aa6EaEe6639D",
+ "Decimals": 2
+}

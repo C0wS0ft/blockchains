@@ -1,0 +1,12 @@
+{
+ "Name": "Bingo Share",
+ "ImageUrl": "/media/37747238/sbgo.png",
+ "SmartContract": "0x53F39324Fbb209693332B87aA94D5519A1a49aB0",
+ "Symbol": "SBGO",
+ "Explorer": "https://etherscan.io/token/0x53F39324Fbb209693332B87aA94D5519A1a49aB0",
+ "Research": "https://cryptocompare.com/coins/sbgo/overview",
+ "Description": "Bingo Cash Finance is the AlgoStable coin protocol built on the Binance Smart Chain (\"BSC\") for casino gaming. It\u0026#39;s a fair launch project with no pre-sale, no investor, and no pre-mine. Ensuring that everyone is equal from the start.Bingo Shares loosely represent the value of the Bingo Cash Finance and trust in its systemic ability to maintain BGO to peg. During epoch expansions (when TWAP - time-weighted average price of BGO is above the 1 $BUSD peg), the protocol mints BGO and distributes it proportionally to all sBGO holders who have staked their tokens in the boardroom.Additionally, sBGO are used to achieve a completely decentralized on-chain governance where sBGO holders have voting rights and the ability to create proposals to improve the protocol.",
+ "Type": "BEP20",
+ "Id": "0x53F39324Fbb209693332B87aA94D5519A1a49aB0",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "ForeverFOMO",
+ "ImageUrl": "/media/38553593/foreverfomo.png",
+ "SmartContract": "0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083",
+ "Symbol": "FOREVERFOMO",
+ "Explorer": "https://etherscan.io/token/0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083",
+ "Research": "https://cryptocompare.com/coins/foreverfomo/overview",
+ "Description": "ForeverRise is an elastic supply token designed with holders in mind, with an ever-increasing price. Holders are vastly rewarded as the smart contract is hardcoded to increase the price.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083",
+ "Decimals": 8
+}

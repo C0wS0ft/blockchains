@@ -1,0 +1,12 @@
+{
+ "Name": "HarmonyPad",
+ "ImageUrl": "/media/38553969/hpad.png",
+ "SmartContract": "0x7009bd9a1369e74457cdac84191ca83f33e89217",
+ "Symbol": "HPAD",
+ "Explorer": "https://etherscan.io/token/0x7009bd9a1369e74457cdac84191ca83f33e89217",
+ "Research": "https://cryptocompare.com/coins/hpad/overview",
+ "Description": "HarmonyPad is a decentralized launchpad on Harmony. Users can stake tokens to get priority access to promising projects.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x7009bd9a1369e74457cdac84191ca83f33e89217",
+ "Decimals": 8
+}

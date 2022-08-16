@@ -1,0 +1,12 @@
+{
+ "Name": "SOLARIX",
+ "ImageUrl": "/media/39500908/solarix.png",
+ "SmartContract": "0xfdce54744801c9eb88d8445673ad267f8d43a9ee",
+ "Symbol": "SOLARIX",
+ "Explorer": "https://etherscan.io/token/0xfdce54744801c9eb88d8445673ad267f8d43a9ee",
+ "Research": "https://cryptocompare.com/coins/solarix/overview",
+ "Description": "META NEBULAS is a platform formed by a few components such as Social Mining, DeFi and NFT, it is termed as a SocialFi NFT Platform. “Meta” from META NEBULAS was derived from the Greek μετα-, meta-, meaning “after” or “beyond” which is a prefix meaning more comprehensive or transcending; the word “Metaverse” is made up of the prefix “meta” and the stem “verse”; the term is typically used to describe the concept of a future iteration of the internet, made up of persistent, shared, 3D virtual spaces linked into a perceived virtual universe. “Nebulas” from META NEBULAS was derived from “Nebula” which describe any diffused astronomical object, including galaxies beyond the Milky Way. Some nebulae (more than one nebula) come from the gas and dust thrown out by the explosion of a dying star, such as a supernova. Nebulae exist in the space between the stars—also known as interstellar space.SOLARIX is the main incentive reward for completing missions in the SocialFi ecosystem within the META NEBULAS and can serve for utility purpose such as activation code.Telegram | Discord​",
+ "Type": "BEP20",
+ "Id": "0xfdce54744801c9eb88d8445673ad267f8d43a9ee",
+ "Decimals": 8
+}

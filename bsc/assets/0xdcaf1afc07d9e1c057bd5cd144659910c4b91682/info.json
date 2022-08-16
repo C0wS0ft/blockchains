@@ -1,0 +1,12 @@
+{
+ "Name": "Space Cow Boy",
+ "ImageUrl": "/media/37746736/scb.png",
+ "SmartContract": "0xdcaf1afc07d9e1c057bd5cd144659910c4b91682",
+ "Symbol": "SCB",
+ "Explorer": "https://etherscan.io/token/0xdcaf1afc07d9e1c057bd5cd144659910c4b91682",
+ "Research": "https://cryptocompare.com/coins/scb/overview",
+ "Description": "Space Cowboy aims to be the NFT platform for digital art and assets related to the theme of sci-fi, bulls, and space meme.",
+ "Type": "BEP20",
+ "Id": "0xdcaf1afc07d9e1c057bd5cd144659910c4b91682",
+ "Decimals": 8
+}

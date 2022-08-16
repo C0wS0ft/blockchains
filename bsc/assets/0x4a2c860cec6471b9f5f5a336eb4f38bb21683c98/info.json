@@ -1,0 +1,9 @@
+{
+ "Name": "Green Satoshi Token",
+ "SmartContract": "0x4a2c860cec6471b9f5f5a336eb4f38bb21683c98",
+ "Symbol": "GST",
+ "Explorer": "https://bscscan.com/token/0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
+ "Type": "BEP20",
+ "Id": "0x4a2c860cec6471b9f5f5a336eb4f38bb21683c98",
+ "Decimals": 8
+}

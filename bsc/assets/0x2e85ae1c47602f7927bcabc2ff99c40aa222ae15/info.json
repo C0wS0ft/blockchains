@@ -1,0 +1,12 @@
+{
+ "Name": "Katana Inu",
+ "ImageUrl": "/media/39500758/kata.png",
+ "SmartContract": "0x2e85ae1c47602f7927bcabc2ff99c40aa222ae15",
+ "Symbol": "KATA",
+ "Explorer": "https://etherscan.io/token/0x2e85ae1c47602f7927bcabc2ff99c40aa222ae15",
+ "Research": "https://cryptocompare.com/coins/kata/overview",
+ "Description": "Katana Inu ($KATA) is an all-encompassing ecosystem for gamers and traders powered by DeFi and NFT. It aims to not only provide an avenue for fun, but at the same time serve as a platform that generates real income for its participants. To achieve this goal, the Katana Inu ecosystem combines the elements of gaming and crypto, creating an enjoyable and rewarding experience for its players. Katana Inu was developed by Chain Vision, a group of Entrepreneur blockchain enthusiasts and traders from Germany.A vital feature of the Katana Inu platform is its native NFT-marketplace, which acts as a hub for trading NFTs (Non-Fungible tokens). Artists from all over can use the NFT-marketplace to sell their artwork for $KATA, while gamers and holders can also stake, purchase or trade in-game items like skins, weapons and more which can be used while playing the game.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x2e85ae1c47602f7927bcabc2ff99c40aa222ae15",
+ "Decimals": 8
+}

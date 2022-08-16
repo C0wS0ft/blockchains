@@ -1,0 +1,12 @@
+{
+ "Name": "iBG Token",
+ "ImageUrl": "/media/38553558/ibg.png",
+ "SmartContract": "0x5c46c55A699A6359E451B2c99344138420c87261",
+ "Symbol": "IBG",
+ "Explorer": "https://etherscan.io/token/0x5c46c55A699A6359E451B2c99344138420c87261",
+ "Research": "https://cryptocompare.com/coins/ibg/overview",
+ "Description": "iBG is a Decentralized Finance (DeFi) wealth management platform designed to bring simplicity to users interested in entering the cryptocurrency and the DeFi market. iBG is equipped with Robo Advisory technology to offer algorithm-driven recommendations.Telegram ",
+ "Type": "BEP20",
+ "Id": "0x5c46c55A699A6359E451B2c99344138420c87261",
+ "Decimals": 8
+}

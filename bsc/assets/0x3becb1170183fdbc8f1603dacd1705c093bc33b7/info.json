@@ -1,0 +1,12 @@
+{
+ "Name": "Enedex",
+ "ImageUrl": "/media/39198265/enedex.png",
+ "SmartContract": "0x3bEcB1170183fdBc8f1603dacD1705c093BC33B7",
+ "Symbol": "ENEDEX",
+ "Explorer": "https://etherscan.io/token/0x3bEcB1170183fdBc8f1603dacD1705c093BC33B7",
+ "Research": "https://cryptocompare.com/coins/enedex/overview",
+ "Description": "ENEDEX is a Crosschain DEX for Energy Trading and Launchpad for tokenization of Renewable Energy Projects.Energy is the latest asset class that is joining the DeFi innovation. ENEDEX brings a new way energy trading will be conducted in the future, and enters a censorship-resistant and transparent universe with democratized global access for all.It is hard for the average person to trade or invest a small amount in energy assets. Tokenization of energy assets breaks down entry barriers linked to market access, geographical barriers, high transaction costs and liquidity constraints.ENEDEX enables a market for minters to safely issue over collateralized synthetic assets, a market for traders to gain exposure to them, and a platform for entrepreneurs to develop new projects accelerating the energy transition creating a sustainable environment.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x3bEcB1170183fdBc8f1603dacD1705c093BC33B7",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "BnbHeroes Token",
+ "ImageUrl": "/media/39109026/bnbh.png",
+ "SmartContract": "0xd25631648e3ad4863332319e8e0d6f2a8ec6f267",
+ "Symbol": "BNBH",
+ "Explorer": "https://etherscan.io/token/0xd25631648e3ad4863332319e8e0d6f2a8ec6f267",
+ "Research": "https://cryptocompare.com/coins/bnbh/overview",
+ "Description": "BNB HEROES is an Oracle-based NFT collectible card game that focuses on game economy, expansion and sustainability. It plans to make this game durable and -reliable for many players to earn BNB directly while playing.Players will use BNB Hero Token (BNBH) to recruit heroes, Level up, upgrade buildings, purchase various items and complete missions in order to receive rewards in BNB.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xd25631648e3ad4863332319e8e0d6f2a8ec6f267",
+ "Decimals": 8
+}

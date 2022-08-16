@@ -1,0 +1,12 @@
+{
+ "Name": "iBNB",
+ "ImageUrl": "/media/38554219/ibnb.png",
+ "SmartContract": "0x2dda7c99973cba879ed67601f7bf65316874a7a7",
+ "Symbol": "IBNB",
+ "Explorer": "https://etherscan.io/token/0x2dda7c99973cba879ed67601f7bf65316874a7a7",
+ "Research": "https://cryptocompare.com/coins/ibnb/overview",
+ "Description": "iBNB is an ecosystem built to revolutionise decentralised finance and provide daily dividends in crypto. The Dynamic Transaction Protocol (DTP-3) dynamically manages transaction fee percentages according to the health of liquidity measured by liquidity to market-cap ratio. Advanced dividend pools provide sustainable daily dividends directly collectable from the website\u0026#39;s dashboard, and financial tools empower investors to make wise investment decisions on the nBNB network.Telegram | DiscordWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x2dda7c99973cba879ed67601f7bf65316874a7a7",
+ "Decimals": 8
+}

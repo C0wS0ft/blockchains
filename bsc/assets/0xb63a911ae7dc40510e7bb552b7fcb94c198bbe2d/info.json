@@ -1,0 +1,12 @@
+{
+ "Name": "Arrano",
+ "ImageUrl": "/media/37746697/andx.png",
+ "SmartContract": "0xb63a911ae7dc40510e7bb552b7fcb94c198bbe2d",
+ "Symbol": "ANDX",
+ "Explorer": "https://etherscan.io/token/0xb63a911ae7dc40510e7bb552b7fcb94c198bbe2d",
+ "Research": "https://cryptocompare.com/coins/andx/overview",
+ "Description": "ANDX is a Defi token of Arrano Network with a total supply of 81800, built on BEP20, ERC20 and TRC20 Blockchains. Introducing to power up the development OF Arrano Blockchain and other products inline.",
+ "Type": "BEP20",
+ "Id": "0xb63a911ae7dc40510e7bb552b7fcb94c198bbe2d",
+ "Decimals": 8
+}

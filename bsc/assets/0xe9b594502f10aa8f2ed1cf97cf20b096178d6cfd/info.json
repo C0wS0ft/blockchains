@@ -1,0 +1,12 @@
+{
+ "Name": "TESKA Modern Accounting",
+ "ImageUrl": "/media/39198158/tesma.png",
+ "SmartContract": "0xe9b594502f10aa8f2ed1cf97cf20b096178d6cfd",
+ "Symbol": "TESMA",
+ "Explorer": "https://etherscan.io/token/0xe9b594502f10aa8f2ed1cf97cf20b096178d6cfd",
+ "Research": "https://cryptocompare.com/coins/tesma/overview",
+ "Description": "Teska\u0026#39;s goal is to establish a strong relationship with the participation of the world\u0026#39;s major accounting firms to bring about change in the new world financial system in blockchain",
+ "Type": "BEP20",
+ "Id": "0xe9b594502f10aa8f2ed1cf97cf20b096178d6cfd",
+ "Decimals": 8
+}

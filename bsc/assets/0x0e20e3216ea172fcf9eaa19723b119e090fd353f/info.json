@@ -1,0 +1,12 @@
+{
+ "Name": "Xiasi Inu",
+ "ImageUrl": "/media/38553496/xiasi.png",
+ "SmartContract": "0x0e20e3216ea172fcf9eaa19723b119e090fd353f",
+ "Symbol": "XIASI",
+ "Explorer": "https://etherscan.io/token/0x0e20e3216ea172fcf9eaa19723b119e090fd353f",
+ "Research": "https://cryptocompare.com/coins/xiasi/overview",
+ "Description": "Xiasi Inu is a charity based project. Xiasi Inu aims to have its project in the hands of the community that stands by it and plans to achieve this by locking the liquidity and relinquishing ownership.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x0e20e3216ea172fcf9eaa19723b119e090fd353f",
+ "Decimals": 8
+}

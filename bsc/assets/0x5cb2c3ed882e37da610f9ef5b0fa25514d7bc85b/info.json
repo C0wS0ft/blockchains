@@ -1,0 +1,12 @@
+{
+ "Name": "Mouse Haunt",
+ "ImageUrl": "/media/39377383/mht.png",
+ "SmartContract": "0x5Cb2C3Ed882E37DA610f9eF5b0FA25514d7bc85B",
+ "Symbol": "MHT",
+ "Explorer": "https://etherscan.io/token/0x5Cb2C3Ed882E37DA610f9eF5b0FA25514d7bc85B",
+ "Research": "https://cryptocompare.com/coins/mht/overview",
+ "Description": "Mouse Haunt is a play-to-earn universe where users can collect NFTs, farm tokens, breed characters and build levels to earn money. Players can play as the heroes, as the villains and as the architects of the castles.Telegram | Medium | Discord",
+ "Type": "BEP20",
+ "Id": "0x5Cb2C3Ed882E37DA610f9eF5b0FA25514d7bc85B",
+ "Decimals": 8
+}

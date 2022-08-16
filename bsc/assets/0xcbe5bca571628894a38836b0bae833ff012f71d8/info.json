@@ -1,0 +1,12 @@
+{
+ "Name": "Infinity Rocket",
+ "ImageUrl": "/media/38553811/irt.png",
+ "SmartContract": "0xcbe5bca571628894a38836b0bae833ff012f71d8",
+ "Symbol": "IRT",
+ "Explorer": "https://etherscan.io/token/0xcbe5bca571628894a38836b0bae833ff012f71d8",
+ "Research": "https://cryptocompare.com/coins/irt/overview",
+ "Description": "Infinity Rocket is a multi-purpose platform designed to allow users to simplify the launch and promotion of any projects on the blockchain.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xcbe5bca571628894a38836b0bae833ff012f71d8",
+ "Decimals": 8
+}

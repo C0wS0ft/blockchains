@@ -1,0 +1,12 @@
+{
+ "Name": "CakeMoon",
+ "ImageUrl": "/media/38553689/cakemoon.png",
+ "SmartContract": "0x1659b9f69406f6224d84c9e22a482ad2f2f50f3a",
+ "Symbol": "CAKEMOON",
+ "Explorer": "https://etherscan.io/token/0x1659b9f69406f6224d84c9e22a482ad2f2f50f3a",
+ "Research": "https://cryptocompare.com/coins/cakemoon/overview",
+ "Description": "CakeMoon (CAKEMOON) is a BEP-20 token where 12% of every buy/sell is taken and redistributed to all its holders.Telegram",
+ "Type": "BEP20",
+ "Id": "0x1659b9f69406f6224d84c9e22a482ad2f2f50f3a",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "GhostMarket",
+ "ImageUrl": "/media/39500851/gm.png",
+ "SmartContract": "0x0B53b5dA7d0F275C31a6A182622bDF02474aF253",
+ "Symbol": "GHOSTM",
+ "Explorer": "https://etherscan.io/token/0x0B53b5dA7d0F275C31a6A182622bDF02474aF253",
+ "Research": "https://cryptocompare.com/coins/ghostm/overview",
+ "Description": "GhostMarket is a cross-chain Non-Fungible Tokens (NFTs) worldwide marketplace, that offers a comprehensive selection of features wrapped in an intuitive user interface. It features trustless NFT trading facilitated by smart contracts on each integrated blockchain, a self-minting platform.Telegram | Discord | Github | Medium | Instagram",
+ "Type": "BEP20",
+ "Id": "0x0B53b5dA7d0F275C31a6A182622bDF02474aF253",
+ "Decimals": 8
+}

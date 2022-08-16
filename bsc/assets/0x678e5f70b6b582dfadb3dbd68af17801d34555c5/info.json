@@ -1,0 +1,12 @@
+{
+ "Name": "RevoNetwork",
+ "ImageUrl": "/media/39501346/revon.png",
+ "SmartContract": "0x678e5f70b6b582dfadb3dbd68af17801d34555c5",
+ "Symbol": "REVON",
+ "Explorer": "https://etherscan.io/token/0x678e5f70b6b582dfadb3dbd68af17801d34555c5",
+ "Research": "https://cryptocompare.com/coins/revon/overview",
+ "Description": "The Revo Dapp offers an interoperable DeFi Dapp designed to host every viable DeFi use cases on one interactive on-chain network. This will allow its users to move from one DeFi use case to another without losing control of their funds to a third-party or switching applications.The official RevoNetwork ticker is “REVO” and trades under that name on all the exchanges where it has been listed. The designation “REVON” is for CryptoCompare.com only.Telegram",
+ "Type": "BEP20",
+ "Id": "0x678e5f70b6b582dfadb3dbd68af17801d34555c5",
+ "Decimals": 8
+}

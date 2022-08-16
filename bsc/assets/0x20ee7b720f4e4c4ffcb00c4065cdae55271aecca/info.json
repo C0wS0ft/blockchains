@@ -1,0 +1,10 @@
+{
+ "Name": "APENFT",
+ "SmartContract": "0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa",
+ "Symbol": "APENFT",
+ "Explorer": "https://bscscan.com/token/0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa",
+ "Decimals": 6
+}

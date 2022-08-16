@@ -1,0 +1,12 @@
+{
+ "Name": "Covid Token",
+ "ImageUrl": "/media/38553131/covidtoken.png",
+ "SmartContract": "0x23c28e9346c82228fb2b62b20b6fe5d75989f5b2",
+ "Symbol": "COVIDTOKEN",
+ "Explorer": "https://etherscan.io/token/0x23c28e9346c82228fb2b62b20b6fe5d75989f5b2",
+ "Research": "https://cryptocompare.com/coins/covidtoken/overview",
+ "Description": "COVID TOKEN is a token that provides help to African people about Coronavirus. *Covid tokens are burned by sending them to the 0x00000 address and a total of 802,325,867 has been burned from the original supply of 1,000,000,000 as of July 8, 2021.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x23c28e9346c82228fb2b62b20b6fe5d75989f5b2",
+ "Decimals": 8
+}

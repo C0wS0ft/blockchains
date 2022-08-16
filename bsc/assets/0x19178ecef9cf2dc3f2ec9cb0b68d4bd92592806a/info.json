@@ -1,0 +1,12 @@
+{
+ "Name": "ALL BEST ICO",
+ "ImageUrl": "/media/38554082/allbi.png",
+ "SmartContract": "0x19178ecef9cf2dc3f2ec9cb0b68d4bd92592806a",
+ "Symbol": "ALLBI",
+ "Explorer": "https://etherscan.io/token/0x19178ecef9cf2dc3f2ec9cb0b68d4bd92592806a",
+ "Research": "https://cryptocompare.com/coins/allbi/overview",
+ "Description": "ALL BEST ICO.com and ALLBI Token is designed to enable everyone to make their own Cryptocurrency. In addition, participants will be able to use ALLBI Tokens to make payments to various merchants spanning across different industries.ALLBI switched fully to BSC when all updates and SWAPs were performed and all tokens replaced with the new BEP-20.Telegram | Reddit | FacebookWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x19178ecef9cf2dc3f2ec9cb0b68d4bd92592806a",
+ "Decimals": 8
+}

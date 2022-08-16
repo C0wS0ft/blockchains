@@ -1,0 +1,12 @@
+{
+ "Name": "Lovely Inu finance",
+ "ImageUrl": "/media/39501254/lovely.png",
+ "SmartContract": "0x9e24415d1e549ebc626a13a482bb117a2b43e9cf",
+ "Symbol": "LOVELY",
+ "Explorer": "https://etherscan.io/token/0x9e24415d1e549ebc626a13a482bb117a2b43e9cf",
+ "Research": "https://cryptocompare.com/coins/lovely/overview",
+ "Description": "$LOVELY Coin was born June 15th 2021 with the vision to make the record by growing token price from 0.00000001$ to 1$ in the year 2021. Decentralized meme project with a purpose $LOVELY is a Utility Token. Telegram | Instagram | YoutubeWhitepaperAudit",
+ "Type": "BEP20",
+ "Id": "0x9e24415d1e549ebc626a13a482bb117a2b43e9cf",
+ "Decimals": 8
+}

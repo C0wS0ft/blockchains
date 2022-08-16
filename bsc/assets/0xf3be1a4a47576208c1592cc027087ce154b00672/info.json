@@ -1,0 +1,12 @@
+{
+ "Name": "ProjectX",
+ "ImageUrl": "/media/38553668/xil.png",
+ "SmartContract": "0xf3bE1A4a47576208C1592Cc027087CE154B00672",
+ "Symbol": "XIL",
+ "Explorer": "https://etherscan.io/token/0xf3bE1A4a47576208C1592Cc027087CE154B00672",
+ "Research": "https://cryptocompare.com/coins/xil/overview",
+ "Description": "ProjectX aims to create different themed pools of NFTs. This includes Music NFTs, Digital Art, Sports Cards, KOL issued NFTs, Most Renowned NFTs, and more to come. Significant value is derived from NFTs being selected by experts and professional NFT traders/collectors/creators. This will provide consistent quality control for pools, bringing significantly higher levels of value extraction.The $XIL community will have the chance to earn an 250% APY in staking rewards and also have the opportunity to win rare NFTs issued by celebrities.Telegram | Facebook | Instagram ",
+ "Type": "BEP20",
+ "Id": "0xf3bE1A4a47576208C1592Cc027087CE154B00672",
+ "Decimals": 8
+}

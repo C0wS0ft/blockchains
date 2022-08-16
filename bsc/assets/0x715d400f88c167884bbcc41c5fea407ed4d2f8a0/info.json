@@ -1,0 +1,10 @@
+{
+ "Name": "Binance-Peg Axie Infinity Shard Token",
+ "SmartContract": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+ "Symbol": "AXS",
+ "Explorer": "https://bscscan.com/token/0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+ "Decimals": 18
+}

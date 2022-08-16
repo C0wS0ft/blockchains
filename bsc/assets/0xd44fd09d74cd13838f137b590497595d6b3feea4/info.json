@@ -1,0 +1,12 @@
+{
+ "Name": "CryptoMines Eternal",
+ "ImageUrl": "/media/39109028/eternal.png",
+ "SmartContract": "0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
+ "Symbol": "ETERNAL",
+ "Explorer": "https://etherscan.io/token/0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
+ "Research": "https://cryptocompare.com/coins/eternal/overview",
+ "Description": "CryptoMines is a SciFi play-to-earn NFT game designed to provide the users with a fun experience by collecting Workers and Spaceships to travel through the universe searching for $ETERNAL, this mineral allows them to live another day and make some profits along the way.CryptoMines aims to be the greatest SciFi game on the blockchain while letting their users enjoy being a part of a vast universe, the thrill of strategic gameplay, and of course, earn $ETERNAL.The game is deployed on the Binance Smart Chain and is compatible with web3 wallets such as MetaMask, which will be used to accept transactions and pay for gas fees. MetaMask can be installed as a browser extension, or as an application on your mobile devices. Assets are player-owned NFTs minted in the ERC-721 standard which may be traded on our marketplace or selling them via P2P to another player.Telegram | Discord | Instagram",
+ "Type": "BEP20",
+ "Id": "0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
+ "Decimals": 8
+}

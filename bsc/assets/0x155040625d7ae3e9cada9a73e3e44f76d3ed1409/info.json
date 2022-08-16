@@ -1,0 +1,12 @@
+{
+ "Name": "Revomon",
+ "ImageUrl": "/media/37747093/revo.png",
+ "SmartContract": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+ "Symbol": "REVO",
+ "Explorer": "https://etherscan.io/token/0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+ "Research": "https://cryptocompare.com/coins/revo/overview",
+ "Description": "Revomon is an online RPG that combines an incredible, immersive virtual-reality experience with the ground-breaking technology behind NFTs. REVO tokenomics are thought to sustain a whole ecosystem balanced between the investors, the project growth and the game universe.",
+ "Type": "BEP20",
+ "Id": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+ "Decimals": 8
+}

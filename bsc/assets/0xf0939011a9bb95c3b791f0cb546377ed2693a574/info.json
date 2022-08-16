@@ -1,0 +1,12 @@
+{
+ "Name": "0.exchange",
+ "ImageUrl": "/media/39413368/zero.png",
+ "SmartContract": "0xF0939011a9bb95c3B791f0cb546377Ed2693a574",
+ "Symbol": "ZEROEX",
+ "Explorer": "https://etherscan.io/token/0xF0939011a9bb95c3B791f0cb546377Ed2693a574",
+ "Research": "https://cryptocompare.com/coins/zeroex/overview",
+ "Description": "Bridging as a Service (BaaS) for DeFi.Relay Chain aims to enable Simple, fast, cross-chain token transfers between the world\u0026#39;s leading blockchains. Facilitating cross-chain DeFi interoperability to partners via BaaS (Bridging as a Service). Liquidity providers are rewarded in the chain’s native gas token (ETH, AVAX, MATIC, BNB, HT, etc).Deflationary mechanisms for the Relay Token via buyback and burn.Reddit | Github | Youtube | DiscordWhitepaperThe official 0.exchange ticker is “ZERO” and trades under that name on all the exchanges where it has been listed. The designation “ZEROEX” is for CryptoCompare.com only.",
+ "Type": "BEP20",
+ "Id": "0xF0939011a9bb95c3B791f0cb546377Ed2693a574",
+ "Decimals": 8
+}

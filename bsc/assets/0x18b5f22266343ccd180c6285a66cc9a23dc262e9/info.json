@@ -1,0 +1,12 @@
+{
+ "Name": "Evulus Token",
+ "ImageUrl": "/media/39501232/evu.png",
+ "SmartContract": "0x18B5F22266343cCD180C6285a66cC9A23Dc262E9",
+ "Symbol": "EVU",
+ "Explorer": "https://etherscan.io/token/0x18B5F22266343cCD180C6285a66cC9A23Dc262E9",
+ "Research": "https://cryptocompare.com/coins/evu/overview",
+ "Description": "Evulus SRL, was founded in August 2018 with the purpose of guiding, advising and educating its clients, in terms of personal finances to take them to the cryptocurrency market in a reliable way.Telegram | Github | Facebook | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x18B5F22266343cCD180C6285a66cC9A23Dc262E9",
+ "Decimals": 8
+}

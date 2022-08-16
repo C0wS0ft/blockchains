@@ -1,0 +1,12 @@
+{
+ "Name": "Leonicorn Swap",
+ "ImageUrl": "/media/38553708/leos.png",
+ "SmartContract": "0x2c8368f8f474ed9af49b87eac77061beb986c2f1",
+ "Symbol": "LEOS",
+ "Explorer": "https://etherscan.io/token/0x2c8368f8f474ed9af49b87eac77061beb986c2f1",
+ "Research": "https://cryptocompare.com/coins/leos/overview",
+ "Description": "Leonicorn Swap is an advanced AMM with features Like NFT Marketplace, Lottery, IDO and many other advanced features. We provide user-friendly, efficient and secure crypto solutions by utilizing blockchain technologyIn Leonicorn Swap Exchange, you can Trade, Provide Liquidity for your project and others, Buy and Sell NFT, and raise funds for your projects via the IDO/IFO model. It\u0026#39;s a complete solution for Users and Traders.2% Auto Staking reward goes to all holders as Yield and 1% token burn in every single transaction. After 120M reach there will be no additional burning.Telegram | Discord | LinkedIn | Facebook | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x2c8368f8f474ed9af49b87eac77061beb986c2f1",
+ "Decimals": 8
+}

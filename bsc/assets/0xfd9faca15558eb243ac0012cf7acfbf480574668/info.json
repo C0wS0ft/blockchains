@@ -1,0 +1,12 @@
+{
+ "Name": "Meta MVRS",
+ "ImageUrl": "/media/39501444/mvrs.png",
+ "SmartContract": "0xFD9FacA15558eb243aC0012Cf7ACfBf480574668",
+ "Symbol": "MVRS",
+ "Explorer": "https://etherscan.io/token/0xFD9FacA15558eb243aC0012Cf7ACfBf480574668",
+ "Research": "https://cryptocompare.com/coins/mvrs/overview",
+ "Description": "MVRS is a multi-purpose token, that serves as a utility token to MVRS Metaverse. Meta MVRS aims to help investors find an easy way to invest in a trio; NFT, Metaverse and Crypto with ease.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xFD9FacA15558eb243aC0012Cf7ACfBf480574668",
+ "Decimals": 8
+}

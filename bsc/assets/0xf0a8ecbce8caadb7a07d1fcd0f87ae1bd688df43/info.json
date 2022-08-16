@@ -1,0 +1,12 @@
+{
+ "Name": "Cryptogodz",
+ "ImageUrl": "/media/39109096/godz.png",
+ "SmartContract": "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43",
+ "Symbol": "GODZ",
+ "Explorer": "https://etherscan.io/token/0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43",
+ "Research": "https://cryptocompare.com/coins/godz/overview",
+ "Description": "CryptoGodz is a Dota2 - inspired P2E NFT universe where anyone has the capability to earn tokens while playing and contributing to the game\u0026#39;s ecosystem. Players can own CryptoGodz\u0026#39; Sentz (non-fungible 3d characters) to play combat, morph, hone, collect and build an army of valuable crypto assets.Players are required to exchange Godz Token for Godz Stones to start playing CryptoGodz. Godz token can also be used as currency on the game\u0026#39;s marketplace.Earning Godz Token rewards is only possible by opening CryptoGodz\u0026#39; Treasure Chests.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43",
+ "Decimals": 8
+}

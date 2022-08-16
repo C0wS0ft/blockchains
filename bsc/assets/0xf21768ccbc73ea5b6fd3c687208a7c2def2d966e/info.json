@@ -1,0 +1,10 @@
+{
+ "Name": "Reef.finance",
+ "SmartContract": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+ "Symbol": "REEF",
+ "Explorer": "https://bscscan.com/token/0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+ "Decimals": 18
+}

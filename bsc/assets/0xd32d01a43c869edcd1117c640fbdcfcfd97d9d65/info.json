@@ -1,0 +1,12 @@
+{
+ "Name": "Nominex Token",
+ "ImageUrl": "/media/37747171/nmx.png",
+ "SmartContract": "0xD32D01A43C869EDCD1117C640FBDCFCFD97D9D65",
+ "Symbol": "NMX",
+ "Explorer": "https://etherscan.io/token/0xD32D01A43C869EDCD1117C640FBDCFCFD97D9D65",
+ "Research": "https://cryptocompare.com/coins/nmx/overview",
+ "Description": "Nominex Token (NMX) is a DeFi token with a unique farming model created by the Nominex exchange.Nominex is a centralized exchange that successfully launched utility staking. A partner level is assigned to all stakers depending on the amount of invested funds, which gives unique bonuses for using the exchange itself. The staking unlocks unlimited possibilities on Nominex.What does it mean - utility staking?Farming of NMX token has a utility: stake more assets (NMX-LP) and get a higher partner level as well as 8 bonus types. Higher-level gives lower trading and withdrawal fees - up to 0%. Trade absolutely for free.Team farming - And what is that?The distribution process is spread over 72 years. All this time the world\u0026#39;s largest referral tree will be formed. Thanks to the overflow effect, users will receive most of their referral bonuses from users whom they do not even know personally. They can be 20 or even 2000 levels away in the “tree”.The reward system consists of team staking bonusesAt Nominex, users can earn even more with team farming. They can grow the number of their referrals by inviting people with their referral ID. After that, they can do the same and for each direct staking partner, users can get a daily NMX reward. But they also get a share from the team staking pool of 2,000 NMX distributed among the “weak” teams every day.How can I get NMX?Users can buy them on PancakeSwap, 1inch or directly on Nominex. Farming is built on the Binance Smart Chain so that the fees used for Farming are invisible to users and the bandwidth of this network is much higher.Telegram | Facebook | LinkedInWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xD32D01A43C869EDCD1117C640FBDCFCFD97D9D65",
+ "Decimals": 8
+}

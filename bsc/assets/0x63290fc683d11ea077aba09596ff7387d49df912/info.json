@@ -1,0 +1,12 @@
+{
+ "Name": "Ramifi Protocol",
+ "ImageUrl": "/media/39198092/ram.png",
+ "SmartContract": "0x63290fC683d11ea077abA09596Ff7387D49dF912",
+ "Symbol": "RAM",
+ "Explorer": "https://etherscan.io/token/0x63290fC683d11ea077abA09596Ff7387D49dF912",
+ "Research": "https://cryptocompare.com/coins/ram/overview",
+ "Description": "The Ramifi Protocol aims to solve the problem of USD inflation by creating a floating peg that adjusts along side commodity prices across the globe. As the prices of the most basic things we buy go up, so does the RAM token. The goal being the removal of the need for the USD.The Ramifi Protocol recalculates its total supply daily in order to maintain its\u0026#39; commodity based peg. Leveraging the fact that supply and demand dictate the price of the asset, RAM is able to maintain a peg while simulataneously creating a robust market. This makes the Ramifi ecosystem infinitely scalable without the need for USD backing.Ramifi\u0026#39;s governance is decided by token holders.Telegram | Discord | Facebook | RedditWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x63290fC683d11ea077abA09596Ff7387D49dF912",
+ "Decimals": 8
+}

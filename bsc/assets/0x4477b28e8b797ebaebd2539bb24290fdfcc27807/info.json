@@ -1,0 +1,12 @@
+{
+ "Name": "Refugees Token",
+ "ImageUrl": "/media/38553827/rfg.png",
+ "SmartContract": "0x4477b28e8b797ebaebd2539bb24290fdfcc27807",
+ "Symbol": "RFG",
+ "Explorer": "https://etherscan.io/token/0x4477b28e8b797ebaebd2539bb24290fdfcc27807",
+ "Research": "https://cryptocompare.com/coins/rfg/overview",
+ "Description": "Refugees Token is a cryptocurrency that allows investors to take an active role in saving refugees\u0026#39; lives. It crafted a token that rewards holders for supporting charities with an automatic 5% redistribution on each transaction and put it on the BSC network.Telegram",
+ "Type": "BEP20",
+ "Id": "0x4477b28e8b797ebaebd2539bb24290fdfcc27807",
+ "Decimals": 8
+}

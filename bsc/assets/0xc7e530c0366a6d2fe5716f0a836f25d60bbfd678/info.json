@@ -1,0 +1,12 @@
+{
+ "Name": "SUPERLAUNCH",
+ "ImageUrl": "/media/38553975/sla.png",
+ "SmartContract": "0xC7E530C0366a6D2FE5716F0A836f25d60bbfD678",
+ "Symbol": "SLA",
+ "Explorer": "https://etherscan.io/token/0xC7E530C0366a6D2FE5716F0A836f25d60bbfD678",
+ "Research": "https://cryptocompare.com/coins/sla/overview",
+ "Description": "A Startup Incubator and Launchpad developed by SL Development Team on Binance Smart Chain. Super Launch will help Startups with the funding and support to launch their project in the most efficient and secure way possible. SL Development team will provide quality, security and trust investment ways to blockchain projects and Investors.Superlaunch will suppport Ethereum,Binance Smart Chain,Solana and upcoming Flare Network.SLA is the native token on the ecosystem and a key factor in the incubation process.Holders of SLA Tokens will be eligible to participate presales for upcoming launch projects.Each tier shall be eligible for different Contribution caps for Pre-sale participation. Tier 1 shall have the highest contribution cap and tier 3 shall have the lowest.Telegram | Medium  ",
+ "Type": "BEP20",
+ "Id": "0xC7E530C0366a6D2FE5716F0A836f25d60bbfD678",
+ "Decimals": 8
+}

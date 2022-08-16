@@ -1,0 +1,10 @@
+{
+ "Name": "1INCH Token",
+ "SmartContract": "0x111111111117dC0aa78b770fA6A738034120C302",
+ "Symbol": "1INCH",
+ "Explorer": "https://bscscan.com/token/0x111111111117dC0aa78b770fA6A738034120C302",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x111111111117dC0aa78b770fA6A738034120C302",
+ "Decimals": 18
+}

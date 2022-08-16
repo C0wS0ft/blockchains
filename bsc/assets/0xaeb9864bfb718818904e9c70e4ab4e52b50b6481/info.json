@@ -1,0 +1,12 @@
+{
+ "Name": "Pea Farm",
+ "ImageUrl": "/media/37748023/pea.png",
+ "SmartContract": "0xaeb9864bfb718818904e9c70e4ab4e52b50b6481",
+ "Symbol": "PEA",
+ "Explorer": "https://etherscan.io/token/0xaeb9864bfb718818904e9c70e4ab4e52b50b6481",
+ "Research": "https://cryptocompare.com/coins/pea/overview",
+ "Description": "PEA farm is a virtual farm game system that uses blockchain technology to create a variety of digital assets.The PEA serves as the governance token of the Peafarm blockchain ecosystem. It\u0026#39;s a utility token used as the basis for all transactions and exchanges on the Peafarm Finance derivative platform.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xaeb9864bfb718818904e9c70e4ab4e52b50b6481",
+ "Decimals": 8
+}

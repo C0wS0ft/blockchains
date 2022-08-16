@@ -1,0 +1,12 @@
+{
+ "Name": "JERITEX",
+ "ImageUrl": "/media/38554019/jrit.png",
+ "SmartContract": "0xf2619476bd0ca0eda08744029c66b62a904c2bf8",
+ "Symbol": "JRIT",
+ "Explorer": "https://etherscan.io/token/0xf2619476bd0ca0eda08744029c66b62a904c2bf8",
+ "Research": "https://cryptocompare.com/coins/jrit/overview",
+ "Description": "JERITEX is an exchange, running on the BSC platform and issuing exchange coins on the BSC platform. The exchange officially launched on 2021-08-04.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xf2619476bd0ca0eda08744029c66b62a904c2bf8",
+ "Decimals": 8
+}

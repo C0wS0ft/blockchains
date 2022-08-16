@@ -1,0 +1,12 @@
+{
+ "Name": "United Global Dollars",
+ "ImageUrl": "/media/38553575/ugd.png",
+ "SmartContract": "0x3b7e9A4c2dD74302e3C9274f8cF33D4d972fA16b",
+ "Symbol": "UGD",
+ "Explorer": "https://etherscan.io/token/0x3b7e9A4c2dD74302e3C9274f8cF33D4d972fA16b",
+ "Research": "https://cryptocompare.com/coins/ugd/overview",
+ "Description": "United Global Dollars was created with the objective to ensure the world will be able to trade on all relevant blockchains from one place, the release of the World Dex and the World Cex will allow users to trade with 0% platform fees.",
+ "Type": "BEP20",
+ "Id": "0x3b7e9A4c2dD74302e3C9274f8cF33D4d972fA16b",
+ "Decimals": 8
+}

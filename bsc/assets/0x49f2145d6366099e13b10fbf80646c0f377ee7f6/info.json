@@ -1,0 +1,12 @@
+{
+ "Name": "FC Porto",
+ "ImageUrl": "/media/39109099/porto.png",
+ "SmartContract": "0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
+ "Symbol": "PORTO",
+ "Explorer": "https://etherscan.io/token/0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
+ "Research": "https://cryptocompare.com/coins/porto/overview",
+ "Description": "FC Porto Fan Token is built on the Binance Smart Chain empowering FC Porto fans with broader accessibility, more functionalities and lower fees.",
+ "Type": "BEP20",
+ "Id": "0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
+ "Decimals": 8
+}

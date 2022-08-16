@@ -1,0 +1,12 @@
+{
+ "Name": "Genshiro",
+ "ImageUrl": "/media/37748095/gens.png",
+ "SmartContract": "0x2CD14cbA3F26254beeD1d78158cd2B6F91809600",
+ "Symbol": "GENS",
+ "Explorer": "https://etherscan.io/token/0x2CD14cbA3F26254beeD1d78158cd2B6F91809600",
+ "Research": "https://cryptocompare.com/coins/gens/overview",
+ "Description": "GENS is the native utility token for Genshiro. Its use cases include voting for validators, transaction fees, interest rates, and liquidity for bailouts and collateral (when GENS will become a more established asset).Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x2CD14cbA3F26254beeD1d78158cd2B6F91809600",
+ "Decimals": 8
+}

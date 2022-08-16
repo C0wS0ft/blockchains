@@ -1,0 +1,12 @@
+{
+ "Name": "Velas",
+ "ImageUrl": "/media/39500959/vlx.png",
+ "SmartContract": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
+ "Symbol": "VLX",
+ "Explorer": "https://etherscan.io/token/0x8c543aed163909142695f2d2acd0d55791a9edb9",
+ "Research": "https://cryptocompare.com/coins/vlx/overview",
+ "Description": "Velas ™ is a self-learning and self-optimizing blockchain platform for secure, interoperable, extremely scalable transactions and smart contracts. The Velas blockchain uses neural networks optimized by artificial intelligence to enhance its consensus algorithm, which maintains decentralization, stability, and security.",
+ "Type": "BEP20",
+ "Id": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
+ "Decimals": 8
+}

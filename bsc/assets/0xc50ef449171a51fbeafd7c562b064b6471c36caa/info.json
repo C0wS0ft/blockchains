@@ -1,0 +1,12 @@
+{
+ "Name": "Zombie Inu",
+ "ImageUrl": "/media/39501424/zinu.png",
+ "SmartContract": "0xc50EF449171a51FbeAFd7c562b064B6471C36caA",
+ "Symbol": "ZINU",
+ "Explorer": "https://etherscan.io/token/0xc50EF449171a51FbeAFd7c562b064B6471C36caA",
+ "Research": "https://cryptocompare.com/coins/zinu/overview",
+ "Description": "\"Zombie Inu revolves around Zinu, a twisted Shiba Inu infected with a rare disease that transformed him into a Zombie dog\"ZINU Token was created to feature a myriad of utilities: including its ability to be used across multiple chains.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xc50EF449171a51FbeAFd7c562b064B6471C36caA",
+ "Decimals": 8
+}

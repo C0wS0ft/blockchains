@@ -1,0 +1,12 @@
+{
+ "Name": "InfinityCAKE",
+ "ImageUrl": "/media/38553581/incake.png",
+ "SmartContract": "0x8C1297f572B737357EF8a0951523dB1da139E4F5",
+ "Symbol": "INCAKE",
+ "Explorer": "https://etherscan.io/token/0x8C1297f572B737357EF8a0951523dB1da139E4F5",
+ "Research": "https://cryptocompare.com/coins/incake/overview",
+ "Description": "Earn $Cake as you HODL $INFINITYCAKE.\"Infinity Cake was born on a mysterious island far far away, However Infinity Cake escaped and now rewards cake to all holders who help defend against the witch.\"Telegram | Instagram",
+ "Type": "BEP20",
+ "Id": "0x8C1297f572B737357EF8a0951523dB1da139E4F5",
+ "Decimals": 8
+}

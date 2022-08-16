@@ -1,0 +1,12 @@
+{
+ "Name": "xWIN Finance",
+ "ImageUrl": "/media/37748281/xwin.png",
+ "SmartContract": "0xd88ca08d8eec1e9e09562213ae83a7853ebb5d28",
+ "Symbol": "XWIN",
+ "Explorer": "https://etherscan.io/token/0xd88ca08d8eec1e9e09562213ae83a7853ebb5d28",
+ "Research": "https://cryptocompare.com/coins/xwin/overview",
+ "Description": "xWin is a fund management platform built using Binance Smart Chain that helps investors to invest in ETF-like vault, stake on various liquidity pools and farm to get rewards.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xd88ca08d8eec1e9e09562213ae83a7853ebb5d28",
+ "Decimals": 8
+}

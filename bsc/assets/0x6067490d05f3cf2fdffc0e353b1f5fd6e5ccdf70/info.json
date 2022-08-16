@@ -1,0 +1,12 @@
+{
+ "Name": "Market Making Pro",
+ "ImageUrl": "/media/39501211/mmpro.png",
+ "SmartContract": "0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70",
+ "Symbol": "MMPRO",
+ "Explorer": "https://etherscan.io/token/0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70",
+ "Research": "https://cryptocompare.com/coins/mmpro/overview",
+ "Description": "Market Making Pro offers a service of algorithmic solutions for managing crypto-assets on cryptocurrency exchanges.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70",
+ "Decimals": 8
+}

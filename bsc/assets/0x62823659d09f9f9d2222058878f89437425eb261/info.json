@@ -1,0 +1,12 @@
+{
+ "Name": "Ertha",
+ "ImageUrl": "/media/39501208/ertha.png",
+ "SmartContract": "0x62823659d09f9f9d2222058878f89437425eb261",
+ "Symbol": "ERTHA",
+ "Explorer": "https://etherscan.io/token/0x62823659d09f9f9d2222058878f89437425eb261",
+ "Research": "https://cryptocompare.com/coins/ertha/overview",
+ "Description": "ERTHA is Heroes Of Might And Magic game-type inspired economic, social, MMO game based on exploring and investigating the world, leveling up, choosing specializations, and increasing the strength of a company and a country.The ERTHA token is the core utility token that is used to facilitate a sustainable DAO design for the game’s metaverse ecosystem as a whole.Telegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x62823659d09f9f9d2222058878f89437425eb261",
+ "Decimals": 8
+}

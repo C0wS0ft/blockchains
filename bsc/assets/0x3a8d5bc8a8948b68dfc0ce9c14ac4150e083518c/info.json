@@ -1,0 +1,12 @@
+{
+ "Name": "Paralink Network",
+ "ImageUrl": "/media/38553971/para.png",
+ "SmartContract": "0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c",
+ "Symbol": "PARA",
+ "Explorer": "https://etherscan.io/token/0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c",
+ "Research": "https://cryptocompare.com/coins/para/overview",
+ "Description": "Paralink Network offers a multi-chain oracle platform for DeFi and other blockchain applications. Paralink Node supports Ethereum and Plasm, with more networks coming soon.Anyone can run the Paralink Node and serve as an oracle to DeFi smart contracts. Paralink oracle quorums are self-organizing, on-chain consensus networks for data streams that require higher degree of security. Relayer quorum is a set of nominated validators that perform the final oracle job validation and relay the results over bridges/xcmp. The relayer quorum is governed by PARA token holders.Telegram | Blog | Github",
+ "Type": "BEP20",
+ "Id": "0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Meme Lordz",
+ "ImageUrl": "/media/39501436/lordz.png",
+ "SmartContract": "0x2541Be91fE0D220fFCbe65f11d88217a87A43bDA",
+ "Symbol": "LORDZ",
+ "Explorer": "https://etherscan.io/token/0x2541Be91fE0D220fFCbe65f11d88217a87A43bDA",
+ "Research": "https://cryptocompare.com/coins/lordz/overview",
+ "Description": "Meme Lordz is a NFT based blockchain game powered by the BSC network. A top-down RPG utilising Chainlink VRF to immortalise each Meme Lord as a Non-Fungible-Token. Battle, bind and collect as the journey through a mysterious land powered by the collective thought-forms of humanity.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x2541Be91fE0D220fFCbe65f11d88217a87A43bDA",
+ "Decimals": 8
+}

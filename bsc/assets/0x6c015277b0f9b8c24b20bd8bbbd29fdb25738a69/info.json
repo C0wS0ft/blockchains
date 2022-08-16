@@ -1,0 +1,12 @@
+{
+ "Name": "Wrapped NewYorkCoin",
+ "ImageUrl": "/media/39198123/wnyc.png",
+ "SmartContract": "0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69",
+ "Symbol": "WNYC",
+ "Explorer": "https://etherscan.io/token/0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69",
+ "Research": "https://cryptocompare.com/coins/wnyc/overview",
+ "Description": "NewYorkCoin is designed to offer its users a decentralized, anonymous and secure worldwide network easily accessible using a wide array of wallets on multiple operating systems.Discord",
+ "Type": "BEP20",
+ "Id": "0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69",
+ "Decimals": 8
+}

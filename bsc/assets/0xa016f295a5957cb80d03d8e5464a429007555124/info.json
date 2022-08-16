@@ -1,0 +1,12 @@
+{
+ "Name": "SafeHamsters",
+ "ImageUrl": "/media/37747777/safehamsters.png",
+ "SmartContract": "0xa016f295a5957cb80d03d8e5464a429007555124",
+ "Symbol": "SAFEHAMSTERS",
+ "Explorer": "https://etherscan.io/token/0xa016f295a5957cb80d03d8e5464a429007555124",
+ "Research": "https://cryptocompare.com/coins/safehamsters/overview",
+ "Description": "Safehamster$ offers a complete ecosystem of services comprising a memecoin basic token SAFEHAMSTER that is not a “memecoin as it”, staking and yield farming platform to combine all other cryptopets from the market, token swap platform, NFT marketplace and blockchain-based NFT game. ",
+ "Type": "BEP20",
+ "Id": "0xa016f295a5957cb80d03d8e5464a429007555124",
+ "Decimals": 8
+}

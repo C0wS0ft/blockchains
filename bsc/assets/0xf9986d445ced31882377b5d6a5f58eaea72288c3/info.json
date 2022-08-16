@@ -1,0 +1,12 @@
+{
+ "Name": "Elrond",
+ "ImageUrl": "/media/35651026/erd.png",
+ "SmartContract": "0xF9986D445ceD31882377b5D6a5F58EaEa72288c3",
+ "Symbol": "ERD",
+ "Explorer": "https://etherscan.io/token/0xF9986D445ceD31882377b5D6a5F58EaEa72288c3",
+ "Research": "https://cryptocompare.com/coins/erd/overview",
+ "Description": "Elrond is a novel architecture that goes beyond state-of-the-art by introducing a genuine State Sharding scheme for practical scalability, eliminating energy and computational waste while ensuring distributed fairness through a Secure Proof of Stake (SPoS) consensus mechanism. Having a strong focus on security, Elrond’s network is built to ensure resistance to known security problems like the Sybil attack, Rogue-key attack, Nothing at Stake attack, and others. In an ecosystem that strives for interconnectivity, Elrond’s solution for smart contracts offers an EVM compliant engine to ensure interoperability by design.Elrond (ERD) to Elrond (EGLD) swap:Following the launch of the Elrond Mainnet on the 30th of July, Elrond officially began the token swap from ERD to EGLD on the 3rd of September of 2020. The eGLD ticker is an abbreviation for eGold, denoting the metaphor of what the Elrond currency aims to become. Elrond\u0026#39;s dedicated website Elrond Bridge enabled ERC20/BEP2 ERD holders to swap their tokens for eGLD at a 1000:1 ratio (1000 ERD (old) = 1 eGLD (new)).",
+ "Type": "BEP20",
+ "Id": "0xF9986D445ceD31882377b5D6a5F58EaEa72288c3",
+ "Decimals": 8
+}

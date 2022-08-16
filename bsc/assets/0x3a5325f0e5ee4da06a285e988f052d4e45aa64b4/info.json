@@ -1,0 +1,12 @@
+{
+ "Name": "Polaris",
+ "ImageUrl": "/media/37746812/polar.png",
+ "SmartContract": "0x3a5325f0e5ee4da06a285e988f052d4e45aa64b4",
+ "Symbol": "POLAR",
+ "Explorer": "https://etherscan.io/token/0x3a5325f0e5ee4da06a285e988f052d4e45aa64b4",
+ "Research": "https://cryptocompare.com/coins/polar/overview",
+ "Description": "Polaris is a farming protocol and launchpad platform designed to solve several issues with liquidity mining (yield farming) on Binance Smart Chain.",
+ "Type": "BEP20",
+ "Id": "0x3a5325f0e5ee4da06a285e988f052d4e45aa64b4",
+ "Decimals": 8
+}

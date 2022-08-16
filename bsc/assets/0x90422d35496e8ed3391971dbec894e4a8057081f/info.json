@@ -1,0 +1,12 @@
+{
+ "Name": "Ninky",
+ "ImageUrl": "/media/39501080/ninky.png",
+ "SmartContract": "0x90422d35496e8ed3391971dbec894e4a8057081f",
+ "Symbol": "NINKY",
+ "Explorer": "https://etherscan.io/token/0x90422d35496e8ed3391971dbec894e4a8057081f",
+ "Research": "https://cryptocompare.com/coins/ninky/overview",
+ "Description": "NINKY token aims to provide a way for mobile game (Idle Ninja Online) users to bring their in-game items to reality. It also allows the Idle Ninja Online community to thrive, allowing users to share better experiences.Users can earn NINKY while playing the game and purchase rare in-game goods through the NINKY Shop. In addition, another value can be obtained by depositing/withdrawing tokens outside the blockchain by using the linked wallet.Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x90422d35496e8ed3391971dbec894e4a8057081f",
+ "Decimals": 8
+}

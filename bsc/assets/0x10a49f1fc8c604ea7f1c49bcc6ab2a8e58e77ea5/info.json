@@ -1,0 +1,12 @@
+{
+ "Name": "Buffalo Swap",
+ "ImageUrl": "/media/38553786/buff.png",
+ "SmartContract": "0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5",
+ "Symbol": "BUFF",
+ "Explorer": "https://etherscan.io/token/0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5",
+ "Research": "https://cryptocompare.com/coins/buff/overview",
+ "Description": "Buffaloswap aims to provide a fair, sustainable and safe yield farm optimizer for everyone. Each transfer of BUFF must pay a 1.99% transfer tax which will be added to the liquidity pool through the contract automatically to raise the price floor continuously; There is no BURN of buff.Telegram | Github",
+ "Type": "BEP20",
+ "Id": "0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5",
+ "Decimals": 8
+}

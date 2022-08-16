@@ -1,0 +1,12 @@
+{
+ "Name": "Overlord",
+ "ImageUrl": "/media/39501374/lord.png",
+ "SmartContract": "0x2daf1a83aa348afbcbc73f63bb5ee3154d9f5776",
+ "Symbol": "LORD",
+ "Explorer": "https://etherscan.io/token/0x2daf1a83aa348afbcbc73f63bb5ee3154d9f5776",
+ "Research": "https://cryptocompare.com/coins/lord/overview",
+ "Description": "Overlord is a mobile RPG game that has integrated NFT.With just a mobile phone with internet connection, players will be able to experience it.Telegram | Discord | Facebook",
+ "Type": "BEP20",
+ "Id": "0x2daf1a83aa348afbcbc73f63bb5ee3154d9f5776",
+ "Decimals": 8
+}

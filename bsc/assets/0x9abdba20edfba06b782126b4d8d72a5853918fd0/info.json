@@ -1,0 +1,12 @@
+{
+ "Name": "Taboo Token",
+ "ImageUrl": "/media/38554112/taboo.png",
+ "SmartContract": "0x9abdba20edfba06b782126b4d8d72a5853918fd0",
+ "Symbol": "TABOO",
+ "Explorer": "https://etherscan.io/token/0x9abdba20edfba06b782126b4d8d72a5853918fd0",
+ "Research": "https://cryptocompare.com/coins/taboo/overview",
+ "Description": "Taboo is an adult NFT \u0026amp; Streaming media project. Specializing in highly, exclusive content. With models, who aren’t strictly porn stars, their content is nothing like other adult tokens. Taboo aims to be the Playboy of Blockchain.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x9abdba20edfba06b782126b4d8d72a5853918fd0",
+ "Decimals": 8
+}

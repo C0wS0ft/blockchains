@@ -1,0 +1,12 @@
+{
+ "Name": "Pitbull",
+ "ImageUrl": "/media/38553615/pit.png",
+ "SmartContract": "0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50",
+ "Symbol": "PIT",
+ "Explorer": "https://etherscan.io/token/0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50",
+ "Research": "https://cryptocompare.com/coins/pit/overview",
+ "Description": "Pitbull is a self-staking token that had its ownership renounced and burnt LP given to the community from the beginning of its creation.No Dev Wallets. No Control Of Contract. No Control of Liquidity. All BurntTelegram | Discord | Instagram Whitepaper (English)",
+ "Type": "BEP20",
+ "Id": "0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50",
+ "Decimals": 8
+}

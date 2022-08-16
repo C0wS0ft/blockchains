@@ -1,0 +1,12 @@
+{
+ "Name": "GFORCE",
+ "ImageUrl": "/media/39501495/gfce.png",
+ "SmartContract": "0x5f136383E230F972739FaE2E81E7E774AfE64c66",
+ "Symbol": "GFCE",
+ "Explorer": "https://etherscan.io/token/0x5f136383E230F972739FaE2E81E7E774AfE64c66",
+ "Research": "https://cryptocompare.com/coins/gfce/overview",
+ "Description": "Jetfuel is a yield farming and yield aggregator platform that combines features from DeFi projects such as Compound, Fry.World, Yearn, and Harvest on Binance Smart Chain (BSC). Gforce is a token in the Jetfuel.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x5f136383E230F972739FaE2E81E7E774AfE64c66",
+ "Decimals": 8
+}

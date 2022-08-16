@@ -1,0 +1,12 @@
+{
+ "Name": "Tokocrypto",
+ "ImageUrl": "/media/37746998/tko.png",
+ "SmartContract": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+ "Symbol": "TKO",
+ "Explorer": "https://etherscan.io/token/0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+ "Research": "https://cryptocompare.com/coins/tko/overview",
+ "Description": "Tokocrypto was launched in September 2018 and became the first entity registered under Indonesia\u0026#39;s Commodities Futures Trading Regulatory Agency (BAPPEBTI) by November of that year. Tokocrypto’s latest project, TKO, is the first Indonesian cryptocurrency to offer a unique hybrid token model.The token serves several purposes on the Tokocrypto blockchain platform and allows users to participate in crypto exchanges, deposit and savings programs, cross-platform DeFi applications, and NFT marketplaces. Toko Token was officially launched in April 2021 and has since attracted the attention of both private and enterprise users. The Tokocrypto platform was created in tandem with Binance, which serves as a significant backing for the project and its future development.Telegram | Facebook | Instagram | LinkedInWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+ "Decimals": 8
+}

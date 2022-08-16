@@ -1,0 +1,12 @@
+{
+ "Name": "Tokyo AU",
+ "ImageUrl": "/media/37748285/tokau.png",
+ "SmartContract": "0xc409ec8a33f31437ed753c82eed3c5f16d6d7e22",
+ "Symbol": "TOKAU",
+ "Explorer": "https://etherscan.io/token/0xc409ec8a33f31437ed753c82eed3c5f16d6d7e22",
+ "Research": "https://cryptocompare.com/coins/tokau/overview",
+ "Description": "TOKAU is a NFT network connecting celebrities and fans. A platform that uses NFT as the carrier to interact and connect stars and fans, including NFT sales, film and television announcements, classic memorials, new song sales, fan support, and celebrity surroundings.TOKAU tokens have three identities in the system: currency, stocks, and votes; it carries the functions of pricing and trading of some NFTs, value investment in celebrities, community governance and platform affairs voting.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xc409ec8a33f31437ed753c82eed3c5f16d6d7e22",
+ "Decimals": 8
+}

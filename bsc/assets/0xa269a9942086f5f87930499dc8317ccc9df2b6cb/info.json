@@ -1,0 +1,12 @@
+{
+ "Name": "LatteSwap",
+ "ImageUrl": "/media/39198210/latte.png",
+ "SmartContract": "0xa269a9942086f5f87930499dc8317ccc9df2b6cb",
+ "Symbol": "LATTE",
+ "Explorer": "https://etherscan.io/token/0xa269a9942086f5f87930499dc8317ccc9df2b6cb",
+ "Research": "https://cryptocompare.com/coins/latte/overview",
+ "Description": "LatteSwap is a decentralized exchange with integrated NFT functionalities operating on the Binance Smart Chain (BSC).Users can stake your Booster NFT together with LP tokens to receive bonus LATTE rewards. Each booster NFT will have its own unique set of performance parametersTelegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xa269a9942086f5f87930499dc8317ccc9df2b6cb",
+ "Decimals": 8
+}

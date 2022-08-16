@@ -1,0 +1,12 @@
+{
+ "Name": "Lovelace World",
+ "ImageUrl": "/media/39198291/lace.png",
+ "SmartContract": "0xa3499dd7dbbbd93cb0f8303f8a8ace8d02508e73",
+ "Symbol": "LACE",
+ "Explorer": "https://etherscan.io/token/0xa3499dd7dbbbd93cb0f8303f8a8ace8d02508e73",
+ "Research": "https://cryptocompare.com/coins/lace/overview",
+ "Description": "$LACE Token is the primary form of value transfer and spend on the Lovelace platform. It is also used as a governance token to enable token holders and the broader Lovelace community as a whole to participate in specific decision making within the protocol and platform.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xa3499dd7dbbbd93cb0f8303f8a8ace8d02508e73",
+ "Decimals": 8
+}

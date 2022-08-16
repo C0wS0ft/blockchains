@@ -1,0 +1,12 @@
+{
+ "Name": "Forever Pump",
+ "ImageUrl": "/media/38553777/foreverpump.png",
+ "SmartContract": "0xb82e7a40fba04cfe053ff2db6ebf4f2fb39f4c6a",
+ "Symbol": "FOREVERPUMP",
+ "Explorer": "https://etherscan.io/token/0xb82e7a40fba04cfe053ff2db6ebf4f2fb39f4c6a",
+ "Research": "https://cryptocompare.com/coins/foreverpump/overview",
+ "Description": "Forever Pump is a BSC token that aims to revolutionise the crypto space by introducing one of the first unique rebase contracts!ForeverPUMP is A price-elastic token with adjusting supply, aiming to move towards the price of Bitcoin. Different thaten a normal pegged token/stable coin, rebases make price-elastic tokens into synthetic commodities with fluctuating values and supplies that gradually stabilize. Ultimately, rebases are designed to be tradable and potentially extremely profitable.Telegram",
+ "Type": "BEP20",
+ "Id": "0xb82e7a40fba04cfe053ff2db6ebf4f2fb39f4c6a",
+ "Decimals": 8
+}

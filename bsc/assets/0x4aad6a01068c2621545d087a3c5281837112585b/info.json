@@ -1,0 +1,12 @@
+{
+ "Name": "Madagascar Token",
+ "ImageUrl": "/media/38554068/time.png",
+ "SmartContract": "0x4aad6a01068c2621545d087a3c5281837112585b",
+ "Symbol": "$TIME",
+ "Explorer": "https://etherscan.io/token/0x4aad6a01068c2621545d087a3c5281837112585b",
+ "Research": "https://cryptocompare.com/coins/stime/overview",
+ "Description": "Madagascar $TIME is a crypto currency on the Binance Smart Chain aiming to ease the processes of financing for existing charitable organisations that are helping our planet, whilst also executing our own efforts (such as planting 1,000,000 trees).Starting with Madagascar’s actual island massive deforestation, to help make our oceans plastic free, protection of endangered animals and many more.Their focus is to help save the planet and its inhabitants.Telegram | Instagram Whitepaper",
+ "Type": "BEP20",
+ "Id": "0x4aad6a01068c2621545d087a3c5281837112585b",
+ "Decimals": 8
+}

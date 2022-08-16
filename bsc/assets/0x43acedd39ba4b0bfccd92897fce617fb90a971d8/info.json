@@ -1,0 +1,12 @@
+{
+ "Name": "SafeBank Token",
+ "ImageUrl": "/media/37748294/sbank.png",
+ "SmartContract": "0x43acedd39ba4b0bfccd92897fce617fb90a971d8",
+ "Symbol": "SBANK",
+ "Explorer": "https://etherscan.io/token/0x43acedd39ba4b0bfccd92897fce617fb90a971d8",
+ "Research": "https://cryptocompare.com/coins/sbank/overview",
+ "Description": "SAFEBTC is a community deflationary token where all holders have the possibility to generate passive income due to the tokenomics of a 4% tax (slippage) that needs to be used.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x43acedd39ba4b0bfccd92897fce617fb90a971d8",
+ "Decimals": 8
+}

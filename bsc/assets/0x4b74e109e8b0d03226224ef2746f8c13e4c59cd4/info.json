@@ -1,0 +1,12 @@
+{
+ "Name": "Ethos Project",
+ "ImageUrl": "/media/39334570/ethos.png",
+ "SmartContract": "0x4b74e109e8b0d03226224ef2746f8c13e4c59cd4",
+ "Symbol": "ETHOS",
+ "Explorer": "https://etherscan.io/token/0x4b74e109e8b0d03226224ef2746f8c13e4c59cd4",
+ "Research": "https://cryptocompare.com/coins/ethos/overview",
+ "Description": "Ethos is the primary method of payment for Audit and Development services, part of which goes towards liquidity provision. Ethos Token is incorporated into Ethos projects and its partners, holders may also receive token \u0026amp; NFT airdrops from partners projects.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x4b74e109e8b0d03226224ef2746f8c13e4c59cd4",
+ "Decimals": 8
+}

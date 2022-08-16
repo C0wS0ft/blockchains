@@ -1,0 +1,12 @@
+{
+ "Name": "Catgirl",
+ "ImageUrl": "/media/38554106/catgirl.png",
+ "SmartContract": "0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936",
+ "Symbol": "CATGIRL",
+ "Explorer": "https://etherscan.io/token/0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936",
+ "Research": "https://cryptocompare.com/coins/catgirl/overview",
+ "Description": "Catgirl creates an in-depth entertainment platform consisting of a digitally-engineering collectible. Users can truly own Catgirls and verify their ownership on the blockchain.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936",
+ "Decimals": 8
+}

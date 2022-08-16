@@ -1,0 +1,12 @@
+{
+ "Name": "CluCoin",
+ "ImageUrl": "/media/37747623/clu.png",
+ "SmartContract": "0x1162e2efce13f99ed259ffc24d99108aaa0ce935",
+ "Symbol": "CLU",
+ "Explorer": "https://etherscan.io/token/0x1162e2efce13f99ed259ffc24d99108aaa0ce935",
+ "Research": "https://cryptocompare.com/coins/clu/overview",
+ "Description": "CluShare is a decentralized Binance platform that allows users to earn passive income while they hold. CluShare will launch its built-in exchange that facilitates the transaction at any time. Clushare is known as a staking-as-a service platform.",
+ "Type": "BEP20",
+ "Id": "0x1162e2efce13f99ed259ffc24d99108aaa0ce935",
+ "Decimals": 8
+}

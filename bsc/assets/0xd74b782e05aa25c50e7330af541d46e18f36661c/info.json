@@ -1,0 +1,12 @@
+{
+ "Name": "Rich Quack",
+ "ImageUrl": "/media/39501460/quack.png",
+ "SmartContract": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+ "Symbol": "QUACK",
+ "Explorer": "https://etherscan.io/token/0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+ "Research": "https://cryptocompare.com/coins/quack/overview",
+ "Description": "Rich Quack (QUACK) is a hyper Deflationary, self-generating automatic liquidity that pays out-static rewards to holders. 50% sent to blackhole, 5% Auto LP, 5% Auto Farm. LP Locked for 5years.Telegram | DiscordWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+ "Decimals": 8
+}

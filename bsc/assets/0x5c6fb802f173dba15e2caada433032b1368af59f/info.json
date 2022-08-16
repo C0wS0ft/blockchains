@@ -1,0 +1,12 @@
+{
+ "Name": "Binance Smart Chain Girl",
+ "ImageUrl": "/media/37748316/bscgirl.png",
+ "SmartContract": "0x5c6fb802f173dba15e2caada433032b1368af59f",
+ "Symbol": "BSCGIRL",
+ "Explorer": "https://etherscan.io/token/0x5c6fb802f173dba15e2caada433032b1368af59f",
+ "Research": "https://cryptocompare.com/coins/bscgirl/overview",
+ "Description": "BSCGIRL aims to implement a cross-chain bridge with other chains, a DeFi platform, and an NFT platform.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x5c6fb802f173dba15e2caada433032b1368af59f",
+ "Decimals": 8
+}

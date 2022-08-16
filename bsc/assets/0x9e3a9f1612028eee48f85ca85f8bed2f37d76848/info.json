@@ -1,0 +1,12 @@
+{
+ "Name": "Quidax",
+ "ImageUrl": "/media/39108992/qdx.png",
+ "SmartContract": "0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848",
+ "Symbol": "QDX",
+ "Explorer": "https://etherscan.io/token/0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848",
+ "Research": "https://cryptocompare.com/coins/qdx/overview",
+ "Description": "As the native token of Quidax, QDX powers key functions such as fueling transactions, paying for transaction fees on the Quidax Exchange, making in-store payments and many more.Quidax is a cryptocurrency exchange that gives anyone access to popular cryptocurrencies. It was officially launched in 2018 and currently services users in over 70 countries.Telegram | Facebook | Instragram | YouTubeLitepaper",
+ "Type": "BEP20",
+ "Id": "0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848",
+ "Decimals": 8
+}

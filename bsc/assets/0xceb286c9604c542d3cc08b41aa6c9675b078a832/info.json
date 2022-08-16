@@ -1,0 +1,12 @@
+{
+ "Name": "Vortex DeFi",
+ "ImageUrl": "/media/38553548/vtx.png",
+ "SmartContract": "0xceb286C9604c542d3cc08b41AA6C9675B078A832",
+ "Symbol": "VTX",
+ "Explorer": "https://etherscan.io/token/0xceb286C9604c542d3cc08b41AA6C9675B078A832",
+ "Research": "https://cryptocompare.com/coins/vtx/overview",
+ "Description": "Vortex DeFi plans to provide its users access to all leading platforms and protocols from a single web-based user interface.Telegram| Medium",
+ "Type": "BEP20",
+ "Id": "0xceb286C9604c542d3cc08b41AA6C9675B078A832",
+ "Decimals": 8
+}

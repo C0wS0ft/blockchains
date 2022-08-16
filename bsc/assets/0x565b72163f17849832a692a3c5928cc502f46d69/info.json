@@ -1,0 +1,12 @@
+{
+ "Name": "Pancake Hunny",
+ "ImageUrl": "/media/38553524/hunny.png",
+ "SmartContract": "0x565b72163f17849832a692a3c5928cc502f46d69",
+ "Symbol": "HUNNY",
+ "Explorer": "https://etherscan.io/token/0x565b72163f17849832a692a3c5928cc502f46d69",
+ "Research": "https://cryptocompare.com/coins/hunny/overview",
+ "Description": "PancakeHunny aims to be the most engaging and fun DeFi destination built on Binance Smart Chain (BSC). On top of that, it is developing a gamified farming playground where every user can enjoy high yields and exciting games at the same time.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x565b72163f17849832a692a3c5928cc502f46d69",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "XSL Labs",
+ "ImageUrl": "/media/37747236/syl.png",
+ "SmartContract": "0x7e52a123ed6db6ac872a875552935fbbd2544c86",
+ "Symbol": "SYL",
+ "Explorer": "https://etherscan.io/token/0x7e52a123ed6db6ac872a875552935fbbd2544c86",
+ "Research": "https://cryptocompare.com/coins/syl/overview",
+ "Description": "The SYL will be the utility token of the Pulsar distributed network, a project on decentralized identity \u0026amp; data privacy.It will be necessary for the creation of an SDI, for the execution of Smart Contracts and will be usable within the ecosystem to access the various services that will be offered within SYL Library.",
+ "Type": "BEP20",
+ "Id": "0x7e52a123ed6db6ac872a875552935fbbd2544c86",
+ "Decimals": 8
+}

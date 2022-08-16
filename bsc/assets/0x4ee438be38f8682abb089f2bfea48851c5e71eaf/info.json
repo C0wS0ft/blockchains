@@ -1,0 +1,12 @@
+{
+ "Name": "Cryptonovae",
+ "ImageUrl": "/media/39108982/yae.png",
+ "SmartContract": "0x4eE438be38F8682ABB089F2BFeA48851C5E71EAF",
+ "Symbol": "YAE",
+ "Explorer": "https://etherscan.io/token/0x4eE438be38F8682ABB089F2BFeA48851C5E71EAF",
+ "Research": "https://cryptocompare.com/coins/yae/overview",
+ "Description": "YAE is Cryptonovae’s ERC-20/BEP-20 utility token. It serves as a means of payment on Cryptonovae’s platform. Use it to pay for users\u0026#39; subscriptions or buy products on the marketplace. YAE incentivizes token holders who engage with the platform’s staking mechanism, contests or loyalty programs. Regular token burns and repurchases will be carried out as a deflationary measure.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x4eE438be38F8682ABB089F2BFeA48851C5E71EAF",
+ "Decimals": 8
+}

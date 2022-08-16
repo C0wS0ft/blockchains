@@ -1,0 +1,12 @@
+{
+ "Name": "DareNFT",
+ "ImageUrl": "/media/39109098/dnft.png",
+ "SmartContract": "0x162c2332e92be409254ac7c59ad559c16a3f506e",
+ "Symbol": "DNFT",
+ "Explorer": "https://etherscan.io/token/0x162c2332e92be409254ac7c59ad559c16a3f506e",
+ "Research": "https://cryptocompare.com/coins/dnft/overview",
+ "Description": "DareNFT offers the universal NFT 2.0 protocol for Digital Assets. It has developed a suite of products that target the current problems of NFTs, which are: Unrecognized benefits between NFTs, Unrecognized relationships between NFT owners, and hidden risks of NFT Ownership.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x162c2332e92be409254ac7c59ad559c16a3f506e",
+ "Decimals": 8
+}

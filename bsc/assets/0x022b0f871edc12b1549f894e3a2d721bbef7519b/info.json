@@ -1,0 +1,12 @@
+{
+ "Name": "Gennix",
+ "ImageUrl": "/media/39501317/gnnx.png",
+ "SmartContract": "0x022b0f871eDc12B1549f894e3A2d721BBEf7519b",
+ "Symbol": "GNNX",
+ "Explorer": "https://etherscan.io/token/0x022b0f871eDc12B1549f894e3A2d721BBEf7519b",
+ "Research": "https://cryptocompare.com/coins/gnnx/overview",
+ "Description": "Gennix is a DeFi lending protocol that is designed to maximize scalability, composability, and growth. The project has been created to promote end-to-end lending and borrowing of digital assets and related financial products by operating on a decentralized network. Gennix is developed on the Binance Smart Chain (BSC) network and offers Non-Fungible Tokens (NFTs) with utility.Telegram | Discord | Reddit | Github | Medium | LinkedIn | Facebook | Youtube | InstagramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x022b0f871eDc12B1549f894e3A2d721BBEf7519b",
+ "Decimals": 8
+}

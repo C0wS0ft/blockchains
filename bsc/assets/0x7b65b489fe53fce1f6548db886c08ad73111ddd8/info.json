@@ -1,0 +1,12 @@
+{
+ "Name": "Iron BSC",
+ "ImageUrl": "/media/37747897/iron.png",
+ "SmartContract": "0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+ "Symbol": "IRON",
+ "Explorer": "https://etherscan.io/token/0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+ "Research": "https://cryptocompare.com/coins/iron/overview",
+ "Description": "IRON token is a partially collateralised token, soft pegged to the U.S. Dollar, available both on the Polygon network and on the BinanceSmartChain.The protocol aims to maintain IRON token’s price stability, in other words, the peg, by storing sufficient collateral in the time-locked smart contracts. This collateral is used for redemptions, helping to maintain price stability. The collateral consists of two tokens. On the Polygon network, USDC and TITAN token, while on the BinanceSmartChain it uses BUSD and STEEL token. The USDC or BUSD token is deposited into the protocol when a user mints IRON token, while the TITAN or STEEL token which is used for minting is burned. When the user redeems IRON tokens, the protocol pays back USDC or BUSD tokens and mints the required amount of TITAN or STEEL tokens.",
+ "Type": "BEP20",
+ "Id": "0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+ "Decimals": 8
+}

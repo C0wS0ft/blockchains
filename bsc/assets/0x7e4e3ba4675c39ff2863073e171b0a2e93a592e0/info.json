@@ -1,0 +1,12 @@
+{
+ "Name": "ShibaCash",
+ "ImageUrl": "/media/38553532/shibacash.png",
+ "SmartContract": "0x7e4e3ba4675c39ff2863073e171b0a2e93a592e0",
+ "Symbol": "SHIBACASH",
+ "Explorer": "https://etherscan.io/token/0x7e4e3ba4675c39ff2863073e171b0a2e93a592e0",
+ "Research": "https://cryptocompare.com/coins/shibacash/overview",
+ "Description": "ShibaCash is a community-based DeFi project which was fairly launched on Binance Smart Chain in May 2021.It aims to bring instant rewards to holders with deﬂationary tokenomics and static reﬂection.Telegram",
+ "Type": "BEP20",
+ "Id": "0x7e4e3ba4675c39ff2863073e171b0a2e93a592e0",
+ "Decimals": 8
+}

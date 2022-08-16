@@ -1,0 +1,12 @@
+{
+ "Name": "Moonbase File System",
+ "ImageUrl": "/media/37747622/mfs.png",
+ "SmartContract": "0xf92af907395c68a6fca9a29715abf0345871f2af",
+ "Symbol": "MFS",
+ "Explorer": "https://etherscan.io/token/0xf92af907395c68a6fca9a29715abf0345871f2af",
+ "Research": "https://cryptocompare.com/coins/mfs/overview",
+ "Description": "Moonbase File System objective is to develop an ecosystem of easy to use for the mid user storage services using Proof of Capacity systems to promote pinning content, while also taking into account the special characteristics of new content such as NFT. It also wants to help with how NFT are now stored.",
+ "Type": "BEP20",
+ "Id": "0xf92af907395c68a6fca9a29715abf0345871f2af",
+ "Decimals": 8
+}

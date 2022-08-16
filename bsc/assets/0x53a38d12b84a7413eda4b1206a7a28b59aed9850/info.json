@@ -1,0 +1,12 @@
+{
+ "Name": "Snake Token",
+ "ImageUrl": "/media/39108999/snk.png",
+ "SmartContract": "0x53a38D12b84a7413eDa4B1206A7A28B59Aed9850",
+ "Symbol": "SNK",
+ "Explorer": "https://etherscan.io/token/0x53a38D12b84a7413eDa4B1206A7A28B59Aed9850",
+ "Research": "https://cryptocompare.com/coins/snk/overview",
+ "Description": "Cryptosnake is an incremental money-making game created through the use of NFT and blockchain technologies. Play the game based on the classic \"Snake\" from the 2000s to earn real cryptocurrency.Play-to-earn : Cryptosnake\u0026#39;s in-game currency and characters are real assets. You can use them in the game and use them in cryptocurrency exchanges.Telegram (en) | Reddit | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x53a38D12b84a7413eDa4B1206A7A28B59Aed9850",
+ "Decimals": 8
+}

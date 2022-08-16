@@ -1,0 +1,12 @@
+{
+ "Name": "NFTb",
+ "ImageUrl": "/media/38554168/nftb.png",
+ "SmartContract": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
+ "Symbol": "NFTB",
+ "Explorer": "https://etherscan.io/token/0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
+ "Research": "https://cryptocompare.com/coins/nftb/overview",
+ "Description": "NFTb is a curated marketplace that allows unique digital artwork to be traded and collected. Verified artists. All files are stored on IPFS and minted via BSC. NFTb is at NFT platform to allow creators to donate proceeds to a list of well know charities including: GiveWell and Binance CharityTelegram | Instagram | Discord | Medium ",
+ "Type": "BEP20",
+ "Id": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
+ "Decimals": 8
+}

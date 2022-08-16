@@ -1,0 +1,12 @@
+{
+ "Name": "CrossFi",
+ "ImageUrl": "/media/39501046/crfi.png",
+ "SmartContract": "0xae20bc46300bab5d85612c6bc6ea87ea0f186035",
+ "Symbol": "CRFI",
+ "Explorer": "https://etherscan.io/token/0xae20bc46300bab5d85612c6bc6ea87ea0f186035",
+ "Research": "https://cryptocompare.com/coins/crfi/overview",
+ "Description": "CrossFi is a cross-chain liquidity sharing protocol characterized by multi-chain lending and synthetic assets. It aims to connect and release all isolated liquidity of existing public chains.CRFI is used as the centre of gravity of the CrossFi protocol governance. AAVE is used to vote and decide on the outcome of CrossFi governance proposals. Apart from this, CRFI can be staked within the protocol to provide security/insurance to the protocol/depositors. Stakers earn staking rewards and fees from the protocol. Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xae20bc46300bab5d85612c6bc6ea87ea0f186035",
+ "Decimals": 8
+}

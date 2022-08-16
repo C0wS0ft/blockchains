@@ -1,0 +1,10 @@
+{
+ "Name": "BNB48 Club Token",
+ "SmartContract": "0xe6df05ce8c8301223373cf5b969afcb1498c5528",
+ "Symbol": "KOGE",
+ "Explorer": "https://bscscan.com/token/0xe6df05ce8c8301223373cf5b969afcb1498c5528",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xe6df05ce8c8301223373cf5b969afcb1498c5528",
+ "Decimals": 18
+}

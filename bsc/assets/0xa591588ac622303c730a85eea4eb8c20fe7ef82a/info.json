@@ -1,0 +1,12 @@
+{
+ "Name": "DogeBNB",
+ "ImageUrl": "/media/38553812/dogebnb.png",
+ "SmartContract": "0xa591588aC622303C730a85EEa4Eb8C20FE7ef82A",
+ "Symbol": "DOGEBNB",
+ "Explorer": "https://etherscan.io/token/0xa591588aC622303C730a85EEa4Eb8C20FE7ef82A",
+ "Research": "https://cryptocompare.com/coins/dogebnb/overview",
+ "Description": "DogeBNB.org token ($DogeBNB) is a meme currency powered by Binance Smart Chain. DogeBNB was launched via fair distribution Initial Dex Offering on Julpad, 70% of the supply was allocated to the community.Telegram",
+ "Type": "BEP20",
+ "Id": "0xa591588aC622303C730a85EEa4Eb8C20FE7ef82A",
+ "Decimals": 8
+}

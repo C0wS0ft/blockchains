@@ -1,0 +1,12 @@
+{
+ "Name": "Sphynx Token",
+ "ImageUrl": "/media/38553622/sphynx.png",
+ "SmartContract": "0x2e121ed64eeeb58788ddb204627ccb7c7c59884c",
+ "Symbol": "SPHYNX",
+ "Explorer": "https://etherscan.io/token/0x2e121ed64eeeb58788ddb204627ccb7c7c59884c",
+ "Research": "https://cryptocompare.com/coins/sphynx/overview",
+ "Description": "Sphynx is a BEP-20 token backed by a utility and use case, aiming to provide an AIO (All-In-One) solution for trading, farming, staking and holding. This includes one single platform with a consolidated wallet and dynamic charts, farms and staking portals.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x2e121ed64eeeb58788ddb204627ccb7c7c59884c",
+ "Decimals": 8
+}

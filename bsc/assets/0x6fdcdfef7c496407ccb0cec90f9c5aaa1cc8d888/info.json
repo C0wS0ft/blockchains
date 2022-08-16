@@ -1,0 +1,10 @@
+{
+ "Name": "VeChain",
+ "SmartContract": "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+ "Symbol": "VET",
+ "Explorer": "https://bscscan.com/token/0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+ "Decimals": 18
+}

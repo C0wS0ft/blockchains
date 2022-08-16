@@ -1,0 +1,12 @@
+{
+ "Name": "EarlyBSC",
+ "ImageUrl": "/media/38553991/ebsc.png",
+ "SmartContract": "0x01a78db633940579e15e7bdb8edfee8ecdea4522",
+ "Symbol": "EBSC",
+ "Explorer": "https://etherscan.io/token/0x01a78db633940579e15e7bdb8edfee8ecdea4522",
+ "Research": "https://cryptocompare.com/coins/ebsc/overview",
+ "Description": "$EBSC (Early Blockchain Seed Capital), the token that powers the Lithium ecosystem. Frictionless yield tokenomics, with real-world applications.The Lithium incubator aims to help shift the odds of success to their founding teams\u0026#39; favour. They offer strategic guidance to assist product-market fit, and technical support and marketing expertise to help teams achieve executional excellence.Medium | Telegram",
+ "Type": "BEP20",
+ "Id": "0x01a78db633940579e15e7bdb8edfee8ecdea4522",
+ "Decimals": 8
+}

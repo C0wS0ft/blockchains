@@ -1,0 +1,12 @@
+{
+ "Name": "ForeverBNB",
+ "ImageUrl": "/media/39108991/fbnb.png",
+ "SmartContract": "0x4b7bf20baae7f04abea55b49c0ffbc31758a05a4",
+ "Symbol": "FBNB",
+ "Explorer": "https://etherscan.io/token/0x4b7bf20baae7f04abea55b49c0ffbc31758a05a4",
+ "Research": "https://cryptocompare.com/coins/fbnb/overview",
+ "Description": "ForeverBNB ($FBNB) is an insider vetted BSC token that rewards FBNB holders with ($BUSD) the most community serving rewards system.In ForeverBNB the Deployer and Marketing Wallet are excluded from Rewards. It means, all BUSD Rewards go only to true and real Investors, that results in more Rewards for everyone! On top of this the original dev and contract creator has sold all his holdings at a lower price and we continued without him and managed to get the ownership of the contract to continue the project. He sold the tokens and they got added to the liquidity pool which basically means that 100% of the tokens went to liquidity pool. All current holders have purchased through pancakeswap and this is a fully community run project with nothing that can stop us now!Telegram | Discord | FacebookWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x4b7bf20baae7f04abea55b49c0ffbc31758a05a4",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "SWAPZ.app",
+ "ImageUrl": "/media/38553784/swapz.png",
+ "SmartContract": "0xd522a1dce1ca4b138dda042a78672307eb124cc2",
+ "Symbol": "SWAPZ",
+ "Explorer": "https://etherscan.io/token/0xd522a1dce1ca4b138dda042a78672307eb124cc2",
+ "Research": "https://cryptocompare.com/coins/swapz/overview",
+ "Description": "Swapz is a way to execute instant cross-chain swaps of stablecoins across all EVM blockchains. It\u0026#39;s a ZERO-SLIPPAGE DEX that combines distributed hash tables, real-time price feeds, and blockchain agnostic on-chain settlement.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xd522a1dce1ca4b138dda042a78672307eb124cc2",
+ "Decimals": 8
+}

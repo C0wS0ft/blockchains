@@ -1,0 +1,11 @@
+{
+ "Name": "Berry Tributes",
+ "SmartContract": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+ "Symbol": "BRY",
+ "Explorer": "https://bscscan.com/token/0xf859bf77cbe8699013d6dbc7c2b926aaf307f830?a=0xf859bf77cbe8699013d6dbc7c2b926aaf307f830",
+ "Research": "https://cryptocompare.com/coins/bch/overview",
+ "Description": "",
+ "Type": "BEP20",
+ "Id": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+ "Decimals": 18
+}

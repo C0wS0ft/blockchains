@@ -1,0 +1,12 @@
+{
+ "Name": "YeFi",
+ "ImageUrl": "/media/39501180/yefi.png",
+ "SmartContract": "0x193b8230f594f63da50876eaf362177d1dca4a45",
+ "Symbol": "YEFI",
+ "Explorer": "https://etherscan.io/token/0x193b8230f594f63da50876eaf362177d1dca4a45",
+ "Research": "https://cryptocompare.com/coins/yefi/overview",
+ "Description": "YeFi.one is an open-source DeFi protocol that allows users to deposit crypto assets into liquidity pools and earn interest against them.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x193b8230f594f63da50876eaf362177d1dca4a45",
+ "Decimals": 8
+}

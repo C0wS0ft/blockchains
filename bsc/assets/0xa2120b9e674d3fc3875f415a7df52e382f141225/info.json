@@ -1,0 +1,12 @@
+{
+ "Name": "Automata",
+ "ImageUrl": "/media/37747739/ata.png",
+ "SmartContract": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+ "Symbol": "ATA",
+ "Explorer": "https://etherscan.io/token/0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+ "Research": "https://cryptocompare.com/coins/ata/overview",
+ "Description": "Automata Network is a decentralized service protocol that provides a privacy middleware layer for dApps across multiple blockchains.It enables several privacy use-cases such as Anonymous Voting and MEV (Maximal Extractable Value*) minimization by leveraging on the latest cryptography and privacy-preserving algorithms, along with trusted execution environments.Telegram | Discord | GitHub",
+ "Type": "BEP20",
+ "Id": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+ "Decimals": 8
+}

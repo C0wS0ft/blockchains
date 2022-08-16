@@ -1,0 +1,12 @@
+{
+ "Name": "NEET Finance",
+ "ImageUrl": "/media/38554146/neet.png",
+ "SmartContract": "0xCff58CF16064F51BB3139eF98ED39B479c79C18a",
+ "Symbol": "NEET",
+ "Explorer": "https://etherscan.io/token/0xCff58CF16064F51BB3139eF98ED39B479c79C18a",
+ "Research": "https://cryptocompare.com/coins/neet/overview",
+ "Description": "NEET, an acronym for \"Not in Education, Employment, or Training\", refers to a person who is unemployed and not receiving an education or vocational training and instead hopes to get rich off of decentralized ledger technologies such as Bitcoin and Ethereum or high risk shady altcoins.$NEET is a meme-fueled BEP20 token with automatic yield generation. This means that people can buy the token and the number of tokens in their wallet grows with every transaction. 5% of every transaction is distributed to token holders. The more tokens a wallet holds, the more of the generated yield it receives. Because of this mechanic, token holders profit from every buy and sell.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xCff58CF16064F51BB3139eF98ED39B479c79C18a",
+ "Decimals": 8
+}

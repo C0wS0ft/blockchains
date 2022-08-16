@@ -1,0 +1,12 @@
+{
+ "Name": "CryptoBlades",
+ "ImageUrl": "/media/38553501/skill.png",
+ "SmartContract": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+ "Symbol": "SKILL",
+ "Explorer": "https://etherscan.io/token/0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+ "Research": "https://cryptocompare.com/coins/skill/overview",
+ "Description": "CryptoBlades is a web-based NFT roleplaying game launched on the Binance Smart Chain and brought to existence by the group of Riveted Games. The core of the game revolves around rewarding players with SKILL tokens after defeating enemies and participating in raids. They can hire additional characters, forge unique weapons, and reforge those weapons to increase their overall power. Players can also trade their characters and weapons on an open marketplace. They can also stake their SKILL earnings and receive additional SKILL as a reward.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+ "Decimals": 8
+}

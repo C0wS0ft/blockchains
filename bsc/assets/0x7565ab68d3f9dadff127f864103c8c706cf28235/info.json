@@ -1,0 +1,12 @@
+{
+ "Name": "TrustFi Network Token",
+ "ImageUrl": "/media/38553875/tfi.png",
+ "SmartContract": "0x7565ab68d3f9dadff127f864103c8c706cf28235",
+ "Symbol": "TFI",
+ "Explorer": "https://etherscan.io/token/0x7565ab68d3f9dadff127f864103c8c706cf28235",
+ "Research": "https://cryptocompare.com/coins/tfi/overview",
+ "Description": "TrustFi Network is a decentralized BaaS solution for DeFi market based on multichain environment. A complete set of product portfolios developed by TrustFi, including IDO General Protocol (named TrustFi Alpha), Decentralized Staking Contract (named TrustFi Beta) and Providing Liquidity Mining model (“PLM”).Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x7565ab68d3f9dadff127f864103c8c706cf28235",
+ "Decimals": 8
+}

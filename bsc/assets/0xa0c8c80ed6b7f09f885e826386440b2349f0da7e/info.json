@@ -1,0 +1,12 @@
+{
+ "Name": "Surviving Soldiers",
+ "ImageUrl": "/media/39500787/ssg.png",
+ "SmartContract": "0xa0c8c80ed6b7f09f885e826386440b2349f0da7e",
+ "Symbol": "SSG",
+ "Explorer": "https://etherscan.io/token/0xa0c8c80ed6b7f09f885e826386440b2349f0da7e",
+ "Research": "https://cryptocompare.com/coins/ssg/overview",
+ "Description": "Surviving Soldiers is developed to provide an entertaining user experience and earn profits simultaneously. Surviving Soldier\u0026#39;s NFT ecosystem comprises of Farming in missions and Market place. More than a game, Surviving Soldier offers a solid proposition for players to earn money from the game.SSG is the official token and the native currency to make operations in Surviving Soldier, with it users will be able to buy character chests, ammunition, base chests and be able to go to any Conquest, it will also be useful to buy or sell characters in the \"Market place SS\".​Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xa0c8c80ed6b7f09f885e826386440b2349f0da7e",
+ "Decimals": 8
+}

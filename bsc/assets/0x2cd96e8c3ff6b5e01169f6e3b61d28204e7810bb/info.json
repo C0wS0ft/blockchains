@@ -1,0 +1,12 @@
+{
+ "Name": "Lucky Block",
+ "ImageUrl": "/media/39501238/lblock.png",
+ "SmartContract": "0x2cD96e8C3FF6b5E01169F6E3b61D28204E7810Bb",
+ "Symbol": "LBLOCK",
+ "Explorer": "https://etherscan.io/token/0x2cD96e8C3FF6b5E01169F6E3b61D28204E7810Bb",
+ "Research": "https://cryptocompare.com/coins/lblock/overview",
+ "Description": "Lucky Block envisions a worldwide lottery with players using Blockchain Protocols, operating on the Binance smart chain. LBLOCK is the platform native utility token.Telegram | DiscordWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x2cD96e8C3FF6b5E01169F6E3b61D28204E7810Bb",
+ "Decimals": 8
+}

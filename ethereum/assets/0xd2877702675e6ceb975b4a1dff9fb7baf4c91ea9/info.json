@@ -1,0 +1,10 @@
+{
+ "Name": "Wrapped LUNA Token",
+ "SmartContract": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+ "Symbol": "LUNA",
+ "Explorer": "https://etherscan.io/token/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+ "Research": "https://cryptocompare.com/coins/bch/overview",
+ "Description": "",
+ "Id": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+ "Decimals": 18
+}

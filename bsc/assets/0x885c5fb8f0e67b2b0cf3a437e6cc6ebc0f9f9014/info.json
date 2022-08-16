@@ -1,0 +1,12 @@
+{
+ "Name": "GemGuardian",
+ "ImageUrl": "/media/38553587/gemg.png",
+ "SmartContract": "0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014",
+ "Symbol": "GEMG",
+ "Explorer": "https://etherscan.io/token/0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014",
+ "Research": "https://cryptocompare.com/coins/gemg/overview",
+ "Description": "GemGuardians is an NFT-based card game that runs on the Binance Smart Contract (BSC) network. Conceptualized and created by the GemGuardian Games development team based in the Philippines, the game is set to make a quantum leap in the DeFi gaming community.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014",
+ "Decimals": 8
+}

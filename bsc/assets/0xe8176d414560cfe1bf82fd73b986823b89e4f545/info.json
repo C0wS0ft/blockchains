@@ -1,0 +1,12 @@
+{
+ "Name": "Step Hero",
+ "ImageUrl": "/media/38553632/steph.png",
+ "SmartContract": "0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
+ "Symbol": "STEPH",
+ "Explorer": "https://etherscan.io/token/0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
+ "Research": "https://cryptocompare.com/coins/steph/overview",
+ "Description": "Step Hero ecosystem is the perfect combination of NFT gaming and DeFi that enables users to have fun and earn tokens simultaneously. The ecosystem comprises Step Hero RPG game, Heroes Farming, and NFT Marketplace.Telegram | Discord | Medium | Youtube",
+ "Type": "BEP20",
+ "Id": "0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
+ "Decimals": 8
+}

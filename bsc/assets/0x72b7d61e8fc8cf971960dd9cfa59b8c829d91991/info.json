@@ -1,0 +1,12 @@
+{
+ "Name": "Planet Finance",
+ "ImageUrl": "/media/38554145/aqua.png",
+ "SmartContract": "0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991",
+ "Symbol": "AQUA",
+ "Explorer": "https://etherscan.io/token/0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991",
+ "Research": "https://cryptocompare.com/coins/aqua/overview",
+ "Description": "Planet Finance is a financial protocol consisting of different planets, each their own app, designed to enable anyone to activate their capital and put it to work.AQUA sits at the center of Planet Finance \u0026amp; governs the planets.With every second that passes, while people do things like swap, earn in vaults, lend, borrow, transform, buy/sell NFTs; value is captured by the protocol from fees charged to access these decentralized “services”.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991",
+ "Decimals": 8
+}

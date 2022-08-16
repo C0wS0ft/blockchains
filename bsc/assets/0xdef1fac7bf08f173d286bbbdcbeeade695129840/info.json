@@ -1,0 +1,10 @@
+{
+ "Name": "Cerby Token",
+ "SmartContract": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+ "Symbol": "CERBY",
+ "Explorer": "https://bscscan.com/token/0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+ "Decimals": 18
+}

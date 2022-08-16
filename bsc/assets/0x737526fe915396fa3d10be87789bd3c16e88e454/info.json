@@ -1,0 +1,12 @@
+{
+ "Name": "E21 Coin",
+ "ImageUrl": "/media/39383058/e21.png",
+ "SmartContract": "0x737526fe915396fa3d10be87789bd3c16e88e454",
+ "Symbol": "E21",
+ "Explorer": "https://etherscan.io/token/0x737526fe915396fa3d10be87789bd3c16e88e454",
+ "Research": "https://cryptocompare.com/coins/e21/overview",
+ "Description": "The E21 coin will be used for Platform Utility and as a Financial Tool.Tokens intermediate transactions on decentralized networks, and their trading creates an inter-temporal complementarity among users, generating a feedback loop between token valuation and platform adoption. They capitalize future platform growth, accelerate adoption, and reduce user-base volatility. Tokens capitalizes future growth and speeds up user adoption.Surplus value created in the E21 economy would be reinvested in platforms and creators increasing the value of the ecosystem.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x737526fe915396fa3d10be87789bd3c16e88e454",
+ "Decimals": 8
+}

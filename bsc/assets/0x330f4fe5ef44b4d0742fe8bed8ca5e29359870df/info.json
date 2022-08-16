@@ -1,0 +1,12 @@
+{
+ "Name": "Jade Currency",
+ "ImageUrl": "/media/38553647/jade.png",
+ "SmartContract": "0x330f4fe5ef44b4d0742fe8bed8ca5e29359870df",
+ "Symbol": "JADE",
+ "Explorer": "https://etherscan.io/token/0x330f4fe5ef44b4d0742fe8bed8ca5e29359870df",
+ "Research": "https://cryptocompare.com/coins/jade/overview",
+ "Description": "Jade Currency, incorporated by Crypto Jade LLC in 2017, is an online marketplace that specifically targets the precious gem and cryptocurrency industries. Its native cryptocurrency token, JADE, is used as a fractional ownership token where holders receive a majority stake in the companies assets and revenues.Telegram",
+ "Type": "BEP20",
+ "Id": "0x330f4fe5ef44b4d0742fe8bed8ca5e29359870df",
+ "Decimals": 8
+}

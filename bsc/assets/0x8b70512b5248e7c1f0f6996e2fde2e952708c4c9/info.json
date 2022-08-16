@@ -1,0 +1,12 @@
+{
+ "Name": "NEXTYPE Finance",
+ "ImageUrl": "/media/39501066/nt.png",
+ "SmartContract": "0x8b70512b5248e7c1f0f6996e2fde2e952708c4c9",
+ "Symbol": "NT",
+ "Explorer": "https://etherscan.io/token/0x8b70512b5248e7c1f0f6996e2fde2e952708c4c9",
+ "Research": "https://cryptocompare.com/coins/nt/overview",
+ "Description": "NEXTYPE is a blockchain game-integrated distribution platform providing players with a blockchain game experience, and dedicated to building a coming Gameverse.$NT is a native ERC-20 token based on HECO and BSC, issued by NEXTYPE Finance, which will be used as incentives, management, project development, and game payment around NEXTYPE ecology. As the investors, liquidity providers, and NEXTYPE players, NT will allow them to enter all kinds of application scenarios.Telegram | Discord | MediumDocs",
+ "Type": "BEP20",
+ "Id": "0x8b70512b5248e7c1f0f6996e2fde2e952708c4c9",
+ "Decimals": 8
+}

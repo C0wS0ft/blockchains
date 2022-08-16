@@ -1,0 +1,12 @@
+{
+ "Name": "DeVolution",
+ "ImageUrl": "/media/39501413/devo.png",
+ "SmartContract": "0x0FD98b8C58560167A236f1D0553A9c2a42342ccf",
+ "Symbol": "DEVO",
+ "Explorer": "https://etherscan.io/token/0x0FD98b8C58560167A236f1D0553A9c2a42342ccf",
+ "Research": "https://cryptocompare.com/coins/devo/overview",
+ "Description": "Devolution is a game that connects players worldwide online. The game will have a PVE and PVP mode where players can fight against each other with their Evomons. The Evomons will be available for free in the game, certain evolution forms can be purchased in the in-game store, with the purchase users automatically get the NFT.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x0FD98b8C58560167A236f1D0553A9c2a42342ccf",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "OctaX",
+ "ImageUrl": "/media/38553785/octax.png",
+ "SmartContract": "0x39cab1ddafda34b9202f5a41f71b15d2f3eba2ac",
+ "Symbol": "OCTAX",
+ "Explorer": "https://etherscan.io/token/0x39cab1ddafda34b9202f5a41f71b15d2f3eba2ac",
+ "Research": "https://cryptocompare.com/coins/octax/overview",
+ "Description": "OctaX is a Yield Farm platform on Binance Smart Chain. A DeFi concept where users stake their crypto assets in order to receive returns in our protocol. 85% of the total $OCTAX will be distributed fairly to the users, which is 75,554.80 $OCTAX.Telegram | Medium | Github",
+ "Type": "BEP20",
+ "Id": "0x39cab1ddafda34b9202f5a41f71b15d2f3eba2ac",
+ "Decimals": 8
+}

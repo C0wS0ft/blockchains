@@ -1,0 +1,12 @@
+{
+ "Name": "Splinterlands",
+ "ImageUrl": "/media/37748330/sps.png",
+ "SmartContract": "0x1633b7157e7638c4d6593436111bf125ee74703f",
+ "Symbol": "SPS",
+ "Explorer": "https://etherscan.io/token/0x1633b7157e7638c4d6593436111bf125ee74703f",
+ "Research": "https://cryptocompare.com/coins/sps/overview",
+ "Description": "Splinterlands is a digital, collectible card game built on blockchain technology. It is similar in concept to games like Magic the Gathering and Hearthstone where the player builds up a collection of cards, which all have various different stats and abilities, and use them to battle other players in skill-based matches. By using blockchain technology, players can buy, sell, and trade their digital assets freely just as if they were physical cards, and all transactions are recorded publicly and immutably.Telegram | Discord | Facebook",
+ "Type": "BEP20",
+ "Id": "0x1633b7157e7638c4d6593436111bf125ee74703f",
+ "Decimals": 8
+}

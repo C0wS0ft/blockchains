@@ -1,0 +1,12 @@
+{
+ "Name": "CoinRadr",
+ "ImageUrl": "/media/39501099/radr.png",
+ "SmartContract": "0x71648f61d21d3c75b08414ffa817c4ac2157f89e",
+ "Symbol": "RADR",
+ "Explorer": "https://etherscan.io/token/0x71648f61d21d3c75b08414ffa817c4ac2157f89e",
+ "Research": "https://cryptocompare.com/coins/radr/overview",
+ "Description": "CoinRadr is a Blockchain-based DeFi solution to provide a complete all-in-one DeFi experience. $RADR Token is the native currency of CoinRadr driving all its ecosystem utilities.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x71648f61d21d3c75b08414ffa817c4ac2157f89e",
+ "Decimals": 8
+}

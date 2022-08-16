@@ -1,0 +1,10 @@
+{
+ "Name": "AMATEN",
+ "SmartContract": "0x2509eE05b8df07EC75046E24BBf1CfCdB8b2A183",
+ "Symbol": "AMA",
+ "Explorer": "https://etherscan.io/token/0x2509eE05b8df07EC75046E24BBf1CfCdB8b2A183",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x2509eE05b8df07EC75046E24BBf1CfCdB8b2A183",
+ "Decimals": 18
+}

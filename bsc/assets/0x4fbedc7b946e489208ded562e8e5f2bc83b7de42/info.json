@@ -1,0 +1,12 @@
+{
+ "Name": "Infinite Launch",
+ "ImageUrl": "/media/39501011/ila.png",
+ "SmartContract": "0x4fbedc7b946e489208ded562e8e5f2bc83b7de42",
+ "Symbol": "ILA",
+ "Explorer": "https://etherscan.io/token/0x4fbedc7b946e489208ded562e8e5f2bc83b7de42",
+ "Research": "https://cryptocompare.com/coins/ila/overview",
+ "Description": "Infinite Launch is a Cross-chain fundraising platform for tokens \u0026amp; NFTs. It aims to provide manifold features such as fixed Swap Pools, liquidity Mining, staking for Pool Access, Private Pools \u0026amp; Whitelisting, Permissionless listings.$ILA is a token of the Infinite Launch ecosystem. $ILA plays a central role in the platform set of games. By holding it, users can enjoy distinguishing features, such as choosing ecosystem initiatives, features development, type of auction and other applications.Telegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x4fbedc7b946e489208ded562e8e5f2bc83b7de42",
+ "Decimals": 8
+}

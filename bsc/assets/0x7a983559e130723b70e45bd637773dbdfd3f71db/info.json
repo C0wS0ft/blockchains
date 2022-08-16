@@ -1,0 +1,12 @@
+{
+ "Name": "Diamond Boyz Coin",
+ "ImageUrl": "/media/37748367/dbz.png",
+ "SmartContract": "0x7a983559e130723B70e45bd637773DbDfD3F71Db",
+ "Symbol": "DBZ",
+ "Explorer": "https://etherscan.io/token/0x7a983559e130723B70e45bd637773DbDfD3F71Db",
+ "Research": "https://cryptocompare.com/coins/dbz/overview",
+ "Description": "DBZ was released publicly on it’s genesis date where it was immediately available to the world. The Diamond Boyz Coin is in no way an exchange and generally offers a knowledge base on how to interact with a selected Smart Contract. The knowledge shared can be applied to any Smart Contract and is at the full disposal of the community.Telegram| Discord",
+ "Type": "BEP20",
+ "Id": "0x7a983559e130723B70e45bd637773DbDfD3F71Db",
+ "Decimals": 8
+}

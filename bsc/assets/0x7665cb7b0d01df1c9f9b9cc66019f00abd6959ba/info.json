@@ -1,0 +1,12 @@
+{
+ "Name": "Ownly",
+ "ImageUrl": "/media/38553723/own.png",
+ "SmartContract": "0x7665cb7b0d01df1c9f9b9cc66019f00abd6959ba",
+ "Symbol": "OWN",
+ "Explorer": "https://etherscan.io/token/0x7665cb7b0d01df1c9f9b9cc66019f00abd6959ba",
+ "Research": "https://cryptocompare.com/coins/own/overview",
+ "Description": "OWNLY is a governance, token-based NFT platform that enable creators and collectors optimize the authentic value of NFT assets. Ownly is created to be a meeting place of artworks and collectors in the crypto space.OWN Token is the native utility token of Ownly, users are able to buy, own, collect, and trade 1 of 1 edition crypto artworks by talented artists.There will only be a total supply of 10 Billion $OWN Tokens, with the launch value of each $OWN already strengthened by the existing basket portfolio of NFT artworks.The expected OWN circulating supply at Token Generation Event (TGE) is 3,000,000,000, which has an Initial Market Cap of $90,000.00 at the Initial DEX Offering price of $0.000030 per token.Telegram | Discord | LinkedIn | Facebook | Instagram | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x7665cb7b0d01df1c9f9b9cc66019f00abd6959ba",
+ "Decimals": 8
+}

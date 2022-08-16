@@ -1,0 +1,12 @@
+{
+ "Name": "FNDZ Token",
+ "ImageUrl": "/media/39108989/fndz.png",
+ "SmartContract": "0x7754c0584372D29510C019136220f91e25a8f706",
+ "Symbol": "FNDZ",
+ "Explorer": "https://etherscan.io/token/0x7754c0584372D29510C019136220f91e25a8f706",
+ "Research": "https://cryptocompare.com/coins/fndz/overview",
+ "Description": "FNDZ is a DeFi copy trading platform that makes copy/social trading possible from a decentralized angle. Through the FNDZ platform, users are able to copy their favorite and best-performing trader without ever having to monitor the markets 24/7. Through the FNDZ platform, users actually own their assets and have them safely stored in personal Metamask wallets.FNDZ is an open, transparent platform for novice and experienced traders. The goals are, first, to give small investors a chance to perform like the best traders and, second, to give good traders a way to further monetize their performance with a management fee and performance fee. This is all done in a decentralized environment that is trustless, automated, and secure. Telegram | Discord | InstagramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x7754c0584372D29510C019136220f91e25a8f706",
+ "Decimals": 8
+}

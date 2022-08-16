@@ -1,0 +1,10 @@
+{
+ "Name": "Mononoke Inu",
+ "SmartContract": "0x4da08a1bff50be96bded5c7019227164b49c2bfc",
+ "Symbol": "Mononoke Inu",
+ "Explorer": "https://etherscan.io/token/0x4da08a1bff50be96bded5c7019227164b49c2bfc",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x4da08a1bff50be96bded5c7019227164b49c2bfc",
+ "Decimals": 9
+}

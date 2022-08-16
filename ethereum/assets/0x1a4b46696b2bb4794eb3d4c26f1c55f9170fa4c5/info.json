@@ -1,0 +1,10 @@
+{
+ "Name": "BitDAO",
+ "SmartContract": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
+ "Symbol": "BIT",
+ "Explorer": "https://etherscan.io/token/0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
+ "Decimals": 18
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "GameFi",
+ "ImageUrl": "/media/38553922/gafi.png",
+ "SmartContract": "0x89af13a10b32f1b2f8d1588f93027f69b6f4e27e",
+ "Symbol": "GAFI",
+ "Explorer": "https://etherscan.io/token/0x89af13a10b32f1b2f8d1588f93027f69b6f4e27e",
+ "Research": "https://cryptocompare.com/coins/gafi/overview",
+ "Description": "GameFi is the all-encompassing hub for game finance. The platform services blockchain gamers, investors, and traders in one Guild and Aggregator alongside a launchpad exclusively for games.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x89af13a10b32f1b2f8d1588f93027f69b6f4e27e",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Unbound Finance",
+ "ImageUrl": "/media/39198295/unb.png",
+ "SmartContract": "0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922",
+ "Symbol": "UNB",
+ "Explorer": "https://etherscan.io/token/0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922",
+ "Research": "https://cryptocompare.com/coins/unb/overview",
+ "Description": "Unbound Finance is a decentralized, cross-chain liquidity protocol that is building the next money lego by unlocking the liquidity from AMMs. The protocol collateralizes LPTs to generate synthetic assets including UND and uETH. The protocol charges no interest and is liquidation-free.UNB is used for protocol governance. It encourages participation from the token holders by way of decision making to resolve issues. Token holders will be able to vote for policy on proposed changes and implementations to better serve the community and increase the efficiency of the protocol.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922",
+ "Decimals": 8
+}

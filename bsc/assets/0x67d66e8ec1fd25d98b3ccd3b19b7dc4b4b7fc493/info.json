@@ -1,0 +1,12 @@
+{
+ "Name": "Feeder Finance",
+ "ImageUrl": "/media/38553519/feed.png",
+ "SmartContract": "0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
+ "Symbol": "FEED",
+ "Explorer": "https://etherscan.io/token/0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
+ "Research": "https://cryptocompare.com/coins/feed/overview",
+ "Description": "Feeder Finance is a DeFi aggregator (“Feed”) for diversified yield generation on Binance Smart Chain (“BSC”). Feeder aims to allow investors to feed capital into lending protocols, liquidity pools, and vaults, and other DeFi product in an automated and diversified process.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
+ "Decimals": 8
+}

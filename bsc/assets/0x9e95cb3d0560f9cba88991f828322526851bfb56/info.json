@@ -1,0 +1,12 @@
+{
+ "Name": "CODEX Finance",
+ "ImageUrl": "/media/37747114/codex.png",
+ "SmartContract": "0x9e95cb3d0560f9cba88991f828322526851bfb56",
+ "Symbol": "CODEX",
+ "Explorer": "https://etherscan.io/token/0x9e95cb3d0560f9cba88991f828322526851bfb56",
+ "Research": "https://cryptocompare.com/coins/codex/overview",
+ "Description": "CDO.Finance is the first yield farming protocol on the Binance Smart Chain (BSC) to offer structured derivative products that offers adjustments in yield leverage and risk exposure.CODEX will be used for future governance voting purposes in future phases of the project.CODEX will also capture the economic gains of the system where fees generated from risk tranching activities will be stored in a treasury wallet for token buybacks will be performed in the future. Community consensus will also be sought to decide on future changes in the utility of the token.",
+ "Type": "BEP20",
+ "Id": "0x9e95cb3d0560f9cba88991f828322526851bfb56",
+ "Decimals": 8
+}

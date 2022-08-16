@@ -1,0 +1,10 @@
+{
+ "Name": "Venus XVS",
+ "SmartContract": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d",
+ "Symbol": "vXVS",
+ "Explorer": "https://bscscan.com/token/0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d",
+ "Decimals": 8
+}

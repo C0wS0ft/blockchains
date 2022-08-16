@@ -1,0 +1,12 @@
+{
+ "Name": "EIFI FINANCE",
+ "ImageUrl": "/media/38553540/eifi.png",
+ "SmartContract": "0xbbf33a3c83cf86d0965a66e108669d272dfe4214",
+ "Symbol": "EIFI",
+ "Explorer": "https://etherscan.io/token/0xbbf33a3c83cf86d0965a66e108669d272dfe4214",
+ "Research": "https://cryptocompare.com/coins/eifi/overview",
+ "Description": "EIFI Empoers developers, liquidity providers and traders to participate in a financial marketplace that is open and access EIFI Swap, EIFI Stack \u0026amp; Yelds Farming, lend, borrow, within the community-driven platform.Telegram",
+ "Type": "BEP20",
+ "Id": "0xbbf33a3c83cf86d0965a66e108669d272dfe4214",
+ "Decimals": 8
+}

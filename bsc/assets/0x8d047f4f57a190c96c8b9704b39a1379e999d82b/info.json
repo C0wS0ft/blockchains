@@ -1,0 +1,12 @@
+{
+ "Name": "Etherconnect",
+ "ImageUrl": "/media/39108986/ecc.png",
+ "SmartContract": "0x8d047f4f57a190c96c8b9704b39a1379e999d82b",
+ "Symbol": "ECC",
+ "Explorer": "https://etherscan.io/token/0x8d047f4f57a190c96c8b9704b39a1379e999d82b",
+ "Research": "https://cryptocompare.com/coins/ecc/overview",
+ "Description": "Etherconnect, ECC is an open-source cryptocurrency that was connected with the Ethereum Decentralized Finance Open protocol with high-yield farming program.",
+ "Type": "BEP20",
+ "Id": "0x8d047f4f57a190c96c8b9704b39a1379e999d82b",
+ "Decimals": 8
+}

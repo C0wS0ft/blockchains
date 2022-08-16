@@ -1,0 +1,12 @@
+{
+ "Name": "Bithashex",
+ "ImageUrl": "/media/39501281/bhax.png",
+ "SmartContract": "0x81cA302d88d089dD42E80e81623f84f9730e94FE",
+ "Symbol": "BHAX",
+ "Explorer": "https://etherscan.io/token/0x81cA302d88d089dD42E80e81623f84f9730e94FE",
+ "Research": "https://cryptocompare.com/coins/bhax/overview",
+ "Description": "Bithashex is an esteemed Fintech Company ex-tending provisions on Block-chain Platform. Its aim is to minimize the hassle and unnecessary limitations of bureaucracy and build an easy-to-use, user-centric platform for mass adoption.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x81cA302d88d089dD42E80e81623f84f9730e94FE",
+ "Decimals": 8
+}

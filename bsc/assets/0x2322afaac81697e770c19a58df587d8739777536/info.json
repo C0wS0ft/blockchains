@@ -1,0 +1,12 @@
+{
+ "Name": "Fastswap",
+ "ImageUrl": "/media/38554203/fast.png",
+ "SmartContract": "0x2322AfAaC81697E770c19a58df587d8739777536",
+ "Symbol": "FAST",
+ "Explorer": "https://etherscan.io/token/0x2322AfAaC81697E770c19a58df587d8739777536",
+ "Research": "https://cryptocompare.com/coins/fast/overview",
+ "Description": "FastSwap is a decentralized protocol for automated liquidity provision on Ethereum and BSC. A community driven project to build real DeFi products. FastSwap is a Dex for erc20/Bep20 tokenTelegram",
+ "Type": "BEP20",
+ "Id": "0x2322AfAaC81697E770c19a58df587d8739777536",
+ "Decimals": 8
+}

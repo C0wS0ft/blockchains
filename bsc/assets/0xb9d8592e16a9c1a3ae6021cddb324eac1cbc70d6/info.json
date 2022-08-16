@@ -1,0 +1,12 @@
+{
+ "Name": "Pera Finance",
+ "ImageUrl": "/media/39108960/pera.png",
+ "SmartContract": "0xb9D8592E16A9c1a3AE6021CDDb324EaC1Cbc70d6",
+ "Symbol": "PERA",
+ "Explorer": "https://etherscan.io/token/0xb9D8592E16A9c1a3AE6021CDDb324EaC1Cbc70d6",
+ "Research": "https://cryptocompare.com/coins/pera/overview",
+ "Description": "Pera Finance is a multi-layered and sustainable trading \u0026amp; yield farming protocol integrated with a fully-decentralized daily trading competition.The PERA token is the proof of concept of our trading solutions, which aim to utilize DEX liquidity to a new level via yield farming for trader. PERA Token is designed via real data-fed analytical market models that cover a variety of different cases, to ensure a reliable financial ecosystem and sufficient returns (APYs) for its users.The PERA smart contract’s internal volume oracle enables DeFi platforms to include the volume data of their users as a parameter in their financial structure. Just as liquidity mining was the beginning of DeFi, the inclusion of traders in the yield farming structure will be the beginning of DeFi 2.0.The modular \u0026amp; scalable structure of the PERA sorting algorithm allows easy integration into projects of different sizes. The PERA sorting algorithm applies a unique filtering method to every transaction, reducing the high fees associated with sorting. The on-chain trading competition creates sufficient daily PERA volume and transaction fees to solve the long-term sustainability problem of traditional Tx fee-based yield farming protocols.Telegram | Discord | LinkedInWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xb9D8592E16A9c1a3AE6021CDDb324EaC1Cbc70d6",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Charli3",
+ "ImageUrl": "/media/37747395/c3.png",
+ "SmartContract": "0xf1a91C7d44768070F711c68f33A7CA25c8D30268",
+ "Symbol": "C3",
+ "Explorer": "https://etherscan.io/token/0xf1a91C7d44768070F711c68f33A7CA25c8D30268",
+ "Research": "https://cryptocompare.com/coins/c3/overview",
+ "Description": "CHARLI3 is an open-source decentralized oracle to the Cardano Network. CHARLI3 is the platform that provides and verifies data (initially focused on blockchain economic values) for blockchain applications. CHARLI3 is a firm believer in decentralization and open access to accurate information accessed safely and efficiently. The contracts and updates will be open to the public. CHARLI3 will utilize blockchain-based rewards for node operators verifying data.Beyond the incentives of the Charli3 (C3) token as a reward, it will also act as operator based governance for data consensus and community changes. Larger stakes are associated with ELO based reputations and aid in consensus as above and future platform governance in a decentralized fashion. This allows for the integrity of the platform to be maintained over the long term.",
+ "Type": "BEP20",
+ "Id": "0xf1a91C7d44768070F711c68f33A7CA25c8D30268",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Realm",
+ "ImageUrl": "/media/39198238/realm.png",
+ "SmartContract": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+ "Symbol": "REALM",
+ "Explorer": "https://etherscan.io/token/0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+ "Research": "https://cryptocompare.com/coins/realm/overview",
+ "Description": "Realm is a cross chain, community driven open-source project that encourages collectors and creators to express their artistic vision in the purest form: their own magical virtual realm.The $REALM token is a cross-chain token that functions as the primary utility token within the Realm metaverse.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+ "Decimals": 8
+}

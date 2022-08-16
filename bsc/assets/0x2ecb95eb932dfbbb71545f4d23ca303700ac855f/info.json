@@ -1,0 +1,12 @@
+{
+ "Name": "TBCC",
+ "ImageUrl": "/media/37748276/tbcc.png",
+ "SmartContract": "0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F",
+ "Symbol": "TBCC",
+ "Explorer": "https://etherscan.io/token/0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F",
+ "Research": "https://cryptocompare.com/coins/tbcc/overview",
+ "Description": "TBCC Exchange is a cryptocurrency trading platform with a liquidity pool powered by Binance Cloud.The TBCC token is a native utility token for use on the TBCC platform. A number of benefits are available to TBCC token holders to enhance their trading experience.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F",
+ "Decimals": 8
+}

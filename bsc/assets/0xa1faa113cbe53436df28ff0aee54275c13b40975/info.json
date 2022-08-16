@@ -1,0 +1,12 @@
+{
+ "Name": "Alpha Finance Lab",
+ "ImageUrl": "/media/37747634/alpha.png",
+ "SmartContract": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+ "Symbol": "ALPHA",
+ "Explorer": "https://etherscan.io/token/0xa1faa113cbe53436df28ff0aee54275c13b40975",
+ "Research": "https://cryptocompare.com/coins/alpha/overview",
+ "Description": "Alpha Finance Lab is an ecosystem of DeFi products, starting on Binance Smart Chain and Ethereum. Alpha Finance Lab is focused on building an ecosystem of automated yield-maximizing Alpha products that interoperate to bring optimal Alpha to users on a cross-chain level.Alpha Finance Lab is focused on researching and building in the Decentralized Finance (DeFi) space. Alpha Lending, the first product built by Alpha Finance Lab, is a decentralized lending protocol with algorithmically adjusted interest rates built on Binance Smart Chain.The ALPHA token is the native utility token of the platforms. Current and planned use cases of the ALPHA token includes liquidity mining, governance voting, as well as staking.Telegram | Discord | DefipulseWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Goldmaxcoin",
+ "ImageUrl": "/media/351762/gmx.jpg",
+ "SmartContract": "0xc62ef0d8e137499833abb05dee47007d2b334ba6",
+ "Symbol": "GMX",
+ "Explorer": "https://etherscan.io/token/0xc62ef0d8e137499833abb05dee47007d2b334ba6",
+ "Research": "https://cryptocompare.com/coins/goldm/overview",
+ "Description": "Goldmaxcoin is a lite version of Bitcoin using Scrypt as a Proof of Work algorithm.",
+ "Type": "BEP20",
+ "Id": "0xc62ef0d8e137499833abb05dee47007d2b334ba6",
+ "Decimals": 8
+}

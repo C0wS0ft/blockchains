@@ -1,0 +1,10 @@
+{
+ "Name": "The truth",
+ "SmartContract": "0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B",
+ "Symbol": "UFO",
+ "Explorer": "https://etherscan.io/token/0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B",
+ "Description": "",
+ "Type": "ERC-20",
+ "Id": "0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B",
+ "Decimals": 18
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Envelop",
+ "ImageUrl": "/media/39377352/niftsy.png",
+ "SmartContract": "0x7728cd70b3dD86210e2bd321437F448231B81733",
+ "Symbol": "NIFTSY",
+ "Explorer": "https://etherscan.io/token/0x7728cd70b3dD86210e2bd321437F448231B81733",
+ "Research": "https://cryptocompare.com/coins/niftsy/overview",
+ "Description": "Envelop is a cross-chain liquidity solution, providing NFTs with adjustable dynamic economics, anti-fraud and hedging systems for various market sectors.With ENVELOP, users can tokenize any physical or digital object as well as financial assets and trade them all regardless of the blockchain.  Users can create an NFT on ENVELOP, wrap it with collateral and sell. The transfer will be registered by the oracle, and the protocol will put a share of the money paid on the transfer into the wrapped collateral, elevating the NFT’s value.The index will register the transfer and will reflect it in its market statistics for everyone to see.Telegram | Discord | Medium | LinkedIn | Youtube | GithubWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x7728cd70b3dD86210e2bd321437F448231B81733",
+ "Decimals": 8
+}

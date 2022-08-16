@@ -1,0 +1,12 @@
+{
+ "Name": "CosmicSwap",
+ "ImageUrl": "/media/38553542/cosmic.png",
+ "SmartContract": "0x960cC8F437165b7362a34D95D1ec62Dd2A940f00",
+ "Symbol": "COSMIC",
+ "Explorer": "https://etherscan.io/token/0x960cC8F437165b7362a34D95D1ec62Dd2A940f00",
+ "Research": "https://cryptocompare.com/coins/cosmic/overview",
+ "Description": "CosmicSwap is a yield farm and aggregator that is currently on the Binance Smart Chain and the Polygon Network. CosmicSwap allows users to stake their tokens and earn $COSMIC as a reward.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x960cC8F437165b7362a34D95D1ec62Dd2A940f00",
+ "Decimals": 8
+}

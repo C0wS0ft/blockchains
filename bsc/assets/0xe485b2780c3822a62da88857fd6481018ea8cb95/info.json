@@ -1,0 +1,12 @@
+{
+ "Name": "SoccerHub",
+ "ImageUrl": "/media/38553879/sch.png",
+ "SmartContract": "0xe485b2780c3822a62da88857fd6481018ea8cb95",
+ "Symbol": "SCH",
+ "Explorer": "https://etherscan.io/token/0xe485b2780c3822a62da88857fd6481018ea8cb95",
+ "Research": "https://cryptocompare.com/coins/sch/overview",
+ "Description": "Soccer hub is a soccer management game built as a play-to-earn game for anyone who has a deep love of soccer and desires to earn tokens while enjoying his own soccer club management.SoccerHub (SCH) is an utility token that will serve as Payment for transferring NFT players, Payment for soccer player\u0026#39;s wage, Payment for equipment \u0026amp; treatment packages, Payment for training packages, Payment for betting service.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xe485b2780c3822a62da88857fd6481018ea8cb95",
+ "Decimals": 8
+}

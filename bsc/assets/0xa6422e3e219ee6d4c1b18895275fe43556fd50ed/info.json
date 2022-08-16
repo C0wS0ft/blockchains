@@ -1,0 +1,12 @@
+{
+ "Name": "Stobox Token",
+ "ImageUrl": "/media/39500761/stbu.png",
+ "SmartContract": "0xa6422e3e219ee6d4c1b18895275fe43556fd50ed",
+ "Symbol": "STBU",
+ "Explorer": "https://etherscan.io/token/0xa6422e3e219ee6d4c1b18895275fe43556fd50ed",
+ "Research": "https://cryptocompare.com/coins/stbu/overview",
+ "Description": "STBU is used to reward customers who bring the most value to the ecosystem and provide them with special terms. STBU allows becoming part of Stobox Community of decent people who take advantage of digital assets.Stobox has launched its cryptocurrency to unlock the potential of the blockchain economy and decentralized web. Stobox Tokens grant users additional benefits when using multiple Stobox products and services.Telegram | Discord | Reddit | Blog | LinkedIn | Facebook | YoutubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xa6422e3e219ee6d4c1b18895275fe43556fd50ed",
+ "Decimals": 8
+}

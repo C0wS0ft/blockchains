@@ -1,0 +1,12 @@
+{
+ "Name": "One Basis Cash",
+ "ImageUrl": "/media/38553804/obs.png",
+ "SmartContract": "0x095956B142431Eb9Cf88B99F392540B91aCbF4ad",
+ "Symbol": "OBS",
+ "Explorer": "https://etherscan.io/token/0x095956B142431Eb9Cf88B99F392540B91aCbF4ad",
+ "Research": "https://cryptocompare.com/coins/obs/overview",
+ "Description": "Yearn Finance One (YFIONE) is a high yield Defi farm that allows users to Stake, Farm, swap and Earn.One Basis Share, or OBS, is the Yearn Finance One stock-based token. Its equities adhere the Fed voting and dividends rights. OBS is Yearn Finance One equity currency, and it is used in our LP liquidity pool. Yearn Finance One currently issued 98000 pieces, and holders will be eligible for mining prizes in two years. Holders can also stake OBS in order to receive OBC dividends.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x095956B142431Eb9Cf88B99F392540B91aCbF4ad",
+ "Decimals": 8
+}

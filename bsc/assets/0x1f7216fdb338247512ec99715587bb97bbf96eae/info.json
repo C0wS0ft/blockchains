@@ -1,0 +1,12 @@
+{
+ "Name": "Badger Sett Badger",
+ "ImageUrl": "/media/37621852/badger-dao.png",
+ "SmartContract": "0x1f7216fdb338247512ec99715587bb97bbf96eae",
+ "Symbol": "BBADGER",
+ "Explorer": "https://etherscan.io/token/0x1f7216fdb338247512ec99715587bb97bbf96eae",
+ "Research": "https://cryptocompare.com/coins/bbadger/overview",
+ "Description": "Badger Sett BSETTs, also known as Sett Vaults, getting their name from the homes that Badgers do by digging caves and tunnels for their family, are one the core products of BadgerDAO. adger (BBADGER).",
+ "Type": "BEP20",
+ "Id": "0x1f7216fdb338247512ec99715587bb97bbf96eae",
+ "Decimals": 8
+}

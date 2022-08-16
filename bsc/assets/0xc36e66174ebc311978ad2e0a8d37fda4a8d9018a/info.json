@@ -1,0 +1,12 @@
+{
+ "Name": "Shiba Mom",
+ "ImageUrl": "/media/39108979/shibamom.png",
+ "SmartContract": "0xc36e66174ebc311978ad2e0a8d37fda4a8d9018a",
+ "Symbol": "SHIBAMOM",
+ "Explorer": "https://etherscan.io/token/0xc36e66174ebc311978ad2e0a8d37fda4a8d9018a",
+ "Research": "https://cryptocompare.com/coins/shibamom/overview",
+ "Description": "Shiba Mom is the name of the mother of the dog token Shiba Inu.Shiba Mom is a MarioRun inspired game where anyone can earn coins through skilled gameplay and contributions to the ecosystem.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xc36e66174ebc311978ad2e0a8d37fda4a8d9018a",
+ "Decimals": 8
+}

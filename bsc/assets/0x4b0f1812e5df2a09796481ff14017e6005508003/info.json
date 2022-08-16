@@ -1,0 +1,12 @@
+{
+ "Name": "Trust Wallet Token",
+ "ImageUrl": "/media/37747700/twt.png",
+ "SmartContract": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+ "Symbol": "TWT",
+ "Explorer": "https://etherscan.io/token/0x4b0f1812e5df2a09796481ff14017e6005508003",
+ "Research": "https://cryptocompare.com/coins/twt/overview",
+ "Description": "Trust Wallet is an iOS (Open Source) and Android (Closed Source) wallet for Ethereum and other Ethereum-based tokens. The Trust Wallet keeps your private keys stored locally and features an open-source and audited code. It also features a decentralized exchange provided by the Kyber Network (Q2 2018). On the 8th of February, Trust wallet team decided to move the Trust Wallet app for Android into closed source development due to security reasons. It supports 14 crypto-currencies, to see the full list click here.Trust Wallet was acquired by Binance in July 2018, and it will natively support Binance DEX and Binance Chain in Q1 2019, it also supports ETC/POA DApps and will soon add support for Tron DApps.Trust Wallet Token is the native token from Trust Wallet.Telegram | Facebook | Instagram",
+ "Type": "BEP20",
+ "Id": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+ "Decimals": 8
+}

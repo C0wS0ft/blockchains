@@ -1,0 +1,10 @@
+{
+ "Name": "Zilliqa",
+ "SmartContract": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+ "Symbol": "BARK",
+ "Explorer": https://bscscan.com/token/0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+ "Decimals": 12
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Prometeus",
+ "ImageUrl": "/media/37748271/prom.png",
+ "SmartContract": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+ "Symbol": "PROM",
+ "Explorer": "https://etherscan.io/token/0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+ "Research": "https://cryptocompare.com/coins/prom/overview",
+ "Description": "Prometeus Network is a secure and decentralized ecosystem designed to solve real-world problems in data brokerage, created for the Influencer Marketing, Medical and Insurance data market industries. Prometeus Network is developed by Prometeus Labs. A company existing out of data scientists and entrepreneurs who have been working for more than 15 years on machine learning, business development, and marketing.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+ "Decimals": 8
+}

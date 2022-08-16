@@ -1,0 +1,12 @@
+{
+ "Name": "BunnyPark",
+ "ImageUrl": "/media/38553357/bp.png",
+ "SmartContract": "0xacb8f52dc63bb752a51186d1c55868adbffee9c1",
+ "Symbol": "BP",
+ "Explorer": "https://etherscan.io/token/0xacb8f52dc63bb752a51186d1c55868adbffee9c1",
+ "Research": "https://cryptocompare.com/coins/bp/overview",
+ "Description": "BunnyPark is a DeFi + NFT project deployed on Binance Smart Chain. The program focuses on NFT SaaSization and product standardization to allow more variety of NFT gameplay, product rules and application value to be output in a series of standard smart contracts.Telegram",
+ "Type": "BEP20",
+ "Id": "0xacb8f52dc63bb752a51186d1c55868adbffee9c1",
+ "Decimals": 8
+}

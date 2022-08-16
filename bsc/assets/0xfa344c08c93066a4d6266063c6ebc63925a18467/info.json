@@ -1,0 +1,12 @@
+{
+ "Name": "SafeBull",
+ "ImageUrl": "/media/38553788/safebull.png",
+ "SmartContract": "0xfa344c08c93066a4d6266063c6ebc63925a18467",
+ "Symbol": "SAFEBULL",
+ "Explorer": "https://etherscan.io/token/0xfa344c08c93066a4d6266063c6ebc63925a18467",
+ "Research": "https://cryptocompare.com/coins/safebull/overview",
+ "Description": "SafeBull Protocol is a decentralized finance (DeFi) token. SafeBull develops a non-fungible token (NFT) exchange, as well as charity projects and crypto educational apps.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xfa344c08c93066a4d6266063c6ebc63925a18467",
+ "Decimals": 8
+}

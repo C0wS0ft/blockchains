@@ -1,0 +1,12 @@
+{
+ "Name": "Cryptofifa",
+ "ImageUrl": "/media/37747658/ffa.png",
+ "SmartContract": "0x1336f5d9bba2eb910d67c4d8da114256f8c04b2a",
+ "Symbol": "FFA",
+ "Explorer": "https://etherscan.io/token/0x1336f5d9bba2eb910d67c4d8da114256f8c04b2a",
+ "Research": "https://cryptocompare.com/coins/ffa/overview",
+ "Description": "CryptoFIFA is an NFT-based football star card collective game. The game integrates popular gameplay such as football theme, mystery packs, card trading, and event mining.",
+ "Type": "BEP20",
+ "Id": "0x1336f5d9bba2eb910d67c4d8da114256f8c04b2a",
+ "Decimals": 8
+}

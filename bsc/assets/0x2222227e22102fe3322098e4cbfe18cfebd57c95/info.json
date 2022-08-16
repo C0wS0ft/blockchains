@@ -1,0 +1,10 @@
+{
+ "Name": "Alien Worlds Trilium",
+ "SmartContract": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+ "Symbol": "TLM",
+ "Explorer": "https://bscscan.com/token/0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+ "Decimals": 4
+}

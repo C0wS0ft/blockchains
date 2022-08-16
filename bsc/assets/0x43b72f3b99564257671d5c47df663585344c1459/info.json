@@ -1,0 +1,12 @@
+{
+ "Name": "Wallet Pay",
+ "ImageUrl": "/media/39198267/xpay.png",
+ "SmartContract": "0x43b72f3b99564257671d5c47df663585344c1459",
+ "Symbol": "XPAY",
+ "Explorer": "https://etherscan.io/token/0x43b72f3b99564257671d5c47df663585344c1459",
+ "Research": "https://cryptocompare.com/coins/xpay/overview",
+ "Description": "Wallet pay is a decentralized wallet on the Binance Smart Chain blockchain, offering debit card payments using crypto, support for E-commerce payments, staking earnings and managing all your transactions in one place.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x43b72f3b99564257671d5c47df663585344c1459",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "VDV Token",
+ "ImageUrl": "/media/39501151/vdv.png",
+ "SmartContract": "0xe586a0af5f3844f1408fed1d284270827a116010",
+ "Symbol": "VDV",
+ "Explorer": "https://etherscan.io/token/0xe586a0af5f3844f1408fed1d284270827a116010",
+ "Research": "https://cryptocompare.com/coins/vdv/overview",
+ "Description": "Based in Australia but operating globally, VDV is a peer-to-peer cryptocurrency that aims to enable instant, low cost payments to anyone in the world. With open-source solutions empowering a global payment network that is fully decentralised and without any central authority.Telegram Whitepaper",
+ "Type": "BEP20",
+ "Id": "0xe586a0af5f3844f1408fed1d284270827a116010",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Mr.FOX Token",
+ "ImageUrl": "/media/39501251/mrfox.png",
+ "SmartContract": "0xC2d59082acA32Ff289Da772756a01120fa9F6346",
+ "Symbol": "MRFOX",
+ "Explorer": "https://etherscan.io/token/0xC2d59082acA32Ff289Da772756a01120fa9F6346",
+ "Research": "https://cryptocompare.com/coins/mrfox/overview",
+ "Description": "Mr.FOX TOKEN is the Utility Token that is created for use with activities on various platforms of Mr.FOX, including exchanging services between platforms under Mr.FOX’s terms of service. Mr.FOX TOKEN is a digital currency supported by Mr.FOX Platform ecosystem. Content Monetization Platform is the core platform with several sub-platforms attached. At present, four platforms are already onservices with a total of 20 platforms to be launch within 2 years after the ICO.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xC2d59082acA32Ff289Da772756a01120fa9F6346",
+ "Decimals": 8
+}

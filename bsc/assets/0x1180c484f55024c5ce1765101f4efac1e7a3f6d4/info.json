@@ -1,0 +1,12 @@
+{
+ "Name": "Survival Game Online",
+ "ImageUrl": "/media/39501194/surv.png",
+ "SmartContract": "0x1180C484f55024C5Ce1765101f4efaC1e7A3F6d4",
+ "Symbol": "SURV",
+ "Explorer": "https://etherscan.io/token/0x1180C484f55024C5Ce1765101f4efaC1e7A3F6d4",
+ "Research": "https://cryptocompare.com/coins/surv/overview",
+ "Description": "Survival Game is an online survival simulation game, where users can participate as players and earn great prizes by winning daily fights and passing several games in a row and as game observers, who can earn rewards by betting on the winner. Survival Game reserves the whole survival gaming process and economic incentives.Game’s native token rewards will be given to the last single winner. If all players are eliminated during the game, the rewards will be injected into the next Tournament, and the native token will be burnt completely.Telegram | Discord | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x1180C484f55024C5Ce1765101f4efaC1e7A3F6d4",
+ "Decimals": 8
+}

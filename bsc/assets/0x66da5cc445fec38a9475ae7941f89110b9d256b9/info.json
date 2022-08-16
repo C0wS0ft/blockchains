@@ -1,0 +1,12 @@
+{
+ "Name": "Vodka Token",
+ "ImageUrl": "/media/39501249/vodka.png",
+ "SmartContract": "0x66da5cc445fec38a9475ae7941f89110b9d256b9",
+ "Symbol": "VODKA",
+ "Explorer": "https://etherscan.io/token/0x66da5cc445fec38a9475ae7941f89110b9d256b9",
+ "Research": "https://cryptocompare.com/coins/vodka/overview",
+ "Description": "Vodka Token is a collectible play-to-earn NFT game based on DeFi. In the game, participants use various mechanics to receive in-game currency $VODKA, which they ‘Shake’ (spend) on NFT cocktails - the main features of the game. Fully decentralized, all powered by Vodka Token.Telegram | DiscordWhitepaper ",
+ "Type": "BEP20",
+ "Id": "0x66da5cc445fec38a9475ae7941f89110b9d256b9",
+ "Decimals": 8
+}

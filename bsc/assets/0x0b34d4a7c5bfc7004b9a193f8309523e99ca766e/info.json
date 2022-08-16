@@ -1,0 +1,12 @@
+{
+ "Name": "ShonToken",
+ "ImageUrl": "/media/37748308/shon.png",
+ "SmartContract": "0x0b34d4a7c5bfc7004b9a193f8309523e99ca766e",
+ "Symbol": "SHON",
+ "Explorer": "https://etherscan.io/token/0x0b34d4a7c5bfc7004b9a193f8309523e99ca766e",
+ "Research": "https://cryptocompare.com/coins/shon/overview",
+ "Description": "ShonToken (SHON) token is a peer-to-peer internet currency designed to enable instant, near-zero cost payments to anyone in the world. It\u0026#39;s an open-source global payment network that is fully decentralized without any central authorities.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x0b34d4a7c5bfc7004b9a193f8309523e99ca766e",
+ "Decimals": 8
+}

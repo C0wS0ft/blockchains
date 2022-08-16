@@ -1,0 +1,12 @@
+{
+ "Name": "Bitgert",
+ "ImageUrl": "/media/39501247/brise.png",
+ "SmartContract": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+ "Symbol": "BRISE",
+ "Explorer": "https://etherscan.io/token/0x8fff93e810a2edaafc326edee51071da9d398e83",
+ "Research": "https://cryptocompare.com/coins/brise/overview",
+ "Description": "Bitgert is a crypto engineering organisation focused on blockchain technology products and audits solutions, while its $BRISE token benefits investors through staking in BUSD rewards and the smart contract also has a buyback function.$BRISE Token will be used as a peer-to-peer (P2P) service for payment systems using Bitgert\u0026#39;s dApp wallet in the local currency with zero transaction fees, whereby two individuals interact directly with each other, without intermediation by a third party. Instead, the buyer and the seller transact directly with each other via the P2P service.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+ "Decimals": 8
+}

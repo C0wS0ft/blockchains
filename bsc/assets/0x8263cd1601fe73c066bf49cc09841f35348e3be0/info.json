@@ -1,0 +1,12 @@
+{
+ "Name": "Altura",
+ "ImageUrl": "/media/37747639/alu.png",
+ "SmartContract": "0x8263CD1601FE73C066bf49cc09841f35348e3be0",
+ "Symbol": "ALU",
+ "Explorer": "https://etherscan.io/token/0x8263CD1601FE73C066bf49cc09841f35348e3be0",
+ "Research": "https://cryptocompare.com/coins/alu/overview",
+ "Description": "Altura is a smart contract platform that allows game developers to mint, distribute and transact Smart NFTs representing in-game items. Smart NFTs are NFTs with dynamic properties that can change based on certain conditions. Smart NFTs are the next step to making decentralized in-game items mainstream and offer a massive range of potential opportunities that are not possible with traditional NFTs.",
+ "Type": "BEP20",
+ "Id": "0x8263CD1601FE73C066bf49cc09841f35348e3be0",
+ "Decimals": 8
+}

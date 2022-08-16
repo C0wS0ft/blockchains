@@ -1,0 +1,12 @@
+{
+ "Name": "Starpunk",
+ "ImageUrl": "/media/38553637/srp.png",
+ "SmartContract": "0xcb2B25e783A414f0d20A65aFa741C51b1Ad84c49",
+ "Symbol": "SRP",
+ "Explorer": "https://etherscan.io/token/0xcb2B25e783A414f0d20A65aFa741C51b1Ad84c49",
+ "Research": "https://cryptocompare.com/coins/srp/overview",
+ "Description": "Using the StarPunk token as the basis for this entire ecosystem, which can be used to transact over any of the available games, StarPunk will build an entire community where gamers and game developers come together to share their passion, to play and earn, brag and of course buy and sell all of their favorite collectibles.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0xcb2B25e783A414f0d20A65aFa741C51b1Ad84c49",
+ "Decimals": 8
+}

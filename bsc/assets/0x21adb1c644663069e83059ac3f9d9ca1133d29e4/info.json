@@ -1,0 +1,12 @@
+{
+ "Name": "Eggplant Finance",
+ "ImageUrl": "/media/38553537/eggp.png",
+ "SmartContract": "0x21adB1c644663069e83059AC3f9d9Ca1133D29e4",
+ "Symbol": "EGGP",
+ "Explorer": "https://etherscan.io/token/0x21adB1c644663069e83059AC3f9d9Ca1133D29e4",
+ "Research": "https://cryptocompare.com/coins/eggp/overview",
+ "Description": "Eggplant Finance is a DeFi protocol that runs on Binance Smart Chain delivering yield farming, token-based gaming/NFT elements also include NFT staking pools and marketplace, and other crypto portfolio features that aim to bring maximum gains to the customers.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x21adB1c644663069e83059AC3f9d9Ca1133D29e4",
+ "Decimals": 8
+}

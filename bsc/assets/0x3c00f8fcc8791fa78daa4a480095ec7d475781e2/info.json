@@ -1,0 +1,12 @@
+{
+ "Name": "Safe Star",
+ "ImageUrl": "/media/38553402/safestar.png",
+ "SmartContract": "0x3C00F8FCc8791fa78DAA4A480095Ec7D475781e2",
+ "Symbol": "SAFESTAR",
+ "Explorer": "https://etherscan.io/token/0x3C00F8FCc8791fa78DAA4A480095Ec7D475781e2",
+ "Research": "https://cryptocompare.com/coins/safestar/overview",
+ "Description": "SAFESTAR is a frictionless yield and liquidity generation smart contract protocol that works by applying 10% fee for each transaction and instantly splitting that fee by rewarding holders with 5% and auto-locking 5% in Pancake LP.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x3C00F8FCc8791fa78DAA4A480095Ec7D475781e2",
+ "Decimals": 8
+}

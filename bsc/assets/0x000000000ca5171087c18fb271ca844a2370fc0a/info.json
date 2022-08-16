@@ -1,0 +1,12 @@
+{
+ "Name": "Merkle Network",
+ "ImageUrl": "/media/39109022/merkle-2.png",
+ "SmartContract": "0x000000000ca5171087c18fb271ca844a2370fc0a",
+ "Symbol": "MERKLE",
+ "Explorer": "https://etherscan.io/token/0x000000000ca5171087c18fb271ca844a2370fc0a",
+ "Research": "https://cryptocompare.com/coins/merkle/overview",
+ "Description": "Merkle Network’s main functionality is to connect multiple blockchains and bridge the gap between the decentralised ecosystem flourishing in these blockchains. Merkle network leverages the use of interoperable oracles to transfer data between blockchains. Just as oracles have successfully connected blockchains with the outside data, Merkle network’s interoperable oracles will connect the blockchains by allowing the flow of information between the chains.Merkle Network uses MERKLE token to reward Merkle Node operators for transferring the data from the source blockchain to the destination blockchain while maintaining the integrity \u0026amp; readability of the data and uptime guarantee of the node operators. Users and smart contracts looking to use the Merkle network to transfer data between the chains pay the Node operators in Merkle tokens.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0x000000000ca5171087c18fb271ca844a2370fc0a",
+ "Decimals": 8
+}

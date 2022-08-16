@@ -1,0 +1,10 @@
+{
+ "Name": "DODO Bird",
+ "SmartContract": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e",
+ "Symbol": "DODO",
+ "Explorer": "https://bscscan.com/token/0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e",
+ "Decimals": 18
+}

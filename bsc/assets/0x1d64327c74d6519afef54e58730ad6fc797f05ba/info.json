@@ -1,0 +1,12 @@
+{
+ "Name": "Omni Real Estate Token",
+ "ImageUrl": "/media/39108985/ort.png",
+ "SmartContract": "0x1d64327c74d6519afef54e58730ad6fc797f05ba",
+ "Symbol": "ORT",
+ "Explorer": "https://etherscan.io/token/0x1d64327c74d6519afef54e58730ad6fc797f05ba",
+ "Research": "https://cryptocompare.com/coins/ort/overview",
+ "Description": "Passive Income is a blockchain initiative with lots of experience in the crypto space and connects the real estate market to blockchain. technology, bringing the most innovative solutions.Passive Income aims to integrate the first Tokenized real estate NFT marketplace on the european market.Telegram | Facebook | Instagram | YouTubeWhitepaper",
+ "Type": "BEP20",
+ "Id": "0x1d64327c74d6519afef54e58730ad6fc797f05ba",
+ "Decimals": 8
+}

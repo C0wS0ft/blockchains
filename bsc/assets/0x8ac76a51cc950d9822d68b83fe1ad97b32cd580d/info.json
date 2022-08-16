@@ -1,0 +1,10 @@
+{
+ "Name": "Binance-Peg USD Coin",
+ "SmartContract": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+ "Symbol": "USDC",
+ "Explorer": "https://bscscan.com/token/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+ "Description": "",
+ "Type": "BEP-20",
+ "Id": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+ "Decimals": 18
+}

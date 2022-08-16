@@ -1,0 +1,12 @@
+{
+ "Name": "YIN Finance",
+ "ImageUrl": "/media/39198090/yin.png",
+ "SmartContract": "0x794Baab6b878467F93EF17e2f2851ce04E3E34C8",
+ "Symbol": "YIN",
+ "Explorer": "https://etherscan.io/token/0x794Baab6b878467F93EF17e2f2851ce04E3E34C8",
+ "Research": "https://cryptocompare.com/coins/yin/overview",
+ "Description": "Yin is the native token of Yin FinanceBy staking in the YIN Stake Pool, users are able to share their profits from the platform fees. YIN token holders can participate in the governance of the DAO thus managing existing projects directly and deciding on new supported assets.Gains from liquidation in the leveraged liquidity pool will also be distributed.YANG is the user\u0026#39;s personal NFT smart vaultAll subsequent asset management actions and processes will be performed from their YANG smart vault, thus maintaining the custody of assets and effectively ensuring the fund’s security.CHI is a programable strategy NFT decribing liquidity structureCHI is the most important part of YIN Finance as every single strategy provider can mint CHI. And users can subscribe CHI to transform their assets into liquidity.Telegram | Discord | Medium | Github",
+ "Type": "BEP20",
+ "Id": "0x794Baab6b878467F93EF17e2f2851ce04E3E34C8",
+ "Decimals": 8
+}

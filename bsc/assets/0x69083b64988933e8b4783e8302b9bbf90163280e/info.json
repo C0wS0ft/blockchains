@@ -1,0 +1,12 @@
+{
+ "Name": "Portify",
+ "ImageUrl": "/media/38553607/pfy.png",
+ "SmartContract": "0x69083b64988933e8b4783e8302b9bbf90163280e",
+ "Symbol": "PFY",
+ "Explorer": "https://etherscan.io/token/0x69083b64988933e8b4783e8302b9bbf90163280e",
+ "Research": "https://cryptocompare.com/coins/pfy/overview",
+ "Description": "Portify is a social portfolio platform. The team aims to create a new sort of decentralized Twitter for traders and investors. On this platform, users will be able to track their assets without putting in any effort. Once new users connect to the platform, it automatically recognizes the tokens that the wallet holds and the tokens that the wallet has staked. Users will have the possibility to set their portfolio public and with setting their portfolio public, the social aspect of the platform is activated.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x69083b64988933e8b4783e8302b9bbf90163280e",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "AutoCrypto",
+ "ImageUrl": "/media/38553893/au.png",
+ "SmartContract": "0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15",
+ "Symbol": "AU",
+ "Explorer": "https://etherscan.io/token/0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15",
+ "Research": "https://cryptocompare.com/coins/au/overview",
+ "Description": "AutoCrypto is an investment app, that uses a combination of artificial intelligence with numerical series, along with polynomial extrapolations to calculate short-to-medium-range of the market major cryptocurrencies with high accuracy.Autocrypto token ($AU) is implemented under Binance Smart Chain network, following the standard model of BEP-20 token.Telegram | Discord",
+ "Type": "BEP20",
+ "Id": "0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15",
+ "Decimals": 8
+}

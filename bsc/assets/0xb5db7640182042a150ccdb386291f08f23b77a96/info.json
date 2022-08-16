@@ -1,0 +1,12 @@
+{
+ "Name": "The Real Golden Inu",
+ "ImageUrl": "/media/38553641/trgi.png",
+ "SmartContract": "0xb5db7640182042a150ccdb386291f08f23b77a96",
+ "Symbol": "TRGI",
+ "Explorer": "https://etherscan.io/token/0xb5db7640182042a150ccdb386291f08f23b77a96",
+ "Research": "https://cryptocompare.com/coins/trgi/overview",
+ "Description": "The Real Golden Inu was created in May 2021 with the goal of being a decentralized meme project for the community by the community. TRGI’s mission is to give back to the community by donating to those in need through reputable charities organisations across the world with the goal of making the world a better place through humanitarianism.Telegram",
+ "Type": "BEP20",
+ "Id": "0xb5db7640182042a150ccdb386291f08f23b77a96",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Lazio Fan Token",
+ "ImageUrl": "/media/38553965/lazio.png",
+ "SmartContract": "0x77d547256a2cd95f32f67ae0313e450ac200648d",
+ "Symbol": "LAZIO",
+ "Explorer": "https://etherscan.io/token/0x77d547256a2cd95f32f67ae0313e450ac200648d",
+ "Research": "https://cryptocompare.com/coins/lazio/overview",
+ "Description": "The Lazio Fan Token is a BEP-20 utility token designed to revolutionize the fan experience for all S.S. Lazio supporters. The token empowers S.S. Lazio fans to participate in team voting polls, hunt digital collectibles, purchase NFTs, and enjoy gamification features that are tied with fan rewards or great experiences.",
+ "Type": "BEP20",
+ "Id": "0x77d547256a2cd95f32f67ae0313e450ac200648d",
+ "Decimals": 8
+}

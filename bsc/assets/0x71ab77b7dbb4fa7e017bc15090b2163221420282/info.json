@@ -1,0 +1,12 @@
+{
+ "Name": "Highstreet",
+ "ImageUrl": "/media/39383057/high.png",
+ "SmartContract": "0x71Ab77b7dbB4fa7e017BC15090b2163221420282",
+ "Symbol": "HIGH",
+ "Explorer": "https://etherscan.io/token/0x71Ab77b7dbB4fa7e017BC15090b2163221420282",
+ "Research": "https://cryptocompare.com/coins/high/overview",
+ "Description": "Highstreet is inspired by classics from Nintendo. It creates the Shopify experience on an MMORPG for brands while presenting a true path to the Metaverse for players.Highstreet offers a hybrid-life system that aims to redefine how products are consumed and how markets sell their specific products. Highstreet is the place for new brands or celebrities to launch their products. The products on Highstreet’s market are crafted to exist both in physical and virtual form and always come straight from the brands. Highstreet offers a different take on building the metaverse, where the team develops everything in-house and targets high-quality immersive worlds that any brand would be happy to integrate with.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x71Ab77b7dbB4fa7e017BC15090b2163221420282",
+ "Decimals": 8
+}

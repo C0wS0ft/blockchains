@@ -1,0 +1,12 @@
+{
+ "Name": "Propel Token",
+ "ImageUrl": "/media/39501005/pel.png",
+ "SmartContract": "0xA75E7928d3de682e3F44dA60C26F33117c4E6C5c",
+ "Symbol": "PEL",
+ "Explorer": "https://etherscan.io/token/0xA75E7928d3de682e3F44dA60C26F33117c4E6C5c",
+ "Research": "https://cryptocompare.com/coins/pel/overview",
+ "Description": "A plug-n-play DeFi solution for new and existing projects to spin up custom DeFi smart contracts such as cross-chain bridges, LP Staking, Token creation, Multisig wallet, Vesting contracts and Investor dashboard.Telegram | Medium | Github | Blog",
+ "Type": "BEP20",
+ "Id": "0xA75E7928d3de682e3F44dA60C26F33117c4E6C5c",
+ "Decimals": 8
+}

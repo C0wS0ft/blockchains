@@ -1,0 +1,12 @@
+{
+ "Name": "SavePlanetEarth",
+ "ImageUrl": "/media/38553807/spe.png",
+ "SmartContract": "0xdbaaa36b347d56b77ce0e36f050fceebbf9fbc38",
+ "Symbol": "SPE",
+ "Explorer": "https://etherscan.io/token/0xdbaaa36b347d56b77ce0e36f050fceebbf9fbc38",
+ "Research": "https://cryptocompare.com/coins/spe/overview",
+ "Description": "Through strategic partnerships, academic backing, and a strong budding crypto currency community, Save Planet Earth has bundled ingredients to significantly change the earth’s landscape through carbon sequestration in coordination with international aid organizations and the public alike. Their overall goals include developing an enhanced green (tree cover) and better marine management, and lobbying for more meaningful legal controls and achieve commercial market maturity to wake up and face real costs of climate change.Telegram | Discord | Reddit | Facebook | InstagramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xdbaaa36b347d56b77ce0e36f050fceebbf9fbc38",
+ "Decimals": 8
+}

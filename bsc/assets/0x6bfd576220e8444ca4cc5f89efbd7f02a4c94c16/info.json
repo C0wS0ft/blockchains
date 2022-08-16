@@ -1,0 +1,12 @@
+{
+ "Name": "Smaugs NFT",
+ "ImageUrl": "/media/38553507/smg.png",
+ "SmartContract": "0x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16",
+ "Symbol": "SMG",
+ "Explorer": "https://etherscan.io/token/0x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16",
+ "Research": "https://cryptocompare.com/coins/smg/overview",
+ "Description": "Smaugs NFT is an AI-Powered marketplace where users can sell their digital assets as NFT tokens in the digital world.Telegram | Medium",
+ "Type": "BEP20",
+ "Id": "0x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16",
+ "Decimals": 8
+}

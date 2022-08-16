@@ -1,0 +1,12 @@
+{
+ "Name": "Woonkly Power",
+ "ImageUrl": "/media/37746719/woop.png",
+ "SmartContract": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18",
+ "Symbol": "WOOP",
+ "Explorer": "https://etherscan.io/token/0x8b303d5bbfbbf46f1a4d9741e491e06986894e18",
+ "Research": "https://cryptocompare.com/coins/woop/overview",
+ "Description": "Woonkly is a DEFI protocol that enables a Decentralized Social Network in which the capital invested in post advertising by advertisers is shared with the people who interact with that content (Post, Photo, Video, Podcast); all created and working 100% on Blockchain using our own main network (Hyperledger BESU and Polkadot) connected with Binance Smart Chain (BSC).",
+ "Type": "BEP20",
+ "Id": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Graphene",
+ "ImageUrl": "/media/38553912/gfn.png",
+ "SmartContract": "0xf209ce1960fb7e750ff30ba7794ea11c6acdc1f3",
+ "Symbol": "GFN",
+ "Explorer": "https://etherscan.io/token/0xf209ce1960fb7e750ff30ba7794ea11c6acdc1f3",
+ "Research": "https://cryptocompare.com/coins/gfn/overview",
+ "Description": "Graphene is a Blockchain architecture that makes use of the CASPER staking consensus protocol, being developed by the Phore Blockchain team. The architecture is currently in late-stage development and is written in Go.Telegram | Discord | Medium",
+ "Type": "BEP20",
+ "Id": "0xf209ce1960fb7e750ff30ba7794ea11c6acdc1f3",
+ "Decimals": 8
+}

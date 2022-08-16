@@ -1,0 +1,12 @@
+{
+ "Name": "Sheesha Finance",
+ "ImageUrl": "/media/37747429/sheesha.png",
+ "SmartContract": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+ "Symbol": "SHEESHA",
+ "Explorer": "https://etherscan.io/token/0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+ "Research": "https://cryptocompare.com/coins/sheesha/overview",
+ "Description": "Participating in Sheesha Finance is a straightforward approach known as a liquidity generation event. This event allows anyone to participate by contributing ETH/BNB and receiving a portion of Liquidity Provision (LP) tokens in the process. These tokens can be staked and should be for a variety of benefits.",
+ "Type": "BEP20",
+ "Id": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+ "Decimals": 8
+}

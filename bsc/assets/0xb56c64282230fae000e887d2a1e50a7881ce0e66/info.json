@@ -1,0 +1,12 @@
+{
+ "Name": "VIBLO",
+ "ImageUrl": "/media/39501300/viblo.png",
+ "SmartContract": "0xb56c64282230fae000e887d2a1e50a7881ce0e66",
+ "Symbol": "VIBLO",
+ "Explorer": "https://etherscan.io/token/0xb56c64282230fae000e887d2a1e50a7881ce0e66",
+ "Research": "https://cryptocompare.com/coins/viblo/overview",
+ "Description": "Viblos is a tokenized social interaction platform. It is conceived as a collaborative social network where individuals and companies can exchange goods and services, create businesses or showcase their artistic talent. Users introduce themselves using a 1-minute-video, under the formula “you have 1 minute to show the best of yourself”.TelegramWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xb56c64282230fae000e887d2a1e50a7881ce0e66",
+ "Decimals": 8
+}

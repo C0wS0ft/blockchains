@@ -1,0 +1,12 @@
+{
+ "Name": "ITSMYNE",
+ "ImageUrl": "/media/39501533/myne.png",
+ "SmartContract": "0xD254dC670Ff725753a826a5F29A4001600CcE29c",
+ "Symbol": "MYNE",
+ "Explorer": "https://etherscan.io/token/0xD254dC670Ff725753a826a5F29A4001600CcE29c",
+ "Research": "https://cryptocompare.com/coins/myne/overview",
+ "Description": "ITSMYNE is a Social-plus marketplace for officially licensed sports NFTs. MYNE is a BEP-20 multi-utility token used for ecosystem participation, treasury, and governance.Telegram | MediumWhitepaper",
+ "Type": "BEP20",
+ "Id": "0xD254dC670Ff725753a826a5F29A4001600CcE29c",
+ "Decimals": 8
+}

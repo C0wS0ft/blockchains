@@ -1,0 +1,12 @@
+{
+ "Name": "Obortech",
+ "ImageUrl": "/media/40484834/obot.png",
+ "SmartContract": "0xeDADeB5fAa413e6c8623461849DFD0B7C3790c32",
+ "Symbol": "OBOT",
+ "Explorer": "https://polygonscan.com/token/0xeDADeB5fAa413e6c8623461849DFD0B7C3790c32",
+ "Research": "https://cryptocompare.com/coins/obot/overview",
+ "Description": "OBORTECH (the Smart Hub) is a digital ecosystem for all actors in the supply chain, in which they can remotely collaborate in a decentralized blockchain network via a single platform. Based on the blockchain-based trusted network established among the Smart Hub participants, the marketplace ecosystem will enable the verification and scoring of stakeholders in the supply chain without the need for third-party credentials. Moreover, the marketplace is a blockchain-based decentralized ecosystem that enables buying, selling and exchanging of services without the need for intermediaries among the users.Telegram | BlogWhitepaper",
+ "Type": "PRC20",
+ "Id": "0xeDADeB5fAa413e6c8623461849DFD0B7C3790c32",
+ "Decimals": 8
+}

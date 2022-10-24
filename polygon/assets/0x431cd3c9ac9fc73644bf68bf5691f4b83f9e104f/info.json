@@ -1,0 +1,12 @@
+{
+ "Name": "Crypto Unicorns Rainbow",
+ "ImageUrl": "/media/40420647/rbw.png",
+ "SmartContract": "0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f",
+ "Symbol": "RBW",
+ "Explorer": "https://polygonscan.com/token/0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f",
+ "Research": "https://cryptocompare.com/coins/rbw/overview",
+ "Description": "Crypto Unicorns is a browser-based game built on blockchain. RBW \u0026amp; UNIM are required for various actions in CU, the most notable being breeding.Telegram | Discord | MediumDocs",
+ "Type": "PRC20",
+ "Id": "0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f",
+ "Decimals": 8
+}

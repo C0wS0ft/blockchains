@@ -1,0 +1,12 @@
+{
+ "Name": "Gains Network",
+ "ImageUrl": "/media/40219374/gns.png",
+ "SmartContract": "0xE5417Af564e4bFDA1c483642db72007871397896",
+ "Symbol": "GNS",
+ "Explorer": "https://polygonscan.com/token/0xE5417Af564e4bFDA1c483642db72007871397896",
+ "Research": "https://cryptocompare.com/coins/gns/overview",
+ "Description": "Gains Network is developing gTrade, a liquidity-efficient, powerful, and user-friendly decentralized leveraged trading platform. The whole protocol revolves around the ecosystem\u0026#39;s ERC20 utility token (GNS) and ERC721 utility token (NFTs). GNS and the NFTs are designed to be actively used within the platform.Telegram | Discord | Reddit | MediumDocs",
+ "Type": "PRC20",
+ "Id": "0xE5417Af564e4bFDA1c483642db72007871397896",
+ "Decimals": 8
+}

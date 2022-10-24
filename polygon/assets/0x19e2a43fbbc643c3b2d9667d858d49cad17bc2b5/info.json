@@ -1,0 +1,12 @@
+{
+ "Name": "BNS token",
+ "ImageUrl": "/media/37747945/bns.png",
+ "SmartContract": "0x19e2a43fbbc643c3b2d9667d858d49cad17bc2b5",
+ "Symbol": "BNS",
+ "Explorer": "https://polygonscan.com/token/0x19e2a43fbbc643c3b2d9667d858d49cad17bc2b5",
+ "Research": "https://cryptocompare.com/coins/bns/overview",
+ "Description": "BNS is an upcoming multi-protocol utility token by Bitbns, which aims at enabling general masses to use cryptocurrency just like they use FIAT currency in day-to-day transactions. Beyond founding the basic utility of a cryptocurrency as money, BNS would also be capable of being used in complex operations like Banking, Loan Disbursals, Cryptocurrency Investments, and more.Facebook | Instagram | YouTube | Telegram",
+ "Type": "PRC20",
+ "Id": "0x19e2a43fbbc643c3b2d9667d858d49cad17bc2b5",
+ "Decimals": 8
+}

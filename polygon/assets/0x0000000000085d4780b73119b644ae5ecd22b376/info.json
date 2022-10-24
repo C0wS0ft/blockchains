@@ -1,0 +1,12 @@
+{
+ "Name": "True USD",
+ "ImageUrl": "/media/38554125/tusd.png",
+ "SmartContract": "0x0000000000085d4780B73119b644AE5ecd22b376",
+ "Symbol": "TUSD",
+ "Explorer": "https://polygonscan.com/token/0x0000000000085d4780B73119b644AE5ecd22b376",
+ "Research": "https://cryptocompare.com/coins/tusd/overview",
+ "Description": "TrueUSD, part of the TrustToken asset tokenization platform, is a blockchain-based stablecoin pegged to the value of USD. In the TrueUSD system, U.S Dollars are held in the bank accounts of multiple trust companies that have signed escrow agreements, rather than in a bank account controlled by a single company. The contents of said bank accounts are published every day and are subject to monthly audits. If someone wants to obtain TrueUSD through the online application, they will need to pass a KYC/AML check. Once that’s complete, they can send USD to one of TrueUSD’s trust company partners. Once the funds are verified by the trust company, their API will instruct the TrueUSD smart contract to issue tokens on a 1 to 1 ratio and to send them to the Ethereum address associated with the account at hand.Once in the wallet, the tokens can be transferred to a friend or used as payment, combining the advantages of fiat (stability and trust) with those of cryptocurrencies (reduced fees and transfer times). The user can also redeem real US Dollars by sending the TUSD tokens back to the smart contract address, which will notify the trust company, and initiate a bank transfer to the user’s account.Telegram | Discord | Weibo | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x0000000000085d4780B73119b644AE5ecd22b376",
+ "Decimals": 8
+}

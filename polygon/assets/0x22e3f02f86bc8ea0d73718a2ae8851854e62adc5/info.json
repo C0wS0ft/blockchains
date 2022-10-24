@@ -1,0 +1,12 @@
+{
+ "Name": "FireStarter",
+ "ImageUrl": "/media/39198165/flame.png",
+ "SmartContract": "0x22e3f02f86bc8ea0d73718a2ae8851854e62adc5",
+ "Symbol": "FLAME",
+ "Explorer": "https://polygonscan.com/token/0x22e3f02f86bc8ea0d73718a2ae8851854e62adc5",
+ "Research": "https://cryptocompare.com/coins/flame/overview",
+ "Description": "FireStarter is the first Initial Metaverse Offering (or IMO) launchpad on the Polygon network that incubates and launches GameFi, Social Token, NFT and DeFi projects by way of the metaverse.Telegram | Discord | Medium",
+ "Type": "PRC20",
+ "Id": "0x22e3f02f86bc8ea0d73718a2ae8851854e62adc5",
+ "Decimals": 8
+}

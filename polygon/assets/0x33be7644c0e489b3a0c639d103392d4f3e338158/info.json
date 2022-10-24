@@ -1,0 +1,12 @@
+{
+ "Name": "Marvelous NFTs",
+ "ImageUrl": "/media/43607744/mnft.png",
+ "SmartContract": "0x33be7644c0e489b3a0c639d103392d4f3e338158",
+ "Symbol": "MNFT",
+ "Explorer": "https://polygonscan.com/token/0x33be7644c0e489b3a0c639d103392d4f3e338158",
+ "Research": "https://cryptocompare.com/coins/mnft/overview",
+ "Description": "The Marvelous NFT token has multiple functions within the MNFT platform.Telegram | DiscordWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x33be7644c0e489b3a0c639d103392d4f3e338158",
+ "Decimals": 8
+}

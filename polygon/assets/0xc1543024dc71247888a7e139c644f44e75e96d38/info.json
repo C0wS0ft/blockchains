@@ -1,0 +1,12 @@
+{
+ "Name": "Battle World",
+ "ImageUrl": "/media/40484924/bwo.png",
+ "SmartContract": "0xC1543024DC71247888a7e139c644F44E75E96d38",
+ "Symbol": "BWO",
+ "Explorer": "https://polygonscan.com/token/0xC1543024DC71247888a7e139c644F44E75E96d38",
+ "Research": "https://cryptocompare.com/coins/bwo/overview",
+ "Description": "Battle world is a Gamefi battle royale Metaverse project built on the Polygon network. A globally appealing mid-core game for the masses. The players are dropped into maps modelled after famous global locations and towns, where they have to loot and fight against others to be the last one standing.Telegram | Discord | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0xC1543024DC71247888a7e139c644F44E75E96d38",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "PolyQuity",
+ "ImageUrl": "/media/37748078/pyq.png",
+ "SmartContract": "0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8",
+ "Symbol": "PYQ",
+ "Explorer": "https://polygonscan.com/token/0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8",
+ "Research": "https://cryptocompare.com/coins/pyq/overview",
+ "Description": "PolyQuity provides a decentralized borrowing protocol with interest-free loans, high capital efficiency on Polygon network.Based on the design philosophy of PolyQuity, the protocol does not have any function of governance or voting. Therefore, PolyQuity designed this system to encourage holders to stake PYQ in long term to capture more platform fees. Telegram | Medium",
+ "Type": "PRC20",
+ "Id": "0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8",
+ "Decimals": 8
+}

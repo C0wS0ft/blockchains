@@ -1,0 +1,12 @@
+{
+ "Name": "Fabwelt",
+ "ImageUrl": "/media/39501526/welt.png",
+ "SmartContract": "0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
+ "Symbol": "WELT",
+ "Explorer": "https://polygonscan.com/token/0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
+ "Research": "https://cryptocompare.com/coins/welt/overview",
+ "Description": "FABWELT creates a gaming platform that brings blockchain technology into games of all types or genres. To further incentivize gameplay Fabwelt will introduce Play to Earn on all games. Every game Fabwelt develops will have a points system at its core where players can earn points in many different ways during gameplay.Telegram | Discord | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
+ "Decimals": 8
+}

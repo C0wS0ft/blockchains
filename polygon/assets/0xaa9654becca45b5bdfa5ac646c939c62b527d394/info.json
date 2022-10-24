@@ -1,0 +1,12 @@
+{
+ "Name": "DinoSwap",
+ "ImageUrl": "/media/37748268/dino.png",
+ "SmartContract": "0xaa9654becca45b5bdfa5ac646c939c62b527d394",
+ "Symbol": "DINO",
+ "Explorer": "https://polygonscan.com/token/0xaa9654becca45b5bdfa5ac646c939c62b527d394",
+ "Research": "https://cryptocompare.com/coins/dino/overview",
+ "Description": "DinoSwap is a cross-chain infrastructure and yield farming platform that builds liquidity for layer-one blockchains, AMMs and partnering projects.Telegram | Discord | Medium",
+ "Type": "PRC20",
+ "Id": "0xaa9654becca45b5bdfa5ac646c939c62b527d394",
+ "Decimals": 8
+}

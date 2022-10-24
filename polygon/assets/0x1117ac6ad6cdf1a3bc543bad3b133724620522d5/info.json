@@ -1,0 +1,12 @@
+{
+ "Name": "MODA DAO",
+ "ImageUrl": "/media/40219132/moda.png",
+ "SmartContract": "0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5",
+ "Symbol": "MODA",
+ "Explorer": "https://polygonscan.com/token/0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5",
+ "Research": "https://cryptocompare.com/coins/moda/overview",
+ "Description": "MODA DAO is a decentralised technology network and community. Designed for the metaverse and the play-to-earn era, MODA is dedicated to the adoption of Web3 in the music industry via NFTs, micro-licensing, DAO governance and DeFi.Telegram | Discord | Youtube | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5",
+ "Decimals": 8
+}

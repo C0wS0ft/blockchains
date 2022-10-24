@@ -1,0 +1,12 @@
+{
+ "Name": "MIMO Parallel Governance Token",
+ "ImageUrl": "/media/39198176/mimo.png",
+ "SmartContract": "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+ "Symbol": "MIMO",
+ "Explorer": "https://polygonscan.com/token/0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+ "Research": "https://cryptocompare.com/coins/mimo/overview",
+ "Description": "The Parallel Protocol is a decentralized stablecoin issuance protocol on the Ethereum blockchain. Parallel stablecoins are decentralized, non-custodial, collateral-backed, and fully redeemable synthetic assets pegged to a fiat currency. Parallel stablecoins are kept stable by collateral locked in smart contract Vaults. At launch, the Parallel Protocol offers a single stablecoin called PAR which is pegged to the Euro. Over time, the Parallel Protocol will progressively decentralize itself, handing over control to a diverse community of people holding the MIMO governance token.Telegram | Medium",
+ "Type": "PRC20",
+ "Id": "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+ "Decimals": 8
+}

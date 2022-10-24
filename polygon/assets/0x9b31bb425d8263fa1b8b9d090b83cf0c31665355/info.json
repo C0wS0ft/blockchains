@@ -1,0 +1,12 @@
+{
+ "Name": "CoinsPaid",
+ "ImageUrl": "/media/40219072/cpd.png",
+ "SmartContract": "0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+ "Symbol": "CPD",
+ "Explorer": "https://polygonscan.com/token/0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+ "Research": "https://cryptocompare.com/coins/cpd/overview",
+ "Description": "CoinsPaid is a crypto-financial ecosystem including a cryptocurrency wallet, payment processor, exchange with OTC desk, a hot wallet system for businesses.CoinsPaid also issued its own utility token - $CPD. It’s a fuel of the CoinsPaid ecosystem. $CPD holders could receive up to 20% discounts on fees for staking and up to 50% discounts on fees that are paid in $CPDTelegram | Medium",
+ "Type": "PRC20",
+ "Id": "0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+ "Decimals": 8
+}

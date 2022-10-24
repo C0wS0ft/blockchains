@@ -1,0 +1,12 @@
+{
+ "Name": "EDGE Activity Token",
+ "ImageUrl": "/media/40484783/eat.png",
+ "SmartContract": "0x7C58D971A5dAbd46BC85e81fDAE87b511431452E",
+ "Symbol": "EAT",
+ "Explorer": "https://polygonscan.com/token/0x7C58D971A5dAbd46BC85e81fDAE87b511431452E",
+ "Research": "https://cryptocompare.com/coins/eat/overview",
+ "Description": "EDGE\u0026#39;s Watch2Earn Platform can be added to any video streaming site or app to increase viewer engagement. Watch2Earn is built on the EDGE Activity Token, purchased by publishers and rewarded to viewers for watching and engaging.Telegram | Discord",
+ "Type": "PRC20",
+ "Id": "0x7C58D971A5dAbd46BC85e81fDAE87b511431452E",
+ "Decimals": 8
+}

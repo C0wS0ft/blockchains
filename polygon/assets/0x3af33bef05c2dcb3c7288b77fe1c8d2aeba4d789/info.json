@@ -1,0 +1,12 @@
+{
+ "Name": "Kromatika",
+ "ImageUrl": "/media/40411384/krom.png",
+ "SmartContract": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
+ "Symbol": "KROM",
+ "Explorer": "https://polygonscan.com/token/0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
+ "Research": "https://cryptocompare.com/coins/krom/overview",
+ "Description": "Kromatika Finance is a decentralized exchange (DEX) powered by Uniswap and Chainlink oﬀering its users an innovative, more user friendly trading experience.Kromatika utilizes smart contracts to tackle issues encountered daily by blockchain users.KROM is an ERC-20 utility token used for paying the Chainlink Keepers processing service fees (paid by users)Telegram | Discord | BitcoinTalk | Medium | GithubDocs",
+ "Type": "PRC20",
+ "Id": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
+ "Decimals": 8
+}

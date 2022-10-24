@@ -1,0 +1,12 @@
+{
+ "Name": "EverRise",
+ "ImageUrl": "/media/39838424/rise.png",
+ "SmartContract": "0xC17c30e98541188614dF99239cABD40280810cA3",
+ "Symbol": "RISE",
+ "Explorer": "https://polygonscan.com/token/0xC17c30e98541188614dF99239cABD40280810cA3",
+ "Research": "https://cryptocompare.com/coins/rise/overview",
+ "Description": "EverRise is a blockchain technology company focused on increasing accessibility to decentralized finance by bringing security solutions to the space. Through an innovative ecosystem of decentralized applications, EverRise provides investors and developers the tools to access the widest possible market with the maximum level of security.The EverRise token is a multi-chain, collateralized cryptocurrency that powers the EverRise dApp ecosystem.Telegram | Discord | Facebook | LinkedIn | RedditWhitepaper",
+ "Type": "PRC20",
+ "Id": "0xC17c30e98541188614dF99239cABD40280810cA3",
+ "Decimals": 8
+}

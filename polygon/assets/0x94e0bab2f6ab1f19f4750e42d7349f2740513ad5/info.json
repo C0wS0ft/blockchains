@@ -1,0 +1,12 @@
+{
+ "Name": "Unicly",
+ "ImageUrl": "/media/39198163/unic.png",
+ "SmartContract": "0x94E0BAb2F6Ab1F19F4750E42d7349f2740513aD5",
+ "Symbol": "UNIC",
+ "Explorer": "https://polygonscan.com/token/0x94E0BAb2F6Ab1F19F4750E42d7349f2740513aD5",
+ "Research": "https://cryptocompare.com/coins/unic/overview",
+ "Description": "Unicly combines AMMs, NFT auctions, farming, and decentralized governance in order to create a NFT gallery and trading platform. There’s a place for everyone on Unicly: Collectors, Casual Investors, Artists/Designers/Creators, Traders, Yield Farmers, etc.UNIC will be a governance token capped at 1M total supply, and the inflation rate will decrease approximately once a month. Unicly will be governed by UNIC token holders. You can farm UNIC by staking whitelisted LP tokens and/or staking UNIC to earn more UNIC.Telegram | Discord | Medium | GithubWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x94E0BAb2F6Ab1F19F4750E42d7349f2740513aD5",
+ "Decimals": 8
+}

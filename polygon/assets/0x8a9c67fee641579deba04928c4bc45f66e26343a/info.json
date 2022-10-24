@@ -1,0 +1,12 @@
+{
+ "Name": "Jarvis Reward Token",
+ "ImageUrl": "/media/38553845/jrt.png",
+ "SmartContract": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
+ "Symbol": "JRT",
+ "Explorer": "https://polygonscan.com/token/0x8a9c67fee641579deba04928c4bc45f66e26343a",
+ "Research": "https://cryptocompare.com/coins/jrt/overview",
+ "Description": "Jarvis Network is a set of protocols on Ethereum allowing anyone to become a broker by funding and maintaining liquidity pools, against which users can gain exposure to the price of any traditional or digital assets.Telegram | Discord",
+ "Type": "PRC20",
+ "Id": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
+ "Decimals": 8
+}

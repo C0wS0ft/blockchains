@@ -1,0 +1,12 @@
+{
+ "Name": "BUSD",
+ "ImageUrl": "/media/37746248/busd.png",
+ "SmartContract": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+ "Symbol": "BUSD",
+ "Explorer": "https://polygonscan.com/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+ "Research": "https://cryptocompare.com/coins/busd/overview",
+ "Description": "Binance USD (BUSD) is a stable coin pegged to USD that has received approval from the New York State Department of Financial Services (NYDFS). BUSD will be available for direct purchase and redemption at a rate of 1 BUSD = 1 USD.As of September 12, 2019, BUSD has been available on the Paxos platform for direct purchase and redemption 1:1 for U.S. dollars or PAX, and on Binance.com for trading initially against BTC, BNB, XRP and more to come.",
+ "Type": "PRC20",
+ "Id": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+ "Decimals": 8
+}

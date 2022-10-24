@@ -1,0 +1,12 @@
+{
+ "Name": "Vent Finance",
+ "ImageUrl": "/media/39838465/vent.png",
+ "SmartContract": "0x872D068c25511be88C1f5990c53eEFFCDf46c9B4",
+ "Symbol": "VENT",
+ "Explorer": "https://polygonscan.com/token/0x872D068c25511be88C1f5990c53eEFFCDf46c9B4",
+ "Research": "https://cryptocompare.com/coins/vent/overview",
+ "Description": "VENT is a full-stack Cardano-Polygon community launchpad ecosystem aiming to enable sustainable growth. The platform plans to open up new project opportunities and make DeFi accessible to everyone. Combining simplicity, security, and transparency, VENTs goal is to reset the world\u0026#39;s expectations of what a decentralized launchpad is and help evolve the reputation and maturity of the DeFi space and crypto ecosystem as a whole.VENT is a utility token that is used to:Participate in future IDOs on the VentUp Launchpad. Community members will be able to stake a certain number of Vent tokens and gain access to allocations in upcoming IDOs.Give community members voting power over upcoming IDOs, new features, ecosystem updates, and initiatives. Staking $VENT will give verified community members control over the VentUp platform\u0026#39;s future governance.Provide liquidity to our liquidity pools. Active participation in liquidity pools will be proportionally rewarded with $VENT.Telegram | Discord | Facebook | Instagram | YouTube | LinkedIn",
+ "Type": "PRC20",
+ "Id": "0x872D068c25511be88C1f5990c53eEFFCDf46c9B4",
+ "Decimals": 8
+}

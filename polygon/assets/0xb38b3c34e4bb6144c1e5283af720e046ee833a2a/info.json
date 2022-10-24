@@ -1,0 +1,12 @@
+{
+ "Name": "DeSpace Protocol",
+ "ImageUrl": "/media/39838375/des.png",
+ "SmartContract": "0xb38b3c34e4bb6144c1e5283af720E046Ee833a2a",
+ "Symbol": "DES",
+ "Explorer": "https://polygonscan.com/token/0xb38b3c34e4bb6144c1e5283af720E046Ee833a2a",
+ "Research": "https://cryptocompare.com/coins/des/overview",
+ "Description": "DeSpace is a decentralized finance (DeFi) and NFT navigation platform, aiming to solve the problem users currently experience with accessing and using multiple decentralized exchanges and other DeFi solutions by giving users a single interface from which to use multiple DeFi and NFT platforms. DeSpace is powered by DeChain which is a layer 2 blockchain solution compatible with multiple layer blockchain solutions powering the DeFi and NFT ecosystems. DeSpace\u0026#39;s blockchain - DeChain is a decentralized proof of transaction and delegated proof of stake (DPoTS) consensus protocol which is designed to allow users to mine DES coin while they execute a series of DeFi and NFT transactions on the protocol.Telegram | LinkedIn | Reddit | Medium",
+ "Type": "PRC20",
+ "Id": "0xb38b3c34e4bb6144c1e5283af720E046Ee833a2a",
+ "Decimals": 8
+}

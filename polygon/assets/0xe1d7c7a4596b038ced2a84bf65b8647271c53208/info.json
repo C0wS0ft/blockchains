@@ -1,0 +1,12 @@
+{
+ "Name": "NFTY Token",
+ "ImageUrl": "/media/39838405/nfty.png",
+ "SmartContract": "0xE1D7C7a4596B038CEd2A84bF65B8647271C53208",
+ "Symbol": "NFTY",
+ "Explorer": "https://polygonscan.com/token/0xE1D7C7a4596B038CEd2A84bF65B8647271C53208",
+ "Research": "https://cryptocompare.com/coins/nfty/overview",
+ "Description": "NFTY is a cross-chain Web 3.0 authentication layer used for subscription services, loyalty incentives, and access management. NFTY authenticates via Web 3.0 public key signing rather than Web 2.0 usernames and passwords, with the $NFTY Token powering the NFTY authentication layer.Telegram | Discord | Medium",
+ "Type": "PRC20",
+ "Id": "0xE1D7C7a4596B038CEd2A84bF65B8647271C53208",
+ "Decimals": 8
+}

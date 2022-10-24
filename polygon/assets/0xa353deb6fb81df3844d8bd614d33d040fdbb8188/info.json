@@ -1,0 +1,12 @@
+{
+ "Name": "Idle Mystic",
+ "ImageUrl": "/media/38554179/mst.png",
+ "SmartContract": "0xa353dEb6Fb81dF3844D8bd614D33d040fDBb8188",
+ "Symbol": "MST",
+ "Explorer": "https://polygonscan.com/token/0xa353dEb6Fb81dF3844D8bd614D33d040fDBb8188",
+ "Research": "https://cryptocompare.com/coins/mst/overview",
+ "Description": "Idle Mystic Token (IMT) is governance token in Idle Mystic. IMT will connect players together. Players with IMT could participate in the community governance of Idle Mystic. Players and IMT holders would make decisions for both game and community by vote.Telegram | Discord | Medium",
+ "Type": "PRC20",
+ "Id": "0xa353dEb6Fb81dF3844D8bd614D33d040fDBb8188",
+ "Decimals": 8
+}

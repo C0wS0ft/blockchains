@@ -1,0 +1,12 @@
+{
+ "Name": "Million",
+ "ImageUrl": "/media/40043910/milli.png",
+ "SmartContract": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
+ "Symbol": "MILLI",
+ "Explorer": "https://polygonscan.com/token/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
+ "Research": "https://cryptocompare.com/coins/milli/overview",
+ "Description": "Million is a cryptocurrency with a limited supply of 1,000,000 total tokens pegged to a minimum value of 1.00 USDC each. Fully Web 3.0 capable, Million is a multi-chain currency supported across 6+ different blockchains.The official Million ticker is “MM” and trades under that name on all the exchanges where it has been listed. The designation “MILLI” is for CryptoCompare.com only.Telegram | Discord",
+ "Type": "PRC20",
+ "Id": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
+ "Decimals": 8
+}

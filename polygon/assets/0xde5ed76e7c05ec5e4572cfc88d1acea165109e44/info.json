@@ -1,0 +1,12 @@
+{
+ "Name": "DEUS Finance",
+ "ImageUrl": "/media/40219197/deus.png",
+ "SmartContract": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+ "Symbol": "DEUS",
+ "Explorer": "https://polygonscan.com/token/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+ "Research": "https://cryptocompare.com/coins/deus/overview",
+ "Description": "DEUS Finance Evolution is a marketplace of decentralized financial services that provides the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options and futures trading, and more.$DEUS is the protocol token of the DEUS Finance ecosystem. $DEUS represents the fractional portion of our stablecoin, $DEI. $DEI is used as collateral for every financial instrument and protocol built on top of DEUS infrastructure. For every $DEI that is minted, the $DEUS portion is burned, creating deflationary pressure on the $DEUS token supply. Telegram | Discord | MediumWhitepaperDocs",
+ "Type": "PRC20",
+ "Id": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+ "Decimals": 8
+}

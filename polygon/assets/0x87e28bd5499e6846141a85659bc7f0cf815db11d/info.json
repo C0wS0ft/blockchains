@@ -1,0 +1,12 @@
+{
+ "Name": "Quantum Tech",
+ "ImageUrl": "/media/40043896/qua.png",
+ "SmartContract": "0x87e28BD5499e6846141a85659bc7f0CF815DB11D",
+ "Symbol": "QUA",
+ "Explorer": "https://polygonscan.com/token/0x87e28BD5499e6846141a85659bc7f0CF815DB11D",
+ "Research": "https://cryptocompare.com/coins/qua/overview",
+ "Description": "Quantum (QUA) is a cryptocurrency token built on the Polygon (MATIC) network. It is a vision of creating ONE token for all GAMES built under QuantumTech company, giving it multiple governances and use-cases.TelegramDocs",
+ "Type": "PRC20",
+ "Id": "0x87e28BD5499e6846141a85659bc7f0CF815DB11D",
+ "Decimals": 8
+}

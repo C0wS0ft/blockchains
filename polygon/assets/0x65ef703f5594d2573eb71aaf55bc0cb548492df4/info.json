@@ -1,0 +1,12 @@
+{
+ "Name": "Multichain",
+ "ImageUrl": "/media/39838579/multi.png",
+ "SmartContract": "0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4",
+ "Symbol": "MULTI",
+ "Explorer": "https://polygonscan.com/token/0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4",
+ "Research": "https://cryptocompare.com/coins/multi/overview",
+ "Description": "Multichain is a Router for web3. It is an infrastructure developed for arbitrary cross-chain interactions.Multichain was born as Anyswap on the 20th July 2020 to service the clear needs of different and diverse blockchains to communicate with each other. Each blockchain has its own unique services that it provides, its own community and its own development ecosystem.The solutions developed by Multichain allow almost all blockchains to inter-operate. There is no restriction to Ethereum like chains (e.g. Binance Smart Chain), or different Layer 2 chains requiring finality to Ethereum (e.g. Polygon), or a network of Parachains (e.g. Moonbeam in the PolkaDot system), or Bitcoin types of chain (e.g. Litecoin), or COSMOS chains (e.g. Terra). These are either now all integrated, or on course for integration. With support for all ECDSA and EdDSA encrypted chains, Multichain is almost universally applicable as an interoperable layer.Telegram | Medium | GithubDocs",
+ "Type": "PRC20",
+ "Id": "0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4",
+ "Decimals": 8
+}

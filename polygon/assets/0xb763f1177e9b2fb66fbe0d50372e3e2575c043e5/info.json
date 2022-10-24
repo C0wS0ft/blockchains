@@ -1,0 +1,12 @@
+{
+ "Name": "Karmaverse",
+ "ImageUrl": "/media/40485163/knot.png",
+ "SmartContract": "0xb763F1177E9B2Fb66FBe0d50372E3e2575c043e5",
+ "Symbol": "KNOT",
+ "Explorer": "https://polygonscan.com/token/0xb763F1177E9B2Fb66FBe0d50372E3e2575c043e5",
+ "Research": "https://cryptocompare.com/coins/knot/overview",
+ "Description": "The KARMAVERSE is a metaverse containing the game worlds of all the games it has produced so far, and which includes toolboxes for the community to build similar games on the platform. Players - known as Karmanauts - can use NFTs to transfer assets between games or sell them to other players.Telegram | Discord | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0xb763F1177E9B2Fb66FBe0d50372E3e2575c043e5",
+ "Decimals": 8
+}

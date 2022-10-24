@@ -1,0 +1,12 @@
+{
+ "Name": "GeniuX",
+ "ImageUrl": "/media/43687810/iux.png",
+ "SmartContract": "0x346404079b3792a6c548B072B9C4DDdFb92948d5",
+ "Symbol": "IUX",
+ "Explorer": "https://polygonscan.com/token/0x346404079b3792a6c548B072B9C4DDdFb92948d5",
+ "Research": "https://cryptocompare.com/coins/iux/overview",
+ "Description": "What is GeniuX (IUX)? The ecosystem is underpinned by GeniuX, a utility token based on the Polygon standard. It will be used to support the tokenization of real-world assets, with a wide range of sectors covered including real estate, transportation, sports, and arts. Founded in 2018, the project is owned by the company Genius Assets. It was founded by Claudiu Buda. Genius Assets was first launched in 2021 and had its Token Generation Event on June 18th, 2022 Digital assets marketplace Genius Assets is a project allowing decentralized investments in non-crypto assets through tokenization.The IUX economic model has a total supply of 1,000,000,000.00 IUX. IUX’s native token was first made available for purchase through a private sale of 2% and a pre-sale of 5%. Of the remaining, for public sale there is available 24%, for Advisors and strategic partners 5%, incentives and airdrops 3%, and a total of 15% for the Burn Program. Allocated to Founders and Core Team there is 6%, for community rewards and development is 40%. Also, for sustainable Marketing 5%, for liquidity and exchange listing we allocated 5%, and for Staking and Growth 30%.Telegram | MediumWhitepaperHacken Audit",
+ "Type": "PRC20",
+ "Id": "0x346404079b3792a6c548B072B9C4DDdFb92948d5",
+ "Decimals": 8
+}

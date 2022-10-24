@@ -1,0 +1,12 @@
+{
+ "Name": "NASDEX",
+ "ImageUrl": "/media/40219193/nsdx.png",
+ "SmartContract": "0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
+ "Symbol": "NSDX",
+ "Explorer": "https://polygonscan.com/token/0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
+ "Research": "https://cryptocompare.com/coins/nsdx/overview",
+ "Description": "A Decentralized Exchange for Tokenized Asset Trading. NASDEX is designed to serve as a bridge between the crypto world and the equity world.It offers users the ability to trade tokenized equities on blockchain via a minting and trading mechanism that mimics the offchain economics of the real world equity price.Telegram ",
+ "Type": "PRC20",
+ "Id": "0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
+ "Decimals": 8
+}

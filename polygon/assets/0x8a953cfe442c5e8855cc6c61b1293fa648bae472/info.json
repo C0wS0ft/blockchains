@@ -1,0 +1,12 @@
+{
+ "Name": "PolyDoge",
+ "ImageUrl": "/media/39198206/polydoge.png",
+ "SmartContract": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+ "Symbol": "POLYDOGE",
+ "Explorer": "https://polygonscan.com/token/0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+ "Research": "https://cryptocompare.com/coins/polydoge/overview",
+ "Description": "PolyDoge is a digital currency that offers a wide variety of fun interactions to its holders in the form of NFTs, apps, airdrops and access to different DeFi platforms.Telegram | Discord | Medium",
+ "Type": "PRC20",
+ "Id": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+ "Decimals": 8
+}

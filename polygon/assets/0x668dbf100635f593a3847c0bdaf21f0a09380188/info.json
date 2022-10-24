@@ -1,0 +1,12 @@
+{
+ "Name": "BNSD Finance",
+ "ImageUrl": "/media/40485094/bnsd.png",
+ "SmartContract": "0x668DbF100635f593A3847c0bDaF21f0a09380188",
+ "Symbol": "BNSD",
+ "Explorer": "https://polygonscan.com/token/0x668DbF100635f593A3847c0bDaF21f0a09380188",
+ "Research": "https://cryptocompare.com/coins/bnsd/overview",
+ "Description": "Bitbns is an Indian Cryptocurrency Exchange. The Exchange allows you to Buy and Sell 74 Cryptocurrencies.Telegram | Medium",
+ "Type": "PRC20",
+ "Id": "0x668DbF100635f593A3847c0bDaF21f0a09380188",
+ "Decimals": 8
+}

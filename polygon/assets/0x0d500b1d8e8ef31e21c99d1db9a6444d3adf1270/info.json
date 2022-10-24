@@ -1,0 +1,12 @@
+{
+ "Name": "Wrapped Matic",
+ "ImageUrl": "/media/43607694/wmatic.png",
+ "SmartContract": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+ "Symbol": "WMATIC",
+ "Explorer": "https://polygonscan.com/token/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+ "Research": "https://cryptocompare.com/coins/wmatic/overview",
+ "Description": "Matic provides scalable, secure and instant transactions using sidechains based on an adapted implementation of Plasma framework for asset security and a decentralized network of Proof-of-Stake (PoS) validators. In short, it allows anyone to create scalable DApps while ensuring a superior user experience in a secure and decentralized manner. It has a working implementation for Ethereum on Ropsten Testnet. Matic intends to support other blockchains in the future which will enable it to provide interoperability features alongside offering scalability to existing public blockchains.Matic Network is expanding tech scope and mission and becoming Polygon — Ethereum’s Internet of Blockchains.Existing Matic solutions remain functional and high priority. All the existing Matic solutions and implementations, primarily Matic PoS Chain and Matic Plasma Chains, remain fully functional and will continue to be developed and grown as very important components of the Polygon ecosystem. These implementations will not be impacted or changed in any way, and no action is required from developers or end-users. The $MATIC token will continue to exist and will play an increasingly important role, securing the system and enabling governance. See the official announcement.Polygon is a easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building and connecting two major types of solutions:Secured chains (aka Layer 2 chains): Scaling solutions that rely on Ethereum for security instead of establishing their own validator pool. Stand-alone chains (aka Sidechains): Sovereign Ethereum sidechains, normally fully in charge of their own security, i.e. with their own validator pool.See Polygon (MATIC)Telegram | KakaoTalkWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+ "Decimals": 8
+}

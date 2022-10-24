@@ -1,0 +1,12 @@
+{
+ "Name": "SAVAGE",
+ "ImageUrl": "/media/40219199/savg.png",
+ "SmartContract": "0x981AeCC6EB4d382b96A02B75E931900705e95A31",
+ "Symbol": "SAVG",
+ "Explorer": "https://polygonscan.com/token/0x981AeCC6EB4d382b96A02B75E931900705e95A31",
+ "Research": "https://cryptocompare.com/coins/savg/overview",
+ "Description": "SAVAGE is a new carbon-neutral NFT platform made for filmmakers and photographers.SAVAGE’s new NFT marketplace allows both amateur and professional photographers, filmmakers, and other digital artists to monetize their content.Telegram | Discord | Medium | Facebook | LinkedIn | Instagram | YoutubeWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x981AeCC6EB4d382b96A02B75E931900705e95A31",
+ "Decimals": 8
+}

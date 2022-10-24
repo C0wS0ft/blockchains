@@ -1,0 +1,12 @@
+{
+ "Name": "StrongNode",
+ "ImageUrl": "/media/40484784/sne.png",
+ "SmartContract": "0x32934CB16DA43fd661116468c1B225Fc26CF9A8c",
+ "Symbol": "SNE",
+ "Explorer": "https://polygonscan.com/token/0x32934CB16DA43fd661116468c1B225Fc26CF9A8c",
+ "Research": "https://cryptocompare.com/coins/sne/overview",
+ "Description": "In essence, StrongNode works to provide the best possible solutions in implementable architecture through edge computing and blockchain dynamics.Telegram | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x32934CB16DA43fd661116468c1B225Fc26CF9A8c",
+ "Decimals": 8
+}

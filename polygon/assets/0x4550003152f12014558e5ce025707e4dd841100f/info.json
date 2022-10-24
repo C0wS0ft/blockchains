@@ -1,0 +1,12 @@
+{
+ "Name": "Kaizen",
+ "ImageUrl": "/media/40219087/kzen.png",
+ "SmartContract": "0x4550003152F12014558e5CE025707E4DD841100F",
+ "Symbol": "KZEN",
+ "Explorer": "https://polygonscan.com/token/0x4550003152F12014558e5CE025707E4DD841100F",
+ "Research": "https://cryptocompare.com/coins/kzen/overview",
+ "Description": "Kaizen is the a cross-chain token lifecycle management platform built with the needs of both projects and investors alikeThe platform offers cross-chain tools and services for crypto projects, including token generation, vesting schedule automation, bridges, staking, airdrops, and more, all on a no-code basis.Telegram | Medium",
+ "Type": "PRC20",
+ "Id": "0x4550003152F12014558e5CE025707E4DD841100F",
+ "Decimals": 8
+}

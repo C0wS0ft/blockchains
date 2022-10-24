@@ -1,0 +1,12 @@
+{
+ "Name": "PolyPad",
+ "ImageUrl": "/media/40219098/polypad.png",
+ "SmartContract": "0x30eA765D4DDA26e0f89e1B23A7c7b2526B7d29ec",
+ "Symbol": "POLYPAD",
+ "Explorer": "https://polygonscan.com/token/0x30eA765D4DDA26e0f89e1B23A7c7b2526B7d29ec",
+ "Research": "https://cryptocompare.com/coins/polypad/overview",
+ "Description": "PolyPad aims to break down the barriers to accessing novel early-stage blockchain projects building on promising DLTs.Telegram | Medium",
+ "Type": "PRC20",
+ "Id": "0x30eA765D4DDA26e0f89e1B23A7c7b2526B7d29ec",
+ "Decimals": 8
+}

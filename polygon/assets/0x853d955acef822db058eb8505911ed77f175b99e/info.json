@@ -1,0 +1,12 @@
+{
+ "Name": "Frax",
+ "ImageUrl": "/media/37622002/frax.png",
+ "SmartContract": "0x853d955acef822db058eb8505911ed77f175b99e",
+ "Symbol": "FRAX",
+ "Explorer": "https://polygonscan.com/token/0x853d955acef822db058eb8505911ed77f175b99e",
+ "Research": "https://cryptocompare.com/coins/frax/overview",
+ "Description": "Frax attempts to be the first stablecoin protocol to implement design principles of both to create a highly scalable, trustless, extremely stable, and ideologically pure on-chain money. The Frax protocol is a two token system encompassing a stablecoin, Frax (FRAX), and a governance token, Frax Shares (FXS). The protocol also has pool contracts which hold collateral (at genesis USDT and USDC). Pools can be added or removed with governance.",
+ "Type": "PRC20",
+ "Id": "0x853d955acef822db058eb8505911ed77f175b99e",
+ "Decimals": 8
+}

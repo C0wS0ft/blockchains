@@ -1,0 +1,12 @@
+{
+ "Name": "Stader",
+ "ImageUrl": "/media/39838476/sd.png",
+ "SmartContract": "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
+ "Symbol": "SD",
+ "Explorer": "https://polygonscan.com/token/0x30D20208d987713f46DFD34EF128Bb16C404D10f",
+ "Research": "https://cryptocompare.com/coins/sd/overview",
+ "Description": "Stader is a non-custodial smart contract-based staking platform designed to help users conveniently discover and access staking solutions.Telegram | Dicord | Medium",
+ "Type": "PRC20",
+ "Id": "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
+ "Decimals": 8
+}

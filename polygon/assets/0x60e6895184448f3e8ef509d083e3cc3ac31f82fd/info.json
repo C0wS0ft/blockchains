@@ -1,0 +1,12 @@
+{
+ "Name": "KwikTrust",
+ "ImageUrl": "/media/40043938/ktx.png",
+ "SmartContract": "0x60E6895184448f3e8EF509D083e3cC3AC31F82Fd",
+ "Symbol": "KTX",
+ "Explorer": "https://polygonscan.com/token/0x60E6895184448f3e8EF509D083e3cC3AC31F82Fd",
+ "Research": "https://cryptocompare.com/coins/ktx/overview",
+ "Description": "KwikTrust is an e-validation platform that provides provenance and legal protection. The platform enables self-certified and third-party validation of files, with the results stored on a blockchain.Telegram | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x60E6895184448f3e8EF509D083e3cC3AC31F82Fd",
+ "Decimals": 8
+}

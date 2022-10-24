@@ -1,0 +1,12 @@
+{
+ "Name": "AnRKey X",
+ "ImageUrl": "/media/37746239/anrx.png",
+ "SmartContract": "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+ "Symbol": "$ANRX",
+ "Explorer": "https://polygonscan.com/token/0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+ "Research": "https://cryptocompare.com/coins/anrx/overview",
+ "Description": "AnRKey X™ combines DeFi and eSports gaming for users to compete, purchase and stake unique NFTs and win valuable rewards. AnRKey X’s token, $ANRX, works just like an arcade coin, the more the users purchase, play, stake, sell and compete, the more $ANRX they earn within the AnRKey X™ gaming system.Telegram | Discord | Facebook | YouTube | LinkedIn | Twitch | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+ "Decimals": 8
+}

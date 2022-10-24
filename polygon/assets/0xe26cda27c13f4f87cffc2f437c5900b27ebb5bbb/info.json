@@ -1,0 +1,12 @@
+{
+ "Name": "Rebel Bots",
+ "ImageUrl": "/media/40219102/rbls.png",
+ "SmartContract": "0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB",
+ "Symbol": "RBLS",
+ "Explorer": "https://polygonscan.com/token/0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB",
+ "Research": "https://cryptocompare.com/coins/rbls/overview",
+ "Description": "The vision is to create a leading game franchise within the blockchain games space by building the Rebel Bots brand with several gaming titles. Players will be able to use the characters they own in all the games within the Rebel Bots universe.Discord",
+ "Type": "PRC20",
+ "Id": "0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB",
+ "Decimals": 8
+}

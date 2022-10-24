@@ -1,0 +1,12 @@
+{
+ "Name": "MetaShooter",
+ "ImageUrl": "/media/40219142/mhunt.png",
+ "SmartContract": "0x61f95bd637e3034133335C1baA0148E518D438ad",
+ "Symbol": "MHUNT",
+ "Explorer": "https://polygonscan.com/token/0x61f95bd637e3034133335C1baA0148E518D438ad",
+ "Research": "https://cryptocompare.com/coins/mhunt/overview",
+ "Description": "MetaShooter is a decentralized blockchain-based hunting metaverse. MetaShooter is built on Unreal Engine using Nvidia and SpeedTree assets in order to achieve sharp dynamics and graphics.Telegram | Discord | Medium | Reddit | Facebook | InstagramWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x61f95bd637e3034133335C1baA0148E518D438ad",
+ "Decimals": 8
+}

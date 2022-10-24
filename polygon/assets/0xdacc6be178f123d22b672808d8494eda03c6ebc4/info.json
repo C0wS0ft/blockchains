@@ -1,0 +1,12 @@
+{
+ "Name": "Answerly",
+ "ImageUrl": "/media/40219381/ansr.png",
+ "SmartContract": "0xDaCC6be178f123D22B672808d8494Eda03c6EbC4",
+ "Symbol": "ANSR",
+ "Explorer": "https://polygonscan.com/token/0xDaCC6be178f123D22B672808d8494Eda03c6EbC4",
+ "Research": "https://cryptocompare.com/coins/ansr/overview",
+ "Description": "Answerly is a Q/A platform that allows the users to earn crypto rewards for adding high-quality answers on different questions.Answerly allows users to earn rewards for two different types of activities:Posting Questions and Posting Answers.Telegram ",
+ "Type": "PRC20",
+ "Id": "0xDaCC6be178f123D22B672808d8494Eda03c6EbC4",
+ "Decimals": 8
+}

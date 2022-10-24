@@ -1,0 +1,12 @@
+{
+ "Name": "Galaxy Fight Club",
+ "ImageUrl": "/media/39838254/gcoin.png",
+ "SmartContract": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+ "Symbol": "GCOIN",
+ "Explorer": "https://polygonscan.com/token/0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+ "Research": "https://cryptocompare.com/coins/gcoin/overview",
+ "Description": "Galaxy Fight Club is a cross-IP, cross-platform (PC+ Mobile) PvP fighting game where holders of different NFT collections can battle with each other to both win and earn rewards through play-to-earn mechanics.YouTube | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Monsoon Finance",
+ "ImageUrl": "/media/40219325/mcash.png",
+ "SmartContract": "0xa25610a77077390A75aD9072A084c5FbC7d43A0d",
+ "Symbol": "MCASH",
+ "Explorer": "https://polygonscan.com/token/0xa25610a77077390A75aD9072A084c5FbC7d43A0d",
+ "Research": "https://cryptocompare.com/coins/mcash/overview",
+ "Description": "Monsoon Finance is a fork of Tornado Cash, an audited privacy protocol for Ethereum. Monsoon uses the same verification keys and therefore inherits the same level of security as Tornado Cash.Currently, Monsoon Finance is deployed onto Binance Smart Chain Mainnet, Polygon Testnet, and Avalanche Testnet.Telegram | Github",
+ "Type": "PRC20",
+ "Id": "0xa25610a77077390A75aD9072A084c5FbC7d43A0d",
+ "Decimals": 8
+}

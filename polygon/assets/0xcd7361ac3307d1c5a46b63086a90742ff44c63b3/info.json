@@ -1,0 +1,12 @@
+{
+ "Name": "Crypto Raiders",
+ "ImageUrl": "/media/43717784/raider.png",
+ "SmartContract": "0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3",
+ "Symbol": "RAIDER",
+ "Explorer": "https://polygonscan.com/token/0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3",
+ "Research": "https://cryptocompare.com/coins/raider/overview",
+ "Description": "Crypto Raiders is a utility-based NFT RPG game that draws inspiration from Zed.Run and World of Warcraft. Raid dungeons, conquer enemies, earn loot and return to your homeland victorious.Discord | Medium",
+ "Type": "PRC20",
+ "Id": "0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Enegra",
+ "ImageUrl": "/media/40484816/egx.png",
+ "SmartContract": "0x8Db0A6d1b06950b4e81c4F67D1289Fc7B9359c7f",
+ "Symbol": "EGX",
+ "Explorer": "https://polygonscan.com/token/0x8Db0A6d1b06950b4e81c4F67D1289Fc7B9359c7f",
+ "Research": "https://cryptocompare.com/coins/egx/overview",
+ "Description": "Enegra enables commodity miners in emerging markets to compete globally, via world-class trading expertise, risk management, logistics, and governance.Enegra partners with mid-tier miners in Southeast Asia by contracting to purchase their production offtake to trade on global commodity markets.Telegram | Medium",
+ "Type": "PRC20",
+ "Id": "0x8Db0A6d1b06950b4e81c4F67D1289Fc7B9359c7f",
+ "Decimals": 8
+}

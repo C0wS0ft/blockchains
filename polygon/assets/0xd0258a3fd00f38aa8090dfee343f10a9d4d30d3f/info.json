@@ -1,0 +1,12 @@
+{
+ "Name": "Voxies",
+ "ImageUrl": "/media/39198293/voxel.png",
+ "SmartContract": "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f",
+ "Symbol": "VOXEL",
+ "Explorer": "https://polygonscan.com/token/0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f",
+ "Research": "https://cryptocompare.com/coins/voxel/overview",
+ "Description": "VOXEL Tokens (VOXEL) are an ERC-20 cryptocurrency token. They can be earned by playing the Voxie Tactics game in various game modes. VOXEL Token holders will be able to redeem their VOXEL Tokens for in-game items in the Voxie Tactics marketplace (weapons, armor, consumables, etc.). Holders will also be able to craft items using their tokens and consumable items, as well as use the VOXEL Token to pay entry fees to the Voxie Tactics PvP arenas.Discord | Medium",
+ "Type": "PRC20",
+ "Id": "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f",
+ "Decimals": 8
+}

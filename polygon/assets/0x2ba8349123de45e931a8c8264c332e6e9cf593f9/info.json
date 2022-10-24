@@ -1,0 +1,12 @@
+{
+ "Name": "Blockchain Monster Hunt",
+ "ImageUrl": "/media/40219293/bcmc.png",
+ "SmartContract": "0x2ba8349123de45e931a8c8264c332e6e9cf593f9",
+ "Symbol": "BCMC",
+ "Explorer": "https://polygonscan.com/token/0x2ba8349123de45e931a8c8264c332e6e9cf593f9",
+ "Research": "https://cryptocompare.com/coins/bcmc/overview",
+ "Description": "BCMHunt is a NFT collectible game that lives on multiple blockchains. Inspired by Pokémon-GO, BCMH allows players to continuously explore brand-new locations on the blockchain to hunt and battle monsters.Telegram | Discord | Medium | YoutubeWhitepaper ",
+ "Type": "PRC20",
+ "Id": "0x2ba8349123de45e931a8c8264c332e6e9cf593f9",
+ "Decimals": 8
+}

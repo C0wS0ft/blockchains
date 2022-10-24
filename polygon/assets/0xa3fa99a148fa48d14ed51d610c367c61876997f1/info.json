@@ -1,0 +1,12 @@
+{
+ "Name": "MAI",
+ "ImageUrl": "/media/39501480/mimatic.png",
+ "SmartContract": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+ "Symbol": "MIMATIC",
+ "Explorer": "https://polygonscan.com/token/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+ "Research": "https://cryptocompare.com/coins/mimatic/overview",
+ "Description": "Mai Finance is the frontend/dashboard for the QiDao Protocol: it allows users to connect to the QiDao Protocol via a website.MAI is a stablecoin backed by collateral, and can only be minted with this collateral backing it. MAI is created when users deposit accepted tokens (currently MATIC) as collateral in vaults and in turn receive a loan against that collateral. Users can also mint MAI through Anchor where MAI is minted in exchange for accepted stablecoins. MAI is soft pegged to the USD, meaning that 1 MAI is around 1 USD.Telegram | Discord | MediumDocs",
+ "Type": "PRC20",
+ "Id": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+ "Decimals": 8
+}

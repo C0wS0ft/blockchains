@@ -1,0 +1,12 @@
+{
+ "Name": "Paycer Protocol",
+ "ImageUrl": "/media/40219312/pcr.png",
+ "SmartContract": "0xa6083abe845fbB8649d98B8586cBF50b7f233612",
+ "Symbol": "PCR",
+ "Explorer": "https://polygonscan.com/token/0xa6083abe845fbB8649d98B8586cBF50b7f233612",
+ "Research": "https://cryptocompare.com/coins/pcr/overview",
+ "Description": "The Paycer team is building a cross-chain yield aggregation bridge protocol for DeFi and banking for mainstream adoption. The Paycer Protocol will provide cross-chain operability and aggregate certain DeFi products from different blockchains. The Paycer Platform will combine the Paycer Protocol with traditional financial services like a bank account and a debit card. Users only need to make a fiat money deposit on the Paycer platform to get started, no interaction with cryptocurrencies or DeFi is required.Telegram | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0xa6083abe845fbB8649d98B8586cBF50b7f233612",
+ "Decimals": 8
+}

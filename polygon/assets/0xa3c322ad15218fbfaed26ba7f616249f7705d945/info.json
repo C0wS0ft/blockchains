@@ -1,0 +1,12 @@
+{
+ "Name": "GensoKishi Metaverse",
+ "ImageUrl": "/media/40219084/mv.png",
+ "SmartContract": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
+ "Symbol": "MV",
+ "Explorer": "https://polygonscan.com/token/0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
+ "Research": "https://cryptocompare.com/coins/mv/overview",
+ "Description": "GENSOKISHI Online -META WORLD- is a GameFi of Elemental Knights Online. Anyone can start the game for free, resell the items acquired in the game on the NFT Marketplace, buy the rights and sell costumes made by themselves, and communicate with people from all over the world.Telegram | Discord | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
+ "Decimals": 8
+}

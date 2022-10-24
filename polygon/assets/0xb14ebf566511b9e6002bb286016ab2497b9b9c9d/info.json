@@ -1,0 +1,12 @@
+{
+ "Name": "Hypersign Identity",
+ "ImageUrl": "/media/40219180/hid.png",
+ "SmartContract": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+ "Symbol": "HID",
+ "Explorer": "https://polygonscan.com/token/0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+ "Research": "https://cryptocompare.com/coins/hid/overview",
+ "Description": "Hypersign is a decentralised identity and access management infrastructure for the enterprise. It leverages technologies such as public key infrastructure (PKI) and blockchain to provide passwordless authentication as well as authorization and verification services which integrate within minutes and is compatible with legacy IAM systems at an affordable price-point.Hypersign offers four main tools for any enterprise to rapidly deploy decentralized passwordless authentication solution with a low TCO [Total Cost of Ownership]:Hypersign Identity Wallet, Hypersign Studio, Hypersign SDK, Hypersign AdaptersTelegram | Medium | GithubDocsWhitepaper ",
+ "Type": "PRC20",
+ "Id": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+ "Decimals": 8
+}

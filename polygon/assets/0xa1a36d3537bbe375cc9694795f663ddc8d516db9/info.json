@@ -1,0 +1,12 @@
+{
+ "Name": "Polinate",
+ "ImageUrl": "/media/40219304/poli.png",
+ "SmartContract": "0xa1a36D3537bBe375Cc9694795F663DDC8D516Db9",
+ "Symbol": "POLI",
+ "Explorer": "https://polygonscan.com/token/0xa1a36D3537bBe375Cc9694795F663DDC8D516Db9",
+ "Research": "https://cryptocompare.com/coins/poli/overview",
+ "Description": "Polinate is a crowdfunding platform designed to discover, launch, and empower creatives globally in a permissionless way.Telegram | Discord | Medium | LinkedIn | Facebook | Instagram",
+ "Type": "PRC20",
+ "Id": "0xa1a36D3537bBe375Cc9694795F663DDC8D516Db9",
+ "Decimals": 8
+}

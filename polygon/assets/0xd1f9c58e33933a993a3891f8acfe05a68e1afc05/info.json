@@ -1,0 +1,12 @@
+{
+ "Name": "Sunflower Land",
+ "ImageUrl": "/media/40420655/sfl.png",
+ "SmartContract": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+ "Symbol": "SFL",
+ "Explorer": "https://polygonscan.com/token/0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+ "Research": "https://cryptocompare.com/coins/sfl/overview",
+ "Description": "A Play-to-Own Crypto Farming Game on Polygon.Sunflower Land is a Play-and-Own crypto game where everything you collect is identifiable on the Polygon Blockchain. You can farm, chop, mine, craft and more as you build your farming empire.Discord | GithubDocs",
+ "Type": "PRC20",
+ "Id": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+ "Decimals": 8
+}

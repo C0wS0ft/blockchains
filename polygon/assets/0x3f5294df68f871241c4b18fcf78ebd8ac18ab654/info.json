@@ -1,0 +1,12 @@
+{
+ "Name": "99Starz",
+ "ImageUrl": "/media/40219307/stz.png",
+ "SmartContract": "0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
+ "Symbol": "STZ",
+ "Explorer": "https://polygonscan.com/token/0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
+ "Research": "https://cryptocompare.com/coins/stz/overview",
+ "Description": "99Starz aims to remove the barrier of entry for play-to-earn games. Instead of purchasing expensive NFT assets needed to play users can jump from game to game by renting assets instead.99Starz aims to create the gig economy of the metaverse where NFT collectors supply gamers with the tools they need to win for a share of the profits and gamers band together into guilds to maximize the rewards from play-to-earn gaming.Telegram | Discord | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Playermon",
+ "ImageUrl": "/media/40485016/pym.png",
+ "SmartContract": "0x0bD49815EA8e2682220BCB41524c0dd10Ba71d41",
+ "Symbol": "PYM",
+ "Explorer": "https://polygonscan.com/token/0x0bD49815EA8e2682220BCB41524c0dd10Ba71d41",
+ "Research": "https://cryptocompare.com/coins/pym/overview",
+ "Description": "Playermon is a boundless Play to Earn Game where anyone can explore and battle in the universe with their favorite space companions called Playermons. Playermon has a player-owned, real money economy. Rather than selling game items or copies, the developers of the game focus on growing the Playermon\u0026#39;s economy and charging a small fee for certain transactions.Telegram | Discord | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x0bD49815EA8e2682220BCB41524c0dd10Ba71d41",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Baked",
+ "ImageUrl": "/media/40219152/baked.png",
+ "SmartContract": "0xa4cb0dCe4849BdcAd2d553E9e68644Cf40E26ccE",
+ "Symbol": "BAKED",
+ "Explorer": "https://polygonscan.com/token/0xa4cb0dCe4849BdcAd2d553E9e68644Cf40E26ccE",
+ "Research": "https://cryptocompare.com/coins/baked/overview",
+ "Description": "BAKED token will be acting as the main value carrier within the reBaked products and the main unit of transactions among platform participants. The token is backed by ecosystem treasuries accumulated by incubated projects, which are actively managed by the RBKD DAO.Telegram Docs",
+ "Type": "PRC20",
+ "Id": "0xa4cb0dCe4849BdcAd2d553E9e68644Cf40E26ccE",
+ "Decimals": 8
+}

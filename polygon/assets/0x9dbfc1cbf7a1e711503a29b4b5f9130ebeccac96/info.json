@@ -1,0 +1,12 @@
+{
+ "Name": "UpOnly",
+ "ImageUrl": "/media/40055694/upo.png",
+ "SmartContract": "0x9dBfc1cbf7a1E711503a29B4b5F9130ebeCcaC96",
+ "Symbol": "UPO",
+ "Explorer": "https://polygonscan.com/token/0x9dBfc1cbf7a1E711503a29B4b5F9130ebeCcaC96",
+ "Research": "https://cryptocompare.com/coins/upo/overview",
+ "Description": "A Play to Earn Gaming Analytics and Prediction Platform.UpOnly helps users make data-driven investment choices for play-to-earn and blockchain-based gaming.TelegramWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x9dBfc1cbf7a1E711503a29B4b5F9130ebeCcaC96",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "MaticPad",
+ "ImageUrl": "/media/37748101/matpad.png",
+ "SmartContract": "0x3BfcE6D6F0d3D3f1326d86abdbe2845b4740Dc2E",
+ "Symbol": "MATPAD",
+ "Explorer": "https://polygonscan.com/token/0x3BfcE6D6F0d3D3f1326d86abdbe2845b4740Dc2E",
+ "Research": "https://cryptocompare.com/coins/matpad/overview",
+ "Description": "MaticPad is an autonomous cross-chain plug-n-play fundraising platform, enabling innovators to mint tokens, build custom smart contracts, and strategize listing and deployment all from a single dashboard.The $MATPAD token will work as the native utility token for the platform.The $MATPAD token holders will get exclusive access to different platform modules such as the plug-n-play (BUID), rewards sharing, and also the opportunity to participate in the different platform offerings be it private or public.Telegram | Medium",
+ "Type": "PRC20",
+ "Id": "0x3BfcE6D6F0d3D3f1326d86abdbe2845b4740Dc2E",
+ "Decimals": 8
+}

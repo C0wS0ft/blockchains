@@ -1,0 +1,12 @@
+{
+ "Name": "Proxy",
+ "ImageUrl": "/media/43607758/prxy.png",
+ "SmartContract": "0xab3D689C22a2Bb821f50A4Ff0F21A7980dCB8591",
+ "Symbol": "PRXY",
+ "Explorer": "https://polygonscan.com/token/0xab3D689C22a2Bb821f50A4Ff0F21A7980dCB8591",
+ "Research": "https://cryptocompare.com/coins/prxy/overview",
+ "Description": "BTC Proxy is a multi-institutional protocol for the decentralized tokenization of Bitcoin on ERC20 and MRC20 formats utilizing the Proxy Relay. This gives Bitcoin holders a decentralized bridge to stake their Bitcoin into custody and transfer that value into an onto Ethereum or Polygon chains without the need for centralized exchanges and systems that exponentially increase the counterparty risk of theft or loss. The BTCpx token contract is governed by a DAO token called Proxy (PRXY), which is responsible for managing the treasury and deciding on the roadmap of the future.PRXY can be used for Voting, Bitcoin Farming and Liquidity Mining.Telegram | Discord | MediumDocs ",
+ "Type": "PRC20",
+ "Id": "0xab3D689C22a2Bb821f50A4Ff0F21A7980dCB8591",
+ "Decimals": 8
+}

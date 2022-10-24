@@ -1,0 +1,12 @@
+{
+ "Name": "RadioShack",
+ "ImageUrl": "/media/40484788/radio.png",
+ "SmartContract": "0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636",
+ "Symbol": "RADIO",
+ "Explorer": "https://polygonscan.com/token/0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636",
+ "Research": "https://cryptocompare.com/coins/radio/overview",
+ "Description": "RadioShack has one objective: Distribution and usage by millions of individuals but possibly more important, by hundreds of blue-chip, large corporations as their gateway into becoming blockchain companies.The RADIO token node serves as the central, large-degree node in the Starfish Topology. This is the first and the most important utility of the RADIO token. Telegram | DiscordDocs",
+ "Type": "PRC20",
+ "Id": "0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636",
+ "Decimals": 8
+}

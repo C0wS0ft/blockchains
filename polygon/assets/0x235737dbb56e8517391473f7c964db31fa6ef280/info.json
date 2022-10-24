@@ -1,0 +1,12 @@
+{
+ "Name": "Kasta",
+ "ImageUrl": "/media/39413391/kasta.png",
+ "SmartContract": "0x235737dbb56e8517391473f7c964db31fa6ef280",
+ "Symbol": "KASTA",
+ "Explorer": "https://polygonscan.com/token/0x235737dbb56e8517391473f7c964db31fa6ef280",
+ "Research": "https://cryptocompare.com/coins/kasta/overview",
+ "Description": "KASTA is a cryptocurrency token that offers a wide range of applications and benefits within the Kasta ecosystem. Users can buy or sell KASTA like any other cryptocurrency. KASTA will play an important role in Kasta’s growth and make its mission to steer the world towards worldwide cryptocurrency adoption a reality.Telegram | Medium",
+ "Type": "PRC20",
+ "Id": "0x235737dbb56e8517391473f7c964db31fa6ef280",
+ "Decimals": 8
+}

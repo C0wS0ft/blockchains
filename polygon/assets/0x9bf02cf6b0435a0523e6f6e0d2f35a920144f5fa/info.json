@@ -1,0 +1,12 @@
+{
+ "Name": "DeFi11",
+ "ImageUrl": "/media/43607768/d11.png",
+ "SmartContract": "0x9bf02cf6b0435a0523e6f6e0d2f35a920144f5fa",
+ "Symbol": "D11",
+ "Explorer": "https://polygonscan.com/token/0x9bf02cf6b0435a0523e6f6e0d2f35a920144f5fa",
+ "Research": "https://cryptocompare.com/coins/d11/overview",
+ "Description": "DeFi11 is a defi powered gaming ecosystem for fantasy sports, NFT virtual world, Marketplace and P2P predictions. The entire platform runs as a chain agnostic solution with a decentralised mobile application with an in-built smart wallet.Telegram | DiscordWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x9bf02cf6b0435a0523e6f6e0d2f35a920144f5fa",
+ "Decimals": 8
+}

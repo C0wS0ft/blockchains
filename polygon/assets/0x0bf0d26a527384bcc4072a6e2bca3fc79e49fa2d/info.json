@@ -1,0 +1,12 @@
+{
+ "Name": "Mytrade",
+ "ImageUrl": "/media/40484974/myt.png",
+ "SmartContract": "0x0bf0d26a527384bcc4072a6e2bca3fc79e49fa2d",
+ "Symbol": "MYT",
+ "Explorer": "https://polygonscan.com/token/0x0bf0d26a527384bcc4072a6e2bca3fc79e49fa2d",
+ "Research": "https://cryptocompare.com/coins/myt/overview",
+ "Description": "MyTrade is a DEX aiming to look and feel like a centralized exchange with a wide variety of quality tradable assets. Takers will get the best price, and Makers enjoy 0% trading fees.Telegram | Discord | Medium | GithubDocs",
+ "Type": "PRC20",
+ "Id": "0x0bf0d26a527384bcc4072a6e2bca3fc79e49fa2d",
+ "Decimals": 8
+}

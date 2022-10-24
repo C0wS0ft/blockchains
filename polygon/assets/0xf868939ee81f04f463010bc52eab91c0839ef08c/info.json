@@ -1,0 +1,12 @@
+{
+ "Name": "Attack Wagon",
+ "ImageUrl": "/media/40219183/atk.png",
+ "SmartContract": "0xf868939ee81f04f463010bc52eab91c0839ef08c",
+ "Symbol": "ATK",
+ "Explorer": "https://polygonscan.com/token/0xf868939ee81f04f463010bc52eab91c0839ef08c",
+ "Research": "https://cryptocompare.com/coins/atk/overview",
+ "Description": "$ATK is an ERC20 token on the polygon side chain. ATK will be deeply tied into ScrapGuilds. ATK will be used for Buying and Upgrading NFT\u0026#39;s, entry fees for PVP and awards from PVP/Quests are also paid out in ATK.ATK will present holders with staking rewards when locked into the TimeVault. Holders can lock way their ATK which in turn decreases circulating supply. When locked away in the TimeVault the ATK begins to multiply rewarding those holders with additional ATK.Telegram | Discord | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0xf868939ee81f04f463010bc52eab91c0839ef08c",
+ "Decimals": 8
+}

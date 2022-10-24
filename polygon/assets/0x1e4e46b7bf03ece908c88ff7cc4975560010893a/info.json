@@ -1,0 +1,12 @@
+{
+ "Name": "Internet of Energy Network",
+ "ImageUrl": "/media/40219350/ioen.png",
+ "SmartContract": "0x1e4e46b7bf03ece908c88ff7cc4975560010893a",
+ "Symbol": "IOEN",
+ "Explorer": "https://polygonscan.com/token/0x1e4e46b7bf03ece908c88ff7cc4975560010893a",
+ "Research": "https://cryptocompare.com/coins/ioen/overview",
+ "Description": "The Internet of Energy Network (IOEN) is a community-driven network that enables connection and value exchange between any energy device, user, or market.Telegram | LinkedIn | FacebookWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x1e4e46b7bf03ece908c88ff7cc4975560010893a",
+ "Decimals": 8
+}

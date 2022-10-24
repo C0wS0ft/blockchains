@@ -1,0 +1,12 @@
+{
+ "Name": "Stargate Finance",
+ "ImageUrl": "/media/39838517/stg.png",
+ "SmartContract": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+ "Symbol": "STG",
+ "Explorer": "https://polygonscan.com/token/0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+ "Research": "https://cryptocompare.com/coins/stg/overview",
+ "Description": "Stargate is a community-driven organization building a fully composable native asset bridge, and a dApp built on LayerZero.Stargate\u0026#39;s vision is to make cross-chain liquidity transfer a seamless, single transaction process.Telegram | Medium​Whitepaper",
+ "Type": "PRC20",
+ "Id": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+ "Decimals": 8
+}

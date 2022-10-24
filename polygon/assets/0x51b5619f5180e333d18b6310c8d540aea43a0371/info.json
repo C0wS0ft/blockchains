@@ -1,0 +1,12 @@
+{
+ "Name": "Vault Hill City",
+ "ImageUrl": "/media/40485022/vhc.png",
+ "SmartContract": "0x51b5619F5180e333d18b6310C8D540AEa43a0371",
+ "Symbol": "VHC",
+ "Explorer": "https://polygonscan.com/token/0x51b5619F5180e333d18b6310C8D540AEa43a0371",
+ "Research": "https://cryptocompare.com/coins/vhc/overview",
+ "Description": "Vault Hill aims to create a metaverse called Vault Hill City (VHC) – a collection of virtual shared space including the sum of all virtual worlds and the Internet. VHC proposes to build the first extended reality metaverse focusing on themes of the basic human instincts, such as curiosity, vision, community, idealism, vitality, romance, and imagination. In building this, we are starting with the infrastructure of the metaverse, which is virtual real estate and a product – Virtual land ($VLAND), a nonfungible token (NFT). The virtual real estate will be designed using urban planning to give developers and users a sustainable and dynamic experience.Telegram | Discord | BlogWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x51b5619F5180e333d18b6310C8D540AEa43a0371",
+ "Decimals": 8
+}

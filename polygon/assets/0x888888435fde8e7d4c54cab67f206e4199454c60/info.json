@@ -1,0 +1,12 @@
+{
+ "Name": "DFX Finance",
+ "ImageUrl": "/media/40219446/dfx.png",
+ "SmartContract": "0x888888435FDe8e7d4c54cAb67f206e4199454c60",
+ "Symbol": "DFX",
+ "Explorer": "https://polygonscan.com/token/0x888888435FDe8e7d4c54cAb67f206e4199454c60",
+ "Research": "https://cryptocompare.com/coins/dfx/overview",
+ "Description": "DFX Finance is a decentralized foreign exchange (FX) protocol optimized for trading fiat-backed foreign stablecoins, (CADC, EURS, XSGD, etc.), its contracts to provide true financial localization for the customers of your global business. A decentralized protocol where users can swap non-USD stablecoins pegged to various foreign currencies is not only important, but necessary.Telegram | Discord | Medium | Github | LinkedInDocs",
+ "Type": "PRC20",
+ "Id": "0x888888435FDe8e7d4c54cAb67f206e4199454c60",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Gaia Everworld",
+ "ImageUrl": "/media/39109107/gaia.png",
+ "SmartContract": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+ "Symbol": "GAIA",
+ "Explorer": "https://polygonscan.com/token/0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+ "Research": "https://cryptocompare.com/coins/gaia/overview",
+ "Description": "Gaia EverWorld is an immersive, multi-region fantasy world where players build their kingdoms, explore the lands, collect, breed, and battle their Gaia Legionnaires. Inspired by classic games such as Pokemon, Clash of Clans, and Runescape, Gaia Everworld is part of the new generation of gaming being built on the blockchain, which gives players full ownership of their assets and rewards them for playing with an innovative play-to-earn gaming model all within the metaverse.Each Gaia NFT is a unique ERC721 token. Gaia has varying utility and rarity within the game. Each Gaia has different abilities and personalities and they can be used in battle, traded, bred, and sold. When great numbers of Gaia work together they create the great legions capable of conquering all the regions of the EverWorld. There are many Gaia to collect and train to become the most renowned legionnaires in the Everworld.Telegram | Discord",
+ "Type": "PRC20",
+ "Id": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+ "Decimals": 8
+}

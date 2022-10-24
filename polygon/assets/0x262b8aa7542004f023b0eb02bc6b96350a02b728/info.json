@@ -1,0 +1,12 @@
+{
+ "Name": "Sway Social",
+ "ImageUrl": "/media/40219135/sway.png",
+ "SmartContract": "0x262B8AA7542004f023B0eB02bc6b96350A02b728",
+ "Symbol": "SWAY",
+ "Explorer": "https://polygonscan.com/token/0x262B8AA7542004f023B0eB02bc6b96350A02b728",
+ "Research": "https://cryptocompare.com/coins/sway/overview",
+ "Description": "Sway Social deals with this disparity by allowing followers to directly share content creators’ revenue generation in addition to providing social support.The SWAY token, represented as a simple monetisation of ‘Following’ or ‘Likes’ from the traditional social media experience, is a social evolution in Web3.The Sway Social Protocol is powered by the native SWAY tokenTelegram | GithubWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x262B8AA7542004f023B0eB02bc6b96350A02b728",
+ "Decimals": 8
+}

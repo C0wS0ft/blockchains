@@ -1,0 +1,12 @@
+{
+ "Name": "MSquare Global",
+ "ImageUrl": "/media/40124924/msq.png",
+ "SmartContract": "0x6A8Ec2d9BfBDD20A7F5A4E89D640F7E7cebA4499",
+ "Symbol": "MSQ",
+ "Explorer": "https://polygonscan.com/token/0x6A8Ec2d9BfBDD20A7F5A4E89D640F7E7cebA4499",
+ "Research": "https://cryptocompare.com/coins/msq/overview",
+ "Description": "Barriers to entry have been torn down by systems of payment at home and abroad, making it a platform for new real-world cryptocurrency.Telegram | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x6A8Ec2d9BfBDD20A7F5A4E89D640F7E7cebA4499",
+ "Decimals": 8
+}

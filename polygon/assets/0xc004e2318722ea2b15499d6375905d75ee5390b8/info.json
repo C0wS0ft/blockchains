@@ -1,0 +1,12 @@
+{
+ "Name": "Kommunitas",
+ "ImageUrl": "/media/39501111/kom.png",
+ "SmartContract": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+ "Symbol": "KOM",
+ "Explorer": "https://polygonscan.com/token/0xc004e2318722ea2b15499d6375905d75ee5390b8",
+ "Research": "https://cryptocompare.com/coins/kom/overview",
+ "Description": "Kommunitas is a decentralized and tier-less Launchpad. It is a solution for Multi Chain oriented projects, welcoming projects from various blockchains like Polygon, BSC, Ethereum, Avalance, Solana, etc.The community of $KOM will vote and determine which project will be or will not be launched on Kommunitas platform.Telegram | Discord | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+ "Decimals": 8
+}

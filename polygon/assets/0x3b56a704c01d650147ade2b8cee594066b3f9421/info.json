@@ -1,0 +1,12 @@
+{
+ "Name": "Affyn",
+ "ImageUrl": "/media/40124875/fyn.png",
+ "SmartContract": "0x3b56a704c01d650147ade2b8cee594066b3f9421",
+ "Symbol": "FYN",
+ "Explorer": "https://polygonscan.com/token/0x3b56a704c01d650147ade2b8cee594066b3f9421",
+ "Research": "https://cryptocompare.com/coins/fyn/overview",
+ "Description": "A Play-to-Earn metaverse that allows players to start playing and earning without an initial fee.Telegram | Discord | Reddit | Medium | LinkedIn | Facebook | InstagramWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x3b56a704c01d650147ade2b8cee594066b3f9421",
+ "Decimals": 8
+}

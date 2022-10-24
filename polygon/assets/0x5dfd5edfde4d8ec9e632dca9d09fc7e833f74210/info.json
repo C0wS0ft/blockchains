@@ -1,0 +1,12 @@
+{
+ "Name": "Infinity Skies",
+ "ImageUrl": "/media/40219275/isky.png",
+ "SmartContract": "0x5DFD5edFde4d8EC9e632dCA9d09Fc7E833f74210",
+ "Symbol": "ISKY",
+ "Explorer": "https://polygonscan.com/token/0x5DFD5edFde4d8EC9e632dCA9d09Fc7E833f74210",
+ "Research": "https://cryptocompare.com/coins/isky/overview",
+ "Description": "DreamFuel Games aspires to bring innovation and creativity to the industry, by merging decentralized finance with traditional video games. Infinity Skies is a game of the sandbox genre, where people are able to set their own short-term and long-term goals.Telegram | Discord | RedditWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x5DFD5edFde4d8EC9e632dCA9d09Fc7E833f74210",
+ "Decimals": 8
+}

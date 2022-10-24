@@ -1,0 +1,12 @@
+{
+ "Name": "Finance Vote",
+ "ImageUrl": "/media/43607669/fvt.png",
+ "SmartContract": "0x45080a6531d671ddff20db42f93792a489685e32",
+ "Symbol": "FVT",
+ "Explorer": "https://polygonscan.com/token/0x45080a6531d671ddff20db42f93792a489685e32",
+ "Research": "https://cryptocompare.com/coins/fvt/overview",
+ "Description": "finance.vote is a decentralised autonomous organisation (DAO) that builds software (smart contracts and browser interfaces). This software enables users to easily generate a token economy and govern themselves as a DAO. Members of finance.vote use this software and the utility token FVT (finance.vote Token) to operate and govern finance.vote.Telegram | Discord | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x45080a6531d671ddff20db42f93792a489685e32",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "ARTH",
+ "ImageUrl": "/media/40485171/arth.png",
+ "SmartContract": "0x8CC0F052fff7eaD7f2EdCCcaC895502E884a8a71",
+ "Symbol": "ARTH",
+ "Explorer": "https://polygonscan.com/token/0x8CC0F052fff7eaD7f2EdCCcaC895502E884a8a71",
+ "Research": "https://cryptocompare.com/coins/arth/overview",
+ "Description": "ARTH is a decentralized non-depreciating algorithmic form of currency, that ensures stability in buying power over time as opposed to stability in price.The ARTH Valuecoin ecosystem will be implemented systematically over two well-planned phases. Phase 1 is intended to posit the concept and lineup of the preliminary components in order to test the model. Phase 2 on the other hand, will build on the former to ensure that the ecosystem is viable, stable, and sound, ready for mass adoption.Telegram | Discord | MediumDocs",
+ "Type": "PRC20",
+ "Id": "0x8CC0F052fff7eaD7f2EdCCcaC895502E884a8a71",
+ "Decimals": 8
+}

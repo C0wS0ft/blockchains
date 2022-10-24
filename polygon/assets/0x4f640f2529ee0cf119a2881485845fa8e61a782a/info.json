@@ -1,0 +1,12 @@
+{
+ "Name": "Open Rights Exchange",
+ "ImageUrl": "/media/39501244/openri.png",
+ "SmartContract": "0x4f640F2529ee0cF119A2881485845FA8e61A782A",
+ "Symbol": "OPENRI",
+ "Explorer": "https://polygonscan.com/token/0x4f640F2529ee0cF119A2881485845FA8e61A782A",
+ "Research": "https://cryptocompare.com/coins/openri/overview",
+ "Description": "The Open Rights Exchange (ORE) blockchain is built for decentralized identities, assets and rights.ORE works cross-chain with Ethereum, Algorand, EOS and more to connect Web 2.0 identities to Web 3.0 — allowing everyone, everywhere to use blockchain technology.The native cryptographically-secured fungible protocol token of the ORE Protocol (ORE Token) is a transferable representation of attributed governance and utility functions specified in the protocol/code of the ORE Protocol, and which is designed to be used solely as an interoperable utility token thereon.The official Open Rights Exchange ticker is “ORE” and trades under that name on all the exchanges where it has been listed. The designation “OPENRI” is for CryptoCompare.com only.Telegram | MediumWhitepaper",
+ "Type": "PRC20",
+ "Id": "0x4f640F2529ee0cF119A2881485845FA8e61A782A",
+ "Decimals": 8
+}

@@ -1,0 +1,12 @@
+{
+ "Name": "Giddy",
+ "ImageUrl": "/media/40219402/gddy.png",
+ "SmartContract": "0x67eB41A14C0fe5CD701FC9d5A3D6597A72F641a6",
+ "Symbol": "GDDY",
+ "Explorer": "https://polygonscan.com/token/0x67eB41A14C0fe5CD701FC9d5A3D6597A72F641a6",
+ "Research": "https://cryptocompare.com/coins/gddy/overview",
+ "Description": "Giddy is an app created to earn passive income on the blockchain. Giddy is focused on growing and adapting with the ever-changing regulatory landscape to keep investors and their funds within the bounds of current financial regulation.Discord | Reddit | InstagramLitepaper",
+ "Type": "PRC20",
+ "Id": "0x67eB41A14C0fe5CD701FC9d5A3D6597A72F641a6",
+ "Decimals": 8
+}

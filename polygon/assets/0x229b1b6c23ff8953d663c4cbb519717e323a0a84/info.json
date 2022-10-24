@@ -1,0 +1,12 @@
+{
+ "Name": "Bloktopia",
+ "ImageUrl": "/media/40043895/blok.png",
+ "SmartContract": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
+ "Symbol": "BLOK",
+ "Explorer": "https://polygonscan.com/token/0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
+ "Research": "https://cryptocompare.com/coins/blok/overview",
+ "Description": "Bloktopia is a Skyscraper made up of 21 levels to pay recognition to 21 million Bitcoin. Token holders will be known as Bloktopians. It will act as a central hub and welcome all levels of crypto experience. Users will have access to crypto information and immersive content all in one place. Bloktopians will be able to earn revenue through real estate ownership, advertising revenue, play games, build networks and much more.Telegram | Medium",
+ "Type": "PRC20",
+ "Id": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
+ "Decimals": 8
+}
